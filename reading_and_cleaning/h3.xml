@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://h3h3roost.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>H3 Podcast</title>
+		<pubDate>Fri, 30 Mar 2018 01:27:41 +0000</pubDate>
+		<lastBuildDate>Sun, 01 Apr 2018 16:02:00 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://www.h3h3productions.com/</link>
+		<language>en-us</language>
+		<copyright><![CDATA[Copyright 2017 H3 Podcast]]></copyright>
+		<docs>http://www.h3h3productions.com/</docs>
+		<managingEditor>podcast@h3h3productions.com (podcast@h3h3productions.com)</managingEditor>
+		<itunes:summary><![CDATA[The official podcast of comedians Ethan & Hila Klein of h3h3productions.]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png</url>
+			<title>H3 Podcast</title>
+			<link><![CDATA[http://www.h3h3productions.com/]]></link>
+		</image>
+		<itunes:author>Ethan Klein</itunes:author>
+		<itunes:keywords>comedy,entertainment,ethan,ethanklein,h3,h3h3,h3h3productions,h3podcast,hila,hilaklein,interview,klein</itunes:keywords>
+		<itunes:category text="Comedy"/>
+		<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Ethan Klein]]></itunes:name>
+			<itunes:email>podcast@h3h3productions.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[The official podcast of comedians Ethan & Hila Klein of h3h3productions.]]></description>
+		<itunes:subtitle><![CDATA[H3 Podcast hosted by Ethan Klein]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<!-- START CHANNEL EXTRA TAGS -->
+<itunes:new-feed-url>http://h3h3roost.libsyn.com/rss</itunes:new-feed-url><!-- CLOSE CHANNEL EXTRA TAGS -->
+		<item>
+			<title>#59 - Deadmau5</title>
+			<pubDate>Fri, 30 Mar 2018 01:27:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[00cb26130f699ca455dd45de7e685508]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/59-deadmau5]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we are joined by Joel Zimmerman aka Deadmau5! Together we discuss his new orchestral album "Where's The Drop?", near death experiences, the state of EDM, and beefing on twitter. Joel (not George) is a legendary DJ, producer, label head and entrepreneur. His new album, "Where's The Drop?", is out March 30th as a timed exclusive on Tidal.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we are joined by Joel Zimmerman aka Deadmau5! Together we discuss his new orchestral album "Where's The Drop?", near death experiences, the state of EDM, and beefing on twitter. Joel (not George) is a legendary DJ, producer, label head and entrepreneur. His new album, "Where's The Drop?", is out March 30th as a timed exclusive on Tidal.</p>]]></content:encoded>
+			<enclosure length="147250077" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Deadmau5_AUDIO_-_29_March_2018_-_02-46-02_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:42:15</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we are joined by Joel Zimmerman aka Deadmau5! Together we discuss his new orchestral album "Where's The Drop?", near death experiences, the state of EDM, and beefing on twitter. Joel (not George) is a legendary DJ,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#58 - Sean Evans of Hot Ones</title>
+			<pubDate>Tue, 27 Mar 2018 05:23:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f1e6eb81bf12f7bd1c417b6608961f2f]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/58-sean-evans-of-hot-ones-0]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;">On this episode of The H3 Podcast we are joined by the host of the smash hit series Hot Ones- Sean Evans! Together we discuss how he prepares for his interviews, Taco Gate, tragic guests, his iron-clad b-hole, and the whole H3 Podcast crew tries the spiciest hot sauce in the world- The Last Dab with Pepper-X!</p>]]></description>
+			<content:encoded><![CDATA[<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;">On this episode of The H3 Podcast we are joined by the host of the smash hit series Hot Ones- Sean Evans! Together we discuss how he prepares for his interviews, Taco Gate, tragic guests, his iron-clad b-hole, and the whole H3 Podcast crew tries the spiciest hot sauce in the world- The Last Dab with Pepper-X!</p>]]></content:encoded>
+			<enclosure length="159439816" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Sean_Evans_AUDIO_-_24_March_2018_-_02-59-00_PM_1.mp3?dest-id=556650" />
+			<itunes:duration>01:50:43</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we are joined by the host of the smash hit series Hot Ones- Sean Evans! Together we discuss how he prepares for his interviews, Taco Gate, tragic guests, his iron-clad b-hole, and the whole H3 Podcast crew tries the...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#57 - Bob Saget</title>
+			<pubDate>Sat, 17 Mar 2018 00:42:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[80e21f6120d7310d0aacc40a53e05f24]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/57-bob-saget]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we are joined by legendary comedian/host/actor Bob Saget! Together we discuss poop particles, Don Rickles, camels, bottom bitches, and what Bob was up to in 1990. Bob Saget is best known for his role as Danny Tanner on Full House but is oh so much more.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we are joined by legendary comedian/host/actor Bob Saget! Together we discuss poop particles, Don Rickles, camels, bottom bitches, and what Bob was up to in 1990. Bob Saget is best known for his role as Danny Tanner on Full House but is oh so much more.</p>]]></content:encoded>
+			<enclosure length="113105374" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Bob_Saget_AUDIO_-_16_March_2018_-_02-50-55_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:18:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we are joined by legendary comedian/host/actor Bob Saget! Together we discuss poop particles, Don Rickles, camels, bottom bitches, and what Bob was up to in 1990. Bob Saget is best known for his role as Danny Tanner...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#56 - Post Malone Live From The Improv</title>
+			<pubDate>Thu, 15 Mar 2018 23:57:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[368e2891275ca6ea72a0e72b06bf5b55]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/56-post-malone-live-from-the-improv]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Rap god and friend of the show Post Malone joins us for our first episode done live in front of an audience! We sit down at the legendary Hollywood Improv for some old fashion goofs gaffs and even a few splaffs.</p>]]></description>
+			<content:encoded><![CDATA[<p>Rap god and friend of the show Post Malone joins us for our first episode done live in front of an audience! We sit down at the legendary Hollywood Improv for some old fashion goofs gaffs and even a few splaffs.</p>]]></content:encoded>
+			<enclosure length="118273734" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcat_Live_At_The_Improv_AUDIO.mp3?dest-id=556650" />
+			<itunes:duration>01:22:08</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Rap god and friend of the show Post Malone joins us for our first episode done live in front of an audience! We sit down at the legendary Hollywood Improv for some old fashion goofs gaffs and even a few splaffs.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#55 - How To Save a Life</title>
+			<pubDate>Tue, 13 Mar 2018 00:49:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6a5c5b9b4853268645c21d30eb26a558]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/55-chris-and-dillon-of-one-list-one-life]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this special episode of The H3 Podcast Ethan and Hila are joined by a brave young man named Chris Betancourt and his best friend Dillon Hill. Chris has been diagnosed with a rare form of leukemia and was given one year to live. So he and Dillon set out on a mission to check off as many items from his bucket list as they can. One item was to meet Ethan- another was to meet Philip DeFranco. On this episode of The H3 Podcast, he does both! We are humbled by Chris's story and his attitude and humor in the face of death and it was a pleasure to have him on the podcast.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this special episode of The H3 Podcast Ethan and Hila are joined by a brave young man named Chris Betancourt and his best friend Dillon Hill. Chris has been diagnosed with a rare form of leukemia and was given one year to live. So he and Dillon set out on a mission to check off as many items from his bucket list as they can. One item was to meet Ethan- another was to meet Philip DeFranco. On this episode of The H3 Podcast, he does both! We are humbled by Chris's story and his attitude and humor in the face of death and it was a pleasure to have him on the podcast.</p>]]></content:encoded>
+			<enclosure length="53774523" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Chris_and_Dillon_AUDIO_12_March_2018_-_02-50-39_PM.mp3?dest-id=556650" />
+			<itunes:duration>56:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this special episode of The H3 Podcast Ethan and Hila are joined by a brave young man named Chris Betancourt and his best friend Dillon Hill. Chris has been diagnosed with a rare form of leukemia and was given one year to live. So he and Dillon set...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#54 - Vsauce3 (Jake Roper)</title>
+			<pubDate>Sat, 10 Mar 2018 02:32:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[24ea3cb2d0f9abcc54e7b3a32da2b91d]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/54-vsauce3-jake-roper]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we are joined by the illustrious Jake Roper, aka Vsauce3! We cover the creative process, Beme, space travel, and of course- sounding. Jake Roper aka Vsauce 3 is a YouTuber and director who makes fascinating videos exploring science, technology, and fictional worlds.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we are joined by the illustrious Jake Roper, aka Vsauce3! We cover the creative process, Beme, space travel, and of course- sounding. Jake Roper aka Vsauce 3 is a YouTuber and director who makes fascinating videos exploring science, technology, and fictional worlds.</p>]]></content:encoded>
+			<enclosure length="100517029" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Vsauce3_Jake_Roper_ADUIO_-_09_March_2018_-_02-29-34_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:44:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we are joined by the illustrious Jake Roper, aka Vsauce3! We cover the creative process, Beme, space travel, and of course- sounding. Jake Roper aka Vsauce 3 is a YouTuber and director who makes fascinating videos...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#53 - Top Of The Week With Ian Hecox</title>
+			<pubDate>Mon, 05 Mar 2018 06:53:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ad882de1a7ee71848c825d2e55ca0a82]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/53-top-of-the-week-with-ian-hecox-0]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we're joined by Ian Hecox of Smosh for another round of Top Of The Week! Together we discuss Papa John's fall from grace, Barbara Streisand cloning her dog, and the threat of thermonuclear annihilation! Ian Hecox is the co-creator of the sketch comedy YouTube channel Smosh.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we're joined by Ian Hecox of Smosh for another round of Top Of The Week! Together we discuss Papa John's fall from grace, Barbara Streisand cloning her dog, and the threat of thermonuclear annihilation! Ian Hecox is the co-creator of the sketch comedy YouTube channel Smosh.</p>]]></content:encoded>
+			<enclosure length="161441084" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Top_Of_The_Week_With_Ian_Hecox_-_02_March_2018_-_03-02-05_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:14:32</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we're joined by Ian Hecox of Smosh for another round of Top Of The Week! Together we discuss Papa John's fall from grace, Barbara Streisand cloning her dog, and the threat of thermonuclear annihilation! Ian Hecox is...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#52 - Shane Dawson</title>
+			<pubDate>Sat, 24 Feb 2018 02:38:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0b4ccd9735f2c1aa1fffdacced69544a]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/52-shane-dawson]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we're joined by OG YouTuber Shane Dawson to discuss conspiracy theories, ghost stories, body image and much more! Shane Dawson is an actor, singer, film director and YouTuber who has been active since 2008.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we're joined by OG YouTuber Shane Dawson to discuss conspiracy theories, ghost stories, body image and much more! Shane Dawson is an actor, singer, film director and YouTuber who has been active since 2008.</p>]]></content:encoded>
+			<enclosure length="149961749" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Shane_Dawson_AUDIO_-_23_February_2018_-_03-28-58_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:04:58</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we're joined by OG YouTuber Shane Dawson to discuss conspiracy theories, ghost stories, body image and much more! Shane Dawson is an actor, singer, film director and YouTuber who has been active since 2008.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#51 - Rhett And Link (Good Mythical Morning)</title>
+			<pubDate>Fri, 16 Feb 2018 06:12:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[610aaba780986c9c0b28ebadf5e6daff]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/51-rhett-and-link]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast Ethan and Hila are joined by Rhett and Link! Together they discuss local commercials, hot peppers, and playing the YouTube game. Rhett and Link are the creators and stars of Good Mythical Morning, Buddy System, and Earbiscuits.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast Ethan and Hila are joined by Rhett and Link! Together they discuss local commercials, hot peppers, and playing the YouTube game. Rhett and Link are the creators and stars of Good Mythical Morning, Buddy System, and Earbiscuits.</p>]]></content:encoded>
+			<enclosure length="153593278" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Rhett_and_Link_AUDIO_-_15_February_2018_-_06-52-09_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:07:59</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast Ethan and Hila are joined by Rhett and Link! Together they discuss local commercials, hot peppers, and playing the YouTube game. Rhett and Link are the creators and stars of Good Mythical Morning, Buddy System,...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#50 - Logan Paul Demonetized &amp; Idiot YouTuber's Channel Erased</title>
+			<pubDate>Wed, 14 Feb 2018 04:11:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[40a8d71318031167b1652575fac40e85]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/50-top-of-the-week]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Ethan and Hila are joined by Zach aka Psychicpebbles to discuss Logan Paul's corpse desecration, acid attack pranks, Ethan Slamberry, and, of course, Elon Musk in the latest edition of Top Of The Month!</p>]]></description>
+			<content:encoded><![CDATA[<p>Ethan and Hila are joined by Zach aka Psychicpebbles to discuss Logan Paul's corpse desecration, acid attack pranks, Ethan Slamberry, and, of course, Elon Musk in the latest edition of Top Of The Month!</p>]]></content:encoded>
+			<enclosure length="139119183" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Top_Of_The_Week_-_AUDIO_-_09_February_2018_-_02-49-54_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:55:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Ethan and Hila are joined by Zach aka Psychicpebbles to discuss Logan Paul's corpse desecration, acid attack pranks, Ethan Slamberry, and, of course, Elon Musk in the latest edition of Top Of The Month!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#49 - Captain Disillusion</title>
+			<pubDate>Sat, 10 Feb 2018 03:40:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5f4bdc72c0a61009db1324b2fcecc458]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/49-captain-disillusion]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we are joined by the hero of skeptics around the world- Captain Disillusion! We discuss how to sort reality from fiction, deepfakes, and we take a call from an angry Logan Paul fan. Captain Disillusion, aka Alan Melikdjanian, is a very talented YouTube content creator who puts out videos that deconstruct fake videos and memes.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we are joined by the hero of skeptics around the world- Captain Disillusion! We discuss how to sort reality from fiction, deepfakes, and we take a call from an angry Logan Paul fan. Captain Disillusion, aka Alan Melikdjanian, is a very talented YouTube content creator who puts out videos that deconstruct fake videos and memes.</p>]]></content:encoded>
+			<enclosure length="149911654" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_with_Captain_Disillusion_AUDIO_-_09_February_2018_-_02-49-54_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:04:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we are joined by the hero of skeptics around the world- Captain Disillusion! We discuss how to sort reality from fiction, deepfakes, and we take a call from an angry Logan Paul fan. Captain Disillusion, aka Alan...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#48 - Jordan Peterson</title>
+			<pubDate>Fri, 02 Feb 2018 03:32:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[32d55a7a89e128e5b2cd4ccbb7d2d76b]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/48-jordan-peterson]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jordan Peterson joins us once again on The H3 Podcast for a FASCINATING conversation about ethics, his recent Channel 4 interview, and to discuss his new book, 12 Rules for Life: An Antidote to Chaos. Jordan Peterson is a clinical psychologist at the University of Toronto and an outspoken critic of radical politics and political correctness.</p>]]></description>
+			<content:encoded><![CDATA[<p>Jordan Peterson joins us once again on The H3 Podcast for a FASCINATING conversation about ethics, his recent Channel 4 interview, and to discuss his new book, 12 Rules for Life: An Antidote to Chaos. Jordan Peterson is a clinical psychologist at the University of Toronto and an outspoken critic of radical politics and political correctness.</p>]]></content:encoded>
+			<enclosure length="206830215" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Jordan_Peterson_Number_2_AUDIO_01_February_2018_-_02-48-54_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:23:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jordan Peterson joins us once again on The H3 Podcast for a FASCINATING conversation about ethics, his recent Channel 4 interview, and to discuss his new book, 12 Rules for Life: An Antidote to Chaos. Jordan Peterson is a clinical psychologist at the...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#47 - MKBHD (Marques Brownlee)</title>
+			<pubDate>Thu, 25 Jan 2018 06:23:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[27f4f483ec0a2ee70098067defb27a8c]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/47-marques-brownlee]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Marques Brownlee aka MKBHD joins us on The H3 Podcast to discuss tech, Tesla, and total annihilation by our AI overlords. Marques is YouTube's leading tech reviewer and journalist with nearly 6 million subscribers. </p>]]></description>
+			<content:encoded><![CDATA[<p>Marques Brownlee aka MKBHD joins us on The H3 Podcast to discuss tech, Tesla, and total annihilation by our AI overlords. Marques is YouTube's leading tech reviewer and journalist with nearly 6 million subscribers. </p>]]></content:encoded>
+			<enclosure length="80702596" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Marques_Brownlee_AUDIO_-_24_January_2018_-_06-52-06_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:24:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Marques Brownlee aka MKBHD joins us on The H3 Podcast to discuss tech, Tesla, and total annihilation by our AI overlords. Marques is YouTube's leading tech reviewer and journalist with nearly 6 million subscribers. ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#46 - Jacksfilms and Erik of Internet Comment Etiquette</title>
+			<pubDate>Sat, 20 Jan 2018 03:47:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[de9f42fc11a031c5ea4b37d099c0581a]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/jack-and-erik]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Erik and Jack return for the first show of 2018! The gang discuss Pitbull, The Pauls, Bugchasing, and take a call from President Donald Trump!</p>]]></description>
+			<content:encoded><![CDATA[<p>Erik and Jack return for the first show of 2018! The gang discuss Pitbull, The Pauls, Bugchasing, and take a call from President Donald Trump!</p>]]></content:encoded>
+			<enclosure length="164708087" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Jacksfilms_and_Erik_ICE_AUDIO__-_19_January_2018_-_02-51-46_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:17:15</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Erik and Jack return for the first show of 2018! The gang discuss Pitbull, The Pauls, Bugchasing, and take a call from President Donald Trump!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#45 - Jake &amp; Logan Paul's Predatory Merch Machine</title>
+			<pubDate>Sat, 30 Dec 2017 01:50:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d2ee65d55aca5a7ddd260411c086c7b6]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/46-jake-and-logan-paul-merch-machine]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>On this episode of The H3 Podcast we examine in detail the unstoppable juggernaut that is the Paul brother's merch machine. Link in bio!</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of The H3 Podcast we examine in detail the unstoppable juggernaut that is the Paul brother's merch machine. Link in bio!</p>]]></content:encoded>
+			<enclosure length="111841969" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Jake_and_Logan_Paul_Merch_AUDIO_29_December_2017_-_02-54-44_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:17:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of The H3 Podcast we examine in detail the unstoppable juggernaut that is the Paul brother's merch machine. Link in bio!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#44 - PUBG Creator Brendan Greene</title>
+			<pubDate>Thu, 21 Dec 2017 02:21:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[40f5c4217b0c8bd81bfa6d6a2a3e8c0c]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/44-playerunknown-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Creator of the wildly popular PUBG comes on to talk about everything!</p>]]></description>
+			<content:encoded><![CDATA[<p>Creator of the wildly popular PUBG comes on to talk about everything!</p>]]></content:encoded>
+			<enclosure length="155241014" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_PLAYERUNKNOWN_AUDIO_-_20_December_2017_-_02-35-59_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:47:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Creator of the wildly popular PUBG comes on to talk about everything!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#43 - Vsauce</title>
+			<pubDate>Sat, 16 Dec 2017 03:40:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0036d13ebba5d5674a8b75cf92316bef]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/43-vsauce-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Thanks so much to Vsauce for comin and slammin with us!</p>]]></description>
+			<content:encoded><![CDATA[<p>Thanks so much to Vsauce for comin and slammin with us!</p>]]></content:encoded>
+			<enclosure length="133990250" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Vsauce_AUDIO_-_15_December_2017_-_02-54-30_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:19:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Thanks so much to Vsauce for comin and slammin with us!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#42 - Philip DeFranco</title>
+			<pubDate>Sat, 09 Dec 2017 03:26:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fd144dc3b647eeb8ea415755230360af]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/42-philip-defranco-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Philip DeFranco joins us to discuss EVERYTHING!</p>]]></description>
+			<content:encoded><![CDATA[<p>Philip DeFranco joins us to discuss EVERYTHING!</p>]]></content:encoded>
+			<enclosure length="148502416" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Philip_DeFranco_2_AUDIO_-_08_December_2017_-_02-50-24_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:03:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Philip DeFranco joins us to discuss EVERYTHING!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#41 - JonTron</title>
+			<pubDate>Thu, 30 Nov 2017 04:23:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[762f4bab91ba11cee376b024ac8622ff]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/41-jontron-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Thanks to JONTRON for coming and talking about EVERYTHING!</p>]]></description>
+			<content:encoded><![CDATA[<p>Thanks to JONTRON for coming and talking about EVERYTHING!</p>]]></content:encoded>
+			<enclosure length="137769612" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_JonTron_AUDIO_-_29_November_2017_-_03-10-50_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:54:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Thanks to JONTRON for coming and talking about EVERYTHING!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#40 - The Madness of Black Friday </title>
+			<pubDate>Sat, 25 Nov 2017 03:12:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[38aa6608e05c99eb4cabab89b49301df]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/40-black-friday]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>The madness and mayhem of black friday, stomp on a babies face to save $10 on a rice cooker.</p>]]></description>
+			<content:encoded><![CDATA[<p>The madness and mayhem of black friday, stomp on a babies face to save $10 on a rice cooker.</p>]]></content:encoded>
+			<enclosure length="126447581" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Black_Friday_AUDIO_-_24_November_2017_-_02-49-55_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:27:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The madness and mayhem of black friday, stomp on a babies face to save $10 on a rice cooker.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#39 - Post Malone </title>
+			<pubDate>Sat, 18 Nov 2017 07:52:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a4d7578916d78a5fadaebc8c7d4c7ee0]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/39-post-malone-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<enclosure length="151629309" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Top_of_the_Month_with_Post_Malone_AUDIO_-_17_November_2017_-_02-59-54_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:37:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#38 - Hila Klein</title>
+			<pubDate>Sat, 11 Nov 2017 04:11:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[35e28cdc4568dd391d8451dea2de9060]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/38-hila-klein-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Thanks to the original HILA KLEINER for slammin with us </p>]]></description>
+			<content:encoded><![CDATA[<p>Thanks to the original HILA KLEINER for slammin with us </p>]]></content:encoded>
+			<enclosure length="133952834" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Hila_Klein_AUDIO_-_10_November_2017_-_03-01-41_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:33:01</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Thanks to the original HILA KLEINER for slammin with us ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#37 - Jordan Peterson</title>
+			<pubDate>Fri, 03 Nov 2017 05:24:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[96fe0db83dc37d3aec3f9ba844600490]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/37-jordan-peterson-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jordan Peterson joins us to today to discuss EVERYTHING!</p>]]></description>
+			<content:encoded><![CDATA[<p>Jordan Peterson joins us to today to discuss EVERYTHING!</p>]]></content:encoded>
+			<enclosure length="131826328" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Jordan_Peterson_AUDIO_ONLY_-_02_November_2017_-_02-53-00_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:17:19</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jordan Peterson joins us to today to discuss EVERYTHING!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#36 - Dr Disrespect</title>
+			<pubDate>Sat, 28 Oct 2017 02:08:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d617e15f2fc4a9fe169956eac7a3e6aa]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/36-dr-disrespect-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>The Prolific twitch streamer known as Dr Disrespect joins us today to talk about EVERYTHING!</p>]]></description>
+			<content:encoded><![CDATA[<p>The Prolific twitch streamer known as Dr Disrespect joins us today to talk about EVERYTHING!</p>]]></content:encoded>
+			<enclosure length="123681758" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Dr_Disrespect_AUDIO_-_27_October_2017_-_03-12-38_PM_1.mp3?dest-id=556650" />
+			<itunes:duration>01:25:53</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The Prolific twitch streamer known as Dr Disrespect joins us today to talk about EVERYTHING!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#35 - TotalBiscuit </title>
+			<pubDate>Sat, 21 Oct 2017 08:46:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e5e40f3c49ec3369969840b165580284]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/35-total-biscuit-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>TotalBiscuit joins us to discuss video games, esports, cancer & more.</p>]]></description>
+			<content:encoded><![CDATA[<p>TotalBiscuit joins us to discuss video games, esports, cancer & more.</p>]]></content:encoded>
+			<enclosure length="196948915" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_TB_AUDIO_VERSION_20_October_2017_-_03-00-33_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:16:46</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[TotalBiscuit joins us to discuss video games, esports, cancer & more.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#34 - VideoGameDunkey and Leah</title>
+			<pubDate>Wed, 11 Oct 2017 05:50:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ed8e07a961d7347c79fa3a04d09c7645]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/34-dunkey-and-leah-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>The great DUNKEY AND LEAH join us to talk about everything!</p>]]></description>
+			<content:encoded><![CDATA[<p>The great DUNKEY AND LEAH join us to talk about everything!</p>]]></content:encoded>
+			<enclosure length="106058552" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Dunkey_and_Leah_AUDIO_10_October_2017_-_03-05-40_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:50:28</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The great DUNKEY AND LEAH join us to talk about everything!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#33 - Tai Lopez</title>
+			<pubDate>Wed, 04 Oct 2017 02:47:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[912241c276df51cb9355f952714ccfaf]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/33-h3-podcast-tai-lopez-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Tai Lopez joins us outside of his garage to chat.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tai Lopez joins us outside of his garage to chat.</p>]]></content:encoded>
+			<enclosure length="107156723" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Tai_Lopez_Audio_-_03_October_2017_-_02-53-34_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:51:37</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tai Lopez joins us outside of his garage to chat.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#32 - Moe &amp; Ethan Bradberry</title>
+			<pubDate>Sat, 30 Sep 2017 16:55:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d35fd0a3bac469ee7f82e59d2863a305]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/32-moe-ethan-bradberry]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>It's finally happening, the bradberry boys are in the house. </p>]]></description>
+			<content:encoded><![CDATA[<p>It's finally happening, the bradberry boys are in the house. </p>]]></content:encoded>
+			<enclosure length="121234705" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Bradberry_AUDIO_-_29_September_2017_-_02-59-24_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:24:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It's finally happening, the bradberry boys are in the house. ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#31 - Streamer finds my parents in Spain, Who is Wendy Williams? Payday 2 DLC</title>
+			<pubDate>Wed, 27 Sep 2017 08:04:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7e9f60313687ddb3d3983239a0a2d539]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/31-h3-podcast-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<enclosure length="113306648" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Top_Of_The_Week_and_Payday_AUDIO_-_26_September_2017_-_02-50-04_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:18:41</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#30 - Responding To The Drama + Hila Calls In &amp; More! (Top of the Week)</title>
+			<pubDate>Sat, 23 Sep 2017 07:58:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8def4fe5d7294b86904be072c6bbcae7]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/30-h3-podcast-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Lots to talk about</p>]]></description>
+			<content:encoded><![CDATA[<p>Lots to talk about</p>]]></content:encoded>
+			<enclosure length="97387228" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_AUDIO_Ethan_Solo_-_22_September_2017_-_02-40-44_PM.mp3?dest-id=556650" />
+			<itunes:duration>01:41:24</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Lots to talk about]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#29 Jackfilms &amp; Erik of Internet Comment Etiquette</title>
+			<pubDate>Sat, 16 Sep 2017 18:33:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[afa20d45132145dd6ed57edbca417a55]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/29-jack-and-erik-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jackfilms and Erik from Internet Comment Etiquette join us once again to talk about EVERYTHING!</p>]]></description>
+			<content:encoded><![CDATA[<p>Jackfilms and Erik from Internet Comment Etiquette join us once again to talk about EVERYTHING!</p>]]></content:encoded>
+			<enclosure length="176696336" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Jack_and_Erik_Audio_-_15_September_2017_-_02-49-41_PM_1.mp3?dest-id=556650" />
+			<itunes:duration>04:05:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jackfilms and Erik from Internet Comment Etiquette join us once again to talk about EVERYTHING!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#28 - PewDiePie Drops the "N" Bomb (Top Of The Week)</title>
+			<pubDate>Wed, 13 Sep 2017 02:14:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fa3d82d9d1285ba3cf182abbe9bcd484]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/28-pewdiepie-draft-upload]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Pewdiepie gets into hot water yet again. </p>]]></description>
+			<content:encoded><![CDATA[<p>Pewdiepie gets into hot water yet again. </p>]]></content:encoded>
+			<enclosure length="112598228" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/PewDiePie_Drops_The_N_Bomb_AUDIO_EXPORT_-_12_September_2017_-_02-49-07_PM_1.mp3?dest-id=556650" />
+			<itunes:duration>01:18:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Pewdiepie gets into hot water yet again. ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#27 - We Raised $170,000! + Shoenice Hates Us</title>
+			<pubDate>Sat, 09 Sep 2017 07:18:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d28f780d57c37d6f95d714e367a17946]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/27-draft]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Following up with our charity stream and getting cursed by shoenice.</p>]]></description>
+			<content:encoded><![CDATA[<p>Following up with our charity stream and getting cursed by shoenice.</p>]]></content:encoded>
+			<enclosure length="100187671" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_Audio_Export-_08_September_2017_-_02-35-07_PM_1.mp3?dest-id=556650" />
+			<itunes:duration>01:44:21</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Following up with our charity stream and getting cursed by shoenice.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#26 - Justin Roiland &amp; Alex Hirsch Charity Special</title>
+			<pubDate>Wed, 06 Sep 2017 22:58:19 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e5af485b0ba4caa31fabb2e6d002ab07]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/26-justin-roiland-alex-hirsch-charity-special]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>We prank call Joel Osteen's Mega Church as Rick Sachenz and pepper spray Joey Salads in the face, all in the name of charity. </p>]]></description>
+			<content:encoded><![CDATA[<p>We prank call Joel Osteen's Mega Church as Rick Sachenz and pepper spray Joey Salads in the face, all in the name of charity. </p>]]></content:encoded>
+			<enclosure length="315189181" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Charity_Fundraiser_-_05_September_2017_-_02-39-14_PM.mp3?dest-id=556650" />
+			<itunes:duration>05:28:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We prank call Joel Osteen's Mega Church as Rick Sachenz and pepper spray Joey Salads in the face, all in the name of charity. ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#25 Jenna Marbles and Julien Solomita</title>
+			<pubDate>Sun, 03 Sep 2017 18:44:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e0108c7781e1242616e92f98860d0e8e]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/24-h3-podcast-jenna-marbles-and-julien-solomita]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jenna Marbles & Julien Solomita join us today to discuss aliens, conspiracies and everything else! </p>]]></description>
+			<content:encoded><![CDATA[<p>Jenna Marbles & Julien Solomita join us today to discuss aliens, conspiracies and everything else! </p>]]></content:encoded>
+			<enclosure length="98311135" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_PODCAST_AUDIO_EXPORT_9-1-17_v3.mp3?dest-id=556650" />
+			<itunes:duration>01:42:24</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jenna Marbles & Julien Solomita join us today to discuss aliens, conspiracies and everything else! ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#24 We Won The Lawsuit! &amp; Skippy Gets Dating Advice from Ryan Jaunzemis </title>
+			<itunes:title>We Won the Lawsuit!</itunes:title>
+			<pubDate>Sun, 27 Aug 2017 21:54:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2163baa39b25a1bb25f8260004ae1d1f]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/24-skippy-and-ryan]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>We WON! Now we discuss what happens next -- What happens if Matt appeals, and should we counter-sue for attorneys fees? ALSO:We get Skippy the Virgin on the phone with Ryan Juanzemis to receive dating advice. </p>]]></description>
+			<content:encoded><![CDATA[<p>We WON! Now we discuss what happens next -- What happens if Matt appeals, and should we counter-sue for attorneys fees? ALSO:We get Skippy the Virgin on the phone with Ryan Juanzemis to receive dating advice. </p>]]></content:encoded>
+			<enclosure length="84964661" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_PODCAST_AUDIO_EXPORT_8-24-17.mp3?dest-id=556650" />
+			<itunes:duration>01:28:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We WON! Now we discuss what happens next -- What happens if Matt appeals, and should we counter-sue for attorneys fees? ALSO:We get Skippy the Virgin on the phone with Ryan Juanzemis to receive dating advice. ]]></itunes:subtitle>
+			<itunes:summary>We WON! Now we discuss what happens next -- What happens if Matt appeals, and should we counter-sue for attorneys fees? ALSO:We get Skippy the Virgin on the phone with Ryan Juanzemis to receive dating advice. </itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>h3h3productions</itunes:author>
+					</item>
+		<item>
+			<title>#23 - I've Lost All Respect For You... (Top of the Week) </title>
+			<itunes:title>#23 - Top of the Week 8-22-17</itunes:title>
+			<pubDate>Wed, 23 Aug 2017 20:26:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9be08b5247f2e6dcbd70b75c57667a84]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/23-top-of-the-week-8-22-17]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Elon is back warning against AI, Jake Paul & Faze Banks beef, and I've lost all respect for you...</p>]]></description>
+			<content:encoded><![CDATA[<p>Elon is back warning against AI, Jake Paul & Faze Banks beef, and I've lost all respect for you...</p>]]></content:encoded>
+			<enclosure length="115238398" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/PODCAST_AUDIO_8-22-17.mp3?dest-id=556650" />
+			<itunes:duration>01:20:01</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Elon is back warning against AI, Jake Paul & Faze Banks beef, and I've lost all respect for you...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#22 - Jake Paul &amp; KTLA Reporter Chris Wolfe </title>
+			<itunes:title>#22 - Jake Paul &amp; KTLA Reporter Chris Wolfe </itunes:title>
+			<pubDate>Sat, 19 Aug 2017 17:59:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b252b1822d8eff01a14ea52ad9b74dc4]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/22-jake-paul-ktla-reporter-chris-wolfe]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jake Paul joins us along with Chris Wolfe who broke the original story</p>]]></description>
+			<content:encoded><![CDATA[<p>Jake Paul joins us along with Chris Wolfe who broke the original story</p>]]></content:encoded>
+			<enclosure length="145151938" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_-_Jake_Paul_and_Chris_Wolfe_-_8_18_17.mp3?dest-id=556650" />
+			<itunes:duration>01:40:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>paul,jake,comedy,hila,ethan,klein,h3,h3h3</itunes:keywords>
+			<itunes:subtitle><![CDATA[Jake Paul joins us along with Chris Wolfe who broke the original story]]></itunes:subtitle>
+			<itunes:summary>Jake Paul joins us along with Chris Wolfe who broke the original story</itunes:summary>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>#21 - Was Joey Salads at the Rally? &amp; More</title>
+			<itunes:title>#21 - Was Joey Salads at the Rally &amp; More?</itunes:title>
+			<pubDate>Thu, 17 Aug 2017 19:43:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e84443cc441b56987dd31f57731152da]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/episode-21]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/5/3/c/253cbbd36b4a8029/joey_top_of_the_week.jpg" />
+			<description><![CDATA[<p>Ethan and Hila discuss AI, Fupa Loss, and Joey Salads possibly being a Nazi</p>]]></description>
+			<content:encoded><![CDATA[<p>Ethan and Hila discuss AI, Fupa Loss, and Joey Salads possibly being a Nazi</p>]]></content:encoded>
+			<enclosure length="119949688" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_AUDIO_EXPORT_-_16_August_2017_-_11-26-26_AM_1.mp3?dest-id=556650" />
+			<itunes:duration>01:23:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>comedy,hila,ethan,klein,h3,h3h3,h3podcast</itunes:keywords>
+			<itunes:subtitle><![CDATA[Ethan and Hila discuss AI, Fupa Loss, and Joey Salads possibly being a Nazi]]></itunes:subtitle>
+			<itunes:summary>Ethan and Hila discuss AI, Fupa Loss, and Joey Salads possibly being a Nazi</itunes:summary>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>H3H3 Productions</itunes:author>
+					</item>
+		<item>
+			<title>#20 - One Fricked Up Dentist (Jimmie Lee)</title>
+			<itunes:title>#20 - One Fricked Up Dentist (Jimmie Lee)</itunes:title>
+			<pubDate>Mon, 14 Aug 2017 20:01:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d5069df3b720066de13a53516eff0927]]></guid>
+			<link><![CDATA[http://h3h3roost.libsyn.com/20-one-fricked-up-dentist-jimmie-lee]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Jimmie Lee causes chaos in our studio</p>]]></description>
+			<content:encoded><![CDATA[<p>Jimmie Lee causes chaos in our studio</p>]]></content:encoded>
+			<enclosure length="110130100" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Jimmie_Lee_-_AUDIO_EXPORT.mp3?dest-id=556650" />
+			<itunes:duration>01:16:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>podcast,lee,hila,ethan,klein,jimmie,h3,h3h3,h3podcast</itunes:keywords>
+			<itunes:subtitle><![CDATA[Jimmie Lee causes chaos in our studio]]></itunes:subtitle>
+			<itunes:summary>Jimmie Lee causes chaos in our studio</itunes:summary>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>H3 Podcast</itunes:author>
+					</item>
+		<item>
+			<title>#19 - Jesse Wellens + Phone Interview w/ Martin Shkreli</title>
+			<pubDate>Sun, 06 Aug 2017 23:14:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/25788050/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/25788050/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Jesse shares the story about how and Snoop Dogg were interrogated by the secret service and Martin Skhreli jumps on jumps on the phone to discuss his trial.]]></description>
+			<content:encoded><![CDATA[Jesse shares the story about how and Snoop Dogg were interrogated by the secret service and Martin Skhreli jumps on jumps on the phone to discuss his trial.]]></content:encoded>
+			<enclosure length="169578257" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Jesse_Welens_Podcast_Audio.mp3?dest-id=556650" />
+			<itunes:duration>02:56:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jesse shares the story about how and Snoop Dogg were interrogated by the secret service and Martin Skhreli jumps on jumps on the phone to discuss his trial.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#18 - Hugh Mungus</title>
+			<pubDate>Sun, 30 Jul 2017 18:26:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/25618998/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/25618998/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Today we meet with the legendary Rudy Pantoja Jr. aka HUGH MUNGUS!]]></description>
+			<content:encoded><![CDATA[Today we meet with the legendary Rudy Pantoja Jr. aka HUGH MUNGUS!]]></content:encoded>
+			<enclosure length="154725711" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/HughMungus_final_audio.mp3?dest-id=556650" />
+			<itunes:duration>02:41:09</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today we meet with the legendary Rudy Pantoja Jr. aka HUGH MUNGUS!]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#17 - Jacksfilms &amp; Internet Comment Etiquette</title>
+			<pubDate>Sun, 23 Jul 2017 21:59:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/25453228/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/25453228/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Jacksfilms and Erik from Internet Comment Etiquette join us to talk about EVERYTHING!]]></description>
+			<content:encoded><![CDATA[Jacksfilms and Erik from Internet Comment Etiquette join us to talk about EVERYTHING!]]></content:encoded>
+			<enclosure length="202614627" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/COMMENT_AND_JACKSFILMS_-_21_July_2017_-_02-35-34_PM.mp3?dest-id=556650" />
+			<itunes:duration>02:20:41</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jacksfilms and Erik from Internet Comment Etiquette join us to talk about EVERYTHING!]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#16 - Net Neutrality</title>
+			<pubDate>Sun, 16 Jul 2017 21:04:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/25281841/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/25281841/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[We discuss Net Neutrality and many other topics in this slamming new episode.]]></description>
+			<content:encoded><![CDATA[We discuss Net Neutrality and many other topics in this slamming new episode.]]></content:encoded>
+			<enclosure length="112941810" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Net_Neutrality_-_14_July_2017_AUDIO_PODCAST.mp3?dest-id=556650" />
+			<itunes:duration>01:57:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We discuss Net Neutrality and many other topics in this slamming new episode.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#15 - CNN Blackmails Redditor &amp; SoFlo repays Joey Salads (Top Of The Month) </title>
+			<pubDate>Sun, 09 Jul 2017 22:41:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/25124329/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/25124329/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[CNN Blackmails a redditor, SoFlo repays Joey Salads, Mega church pastors use 200million to buy a private jet, Ellen humiliates a guest and MUCH more this week on Top of the Month.]]></description>
+			<content:encoded><![CDATA[CNN Blackmails a redditor, SoFlo repays Joey Salads, Mega church pastors use 200million to buy a private jet, Ellen humiliates a guest and MUCH more this week on Top of the Month.]]></content:encoded>
+			<enclosure length="204438604" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/top_of_the_month_audio_only.mp3?dest-id=556650" />
+			<itunes:duration>02:21:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[CNN Blackmails a redditor, SoFlo repays Joey Salads, Mega church pastors use 200million to buy a private jet, Ellen humiliates a guest and MUCH more this week on Top of the Month.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#14 - SoFlo Antonio</title>
+			<pubDate>Sun, 02 Jul 2017 19:51:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24957471/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24957471/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[SoFlo Antonio joins us to talk about EVERYTHING!]]></description>
+			<content:encoded><![CDATA[SoFlo Antonio joins us to talk about EVERYTHING!]]></content:encoded>
+			<enclosure length="137530381" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/SOFLO_-_audio_only.mp3?dest-id=556650" />
+			<itunes:duration>01:35:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[SoFlo Antonio joins us to talk about EVERYTHING!]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#13 - Boogie2988 (Steven Williams) </title>
+			<pubDate>Tue, 27 Jun 2017 19:31:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24833777/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24833777/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Boogie2988 join us to talk about EVERYTHING.]]></description>
+			<content:encoded><![CDATA[Boogie2988 join us to talk about EVERYTHING.]]></content:encoded>
+			<enclosure length="137499493" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/Boogie_H3H3_Podcast_audio_only_smaller_size.mp3?dest-id=556650" />
+			<itunes:duration>02:23:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Boogie2988 join us to talk about EVERYTHING.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#12 - Steve-O</title>
+			<pubDate>Sat, 24 Jun 2017 20:48:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24743734/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24743734/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Steve-O joins us today to talk about everything.]]></description>
+			<content:encoded><![CDATA[Steve-O joins us today to talk about everything.]]></content:encoded>
+			<enclosure length="269894768" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/STEVEO_-_audio_only_export.mp3?dest-id=556650" />
+			<itunes:duration>03:07:26</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Steve-O joins us today to talk about everything.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#11 - Ethan's Parents</title>
+			<pubDate>Sun, 18 Jun 2017 22:29:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24585910/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24585910/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Today Ethan's parents, Donna and Gary, join us to discuss EVERYTHING]]></description>
+			<content:encoded><![CDATA[Today Ethan's parents, Donna and Gary, join us to discuss EVERYTHING]]></content:encoded>
+			<enclosure length="220102589" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/The_Fam_-_audio_export.mp3?dest-id=556650" />
+			<itunes:duration>02:32:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today Ethan's parents, Donna and Gary, join us to discuss EVERYTHING]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#10 - Top of the Month (Talking About Jake Paul, Lance Stewart, Jerry Seinfeld)</title>
+			<pubDate>Tue, 13 Jun 2017 18:09:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24457252/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24457252/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Today we open up a new format called "Top of the Month", where we discuss all the best stories and videos that propped up during the month. Today we talk about Jake Paul Live Show, Lance stewart's new videos and Jerry Seinfeld being a dick (or not).]]></description>
+			<content:encoded><![CDATA[Today we open up a new format called "Top of the Month", where we discuss all the best stories and videos that propped up during the month. Today we talk about Jake Paul Live Show, Lance stewart's new videos and Jerry Seinfeld being a dick (or not).]]></content:encoded>
+			<enclosure length="284210694" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/top_of_the_month_FINAL_reEXPORT.mp3?dest-id=556650" />
+			<itunes:duration>03:17:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today we open up a new format called "Top of the Month", where we discuss all the best stories and videos that propped up during the month. Today we talk about Jake Paul Live Show, Lance stewart's new videos and Jerry Seinfeld being a dick (or not).]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#9 - Joey Salads</title>
+			<pubDate>Sun, 04 Jun 2017 18:27:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24217072/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24217072/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Joey Salads the notorious YouTube prankster joins us to discuss EVERYTHING]]></description>
+			<content:encoded><![CDATA[Joey Salads the notorious YouTube prankster joins us to discuss EVERYTHING]]></content:encoded>
+			<enclosure length="114753824" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/joey_salads_full_ep.mp3?dest-id=556650" />
+			<itunes:duration>01:59:32</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Joey Salads the notorious YouTube prankster joins us to discuss EVERYTHING]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#8 - Markiplier &amp; Ian Hecox (Smosh)</title>
+			<pubDate>Mon, 29 May 2017 18:59:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/24056229/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/24056229/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Markiplier & Ian Hecox from Smosh join us, bless em.]]></description>
+			<content:encoded><![CDATA[Markiplier & Ian Hecox from Smosh join us, bless em.]]></content:encoded>
+			<enclosure length="192817832" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/audio_mark_and_smosh.mp3?dest-id=556650" />
+			<itunes:duration>02:13:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Markiplier & Ian Hecox from Smosh join us, bless em.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#7 - Post Malone &amp; Joji</title>
+			<pubDate>Mon, 22 May 2017 21:13:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/23865330/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/23865330/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Post Malone and Joji came in to discuss everything, appreciate em.]]></description>
+			<content:encoded><![CDATA[Post Malone and Joji came in to discuss everything, appreciate em.]]></content:encoded>
+			<enclosure length="187055742" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/H3_Podcast_7_-_Post_Malone_Joji_audio_export.mp3?dest-id=556650" />
+			<itunes:duration>02:09:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Post Malone and Joji came in to discuss everything, appreciate em.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#6 - Philip DeFranco</title>
+			<pubDate>Tue, 14 Mar 2017 21:02:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/21839857/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/21839857/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Philip DeFranco is host of the most popular news program on YouTube. Today he shares some unbelievable stories about his past.]]></description>
+			<content:encoded><![CDATA[Philip DeFranco is host of the most popular news program on YouTube. Today he shares some unbelievable stories about his past.]]></content:encoded>
+			<enclosure length="53397420" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/philip_defranco_audio_only.mp3?dest-id=556650" />
+			<itunes:duration>27:45</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Philip DeFranco is host of the most popular news program on YouTube. Today he shares some unbelievable stories about his past.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#5 - Keemstar</title>
+			<pubDate>Tue, 14 Feb 2017 23:40:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/21021891/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/21021891/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[Keemstar is a controversial YouTuber widely considered to be one of the most hated internet personalities.]]></description>
+			<content:encoded><![CDATA[Keemstar is a controversial YouTuber widely considered to be one of the most hated internet personalities.]]></content:encoded>
+			<enclosure length="24368692" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/audio_for_bluberry.mp3?dest-id=556650" />
+			<itunes:duration>25:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Keemstar is a controversial YouTuber widely considered to be one of the most hated internet personalities.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#4 - iDubbbzTV</title>
+			<pubDate>Wed, 01 Feb 2017 01:16:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/20578440/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/20578440/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>iDubbbz is a popular YouTuber who has blown up in the past year for his controversial and hilarious style.</p>]]></description>
+			<content:encoded><![CDATA[<p>iDubbbz is a popular YouTuber who has blown up in the past year for his controversial and hilarious style.</p>]]></content:encoded>
+			<enclosure length="55006086" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/audio_only_idubbbz.mp3?dest-id=556650" />
+			<itunes:duration>57:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[iDubbbz is a popular YouTuber who has blown up in the past year for his controversial and hilarious style.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#3 - Vsauce (Michael Stevens)</title>
+			<pubDate>Wed, 04 Jan 2017 17:53:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/19849493/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/19849493/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Michael is one of the most popular science entertainers in the world.</p>]]></description>
+			<content:encoded><![CDATA[<p>Michael is one of the most popular science entertainers in the world.</p>]]></content:encoded>
+			<enclosure length="31857570" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/vsauce_mp3.mp3?dest-id=556650" />
+			<itunes:duration>32:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Michael is one of the most popular science entertainers in the world.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#2 - PewDiePie (Felix Kjellberg)</title>
+			<pubDate>Tue, 27 Dec 2016 09:49:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/19764652/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/19764652/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p>Guest starring the biggest YouTuber in the world by far, PewDiePie, with over 50 million subscribers.</p>]]></description>
+			<content:encoded><![CDATA[<p>Guest starring the biggest YouTuber in the world by far, PewDiePie, with over 50 million subscribers.</p>]]></content:encoded>
+			<enclosure length="46883155" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/pewdiepie_mp3.mp3?dest-id=556650" />
+			<itunes:duration>48:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Guest starring the biggest YouTuber in the world by far, PewDiePie, with over 50 million subscribers.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>#1 - Justin Roiland (Co-Creator of Rick &amp; Morty)</title>
+			<pubDate>Tue, 20 Dec 2016 08:23:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://www.blubrry.com/h3_podcast/19601374/]]></guid>
+			<link><![CDATA[http://www.blubrry.com/h3_podcast/19601374/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/4/3/c/443cb5e4b2df7938/NEW_Podcast_Logo_SQUARE.png" />
+			<description><![CDATA[<p><span>First episode of The H3 Podcast, guest starring Justin Roiland, co-creator of Adult Swim's #1</span> <span>show Rick and Morty.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>First episode of The H3 Podcast, guest starring Justin Roiland, co-creator of Adult Swim's #1 show Rick and Morty.</p>]]></content:encoded>
+			<enclosure length="57706219" type="audio/mpeg" url="http://traffic.libsyn.com/h3h3roost/full_audio.mp3?dest-id=556650" />
+			<itunes:duration>59:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[First episode of The H3 Podcast, guest starring Justin Roiland, co-creator of Adult Swim's #1 show Rick and Morty.]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>

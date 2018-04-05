@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0">
+  <channel>
+    <title>Under The Skin with Russell Brand</title>
+    <description>
+      <![CDATA[My new podcast 'Under The Skin' asks: what's beneath the surface - of people we admire, of the ideas that define our time, of the history we are told. Speaking with guests from the world of academia, popular culture and the arts, they'll help us to see the ulterior truth behind our constructed reality. And have a laugh.]]>
+    </description>
+    <managingEditor>rss+russellbrand@midroll.com (Russell Brand)</managingEditor>
+    <copyright>© All rights reserved.</copyright>
+    <atom:link href="https://rss.art19.com/under-the-skin" rel="self" type="application/rss+xml"/>
+    <link>https://art19.com/shows/under-the-skin</link>
+    <itunes:owner>
+      <itunes:name>Russell Brand</itunes:name>
+      <itunes:email>rss+russellbrand@midroll.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Russell Brand</itunes:author>
+    <itunes:summary>
+      <![CDATA[My new podcast 'Under The Skin' asks: what's beneath the surface - of people we admire, of the ideas that define our time, of the history we are told. Speaking with guests from the world of academia, popular culture and the arts, they'll help us to see the ulterior truth behind our constructed reality. And have a laugh.]]>
+    </itunes:summary>
+    <language>en</language>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="Comedy">
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+    <image>
+      <url>https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg</url>
+      <link>https://art19.com/shows/under-the-skin</link>
+      <title>Under The Skin with Russell Brand</title>
+    </image>
+    <item>
+      <title>#051 Some Exciting News...Season #2: Under The Skin to the bone!</title>
+      <description>
+        <![CDATA[<p>The first season of Under The Skin has come to an end. Thank you for listening to and supporting this podcast, it's been a fantastic year with brilliant guests. But don't worry Season #2 will be back on June 2nd with some exceptional new guests including Jim Carrey, Gabor Mate and Tony Robbins! Stay tuned...</p>]]>
+      </description>
+      <itunes:title>#051 Some Exciting News...Season #2: Under The Skin to the bone!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>51</itunes:episode>
+      <itunes:summary>The first season of Under The Skin has come to an end. Thank you for listening to and supporting this podcast, it's been a fantastic year with brilliant guests. But don't worry Season #2 will be back on June 2nd with some exceptional new guests including Jim Carrey, Gabor Mate and Tony Robbins! Stay tuned...</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The first season of Under The Skin has come to an end. Thank you for listening to and supporting this podcast, it's been a fantastic year with brilliant guests. But don't worry Season #2 will be back on June 2nd with some exceptional new guests including Jim Carrey, Gabor Mate and Tony Robbins! Stay tuned...</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/pSxccNV8LQUoaMU007LpP6mo6R2loL3MMIyQYUVVCBw</guid>
+      <pubDate>Fri, 30 Mar 2018 23:34:06 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:04:18</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/67794298-9a1c-4faf-b8cb-314da29a05c6.mp3" type="audio/mpeg" length="4140303"/>
+    </item>
+    <item>
+      <title>#050 Is Civilisation Crumbling?  with Adam Curtis</title>
+      <description>
+        <![CDATA[<p>A look back at one of the first and most memorable Under The Skin episodes with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change.</p>]]>
+      </description>
+      <itunes:title>#050 Is Civilisation Crumbling?  with Adam Curtis</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>50</itunes:episode>
+      <itunes:summary>A look back at one of the first and most memorable Under The Skin episodes with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A look back at one of the first and most memorable Under The Skin episodes with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/oVNckFSfLcyyzLD1LGQAXONw0iWZEuTaL1Wv5zwomJE</guid>
+      <pubDate>Sat, 24 Mar 2018 00:01:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:17:29</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/56979930-87da-443c-997e-4f9eb4fb90df.mp3" type="audio/mpeg" length="74390465"/>
+    </item>
+    <item>
+      <title>#049 Yanis Varoufakis - Euro Power From A Man Who Knows</title>
+      <description>
+        <![CDATA[<p>One of my favourite guests on Under The Skin and an episode you should definitely listen to is the fascinating interview where I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded.</p>]]>
+      </description>
+      <itunes:title>#049 Yanis Varoufakis - Euro Power From A Man Who Knows</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>49</itunes:episode>
+      <itunes:summary>One of my favourite guests on Under The Skin and an episode you should definitely listen to is the fascinating interview where I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>One of my favourite guests on Under The Skin and an episode you should definitely listen to is the fascinating interview where I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/lj9Tl-KoQbumrM5t-5bxSDNCpBK_jVXn8NHcEKu_Gy4</guid>
+      <pubDate>Sat, 17 Mar 2018 00:01:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:23:10</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/2d3c13ab-2378-4695-ab0c-a5a8969c4793.mp3" type="audio/mpeg" length="79852773"/>
+    </item>
+    <item>
+      <title>#048 (Yuval) Noah’s Arc  - What Is The Future For Sapiens?</title>
+      <description>
+        <![CDATA[<p>With his ever growing popularity I take a look back at my interview with Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species.</p>]]>
+      </description>
+      <itunes:title>#048 (Yuval) Noah’s Arc  - What Is The Future For Sapiens?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>With his ever growing popularity I take a look back at my interview with Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>With his ever growing popularity I take a look back at my interview with Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/ue52xGZJTHq2zjddRy1y6nCKZOSegsuoglyUbKYnh70</guid>
+      <pubDate>Sat, 10 Mar 2018 00:45:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:14:37</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/96850332-3aa1-41ab-9f05-ff9342b2f077.mp3" type="audio/mpeg" length="71636114"/>
+    </item>
+    <item>
+      <title>#047 Egos and Alcohol (with Ryron &amp; Rener Gracie)</title>
+      <description>
+        <![CDATA[<p>Brothers and part of&nbsp;jiu jitsu’s most illustrious family, my guests today are Ryron and Rener Gracie who discuss how Brazilian jiu-jitsu has shaped the people they are today; the pressure of continuing their family’s legacy; how UFC (their father’s creation) has become one of the fastest growing sports in history; and the importance of being able to defend ourselves.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#047 Egos and Alcohol (with Ryron &amp; Rener Gracie)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Brothers and part of jiu jitsu’s most illustrious family, my guests today are Ryron and Rener Gracie who discuss how Brazilian jiu-jitsu has shaped the people they are today; the pressure of continuing their family’s legacy; how UFC (their father’s creation) has become one of the fastest growing sports in history; and the importance of being able to defend ourselves. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Brothers and part of&nbsp;jiu jitsu’s most illustrious family, my guests today are Ryron and Rener Gracie who discuss how Brazilian jiu-jitsu has shaped the people they are today; the pressure of continuing their family’s legacy; how UFC (their father’s creation) has become one of the fastest growing sports in history; and the importance of being able to defend ourselves.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/7mb8KnQjwESrKBxMdKmlTNlf8NRcwsVQj7fKLkIkfKE</guid>
+      <pubDate>Sun, 25 Feb 2018 07:23:52 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:19:21</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/1cbd89e9-76ca-447c-a7ab-b96a1f353634.mp3" type="audio/mpeg" length="76177658"/>
+    </item>
+    <item>
+      <title>#046 Power vs Kindness (with Jordan Peterson)</title>
+      <description>
+        <![CDATA[<p>Recently making the headlines after a combative&nbsp;interview about the gender pay gap with Channel 4’s Cathy Newman, my guest today is Jordan Peterson, who discusses with me some of his 12 Rules for Life.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#046 Power vs Kindness (with Jordan Peterson)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Recently making the headlines after a combative interview about the gender pay gap with Channel 4’s Cathy Newman, my guest today is Jordan Peterson, who discusses with me some of his 12 Rules for Life. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Recently making the headlines after a combative&nbsp;interview about the gender pay gap with Channel 4’s Cathy Newman, my guest today is Jordan Peterson, who discusses with me some of his 12 Rules for Life.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/IgHb-6elAc68L6h0sRRGjcmEtgfF8UgXsPaaULuaB5s</guid>
+      <pubDate>Thu, 15 Feb 2018 00:28:57 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:36:58</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/9aab324b-b656-44d0-afc8-efb617dec7a9.mp3" type="audio/mpeg" length="93099154"/>
+    </item>
+    <item>
+      <title>#045 What’s The Biggest Threat To Freedom? Islam Or Consumerism (with Sam Harris)</title>
+      <description>
+        <![CDATA[<p>In a bumper 2 hour episode neuroscientist, author and fellow podcaster Sam Harris and I discuss the effects and rationality of religious belief, the illusion of freedom, Western intervention in the Middle East and where true power lies.</p>]]>
+      </description>
+      <itunes:title>#045 What’s The Biggest Threat To Freedom? Islam Or Consumerism (with Sam Harris)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In a bumper 2 hour episode neuroscientist, author and fellow podcaster Sam Harris and I discuss the effects and rationality of religious belief, the illusion of freedom, Western intervention in the Middle East and where true power lies.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In a bumper 2 hour episode neuroscientist, author and fellow podcaster Sam Harris and I discuss the effects and rationality of religious belief, the illusion of freedom, Western intervention in the Middle East and where true power lies.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Zhff6rrIBOTc-Tn36jrP_KpS4eLtx1r2TmmeAozKlkI</guid>
+      <pubDate>Sat, 03 Feb 2018 11:38:35 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>02:03:59</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/94e67552-6681-4f11-b313-e315483bcaca.mp3" type="audio/mpeg" length="119035193"/>
+    </item>
+    <item>
+      <title>#044 Headspace - Could Mass Meditation Change Everything? (with Andy Puddicombe) </title>
+      <description>
+        <![CDATA[<p>Co-founder and voice of the <em>Headspace</em> app, Andy Puddicombe joins me to discuss his striving to teach meditation and mindfulness within a consumerist society via an interesting journey from the UK to becoming a Tibetan Buddhist monk and training with the Moscow State Circus.</p>]]>
+      </description>
+      <itunes:title>#044 Headspace - Could Mass Meditation Change Everything? (with Andy Puddicombe) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Co-founder and voice of the Headspace app, Andy Puddicombe joins me to discuss his striving to teach meditation and mindfulness within a consumerist society via an interesting journey from the UK to becoming a Tibetan Buddhist monk and training with the Moscow State Circus.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Co-founder and voice of the <em>Headspace</em> app, Andy Puddicombe joins me to discuss his striving to teach meditation and mindfulness within a consumerist society via an interesting journey from the UK to becoming a Tibetan Buddhist monk and training with the Moscow State Circus.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/np5pJxTg3rJzr3RLGPfBLl1FDiMG7VDUXI2rJCLHRmY</guid>
+      <pubDate>Sat, 20 Jan 2018 16:54:55 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:17:03</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/bbeba8f9-ceb4-465d-a0e4-0639d00dbb09.mp3" type="audio/mpeg" length="73969998"/>
+    </item>
+    <item>
+      <title>#043 Professor Brian Cox - God, The Universe and Meaning</title>
+      <description>
+        <![CDATA[<p>The one we’ve been waiting for - the brilliant Professor Brian Cox discusses the possibility of intelligent life other than our own; the danger of dogma within science; and Elon Musk’s space travel plans. As well as the small matters of God, the Universe and Meaning. Strap in for this one!</p>]]>
+      </description>
+      <itunes:title>#043 Professor Brian Cox - God, The Universe and Meaning</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>The one we’ve been waiting for - the brilliant Professor Brian Cox discusses the possibility of intelligent life other than our own; the danger of dogma within science; and Elon Musk’s space travel plans. As well as the small matters of God, the Universe and Meaning. Strap in for this one!</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The one we’ve been waiting for - the brilliant Professor Brian Cox discusses the possibility of intelligent life other than our own; the danger of dogma within science; and Elon Musk’s space travel plans. As well as the small matters of God, the Universe and Meaning. Strap in for this one!</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/uDNV3EyiV0IV0lZrBaazKp8GhA__Vm5ahNcR6ZSb5Ik</guid>
+      <pubDate>Sat, 13 Jan 2018 00:56:02 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:09:44</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/42a13b4d-4ffb-482a-9ce3-5081283fc427.mp3" type="audio/mpeg" length="66947866"/>
+    </item>
+    <item>
+      <title>#042 Senses &amp; Consciousness - Beyond The 5 Senses Myth (with Prof Barry Smith)</title>
+      <description>
+        <![CDATA[<p>Professor Barry Smith discusses collaborative research between philosophers, psychologists and neuroscientists and their discoveries, including how we have many more than the commonly perceived 5 senses.  </p>]]>
+      </description>
+      <itunes:title>#042 Senses &amp; Consciousness - Beyond The 5 Senses Myth (with Prof Barry Smith)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Professor Barry Smith discusses collaborative research between philosophers, psychologists and neuroscientists and their discoveries, including how we have many more than the commonly perceived 5 senses.  </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Professor Barry Smith discusses collaborative research between philosophers, psychologists and neuroscientists and their discoveries, including how we have many more than the commonly perceived 5 senses.  </p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/xbXD9lEPngojYnHEQCG-nEYVyxpSzDca-cvtcKE2TAU</guid>
+      <pubDate>Sun, 07 Jan 2018 00:13:30 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:23:32</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/583a8229-24af-4a66-90dd-5d85a8eeadd9.mp3" type="audio/mpeg" length="80197590"/>
+    </item>
+    <item>
+      <title>#041 Shakespeare And Power! (with Professor Tony Howard)</title>
+      <description>
+        <![CDATA[<p>Is Shakespeare still at the heart of British culture? Tony Howard discusses Shakespeare’s continued relevance in reflecting the shifts in British society; the marginalisation of Black and Asian performers; and how the entertainment sector still faces urgent calls for greater diversity.</p>]]>
+      </description>
+      <itunes:title>#041 Shakespeare And Power! (with Professor Tony Howard)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Is Shakespeare still at the heart of British culture? Tony Howard discusses Shakespeare’s continued relevance in reflecting the shifts in British society; the marginalisation of Black and Asian performers; and how the entertainment sector still faces urgent calls for greater diversity.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Is Shakespeare still at the heart of British culture? Tony Howard discusses Shakespeare’s continued relevance in reflecting the shifts in British society; the marginalisation of Black and Asian performers; and how the entertainment sector still faces urgent calls for greater diversity.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/xWRVYMi_Ip32IfPIWbpWyJiVHwERLmEUVV38bIwFc50</guid>
+      <pubDate>Sat, 23 Dec 2017 12:08:12 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:17:29</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/50366989-44b5-4dd9-8339-91e7fe935fd9.mp3" type="audio/mpeg" length="74388375"/>
+    </item>
+    <item>
+      <title>#040 How To Be Spiritually Healthy In Damaged Times (with Emma Kenny)</title>
+      <description>
+        <![CDATA[<p>Psychological therapist Emma Kenny discusses new and forgotten ideas around personal growth, gained from 17 years working with people in crisis including some of the UK’s toughest estates.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#040 How To Be Spiritually Healthy In Damaged Times (with Emma Kenny)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Psychological therapist Emma Kenny discusses new and forgotten ideas around personal growth, gained from 17 years working with people in crisis including some of the UK’s toughest estates. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Psychological therapist Emma Kenny discusses new and forgotten ideas around personal growth, gained from 17 years working with people in crisis including some of the UK’s toughest estates.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/aZD0Ymupu_mkgCxuM0V9n4v1p6Cqf9hkASa_bmir6pY</guid>
+      <pubDate>Sat, 16 Dec 2017 00:35:36 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:55:00</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/4d820c02-c396-424c-a594-91d5666e17b8.mp3" type="audio/mpeg" length="52814994"/>
+    </item>
+    <item>
+      <title>#039 Putin &amp; Trump, Global Gangsters Or Same Old Same Old? (with Luke Harding) </title>
+      <description>
+        <![CDATA[<p>Author of current New York Times bestseller <em>‘Collusion: Secret Meetings, Dirty Money, and How Russia Helped Donald Trump Win’ </em>Luke&nbsp;Harding&nbsp;talks me through the international espionage, off-shore banks, mobsters, money laundering and computer hacking at the heart of the web of relationships between the Kremlin, Trump and members of Trump’s circle.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#039 Putin &amp; Trump, Global Gangsters Or Same Old Same Old? (with Luke Harding) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author of current New York Times bestseller ‘Collusion: Secret Meetings, Dirty Money, and How Russia Helped Donald Trump Win’ Luke Harding talks me through the international espionage, off-shore banks, mobsters, money laundering and computer hacking at the heart of the web of relationships between the Kremlin, Trump and members of Trump’s circle. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author of current New York Times bestseller <em>‘Collusion: Secret Meetings, Dirty Money, and How Russia Helped Donald Trump Win’ </em>Luke&nbsp;Harding&nbsp;talks me through the international espionage, off-shore banks, mobsters, money laundering and computer hacking at the heart of the web of relationships between the Kremlin, Trump and members of Trump’s circle.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/EWWg268BDJGqw3b0KWixS_MxYpE8EZVEoYyj5pj84P4</guid>
+      <pubDate>Sat, 09 Dec 2017 00:37:19 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:58:55</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/663d5f15-0595-4678-a437-552e23208f52.mp3" type="audio/mpeg" length="56563252"/>
+    </item>
+    <item>
+      <title>#038 Revolution In The Age Of Anger (with Pankaj Mishra)</title>
+      <description>
+        <![CDATA[<p>Historian and novelist Pankaj Mishra joins me to talk about what he calls the ‘age of anger’ - a global pandemic of rage - and how the pursuit of progress and individualism has created a demoralised world.</p>]]>
+      </description>
+      <itunes:title>#038 Revolution In The Age Of Anger (with Pankaj Mishra)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Historian and novelist Pankaj Mishra joins me to talk about what he calls the ‘age of anger’ - a global pandemic of rage - and how the pursuit of progress and individualism has created a demoralised world.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Historian and novelist Pankaj Mishra joins me to talk about what he calls the ‘age of anger’ - a global pandemic of rage - and how the pursuit of progress and individualism has created a demoralised world.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/I_ipR1AgftStR1kFmVCw8bF3ykyYdLiN52gDShC2Q5k</guid>
+      <pubDate>Sat, 02 Dec 2017 01:16:24 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:05:05</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/ef646cc4-c1dd-486e-ab33-6da8d88a8c13.mp3" type="audio/mpeg" length="62494093"/>
+    </item>
+    <item>
+      <title>#037 Extreme Survival with Ed Stafford - Is The Toughest Terrain Your Own Mind?</title>
+      <description>
+        <![CDATA[<p>Survivalist and adventurer Ed Stafford joins me to discuss his life changing expeditions and their physical and mental consequences, the lure of extreme isolation and the importance of meditation.</p>]]>
+      </description>
+      <itunes:title>#037 Extreme Survival with Ed Stafford - Is The Toughest Terrain Your Own Mind?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Survivalist and adventurer Ed Stafford joins me to discuss his life changing expeditions and their physical and mental consequences, the lure of extreme isolation and the importance of meditation.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Survivalist and adventurer Ed Stafford joins me to discuss his life changing expeditions and their physical and mental consequences, the lure of extreme isolation and the importance of meditation.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/uH_VMgypF8_JLkGU-wCke6BVYo70SwR-aEfCJYFShcU</guid>
+      <pubDate>Sat, 25 Nov 2017 01:04:38 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:06:26</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/22283d47-ace0-428c-b8d0-b58862a0449a.mp3" type="audio/mpeg" length="63787258"/>
+    </item>
+    <item>
+      <title>#036 Beyond Conspiracy - The Terrifying Truth Of Corporate Power (with Jacques Peretti)</title>
+      <description>
+        <![CDATA[<p>Having spent years investigating some of the wealthiest people on the planet, journalist and broadcaster Jacques Peretti&nbsp;joins me to discuss the secret billion dollar deals that we never hear about but which are changing our world and revolutionising everything we do.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#036 Beyond Conspiracy - The Terrifying Truth Of Corporate Power (with Jacques Peretti)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Having spent years investigating some of the wealthiest people on the planet, journalist and broadcaster Jacques Peretti joins me to discuss the secret billion dollar deals that we never hear about but which are changing our world and revolutionising everything we do. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Having spent years investigating some of the wealthiest people on the planet, journalist and broadcaster Jacques Peretti&nbsp;joins me to discuss the secret billion dollar deals that we never hear about but which are changing our world and revolutionising everything we do.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Cs30grtsPAcbCPrLaT_Njib7WHFvnUTGgt4-jwQfLlQ</guid>
+      <pubDate>Sat, 18 Nov 2017 00:01:25 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:59:41</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/5652f1d5-8e5b-4d1d-b66f-b25bfe3d3b93.mp3" type="audio/mpeg" length="57308055"/>
+    </item>
+    <item>
+      <title>#035 Ruby Wax - Madness &amp; Meditation. Can We Heal Ourselves?</title>
+      <description>
+        <![CDATA[<p>The brilliant Ruby Wax joins me to discuss her transition from the world of showbiz to becoming known as a campaigner on mental-health issues and a champion of mindfulness. We discuss her own inner battles with self-esteem and her life-changing methods for getting mindfulness into a hectic everyday life.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#035 Ruby Wax - Madness &amp; Meditation. Can We Heal Ourselves?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>The brilliant Ruby Wax joins me to discuss her transition from the world of showbiz to becoming known as a campaigner on mental-health issues and a champion of mindfulness. We discuss her own inner battles with self-esteem and her life-changing methods for getting mindfulness into a hectic everyday life. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The brilliant Ruby Wax joins me to discuss her transition from the world of showbiz to becoming known as a campaigner on mental-health issues and a champion of mindfulness. We discuss her own inner battles with self-esteem and her life-changing methods for getting mindfulness into a hectic everyday life.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/NXnq2InYb77fgxRKAN1wIShjnqcnTnwfy_AcJLHo7Mw</guid>
+      <pubDate>Sat, 11 Nov 2017 01:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:08:23</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/d4ea6fc1-b8ea-40f4-8e12-965a2536d60f.mp3" type="audio/mpeg" length="65653446"/>
+    </item>
+    <item>
+      <title>#034 Science Vs God - Is There A Life Force That Transcends Matter? (with Rupert Sheldrake)</title>
+      <description>
+        <![CDATA[<p>Dubbed “the most controversial scientist on Earth” Rupert Sheldrake joins me to discuss the dogmas within conventional science, the evolving laws of physics, memory in nature, and how science validates and improves spiritual practices.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#034 Science Vs God - Is There A Life Force That Transcends Matter? (with Rupert Sheldrake)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Dubbed “the most controversial scientist on Earth” Rupert Sheldrake joins me to discuss the dogmas within conventional science, the evolving laws of physics, memory in nature, and how science validates and improves spiritual practices. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Dubbed “the most controversial scientist on Earth” Rupert Sheldrake joins me to discuss the dogmas within conventional science, the evolving laws of physics, memory in nature, and how science validates and improves spiritual practices.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/L6o9oHVwAjz1-aQySvNnKH22pswIB-WnpOCYLZGZGQQ</guid>
+      <pubDate>Sat, 04 Nov 2017 00:35:56 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:07:02</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/ef512f31-9891-4986-a641-0546f428fef8.mp3" type="audio/mpeg" length="64361116"/>
+    </item>
+    <item>
+      <title>#033 Is Trump Better For Black America Than Barack Obama? (with Kehinde Andrews) </title>
+      <description>
+        <![CDATA[<p>Author and Professor of Black Studies Kehinde Andrews joins me to discuss Britain’s colonial nostalgia, how the&nbsp;west is built on racism, and that Donald Trump is better for black America than Barack Obama.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#033 Is Trump Better For Black America Than Barack Obama? (with Kehinde Andrews) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author and Professor of Black Studies Kehinde Andrews joins me to discuss Britain’s colonial nostalgia, how the west is built on racism, and that Donald Trump is better for black America than Barack Obama. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author and Professor of Black Studies Kehinde Andrews joins me to discuss Britain’s colonial nostalgia, how the&nbsp;west is built on racism, and that Donald Trump is better for black America than Barack Obama.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/J_4JVaR1t9RpRNOix0Rjv7neQopJCabkapnZkn9ltvw</guid>
+      <pubDate>Sat, 28 Oct 2017 10:36:21 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:14:51</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/699d5cf1-1443-48ba-8d96-1a7b3644a180.mp3" type="audio/mpeg" length="71865155"/>
+    </item>
+    <item>
+      <title>#032 Mental Health Crisis - Is Community The Answer? (with Chirlane McCray) </title>
+      <description>
+        <![CDATA[<p>First Lady of New York City Chirlane McCray joins me to discuss America's mental health crisis, why our society breeds depression, the importance of mental health reform, and her organisation ‘Thrive NYC’.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#032 Mental Health Crisis - Is Community The Answer? (with Chirlane McCray) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>First Lady of New York City Chirlane McCray joins me to discuss America's mental health crisis, why our society breeds depression, the importance of mental health reform, and her organisation ‘Thrive NYC’. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>First Lady of New York City Chirlane McCray joins me to discuss America's mental health crisis, why our society breeds depression, the importance of mental health reform, and her organisation ‘Thrive NYC’.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/0sCBSJhZX7nnzAUY34WwTafLtUGXPZd6RbTa9Y1qLOA</guid>
+      <pubDate>Thu, 19 Oct 2017 00:38:32 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:47:08</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/b4895444-24ac-4ba9-9ff8-79785a2e6abf.mp3" type="audio/mpeg" length="45263307"/>
+    </item>
+    <item>
+      <title>#031 Gender Fluidity - Is It Time To Abandon All Labels? (with Mae Martin) </title>
+      <description>
+        <![CDATA[<p>Comedian Mae Martin joins me to discuss gender fluidity, breaking down barriers and the compelling statistic that 40% of people under 25 don't identify as gay or straight. Plus, we discuss her experiences with addiction and an intriguing obsession with Bette Midler.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#031 Gender Fluidity - Is It Time To Abandon All Labels? (with Mae Martin) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Comedian Mae Martin joins me to discuss gender fluidity, breaking down barriers and the compelling statistic that 40% of people under 25 don't identify as gay or straight. Plus, we discuss her experiences with addiction and an intriguing obsession with Bette Midler. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Comedian Mae Martin joins me to discuss gender fluidity, breaking down barriers and the compelling statistic that 40% of people under 25 don't identify as gay or straight. Plus, we discuss her experiences with addiction and an intriguing obsession with Bette Midler.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/f6vSZlimSLIBz7PUsklk80oYPa968yY4ZPrp1mTaHbE</guid>
+      <pubDate>Wed, 11 Oct 2017 23:03:33 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:04:39</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/242cbdd4-5f2c-482f-ae3a-a987cad2e659.mp3" type="audio/mpeg" length="62068192"/>
+    </item>
+    <item>
+      <title>#030 Why Won't America Put Down Its Guns? (with Gary Younge)</title>
+      <description>
+        <![CDATA[<p>In the week of the devastating Las Vegas shooting, author Gary Younge discusses his most recent book “Another Day In The Death Of America” - a<strong>&nbsp;</strong>harrowing account&nbsp;of children's lives cut short by the ubiquity of gun violence in the US. This show was recorded a few days before events in Las Vegas.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#030 Why Won't America Put Down Its Guns? (with Gary Younge)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In the week of the devastating Las Vegas shooting, author Gary Younge discusses his most recent book “Another Day In The Death Of America” - a harrowing account of children's lives cut short by the ubiquity of gun violence in the US. This show was recorded a few days before events in Las Vegas. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In the week of the devastating Las Vegas shooting, author Gary Younge discusses his most recent book “Another Day In The Death Of America” - a<strong>&nbsp;</strong>harrowing account&nbsp;of children's lives cut short by the ubiquity of gun violence in the US. This show was recorded a few days before events in Las Vegas.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/ToTdSQRW8gK2tygR-6WkY0FLRgvQOnstQrei1jQiSmM</guid>
+      <pubDate>Wed, 04 Oct 2017 23:07:27 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:00:51</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/4d86f6d8-e0d6-450c-925e-8aa9f203c69e.mp3" type="audio/mpeg" length="58425260"/>
+    </item>
+    <item>
+      <title>#029 Does Even The Establishment Know Anarchy Is The Answer? (with Carne Ross)</title>
+      <description>
+        <![CDATA[<p>This week I'm joined by Carne Ross, a former high-flying diplomat and Middle East adviser who lost his faith in western democracy but put his trust in people power and is now putting forward the case for anarchism. </p><p><br></p>]]>
+      </description>
+      <itunes:title>#029 Does Even The Establishment Know Anarchy Is The Answer? (with Carne Ross)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>This week I'm joined by Carne Ross, a former high-flying diplomat and Middle East adviser who lost his faith in western democracy but put his trust in people power and is now putting forward the case for anarchism. 
+
+
+</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This week I'm joined by Carne Ross, a former high-flying diplomat and Middle East adviser who lost his faith in western democracy but put his trust in people power and is now putting forward the case for anarchism. </p><p><br></p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/5VV3nll6Qz8fFmYUVUkgovk1iBH3PdMzt59-hbn7axw</guid>
+      <pubDate>Thu, 28 Sep 2017 09:01:36 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:06:49</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/f5c99ba6-bc29-4ef8-ae25-a4beb675a68d.mp3" type="audio/mpeg" length="64158824"/>
+    </item>
+    <item>
+      <title>#028 Marxism On The Rise - Can It Really Defeat Capitalism? (with David Harvey)</title>
+      <description>
+        <![CDATA[<p>The world's leading Marxist thinker joins me to discuss the contradictions at the heart of capitalism, Marxism’s recent rise in popularity, and why it resonates more today than ever.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#028 Marxism On The Rise - Can It Really Defeat Capitalism? (with David Harvey)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>The world's leading Marxist thinker joins me to discuss the contradictions at the heart of capitalism, Marxism’s recent rise in popularity, and why it resonates more today than ever. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The world's leading Marxist thinker joins me to discuss the contradictions at the heart of capitalism, Marxism’s recent rise in popularity, and why it resonates more today than ever.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Q8QAC7mlcvEP2ZWv3PFFoeN5ntnWQoFq7Y30JsM3zok</guid>
+      <pubDate>Wed, 20 Sep 2017 23:56:22 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:23:09</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/e94b8c9d-08f1-4ef6-a543-f207cdd71a82.mp3" type="audio/mpeg" length="79831457"/>
+    </item>
+    <item>
+      <title>#027 Can We Have More Connected Sex? </title>
+      <description>
+        <![CDATA[<p>Author Isabel Losada joins me to discuss the importance of making our sex life blissful, as well as her experiences at the international conference of clitoral stroking, and learning mystical sensations with tantric masters.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#027 Can We Have More Connected Sex? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author Isabel Losada joins me to discuss the importance of making our sex life blissful, as well as her experiences at the international conference of clitoral stroking, and learning mystical sensations with tantric masters. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author Isabel Losada joins me to discuss the importance of making our sex life blissful, as well as her experiences at the international conference of clitoral stroking, and learning mystical sensations with tantric masters.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/IOnN8JutwdUEUkeAkTCDR9yEAKvaoIXfQIGUtnKs6JQ</guid>
+      <pubDate>Wed, 13 Sep 2017 23:14:10 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:43:38</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/7481f638-471a-496a-85fe-bc0b5015c906.mp3" type="audio/mpeg" length="41898736"/>
+    </item>
+    <item>
+      <title>#026 Is The Solution To Addiction Spiritual Connection? (with Brad Evans) </title>
+      <description>
+        <![CDATA[<p>Author and friend Professor Brad Evans gets under my skin regarding my new book “Recovery”. We discuss the age of addiction, the ability to be liberated from our unhealthy habits and the overwhelming need for human connection.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#026 Is The Solution To Addiction Spiritual Connection? (with Brad Evans) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author and friend Professor Brad Evans gets under my skin regarding my new book “Recovery”. We discuss the age of addiction, the ability to be liberated from our unhealthy habits and the overwhelming need for human connection. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author and friend Professor Brad Evans gets under my skin regarding my new book “Recovery”. We discuss the age of addiction, the ability to be liberated from our unhealthy habits and the overwhelming need for human connection.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/O1QCC_F3yCOZoFpoE5MZlP7zgMFwkYRhiOmobsGdg9E</guid>
+      <pubDate>Wed, 06 Sep 2017 23:01:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:49:39</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3e05df5e-8936-497e-bd29-3aeb6c6e3611.mp3" type="audio/mpeg" length="47674932"/>
+    </item>
+    <item>
+      <title>#025 Art And Activism With Billy Bragg</title>
+      <description>
+        <![CDATA[<p>Billy Bragg joins me to discuss music’s changing cultural role, as well as the charge of being a “champagne socialist”, the importance of Grime, and the challenge of inspiring people to make change.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#025 Art And Activism With Billy Bragg</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Billy Bragg joins me to discuss music’s changing cultural role, as well as the charge of being a “champagne socialist”, the importance of Grime, and the challenge of inspiring people to make change. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Billy Bragg joins me to discuss music’s changing cultural role, as well as the charge of being a “champagne socialist”, the importance of Grime, and the challenge of inspiring people to make change.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/9hnDUFiIgAUQszHTq_-6ALCqQ8YG0xggQdgm8Ze1Gsk</guid>
+      <pubDate>Wed, 30 Aug 2017 23:17:13 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:15:30</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/a9a28a97-7219-4eb6-908e-f200b3453b22.mp3" type="audio/mpeg" length="72485407"/>
+    </item>
+    <item>
+      <title>#024 Inequality Is Killing Us All. Are We Going To Stop It? (with Jason Hickel) </title>
+      <description>
+        <![CDATA[<p>Author and anthropologist Jason Hickel joins me to explain how a handful of rich countries have been able to control economic policies in the rest of the world; why we’re being lied to about poverty; and the radical revolution required to stop the global inequality machine.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#024 Inequality Is Killing Us All. Are We Going To Stop It? (with Jason Hickel) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author and anthropologist Jason Hickel joins me to explain how a handful of rich countries have been able to control economic policies in the rest of the world; why we’re being lied to about poverty; and the radical revolution required to stop the global inequality machine. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author and anthropologist Jason Hickel joins me to explain how a handful of rich countries have been able to control economic policies in the rest of the world; why we’re being lied to about poverty; and the radical revolution required to stop the global inequality machine.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/5LExHZ-YttltPgeId8jmgBSaZRfgDZ1u5jj--B6-z7A</guid>
+      <pubDate>Wed, 23 Aug 2017 23:05:25 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:04:42</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/33ca79c8-bacf-4952-9099-2ca59613f685.mp3" type="audio/mpeg" length="62116675"/>
+    </item>
+    <item>
+      <title>#023 Al Gore - Can We Protect The Planet When It's Not In The Interests Of The Powerful? </title>
+      <description>
+        <![CDATA[<p>Environmentalist and former Vice President Al Gore joins me to discuss his new film “An Inconvenient Sequel: Truth to Power”, his feelings about Donald Trump, the corruption of big money, and the future for renewable energy.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#023 Al Gore - Can We Protect The Planet When It's Not In The Interests Of The Powerful? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Environmentalist and former Vice President Al Gore joins me to discuss his new film “An Inconvenient Sequel: Truth to Power”, his feelings about Donald Trump, the corruption of big money, and the future for renewable energy. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Environmentalist and former Vice President Al Gore joins me to discuss his new film “An Inconvenient Sequel: Truth to Power”, his feelings about Donald Trump, the corruption of big money, and the future for renewable energy.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/v__nIvytxsmFFeWD1vW_2qt4oBedVUjfrupXrSBH724</guid>
+      <pubDate>Wed, 16 Aug 2017 23:08:27 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:34:36</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/0136358b-7a20-4101-b5d9-96b1e6cb2bb7.mp3" type="audio/mpeg" length="33222739"/>
+    </item>
+    <item>
+      <title>#022 Will The Psychedelic Revolution Meaningfully Change The World?</title>
+      <description>
+        <![CDATA[<p>Dr Robin Carhart-Harris (Head of Psychedelic Research at Imperial College London) discusses unlocking the unconscious, the potential therapeutic uses of psychedelic drugs, and why research into their benefits has been shut down for over 40 years.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#022 Will The Psychedelic Revolution Meaningfully Change The World?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Dr Robin Carhart-Harris (Head of Psychedelic Research at Imperial College London) discusses unlocking the unconscious, the potential therapeutic uses of psychedelic drugs, and why research into their benefits has been shut down for over 40 years. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Dr Robin Carhart-Harris (Head of Psychedelic Research at Imperial College London) discusses unlocking the unconscious, the potential therapeutic uses of psychedelic drugs, and why research into their benefits has been shut down for over 40 years.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/o2QCZ6uglpgdGw4Oobu98nZg_rMxLzaoH0ZtZ9rhDlQ</guid>
+      <pubDate>Thu, 10 Aug 2017 00:04:59 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:06:04</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/90fbfafb-6eca-4d41-8e34-2fd04b91ae49.mp3" type="audio/mpeg" length="63433247"/>
+    </item>
+    <item>
+      <title>#021 Is There Any Point In God? (with Alister McGrath)</title>
+      <description>
+        <![CDATA[<p>Author, professor, priest and former atheist Alister McGrath and I discuss the rationality of religious belief, the war between science and religion, and whether faith is still destined to play a central role in the 21st century.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#021 Is There Any Point In God? (with Alister McGrath)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author, professor, priest and former atheist Alister McGrath and I discuss the rationality of religious belief, the war between science and religion, and whether faith is still destined to play a central role in the 21st century. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author, professor, priest and former atheist Alister McGrath and I discuss the rationality of religious belief, the war between science and religion, and whether faith is still destined to play a central role in the 21st century.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/WHNJO1eendBY6yZd5R93NXkOk-myQD5RfRUjhVH1IqM</guid>
+      <pubDate>Thu, 27 Jul 2017 00:28:38 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:05:00</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/af75e95c-00cd-4e5a-9f2d-12cd96cb2b0d.mp3" type="audio/mpeg" length="62402560"/>
+    </item>
+    <item>
+      <title>#020 Selfie-Obsession: Can Narcissism Ever Make Us Happy? (with Will Storr)</title>
+      <description>
+        <![CDATA[<p>Author of “Selfie” Will Storr and I discuss where the ideal of the perfect self came from, why it is so powerful and whether there is any way to break its dangerous spell.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#020 Selfie-Obsession: Can Narcissism Ever Make Us Happy? (with Will Storr)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Author of “Selfie” Will Storr and I discuss where the ideal of the perfect self came from, why it is so powerful and whether there is any way to break its dangerous spell. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Author of “Selfie” Will Storr and I discuss where the ideal of the perfect self came from, why it is so powerful and whether there is any way to break its dangerous spell.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/2eZxR-6Wg4V79L20os4n-GA4l4ldGYS8eZAQt6rAeds</guid>
+      <pubDate>Wed, 19 Jul 2017 23:13:55 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:04:54</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/bb0896d4-4d90-47b8-bce9-525451de03e8.mp3" type="audio/mpeg" length="62319804"/>
+    </item>
+    <item>
+      <title>#019 Frankie Boyle - Is It Possible To Live A Moral Life?</title>
+      <description>
+        <![CDATA[<p>Frankie Boyle and I discuss media censorship, the virtues of nihilism, and the effects of fatherhood on life as a comedian.</p>]]>
+      </description>
+      <itunes:title>#019 Frankie Boyle - Is It Possible To Live A Moral Life?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Frankie Boyle and I discuss media censorship, the virtues of nihilism, and the effects of fatherhood on life as a comedian.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Frankie Boyle and I discuss media censorship, the virtues of nihilism, and the effects of fatherhood on life as a comedian.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/OmHMpN_mqvWn22MIMWwj9K3x-ghMx_I72Ls5I-QfoGk</guid>
+      <pubDate>Thu, 13 Jul 2017 01:42:47 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:10:09</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/9b9abcdf-e7b0-4823-a364-59ae7f07c2e0.mp3" type="audio/mpeg" length="67355376"/>
+    </item>
+    <item>
+      <title>#018 Naomi Klein - Why We Must Kill Our Inner Trump</title>
+      <description>
+        <![CDATA[<p>As Naomi Klein discusses her new book with me she explains how the groundwork laid by Bill Clinton and Bill Gates led to Donald Trump’s presidency; the political shock tactics being used to force through destructive policies; and how resistance and imagination can lead to radical change.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#018 Naomi Klein - Why We Must Kill Our Inner Trump</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>As Naomi Klein discusses her new book with me she explains how the groundwork laid by Bill Clinton and Bill Gates led to Donald Trump’s presidency; the political shock tactics being used to force through destructive policies; and how resistance and imagination can lead to radical change. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>As Naomi Klein discusses her new book with me she explains how the groundwork laid by Bill Clinton and Bill Gates led to Donald Trump’s presidency; the political shock tactics being used to force through destructive policies; and how resistance and imagination can lead to radical change.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/blnSwmHultiUtJv0DrBRiI9M7QHQ7IRfOTLMIkaOpKg</guid>
+      <pubDate>Wed, 05 Jul 2017 23:46:53 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:57:06</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/a37cd74a-0d74-4c78-98bb-8069a33c5aeb.mp3" type="audio/mpeg" length="54817018"/>
+    </item>
+    <item>
+      <title>#017 Will Spirituality Solve Our Global Problems? (with Sharon Salzberg) </title>
+      <description>
+        <![CDATA[<p>Leading meditation teacher Sharon Salzberg explains why we find it so hard to be in our own mind, why we have a habit to always go to the negative, and how meditation can transform society.&nbsp;</p>]]>
+      </description>
+      <itunes:title>#017 Will Spirituality Solve Our Global Problems? (with Sharon Salzberg) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Leading meditation teacher Sharon Salzberg explains why we find it so hard to be in our own mind, why we have a habit to always go to the negative, and how meditation can transform society. </itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Leading meditation teacher Sharon Salzberg explains why we find it so hard to be in our own mind, why we have a habit to always go to the negative, and how meditation can transform society.&nbsp;</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/NT-sZJhdUIORM7ZFCsLGFDarBe8VX1OGAgh1sTMlBJo</guid>
+      <pubDate>Wed, 28 Jun 2017 23:18:06 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:10:00</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3a8ec685-771d-4794-b49f-63fd283e08ca.mp3" type="audio/mpeg" length="67212016"/>
+    </item>
+    <item>
+      <title>#016 Is Philosophy More Important Than Ever? (with Simon Critchley)</title>
+      <description>
+        <![CDATA[This week philosopher Simon Critchley enlightens us to the roots of philosophy, as well as topics including football as ‘working class ballet’, what constitutes a 'good death’, and the relevance and importance of philosophy in these times. ]]>
+      </description>
+      <itunes:title>#016 Is Philosophy More Important Than Ever? (with Simon Critchley)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>This week philosopher Simon Critchley enlightens us to the roots of philosophy, as well as topics including football as ‘working class ballet’, what constitutes a 'good death’, and the relevance and importance of philosophy in these times. </itunes:summary>
+      <content:encoded>
+        <![CDATA[This week philosopher Simon Critchley enlightens us to the roots of philosophy, as well as topics including football as ‘working class ballet’, what constitutes a 'good death’, and the relevance and importance of philosophy in these times. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/29BUbQXcpUddZly9Vx1z-tYfsnOsWn9GcGeswZ3xOHI</guid>
+      <pubDate>Wed, 21 Jun 2017 23:03:54 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:02:52</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/9da30bd4-4fb0-469d-8963-813b13627692.mp3" type="audio/mpeg" length="60364173"/>
+    </item>
+    <item>
+      <title>#015 Yanis Varoufakis - How To Construct A Global Revolution</title>
+      <description>
+        <![CDATA[In a fascinating interview I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded. ]]>
+      </description>
+      <itunes:title>#015 Yanis Varoufakis - How To Construct A Global Revolution</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In a fascinating interview I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded. </itunes:summary>
+      <content:encoded>
+        <![CDATA[In a fascinating interview I discuss with Yanis what happens when you take on the political, financial and media elite, and how radical reform can occur. Through accounts of his confrontations with the IMF, European institutions and the German government we examine where true power lies and how it is wielded. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/ULi2UyMqf4Z9WvzVa8_rk3EuM6rr3EvsHI4vmoEQEWc</guid>
+      <pubDate>Wed, 14 Jun 2017 23:17:23 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:19:07</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/2100c23b-4c08-4935-bb70-cc9bfb74e55c.mp3" type="audio/mpeg" length="75964081"/>
+    </item>
+    <item>
+      <title>#014 Election Eve: Is It Stupid To Vote For Peace?</title>
+      <description>
+        <![CDATA[On the eve of the UK General Election I talk with Stop The War’s Lindsey German and Dr Brad Evans about how violence has been normalised to the point where as voters we’ve not only become desensitised to it, but have been taught to desire it from our leaders. ]]>
+      </description>
+      <itunes:title>#014 Election Eve: Is It Stupid To Vote For Peace?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>On the eve of the UK General Election I talk with Stop The War’s Lindsey German and Dr Brad Evans about how violence has been normalised to the point where as voters we’ve not only become desensitised to it, but have been taught to desire it from our leaders. </itunes:summary>
+      <content:encoded>
+        <![CDATA[On the eve of the UK General Election I talk with Stop The War’s Lindsey German and Dr Brad Evans about how violence has been normalised to the point where as voters we’ve not only become desensitised to it, but have been taught to desire it from our leaders. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/SEt8XJZ40huFA7Hof9jw4fuQ_0XxftMwx2sdLQ9VsZs</guid>
+      <pubDate>Tue, 06 Jun 2017 23:41:35 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:02:34</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/b0db9e6a-1161-48f2-b56c-4ef89749ec4b.mp3" type="audio/mpeg" length="60074527"/>
+    </item>
+    <item>
+      <title>#013 Why Are You Who You Are? (with Raoul &amp; Francesca Martinez &amp; Dr Brad Evans)</title>
+      <description>
+        <![CDATA[This week’s show asks: What kind of freedom do we have? Are we responsible for our actions? Do we create our own identity and if not, should we question it? ]]>
+      </description>
+      <itunes:title>#013 Why Are You Who You Are? (with Raoul &amp; Francesca Martinez &amp; Dr Brad Evans)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>This week’s show asks: What kind of freedom do we have? Are we responsible for our actions? Do we create our own identity and if not, should we question it? </itunes:summary>
+      <content:encoded>
+        <![CDATA[This week’s show asks: What kind of freedom do we have? Are we responsible for our actions? Do we create our own identity and if not, should we question it? ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/kEEQQbpjAXYLj9YcSYbM45rCFkTMMXDR156nBgSFo5U</guid>
+      <pubDate>Wed, 31 May 2017 23:33:37 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:06:01</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3e553d30-398d-4a0a-85a4-7fa7fab74d67.mp3" type="audio/mpeg" length="63385600"/>
+    </item>
+    <item>
+      <title>#012 Manchester: Can Terror Ever Be Stopped?</title>
+      <description>
+        <![CDATA[Dr Brad Evans, Rabbi Dr Jonathan Romain and I reflect on the tragic events in Manchester and ask how we can break the cycle of violence. ]]>
+      </description>
+      <itunes:title>#012 Manchester: Can Terror Ever Be Stopped?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Dr Brad Evans, Rabbi Dr Jonathan Romain and I reflect on the tragic events in Manchester and ask how we can break the cycle of violence. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Dr Brad Evans, Rabbi Dr Jonathan Romain and I reflect on the tragic events in Manchester and ask how we can break the cycle of violence. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/jTT3R6cdAqpad0GhlqoJ7AKn7_w_echcKp-k1nIFTUA</guid>
+      <pubDate>Fri, 26 May 2017 17:47:23 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:57:16</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/c456e4ce-1b7a-4491-9726-d6983ec93c24.mp3" type="audio/mpeg" length="54978351"/>
+    </item>
+    <item>
+      <title>#011 Fascism Or Democracy - Is This Our Last Chance To Choose? (with George Monbiot)</title>
+      <description>
+        <![CDATA[George Monbiot and I discuss the dark money capturing our politics for the billionaires and corporations; the terrifying power of Big Data; and the opportunity for a new democracy. ]]>
+      </description>
+      <itunes:title>#011 Fascism Or Democracy - Is This Our Last Chance To Choose? (with George Monbiot)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>George Monbiot and I discuss the dark money capturing our politics for the billionaires and corporations; the terrifying power of Big Data; and the opportunity for a new democracy. </itunes:summary>
+      <content:encoded>
+        <![CDATA[George Monbiot and I discuss the dark money capturing our politics for the billionaires and corporations; the terrifying power of Big Data; and the opportunity for a new democracy. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/b-wJzaIGw2wX8yqtbhLSQjq-SV1OpiT_T1JcQ2TO6OE</guid>
+      <pubDate>Wed, 17 May 2017 23:08:50 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:59:35</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/5d41796c-b5fb-4613-8621-b900673a8861.mp3" type="audio/mpeg" length="57214432"/>
+    </item>
+    <item>
+      <title>#010 Plant Based Diet &amp; Plant Based Consciousness with Simon Amstell</title>
+      <description>
+        <![CDATA[Comedian Simon Amstell and I discuss his film 'Carnage', how veganism began a journey of personal enlightenment and how taking Ayahuasca changed his life. ]]>
+      </description>
+      <itunes:title>#010 Plant Based Diet &amp; Plant Based Consciousness with Simon Amstell</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Comedian Simon Amstell and I discuss his film 'Carnage', how veganism began a journey of personal enlightenment and how taking Ayahuasca changed his life. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Comedian Simon Amstell and I discuss his film 'Carnage', how veganism began a journey of personal enlightenment and how taking Ayahuasca changed his life. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/7gDVsX3iayyqOl43n_L5cT-FJNLuui8CmDSbd3NGNU4</guid>
+      <pubDate>Wed, 10 May 2017 23:15:55 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:06:34</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3e7d6444-92bb-410c-978e-7dee5300ec4b.mp3" type="audio/mpeg" length="63907631"/>
+    </item>
+    <item>
+      <title>#009 Trump, Boris, May - Who's The Best Communicator? (With Prof Sophie Scott)</title>
+      <description>
+        <![CDATA[Neuroscientist and laughter expert Sophie Scott and I discuss the use of comedy within politics, how the left and the right use language differently, and what communication techniques to look out for in the run up to the UK election. ]]>
+      </description>
+      <itunes:title>#009 Trump, Boris, May - Who's The Best Communicator? (With Prof Sophie Scott)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Neuroscientist and laughter expert Sophie Scott and I discuss the use of comedy within politics, how the left and the right use language differently, and what communication techniques to look out for in the run up to the UK election. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Neuroscientist and laughter expert Sophie Scott and I discuss the use of comedy within politics, how the left and the right use language differently, and what communication techniques to look out for in the run up to the UK election. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/K40jgNeFmX9oInuVlcaPurcWQbMSRsmQHEutAVsJyrk</guid>
+      <pubDate>Thu, 04 May 2017 12:56:05 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:14:35</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/e24f8fef-9afe-4ff5-ad0e-37dc925f5081.mp3" type="audio/mpeg" length="71614798"/>
+    </item>
+    <item>
+      <title>#008 Snap Election - Is Democracy Busted? (With Dr Brad Evans, of course!)</title>
+      <description>
+        <![CDATA[Does politics matter? Dr Brad Evans and I discuss the snap UK election, how to reimagine a better future and what real radical politics looks like. ]]>
+      </description>
+      <itunes:title>#008 Snap Election - Is Democracy Busted? (With Dr Brad Evans, of course!)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Does politics matter? Dr Brad Evans and I discuss the snap UK election, how to reimagine a better future and what real radical politics looks like. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Does politics matter? Dr Brad Evans and I discuss the snap UK election, how to reimagine a better future and what real radical politics looks like. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/O1mPNnVA57SuR7gtT52ElfyzIt-j0xbC0qlDSAfqShY</guid>
+      <pubDate>Wed, 26 Apr 2017 23:39:26 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:03:48</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/a82d0543-d218-446c-bce6-83e64780e557.mp3" type="audio/mpeg" length="61257351"/>
+    </item>
+    <item>
+      <title>#007 Identity Politics - Where Are They Taking Us? (With Matthew Todd) </title>
+      <description>
+        <![CDATA[I’m joined by writer Matthew Todd to discuss the crisis of shame facing the LGBT community, the disproportionate link to mental health problems and how taking a lead on trauma recovery could change the world. 
+]]>
+      </description>
+      <itunes:title>#007 Identity Politics - Where Are They Taking Us? (With Matthew Todd) </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>I’m joined by writer Matthew Todd to discuss the crisis of shame facing the LGBT community, the disproportionate link to mental health problems and how taking a lead on trauma recovery could change the world. 
+</itunes:summary>
+      <content:encoded>
+        <![CDATA[I’m joined by writer Matthew Todd to discuss the crisis of shame facing the LGBT community, the disproportionate link to mental health problems and how taking a lead on trauma recovery could change the world. 
+]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/z2EzDu-wGIT5W2WoAXGwenW4HDmzbZXAYtjIfpRXAnQ</guid>
+      <pubDate>Thu, 20 Apr 2017 03:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:01:10</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/d8bf539e-91e2-44df-9838-2d06ac2b402d.mp3" type="audio/mpeg" length="58721175"/>
+    </item>
+    <item>
+      <title>#006 Can Humans &amp; Animals United Heal The World? (With Supervet Noel Fitzpatrick)</title>
+      <description>
+        <![CDATA[Supervet Noel Fitzpatrick and I discuss the difficulty in overcoming boundaries between human and animal science, Noel’s own groundbreaking work, and the need to understand and harness the love between humans and animals. ]]>
+      </description>
+      <itunes:title>#006 Can Humans &amp; Animals United Heal The World? (With Supervet Noel Fitzpatrick)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Supervet Noel Fitzpatrick and I discuss the difficulty in overcoming boundaries between human and animal science, Noel’s own groundbreaking work, and the need to understand and harness the love between humans and animals. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Supervet Noel Fitzpatrick and I discuss the difficulty in overcoming boundaries between human and animal science, Noel’s own groundbreaking work, and the need to understand and harness the love between humans and animals. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/XeKc1_LiWkBoyEFZ7IWMCWKhvCaKwNitoQJE5ppxXS0</guid>
+      <pubDate>Thu, 13 Apr 2017 03:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:04:58</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/88f338b5-4fa3-4faa-a5c8-284a84c54aab.mp3" type="audio/mpeg" length="62375810"/>
+    </item>
+    <item>
+      <title>#005 Yuval Noah Harari - Is Humanity Finished?</title>
+      <description>
+        <![CDATA[This week I’m joined by Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species. ]]>
+      </description>
+      <itunes:title>#005 Yuval Noah Harari - Is Humanity Finished?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>This week I’m joined by Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species. </itunes:summary>
+      <content:encoded>
+        <![CDATA[This week I’m joined by Yuval Noah Harari, author of bestseller ‘Sapiens: A Brief History Of Humankind’. We discuss how homo sapiens came to dominate the world, how our society is built on fiction, the creation of a class of useless people, and the future for our species. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/C4OmFK5Hg-1tPTo3xYY6UFzxCPGgaJWwY4K4GSiPIdY</guid>
+      <pubDate>Thu, 06 Apr 2017 03:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:13:59</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/26fe939b-79cc-4b8e-ab45-2df663b7b3fe.mp3" type="audio/mpeg" length="71032581"/>
+    </item>
+    <item>
+      <title>#004 Feminism - Can It Change The World?</title>
+      <description>
+        <![CDATA[In this week’s show I talk to Professor Anne Phillips about feminism, its perception within society and the cultural shift necessary to create real change and greater equality. ]]>
+      </description>
+      <itunes:title>#004 Feminism - Can It Change The World?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In this week’s show I talk to Professor Anne Phillips about feminism, its perception within society and the cultural shift necessary to create real change and greater equality. </itunes:summary>
+      <content:encoded>
+        <![CDATA[In this week’s show I talk to Professor Anne Phillips about feminism, its perception within society and the cultural shift necessary to create real change and greater equality. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/cGOv3S5OOW0IP26k0jOHosXNlO3AKZvIlytvx7ObQo4</guid>
+      <pubDate>Thu, 30 Mar 2017 03:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:07:35</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/4b021ff7-0ff0-496b-a126-e6be430f6042.mp3" type="audio/mpeg" length="64883147"/>
+    </item>
+    <item>
+      <title>#003 Adam Curtis - Do We Really Want Change? </title>
+      <description>
+        <![CDATA[This week I speak with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change. ]]>
+      </description>
+      <itunes:title>#003 Adam Curtis - Do We Really Want Change? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>This week I speak with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change. </itunes:summary>
+      <content:encoded>
+        <![CDATA[This week I speak with filmmaker Adam Curtis about the rise of individualism, where real power lies, and whether we really want change. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/s8LJ6RrKvyhurtWwBjn1ahJkdRcIXp6YyCox84Pz320</guid>
+      <pubDate>Thu, 23 Mar 2017 04:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:17:01</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/cfb8056a-1cbd-46d8-a120-957ce227f18e.mp3" type="audio/mpeg" length="73941995"/>
+    </item>
+    <item>
+      <title>#002 Who Are The Slaves Now?</title>
+      <description>
+        <![CDATA[In this week’s show I talk to Professor Paul Gilroy about the re-emergence of open racism within political rhetoric, the relationship between race and religion, and why we still divide humanity into different identity groups based on skin colour. ]]>
+      </description>
+      <itunes:title>#002 Who Are The Slaves Now?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In this week’s show I talk to Professor Paul Gilroy about the re-emergence of open racism within political rhetoric, the relationship between race and religion, and why we still divide humanity into different identity groups based on skin colour. </itunes:summary>
+      <content:encoded>
+        <![CDATA[In this week’s show I talk to Professor Paul Gilroy about the re-emergence of open racism within political rhetoric, the relationship between race and religion, and why we still divide humanity into different identity groups based on skin colour. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/lWtMid7_Zhjt4KTZk_blNLUyyicQ1idxResk8bF9BUU</guid>
+      <pubDate>Thu, 16 Mar 2017 04:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:03:53</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/7cff17ef-358b-4c90-9bd0-3ff9c1cbeeac.mp3" type="audio/mpeg" length="61336764"/>
+    </item>
+    <item>
+      <title>#001 Can We Really Stop Terror?</title>
+      <description>
+        <![CDATA[What does it mean to be human in the 21st century? In this first show I speak with Dr Brad Evans about how the liberation of prejudice and emergence of a politics of hate and division has led to the the normalisation of violence and in turn to perpetual ‘terror'. ]]>
+      </description>
+      <itunes:title>#001 Can We Really Stop Terror?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>What does it mean to be human in the 21st century? In this first show I speak with Dr Brad Evans about how the liberation of prejudice and emergence of a politics of hate and division has led to the the normalisation of violence and in turn to perpetual ‘terror'. </itunes:summary>
+      <content:encoded>
+        <![CDATA[What does it mean to be human in the 21st century? In this first show I speak with Dr Brad Evans about how the liberation of prejudice and emergence of a politics of hate and division has led to the the normalisation of violence and in turn to perpetual ‘terror'. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/0TW7JGewQtalki-BiUOzN8ZXTx4u0ScdzzCZ12N9wkY</guid>
+      <pubDate>Thu, 09 Mar 2017 04:00:00 -0000</pubDate>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>01:21:28</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/496ad22d-6f07-495d-aad2-c1ed506d4da8.mp3" type="audio/mpeg" length="78211448"/>
+    </item>
+    <item>
+      <title>Teaser</title>
+      <description>
+        <![CDATA[Coming soon!]]>
+      </description>
+      <itunes:title>Teaser</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Coming soon!</itunes:summary>
+      <content:encoded>
+        <![CDATA[Coming soon!]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/cui091qAuoXQ8tn0yHAmCt4JVT67uUv9FfNPKYS9R_E</guid>
+      <pubDate>Sat, 04 Mar 2017 18:00:38 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/96/ea/83/97/96ea8397-cf58-431e-8dd9-52076598956f/116d59ed2835d58004391beaa0d2642c26f3739452e996f20b13384f54eee5db752a71c1a70e0922941daf8b746395f6bf4758a6d593654fd595aaa04c4234af.jpeg"/>
+      <itunes:duration>00:02:00</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/501f2cfd-520f-40e5-a8e3-8bf5fe9562e3.mp3" type="audio/mpeg" length="1925955"/>
+    </item>
+  </channel>
+</rss>

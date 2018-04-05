@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" version="2.0">
+  <channel>
+    <title>Julian Loves Music</title>
+    <description>
+      <![CDATA[In the grand showbiz tradition of ripping off what works to make millions of his own dollars, comedian Julian McCullough (This American Life, The Tonight Show, @midnight) has taken the hugely popular DOUG LOVES MOVIES podcast and made JULIAN LOVES MUSIC. Do you love music and comedy? Does Billy Joel's music fill you with rage? You'll love JULIAN LOVES MUSIC!]]>
+    </description>
+    <managingEditor>jlm@aspecialthing.com (AST Records)</managingEditor>
+    <copyright>© all rights reserved</copyright>
+    
+    <link>http://julianlovesmusic.com</link>
+    <itunes:owner>
+      <itunes:name>AST Records</itunes:name>
+      <itunes:email>jlm@aspecialthing.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Julian McCullough</itunes:author>
+    <itunes:summary>
+      <![CDATA[In the grand showbiz tradition of ripping off what works to make millions of his own dollars, comedian Julian McCullough (This American Life, The Tonight Show, @midnight) has taken the hugely popular DOUG LOVES MOVIES podcast and made JULIAN LOVES MUSIC. Do you love music and comedy? Does Billy Joel's music fill you with rage? You'll love JULIAN LOVES MUSIC!]]>
+    </itunes:summary>
+    <language>en</language>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:category text="Comedy">
+    </itunes:category>
+    <itunes:category text="Music">
+    </itunes:category>
+    <itunes:keywords>comedy,Music</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+    <image>
+      <url>https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg</url>
+      <link>http://julianlovesmusic.com</link>
+      <title>Julian Loves Music</title>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/JulianLovesMusic" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="julianlovesmusic" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>Karen Kilgariff, Andrew Deacon, Raj Suresh, and Lex Ellis</title>
+      <description>
+        <![CDATA[Recorded live at the Cherokee Casino in West Siloam Springs, OK, Julian welcomes Karen Kilgariff, Andrew Deacon, Raj Suresh, and Lex Ellis to the show! ]]>
+      </description>
+      <itunes:title>Karen Kilgariff, Andrew Deacon, Raj Suresh, and Lex Ellis</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Recorded live at the Cherokee Casino in West Siloam Springs, OK, Julian welcomes Karen Kilgariff, Andrew Deacon, Raj Suresh, and Lex Ellis to the show! </itunes:summary>
+      <content:encoded>
+        <![CDATA[Recorded live at the Cherokee Casino in West Siloam Springs, OK, Julian welcomes Karen Kilgariff, Andrew Deacon, Raj Suresh, and Lex Ellis to the show! ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/5VDyqU_UM6WwmTFiiNsw_bTIgg0pBNpTTPpSWjEOn4E</guid>
+      <pubDate>Wed, 22 Mar 2017 19:07:59 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:37:38</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/5a464d9d-9625-4989-a356-4a577b9f3bae.mp3" type="audio/mpeg" length="93729018" />
+    </item>
+    <item>
+      <title>Seth Herzog, Josh Gondelman, Phoebe Robinson, and Matt Sweeney</title>
+      <description>
+        <![CDATA[Recorded live at Rockwood Music Hall in New York City, Julian welcomes Seth Herzog, Josh Gondelman, Phoebe Robinson, and Matt Sweeney to the show!]]>
+      </description>
+      <itunes:title>Seth Herzog, Josh Gondelman, Phoebe Robinson, and Matt Sweeney</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Recorded live at Rockwood Music Hall in New York City, Julian welcomes Seth Herzog, Josh Gondelman, Phoebe Robinson, and Matt Sweeney to the show!</itunes:summary>
+      <content:encoded>
+        <![CDATA[Recorded live at Rockwood Music Hall in New York City, Julian welcomes Seth Herzog, Josh Gondelman, Phoebe Robinson, and Matt Sweeney to the show!]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Ikv_RQ6vN8Y9iIbnFWBAh-6pGof8-bgTiLyah46fdpU</guid>
+      <pubDate>Wed, 22 Feb 2017 18:16:06 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>music,comedy</itunes:keywords>
+      <itunes:duration>01:07:30</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/d5680e57-91d7-4172-b642-ee5c63fd0f12.mp3" type="audio/mpeg" length="64800809" />
+    </item>
+    <item>
+      <title>Todd Barry, Dan Soder, Emily Panic, and Big Jay Oakerson</title>
+      <description>
+        <![CDATA[Live from the Village Underground in  NYC, Julian welcomes Todd Barry, Dan Soder, Emily Panic, and Big Jay Oakerson to the show. ]]>
+      </description>
+      <itunes:title>Todd Barry, Dan Soder, Emily Panic, and Big Jay Oakerson</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Village Underground in  NYC, Julian welcomes Todd Barry, Dan Soder, Emily Panic, and Big Jay Oakerson to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Village Underground in  NYC, Julian welcomes Todd Barry, Dan Soder, Emily Panic, and Big Jay Oakerson to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/oSBa9QE8qFD5CCHkaDxmNMrJ8pgJz0Dw2QeBYS-tmXk</guid>
+      <pubDate>Thu, 22 Dec 2016 01:49:51 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:04:58</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/6b9615e9-f72c-472a-b1da-59a3667207c6.mp3" type="audio/mpeg" length="62373302" />
+    </item>
+    <item>
+      <title>Kevin Barnett, Rory Scovel, Beth Stelling, and Natasha Leggero</title>
+      <description>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Kevin Barnett, Rory Scovel, Beth Stelling, and Natasha Leggero to the show. ]]>
+      </description>
+      <itunes:title>Kevin Barnett, Rory Scovel, Beth Stelling, and Natasha Leggero</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Improv Lab in Los Angeles, Julian welcomes Kevin Barnett, Rory Scovel, Beth Stelling, and Natasha Leggero to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Kevin Barnett, Rory Scovel, Beth Stelling, and Natasha Leggero to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/Lzho_bMAcUJnxmTpEnGVQnEVKYuGItr2PlawyqiK-Mw</guid>
+      <pubDate>Mon, 28 Nov 2016 18:52:34 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:15:54</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/b07e0879-70d3-46af-9fc0-ab73ec7d740a.mp3" type="audio/mpeg" length="72864914" />
+    </item>
+    <item>
+      <title>Dave Holmes, Karen Kilgariff, Kate Schellenbach, and Drew Droege</title>
+      <description>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Dave Holmes, Karen Kilgariff, Kate Schellenbach, and Drew Droege to the show. ]]>
+      </description>
+      <itunes:title>Dave Holmes, Karen Kilgariff, Kate Schellenbach, and Drew Droege</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Improv Lab in Los Angeles, Julian welcomes Dave Holmes, Karen Kilgariff, Kate Schellenbach, and Drew Droege to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Dave Holmes, Karen Kilgariff, Kate Schellenbach, and Drew Droege to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/pwrEJoXkvYE_zdqaW6bqtZnZ_WN4wrxE4YC1sIAndIs</guid>
+      <pubDate>Tue, 08 Nov 2016 00:49:50 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:19:40</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/ef77653f-94c3-401d-85dc-38a759c88222.mp3" type="audio/mpeg" length="76491964" />
+    </item>
+    <item>
+      <title>Brooks Wheelan, Baron Vaughn, Cameron Esposito, and Rhea Butcher</title>
+      <description>
+        <![CDATA[Live from Get A Room: Comedy Weekend at The Hammer Museum in Los Angeles, Julian welcomes Brooks Wheelan, Baron Vaughn, Cameron Esposito, and Rhea Butcher to the show. ]]>
+      </description>
+      <itunes:title>Brooks Wheelan, Baron Vaughn, Cameron Esposito, and Rhea Butcher</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from Get A Room: Comedy Weekend at The Hammer Museum in Los Angeles, Julian welcomes Brooks Wheelan, Baron Vaughn, Cameron Esposito, and Rhea Butcher to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from Get A Room: Comedy Weekend at The Hammer Museum in Los Angeles, Julian welcomes Brooks Wheelan, Baron Vaughn, Cameron Esposito, and Rhea Butcher to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/sVs8eInbOMbdJcDN_ilqPW5rqClCe_qvOA9f08fhw90</guid>
+      <pubDate>Mon, 17 Oct 2016 07:01:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:51:51</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/41a95f92-7895-4f21-8e54-5464aa3324c6.mp3" type="audio/mpeg" length="49791059" />
+    </item>
+    <item>
+      <title>Hutch Harris, Jake Weisman, Mike Tully and April Richardson guest</title>
+      <description>
+        <![CDATA[Live from the Improv Lab, Julian welcomes Jake Weisman, Mike Tully, April Richardson and Hutch Harris of The Thermals to the show.]]>
+      </description>
+      <itunes:title>Hutch Harris, Jake Weisman, Mike Tully and April Richardson guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Improv Lab, Julian welcomes Jake Weisman, Mike Tully, April Richardson and Hutch Harris of The Thermals to the show.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Improv Lab, Julian welcomes Jake Weisman, Mike Tully, April Richardson and Hutch Harris of The Thermals to the show.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/I7gvRpNHEThqEjSWQhu8UVrQznC32hlwIHWrcLSGwQc</guid>
+      <pubDate>Tue, 20 Sep 2016 23:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:55:51</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/d8d4fe2f-eb70-41e4-8f99-d331391c08a2.mp3" type="audio/mpeg" length="53629178" />
+    </item>
+    <item>
+      <title>Ron Funches, Megan Gailey, Nate Bargatze and Hank Hanewinkel III guest</title>
+      <description>
+        <![CDATA[Live from The Vanguard in Tulsa, OK, Julian welcomes Ron Funches, Megan Gailey, Nate Bargatze and Hank Hanewinkel III to the show.]]>
+      </description>
+      <itunes:title>Ron Funches, Megan Gailey, Nate Bargatze and Hank Hanewinkel III guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from The Vanguard in Tulsa, OK, Julian welcomes Ron Funches, Megan Gailey, Nate Bargatze and Hank Hanewinkel III to the show.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from The Vanguard in Tulsa, OK, Julian welcomes Ron Funches, Megan Gailey, Nate Bargatze and Hank Hanewinkel III to the show.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/hA9bYWxVsQF4fuRCif39dZRTzm9mzGfbiXKFiM59JyA</guid>
+      <pubDate>Tue, 13 Sep 2016 23:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:00:14</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/e58c0467-7fb8-4e1f-9470-2a9d0639ba5a.mp3" type="audio/mpeg" length="57837609" />
+    </item>
+    <item>
+      <title>JD Ryznar, David B Lyons, Steve Huey, and Hunter Stair</title>
+      <description>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes JD Ryznar, David B Lyons, Steve Huey, and Hunter Stair from the Beyond Yacht Rock podcast to the show. ]]>
+      </description>
+      <itunes:title>JD Ryznar, David B Lyons, Steve Huey, and Hunter Stair</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Improv Lab in Los Angeles, Julian welcomes JD Ryznar, David B Lyons, Steve Huey, and Hunter Stair from the Beyond Yacht Rock podcast to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes JD Ryznar, David B Lyons, Steve Huey, and Hunter Stair from the Beyond Yacht Rock podcast to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/C4Pbk2sPNjbc_GXS4TY-h2F8Mp6dg4VFBgBwvEyxTmI</guid>
+      <pubDate>Tue, 23 Aug 2016 05:16:11 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:14:22</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/7211566b-1a31-4b4a-a69f-2ffacedd0680.mp3" type="audio/mpeg" length="71729319" />
+    </item>
+    <item>
+      <title>Matt McCarthy, Scotty Landes, and Karen Kilgariff</title>
+      <description>
+        <![CDATA[Live from The Improv Lab in Los Angeles, Julian welcomes Matt McCarthy, Scotty Landes, and Karen Kilgariff to the show. ]]>
+      </description>
+      <itunes:title>Matt McCarthy, Scotty Landes, and Karen Kilgariff</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from The Improv Lab in Los Angeles, Julian welcomes Matt McCarthy, Scotty Landes, and Karen Kilgariff to the show. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from The Improv Lab in Los Angeles, Julian welcomes Matt McCarthy, Scotty Landes, and Karen Kilgariff to the show. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/X0c2rrSDsqe0tw612PvRhcQIU2ApjUmdIfka8E0p_Yg</guid>
+      <pubDate>Mon, 18 Jul 2016 19:37:56 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>01:22:49</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/69ce7486-2cc8-4327-a89c-d9a679b82be6.mp3" type="audio/mpeg" length="79894151" />
+    </item>
+    <item>
+      <title>Marc Maron, Jonah Ray and Mary Kobayashi guest</title>
+      <description>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Marc Maron, Jonah Ray and Mary Kobayashi from Bad in Bed to the show.]]>
+      </description>
+      <itunes:title>Marc Maron, Jonah Ray and Mary Kobayashi guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Improv Lab in Los Angeles, Julian welcomes Marc Maron, Jonah Ray and Mary Kobayashi from Bad in Bed to the show.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Improv Lab in Los Angeles, Julian welcomes Marc Maron, Jonah Ray and Mary Kobayashi from Bad in Bed to the show.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/j9po_XzwlMkTvcOc_I-FWMc3MULsm4lDmC_Fl6la340</guid>
+      <pubDate>Tue, 21 Jun 2016 17:45:52 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:57:20</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/e3786faf-bc96-4b48-a616-e778fff81180.mp3" type="audio/mpeg" length="55047732" />
+    </item>
+    <item>
+      <title>Eddie Pepitone, Sara Schaefer, Morgan Murphy and Hutch Harris guest</title>
+      <description>
+        <![CDATA[Live from the Bridgetown Comedy Festival in Portland, OR, Julian welcomes comics Eddie Pepitone, Sara Schaefer, Morgan Murphy and Hutch Harris from The Thermals to the show.]]>
+      </description>
+      <itunes:title>Eddie Pepitone, Sara Schaefer, Morgan Murphy and Hutch Harris guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from the Bridgetown Comedy Festival in Portland, OR, Julian welcomes comics Eddie Pepitone, Sara Schaefer, Morgan Murphy and Hutch Harris from The Thermals to the show.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from the Bridgetown Comedy Festival in Portland, OR, Julian welcomes comics Eddie Pepitone, Sara Schaefer, Morgan Murphy and Hutch Harris from The Thermals to the show.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/W1X5t7jebGj8F8bRjx2EKDHBejYQ9TcyWfP-r4Rwydk</guid>
+      <pubDate>Tue, 07 Jun 2016 21:23:39 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:57:18</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3163e244-fe42-43d0-a26a-202b57c17b10.mp3" type="audio/mpeg" length="55020564" />
+    </item>
+    <item>
+      <title>Jimmy Pardo, Karen Kilgariff and Jensen Karp guest</title>
+      <description>
+        <![CDATA[Live from UCB Sunset in Hollywood, Julian welcomes Jimmy Pardo, Karen Kilgariff and Jensen Karp to the show.]]>
+      </description>
+      <itunes:title>Jimmy Pardo, Karen Kilgariff and Jensen Karp guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from UCB Sunset in Hollywood, Julian welcomes Jimmy Pardo, Karen Kilgariff and Jensen Karp to the show.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from UCB Sunset in Hollywood, Julian welcomes Jimmy Pardo, Karen Kilgariff and Jensen Karp to the show.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/wpDb3-oK0V8g9jtd2Hef_a0rO0vEsc7SO3Wp_ir0bWw</guid>
+      <pubDate>Mon, 09 May 2016 07:35:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:53:54</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/44a0f041-ccca-4b3f-98cc-74a4e5556c1d.mp3" type="audio/mpeg" length="51750870" />
+    </item>
+    <item>
+      <title>Moshe Kasher, Jon Daly, Karen Kilgariff</title>
+      <description>
+        <![CDATA[Julian welcomes Moshe Kasher, Jon Daly, and Karen Kilgariff to the UCB Franklin Theatre.
+]]>
+      </description>
+      <itunes:title>Moshe Kasher, Jon Daly, Karen Kilgariff</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Julian welcomes Moshe Kasher, Jon Daly, and Karen Kilgariff to the UCB Franklin Theatre.
+</itunes:summary>
+      <content:encoded>
+        <![CDATA[Julian welcomes Moshe Kasher, Jon Daly, and Karen Kilgariff to the UCB Franklin Theatre.
+]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/PopDYhxJptG3Yurvxw31mCpFQ4v2_mXrlMfjIMLwupg</guid>
+      <pubDate>Wed, 13 Apr 2016 17:36:41 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,music</itunes:keywords>
+      <itunes:duration>00:50:26</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/8815aa7b-6032-47c8-a6e5-ebb47418d015.mp3" type="audio/mpeg" length="48417645" />
+    </item>
+    <item>
+      <title>Chantel Claret, Damien Fahey, April Richardson and Gideon Yago guest</title>
+      <description>
+        <![CDATA[Julian welcomes Chantel Claret, Damien Fahey, April Richardson and Gideon Yago to the UCB Subset theatre for the 2nd 1st episode of JLM. ]]>
+      </description>
+      <itunes:title>Chantel Claret, Damien Fahey, April Richardson and Gideon Yago guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Julian welcomes Chantel Claret, Damien Fahey, April Richardson and Gideon Yago to the UCB Subset theatre for the 2nd 1st episode of JLM. </itunes:summary>
+      <content:encoded>
+        <![CDATA[Julian welcomes Chantel Claret, Damien Fahey, April Richardson and Gideon Yago to the UCB Subset theatre for the 2nd 1st episode of JLM. ]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/TvaH0mImWCiuBtOJbigtUJ5e68LXlv8bZAuUxJsuHGY</guid>
+      <pubDate>Fri, 04 Mar 2016 20:35:34 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,Music</itunes:keywords>
+      <itunes:duration>00:58:39</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/3823cd92-36e2-437c-90ee-3a79c393a447.mp3" type="audio/mpeg" length="56305789" />
+    </item>
+    <item>
+      <title>Jonah Ray, Kumail Nanjiani and Emily Gordon guest</title>
+      <description>
+        <![CDATA[Live from The Meltdown in Los Angeles, Julian welcomes Jonah Ray, Kumail Nanjiani and Emily Gordon to the show for a special 10 minute preview of JLM.]]>
+      </description>
+      <itunes:title>Jonah Ray, Kumail Nanjiani and Emily Gordon guest</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Live from The Meltdown in Los Angeles, Julian welcomes Jonah Ray, Kumail Nanjiani and Emily Gordon to the show for a special 10 minute preview of JLM.</itunes:summary>
+      <content:encoded>
+        <![CDATA[Live from The Meltdown in Los Angeles, Julian welcomes Jonah Ray, Kumail Nanjiani and Emily Gordon to the show for a special 10 minute preview of JLM.]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/6HbF3_pPaG4kX3cM7Oyf179negovvVIwiAW35o4XcOQ</guid>
+      <pubDate>Sat, 20 Feb 2016 07:07:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,Music</itunes:keywords>
+      <itunes:duration>00:15:16</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/f48ad5cf-d918-490c-bece-36b377f77bf9.mp3" type="audio/mpeg" length="14669113" />
+    </item>
+    <item>
+      <title>Julian Loves Music*</title>
+      <description>
+        <![CDATA[*Isn't here yet! Listen to Julian barely explain what happened to the now mythical first episode while getting you excited for the real first episode on March 3rd!]]>
+      </description>
+      <itunes:title>Julian Loves Music*</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>*Isn't here yet! Listen to Julian barely explain what happened to the now mythical first episode while getting you excited for the real first episode on March 3rd!</itunes:summary>
+      <content:encoded>
+        <![CDATA[*Isn't here yet! Listen to Julian barely explain what happened to the now mythical first episode while getting you excited for the real first episode on March 3rd!]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/tNyXKpj64g4pcJD9ecChgiB8GByjs5pZUCwg005FZ0s</guid>
+      <pubDate>Fri, 05 Feb 2016 18:22:42 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/57/3d/08/52/573d0852-23e1-4b73-91fb-87921f41f549/40acc1a120d790aa6e5aea5547f7ae933592ac9783c0fd29b2cb7f832d4d2886319e4b1d9b6da1b2ad1cfda1044d340abc0462e35b35f3b9f7beac602d3fbb87.jpeg" />
+      <itunes:keywords>Comedy,Music</itunes:keywords>
+      <itunes:duration>00:05:10</itunes:duration>
+      <enclosure url="http://rss.art19.com/episodes/654bb39c-cc5f-43f5-b285-b98a4ac7399a.mp3" type="audio/mpeg" length="4964101" />
+    </item>
+  </channel>
+</rss>

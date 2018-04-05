@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stand By Your Band</title>
+    <link>http://standbyyourband.podomatic.com</link>
+    <description>Tom Thakkar and Tommy McNamara talk about the bands that Pitchfork attacks and your friends make fun of. The comics have on guests who love a band that everyone seems to hate, and together they give that band a fair chance.</description>
+    <language>en-us</language>
+    <generator>podOmatic RSS Generator</generator>
+    <pubDate>Sat, 31 Mar 2018 22:27:11 +0000</pubDate>
+    <itunes:keywords>tom,thakkar,tommy,mcnamara,comedy,music,guilty,pleasure,bands,coldplay,dave,matthews,band,john,mayer,barenaked,ladies</itunes:keywords>
+    <itunes:subtitle>Tom Thakkar and Tommy McNamara defend the bands that society loves to hate along with passionate guests!</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.podomatic.net/ts/53/5a/a7/tomathakkar/pro/1400x1400_12053959.jpg"/>
+    <itunes:author>Thomas Thakkar</itunes:author>
+    <itunes:summary>Tom Thakkar and Tommy McNamara talk about the bands that Pitchfork attacks and your friends make fun of. The comics have on guests who love a band that everyone seems to hate, and together they give that band a fair chance.</itunes:summary>
+    <itunes:category text="Comedy"/>
+    <atom:link href="http://standbyyourband.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>52: ANNIVERSARY/Taylor Swift with Doug Benson</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;The host of Doug Loves Movies himself comes on to defend Tay Tay</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-03-26T20_35_21-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-26T20_35_21-07_00</comments>
+      <pubDate>Tue, 27 Mar 2018 03:35:21 +0000</pubDate>
+      <dcterms:modified>2018-03-27</dcterms:modified>
+      <dcterms:created>2018-03-27</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-26T20_35_21-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-03-26T20_35_21-07_00.mp3" length="119411277" type="audio/mpeg"/>
+      <itunes:duration>4975</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>The host of Doug Loves Movies himself comes on to defend Tay Tay</itunes:summary>
+      <itunes:subtitle>The host of Doug Loves Movies himself comes on to defend Tay Tay</itunes:subtitle>
+    </item>
+    <item>
+      <title>51: Slipknot with Nicky Martin</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Nicky comes on to defend the Masked Men of Moines...Des that is. </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-03-21T11_11_55-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-21T11_11_55-07_00</comments>
+      <pubDate>Wed, 21 Mar 2018 18:11:55 +0000</pubDate>
+      <dcterms:modified>2018-03-21</dcterms:modified>
+      <dcterms:created>2018-03-21</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-21T11_11_55-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-03-21T11_11_55-07_00.mp3" length="48703241" type="audio/mpeg"/>
+      <itunes:duration>4058</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Nicky comes on to defend the Masked Men of Moines...Des that is. </itunes:summary>
+      <itunes:subtitle>Nicky comes on to defend the Masked Men of Moines...Des that is. </itunes:subtitle>
+    </item>
+    <item>
+      <title>50: Garth Brooks with Jessica Michelle Singleton</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;We celebrate 50 episodes in low places with Jessica Michelle Singleton talking Garth Brooks! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-03-13T21_11_28-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-13T21_11_28-07_00</comments>
+      <pubDate>Wed, 14 Mar 2018 04:11:28 +0000</pubDate>
+      <dcterms:modified>2018-03-14</dcterms:modified>
+      <dcterms:created>2018-03-14</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-13T21_11_28-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-03-13T21_11_28-07_00.mp3" length="59402898" type="audio/mpeg"/>
+      <itunes:duration>4949</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>We celebrate 50 episodes in low places with Jessica Michelle Singleton talking Garth Brooks! </itunes:summary>
+      <itunes:subtitle>We celebrate 50 episodes in low places with Jessica Michelle Singleton talking Garth Brooks! </itunes:subtitle>
+    </item>
+    <item>
+      <title>49: AQUA with Liza Treyger</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Liza comes on to tell the boys what's what about these Danish darlings, AQUA!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-03-06T19_32_54-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-06T19_32_54-08_00</comments>
+      <pubDate>Wed, 07 Mar 2018 03:32:54 +0000</pubDate>
+      <dcterms:modified>2018-03-07</dcterms:modified>
+      <dcterms:created>2018-03-07</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-06T19_32_54-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-03-06T19_32_54-08_00.mp3" length="44976085" type="audio/mpeg"/>
+      <itunes:duration>3747</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Liza comes on to tell the boys what's what about these Danish darlings, AQUA!</itunes:summary>
+      <itunes:subtitle>Liza comes on to tell the boys what's what about these Danish darlings, AQUA!</itunes:subtitle>
+    </item>
+    <item>
+      <title>BONUS: Are You the One with John &quot;JJ&quot; Jacobs</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;John Jacobs, JJ from Are You the One season one talks Are You the One in a very random interview with Tom Thakkar! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-03-05T13_37_37-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-05T13_37_37-08_00</comments>
+      <pubDate>Mon, 05 Mar 2018 21:37:37 +0000</pubDate>
+      <dcterms:modified>2018-03-05</dcterms:modified>
+      <dcterms:created>2018-03-05</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-03-05T13_37_37-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-03-05T13_37_37-08_00.mp3" length="34668598" type="audio/mpeg"/>
+      <itunes:duration>2888</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>John Jacobs, JJ from Are You the One season one talks Are You the One in a very random interview with Tom Thakkar! </itunes:summary>
+      <itunes:subtitle>John Jacobs, JJ from Are You the One season one talks Are You the One in a very random interview ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>48: Phil Collins with Patton Oswalt</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;The two idiot boys themselves, Tommy McNamara and Tom Thakkar had the privilege of sitting down with Patton Oswalt! 
+Patreon.com/standbyyourband</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-02-27T20_33_43-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-27T20_33_43-08_00</comments>
+      <pubDate>Wed, 28 Feb 2018 04:33:43 +0000</pubDate>
+      <dcterms:modified>2018-02-28</dcterms:modified>
+      <dcterms:created>2018-02-28</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-27T20_33_43-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-02-27T20_33_43-08_00.mp3" length="24717811" type="audio/mpeg"/>
+      <itunes:duration>2059</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The two idiot boys themselves, Tommy McNamara and Tom Thakkar had the privilege of sitting down with Patton Oswalt! 
+Patreon.com/standbyyourband</itunes:summary>
+      <itunes:subtitle>The two idiot boys themselves, Tommy McNamara and Tom Thakkar had the privilege of sitting down w...</itunes:subtitle>
+    </item>
+    <item>
+      <title>47: Weezer with Nick Lavallee</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;A very serious Weezer episode with Nick Lavallee! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-02-21T06_31_06-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-21T06_31_06-08_00</comments>
+      <pubDate>Wed, 21 Feb 2018 14:31:06 +0000</pubDate>
+      <dcterms:modified>2018-02-21</dcterms:modified>
+      <dcterms:created>2018-02-21</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-21T06_31_06-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-02-21T06_31_06-08_00.mp3" length="52002703" type="audio/mpeg"/>
+      <itunes:duration>4334</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>A very serious Weezer episode with Nick Lavallee! </itunes:summary>
+      <itunes:subtitle>A very serious Weezer episode with Nick Lavallee! </itunes:subtitle>
+    </item>
+    <item>
+      <title>46: Blues Traveler with Tim McLaughlin</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Timmy McLaughs comes on to talk Blues Traveler!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-02-14T08_06_08-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-14T08_06_08-08_00</comments>
+      <pubDate>Wed, 14 Feb 2018 16:06:08 +0000</pubDate>
+      <dcterms:modified>2018-02-14</dcterms:modified>
+      <dcterms:created>2018-02-14</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-14T08_06_08-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-02-14T08_06_08-08_00.mp3" length="54766382" type="audio/mpeg"/>
+      <itunes:duration>4563</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Timmy McLaughs comes on to talk Blues Traveler!</itunes:summary>
+      <itunes:subtitle>Timmy McLaughs comes on to talk Blues Traveler!</itunes:subtitle>
+    </item>
+    <item>
+      <title>45: Creed with Nicole Boyce</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Nicole comes by to talk Stapp and the gang!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-02-07T16_52_03-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-07T16_52_03-08_00</comments>
+      <pubDate>Thu, 08 Feb 2018 00:52:03 +0000</pubDate>
+      <dcterms:modified>2018-02-08</dcterms:modified>
+      <dcterms:created>2018-02-08</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-02-07T16_52_03-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-02-07T16_52_03-08_00.mp3" length="58885658" type="audio/mpeg"/>
+      <itunes:duration>4906</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Nicole comes by to talk Stapp and the gang!</itunes:summary>
+      <itunes:subtitle>Nicole comes by to talk Stapp and the gang!</itunes:subtitle>
+    </item>
+    <item>
+      <title>44: Rock &amp; Roll Hall of Fame with Joe Kwaczala</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Joe joins us again to talk about the Rock and Roll Hall of Fame inductees! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-01-31T10_40_15-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-31T10_40_15-08_00</comments>
+      <pubDate>Wed, 31 Jan 2018 18:40:15 +0000</pubDate>
+      <dcterms:modified>2018-01-31</dcterms:modified>
+      <dcterms:created>2018-01-31</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-31T10_40_15-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-01-31T10_40_15-08_00.mp3" length="55426245" type="audio/mpeg"/>
+      <itunes:duration>4618</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Joe joins us again to talk about the Rock and Roll Hall of Fame inductees! </itunes:summary>
+      <itunes:subtitle>Joe joins us again to talk about the Rock and Roll Hall of Fame inductees! </itunes:subtitle>
+    </item>
+    <item>
+      <title>43: Panic! At the Disco with Will Miles</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Panic! At the Disco with Will Miles (Chris Gethard show)! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-01-24T11_07_05-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-24T11_07_05-08_00</comments>
+      <pubDate>Wed, 24 Jan 2018 19:07:05 +0000</pubDate>
+      <dcterms:modified>2018-01-24</dcterms:modified>
+      <dcterms:created>2018-01-24</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-24T11_07_05-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-01-24T11_07_05-08_00.mp3" length="71101271" type="audio/mpeg"/>
+      <itunes:duration>5925</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Panic! At the Disco with Will Miles (Chris Gethard show)! </itunes:summary>
+      <itunes:subtitle>Panic! At the Disco with Will Miles (Chris Gethard show)! </itunes:subtitle>
+    </item>
+    <item>
+      <title>42: Kings of Leon with Doug Smith</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Doug Smith (Conan) comes on to talk Kings of Leon! Tom is NOT having them...</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-01-17T13_37_23-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-17T13_37_23-08_00</comments>
+      <pubDate>Wed, 17 Jan 2018 21:37:23 +0000</pubDate>
+      <dcterms:modified>2018-01-17</dcterms:modified>
+      <dcterms:created>2018-01-17</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-17T13_37_23-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-01-17T13_37_23-08_00.mp3" length="71226646" type="audio/mpeg"/>
+      <itunes:duration>5935</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Doug Smith (Conan) comes on to talk Kings of Leon! Tom is NOT having them...</itunes:summary>
+      <itunes:subtitle>Doug Smith (Conan) comes on to talk Kings of Leon! Tom is NOT having them...</itunes:subtitle>
+    </item>
+    <item>
+      <title>41: Chumbawamba with Jeremy Hammond</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Jeremy Hammond comes on to talk about the blokes from Burnley, the Tubthumpin' troubadours, Chumbawamaba </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-01-10T10_47_21-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-10T10_47_21-08_00</comments>
+      <pubDate>Wed, 10 Jan 2018 18:47:21 +0000</pubDate>
+      <dcterms:modified>2018-01-10</dcterms:modified>
+      <dcterms:created>2018-01-10</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-10T10_47_21-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-01-10T10_47_21-08_00.mp3" length="51449860" type="audio/mpeg"/>
+      <itunes:duration>4286</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jeremy Hammond comes on to talk about the blokes from Burnley, the Tubthumpin' troubadours, Chumbawamaba </itunes:summary>
+      <itunes:subtitle>Jeremy Hammond comes on to talk about the blokes from Burnley, the Tubthumpin' troubadours, Chumb...</itunes:subtitle>
+    </item>
+    <item>
+      <title>40: Fall Out Boy with Samantha Ruddy</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Sam Ruddy comes on to talk about the poetic sounds that Pete Wentz and Patrick Stump have created.</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2018-01-03T12_10_26-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-03T12_10_26-08_00</comments>
+      <pubDate>Wed, 03 Jan 2018 20:10:26 +0000</pubDate>
+      <dcterms:modified>2018-01-03</dcterms:modified>
+      <dcterms:created>2018-01-03</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2018-01-03T12_10_26-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2018-01-03T12_10_26-08_00.mp3" length="74079854" type="audio/mpeg"/>
+      <itunes:duration>6172</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sam Ruddy comes on to talk about the poetic sounds that Pete Wentz and Patrick Stump have created.</itunes:summary>
+      <itunes:subtitle>Sam Ruddy comes on to talk about the poetic sounds that Pete Wentz and Patrick Stump have created.</itunes:subtitle>
+    </item>
+    <item>
+      <title>39: The Mighty Mighty Bosstones with John Rosenberger</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Johnny Ro comes on to talk some ska! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-12-26T22_21_26-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-26T22_21_26-08_00</comments>
+      <pubDate>Wed, 27 Dec 2017 06:21:26 +0000</pubDate>
+      <dcterms:modified>2017-12-27</dcterms:modified>
+      <dcterms:created>2017-12-27</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-26T22_21_26-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-12-26T22_21_26-08_00.mp3" length="37914581" type="audio/mpeg"/>
+      <itunes:duration>3158</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Johnny Ro comes on to talk some ska! </itunes:summary>
+      <itunes:subtitle>Johnny Ro comes on to talk some ska! </itunes:subtitle>
+    </item>
+    <item>
+      <title>38: Justin Bieber with Rosebud Baker</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Rosebud comes on to defend the little spitting boy himself, Justin Bieber. </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-12-20T09_41_27-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-20T09_41_27-08_00</comments>
+      <pubDate>Wed, 20 Dec 2017 17:41:27 +0000</pubDate>
+      <dcterms:modified>2017-12-20</dcterms:modified>
+      <dcterms:created>2017-12-20</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-20T09_41_27-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-12-20T09_41_27-08_00.mp3" length="67535231" type="audio/mpeg"/>
+      <itunes:duration>5627</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Rosebud comes on to defend the little spitting boy himself, Justin Bieber. </itunes:summary>
+      <itunes:subtitle>Rosebud comes on to defend the little spitting boy himself, Justin Bieber. </itunes:subtitle>
+    </item>
+    <item>
+      <title>37: 50 Cent with Mike Recine</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Mike Recine returns to talk 50 Cent! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-12-13T19_41_36-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-13T19_41_36-08_00</comments>
+      <pubDate>Thu, 14 Dec 2017 03:41:36 +0000</pubDate>
+      <dcterms:modified>2017-12-14</dcterms:modified>
+      <dcterms:created>2017-12-14</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-13T19_41_36-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-12-13T19_41_36-08_00.mp3" length="62809364" type="audio/mpeg"/>
+      <itunes:duration>5233</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mike Recine returns to talk 50 Cent! </itunes:summary>
+      <itunes:subtitle>Mike Recine returns to talk 50 Cent! </itunes:subtitle>
+    </item>
+    <item>
+      <title>36: Vampire Weekend with Julia Claire</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;From Boat Shoes to making Tommy snooze, Julia Claire comes on to talk Vampire Weekend! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-12-06T09_17_09-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-06T09_17_09-08_00</comments>
+      <pubDate>Wed, 06 Dec 2017 17:17:09 +0000</pubDate>
+      <dcterms:modified>2017-12-06</dcterms:modified>
+      <dcterms:created>2017-12-06</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-12-06T09_17_09-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-12-06T09_17_09-08_00.mp3" length="80446100" type="audio/mpeg"/>
+      <itunes:duration>6703</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>From Boat Shoes to making Tommy snooze, Julia Claire comes on to talk Vampire Weekend! </itunes:summary>
+      <itunes:subtitle>From Boat Shoes to making Tommy snooze, Julia Claire comes on to talk Vampire Weekend! </itunes:subtitle>
+    </item>
+    <item>
+      <title>35: LIVE in Chicago - Sublime with Tim McLaughlin</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Tim joins us at the Lincoln Lodge for our first live show!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-29T01_13_27-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-29T01_13_27-08_00</comments>
+      <pubDate>Wed, 29 Nov 2017 09:13:27 +0000</pubDate>
+      <dcterms:modified>2017-11-29</dcterms:modified>
+      <dcterms:created>2017-11-29</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-29T01_13_27-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-29T01_13_27-08_00.mp3" length="38360295" type="audio/mpeg"/>
+      <itunes:duration>3196</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tim joins us at the Lincoln Lodge for our first live show!</itunes:summary>
+      <itunes:subtitle>Tim joins us at the Lincoln Lodge for our first live show!</itunes:subtitle>
+    </item>
+    <item>
+      <title>34: The Killers with Mike Cronin</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Mike Cronin comes on to defend the Flower Boys, The Killers!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-22T11_16_43-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-22T11_16_43-08_00</comments>
+      <pubDate>Wed, 22 Nov 2017 19:16:43 +0000</pubDate>
+      <dcterms:modified>2017-11-22</dcterms:modified>
+      <dcterms:created>2017-11-22</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-22T11_16_43-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-22T11_16_43-08_00.mp3" length="62078363" type="audio/mpeg"/>
+      <itunes:duration>5172</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mike Cronin comes on to defend the Flower Boys, The Killers!</itunes:summary>
+      <itunes:subtitle>Mike Cronin comes on to defend the Flower Boys, The Killers!</itunes:subtitle>
+    </item>
+    <item>
+      <title>33: Kid Rock with Will Winner and Mike Abrusci</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Mike and Will come on to talk the Kid, Kid Rock!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-15T13_10_26-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-15T13_10_26-08_00</comments>
+      <pubDate>Wed, 15 Nov 2017 21:10:26 +0000</pubDate>
+      <dcterms:modified>2017-11-15</dcterms:modified>
+      <dcterms:created>2017-11-15</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-15T13_10_26-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-15T13_10_26-08_00.mp3" length="67695720" type="audio/mpeg"/>
+      <itunes:duration>5640</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mike and Will come on to talk the Kid, Kid Rock!</itunes:summary>
+      <itunes:subtitle>Mike and Will come on to talk the Kid, Kid Rock!</itunes:subtitle>
+    </item>
+    <item>
+      <title>32: Good Charlotte with Blair Socci</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Blair Socci comes on to talk Good Charlotte! Check out our sponsor SudioSweden.com and use promo code BAND15 for a discount! 
+Also our patreon has a bunch of good new stuff! Patreon.com/standbyyourband
+</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-08T01_00_00-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-08T01_00_00-08_00</comments>
+      <pubDate>Wed, 08 Nov 2017 09:00:00 +0000</pubDate>
+      <dcterms:modified>2017-11-08</dcterms:modified>
+      <dcterms:created>2017-11-08</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-08T01_00_00-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords>coldplay,band,good,charlotte,blair,socci,creed,nickelback,guilty,pleasure</itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-08T01_00_00-08_00.mp3" length="152617095" type="audio/mpeg"/>
+      <itunes:duration>6358</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Blair Socci comes on to talk Good Charlotte! Check out our sponsor SudioSweden.com and use promo code BAND15 for a discount! 
+Also our patreon has a bunch of good new stuff! Patreon.com/standbyyourband
+</itunes:summary>
+      <itunes:subtitle>Blair Socci comes on to talk Good Charlotte! Check out our sponsor SudioSweden.com and use promo ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>BONUS: The Chipmunks with Phoebe Bottoms preview</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;This is a preview of our bonus episode with Phoebe Bottoms talking about The Chipmunks music! Patreon.com/standbyyourband for the full ep and more!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-06T13_56_06-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-06T13_56_06-08_00</comments>
+      <pubDate>Mon, 06 Nov 2017 21:56:06 +0000</pubDate>
+      <dcterms:modified>2017-11-06</dcterms:modified>
+      <dcterms:created>2017-11-06</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-06T13_56_06-08_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-06T13_56_06-08_00.mp3" length="22596453" type="audio/mpeg"/>
+      <itunes:duration>1883</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This is a preview of our bonus episode with Phoebe Bottoms talking about The Chipmunks music! Patreon.com/standbyyourband for the full ep and more!</itunes:summary>
+      <itunes:subtitle>This is a preview of our bonus episode with Phoebe Bottoms talking about The Chipmunks music! Pat...</itunes:subtitle>
+    </item>
+    <item>
+      <title>31: Fun. with Patrick Hastie</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Patrick Hastie from Nostalgic Front comes on to talk Fun.!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-11-01T13_32_37-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-01T13_32_37-07_00</comments>
+      <pubDate>Wed, 01 Nov 2017 20:32:37 +0000</pubDate>
+      <dcterms:modified>2017-11-01</dcterms:modified>
+      <dcterms:created>2017-11-01</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-11-01T13_32_37-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-11-01T13_32_37-07_00.mp3" length="53928468" type="audio/mpeg"/>
+      <itunes:duration>4493</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12455417.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Patrick Hastie from Nostalgic Front comes on to talk Fun.!</itunes:summary>
+      <itunes:subtitle>Patrick Hastie from Nostalgic Front comes on to talk Fun.!</itunes:subtitle>
+    </item>
+    <item>
+      <title>30: Third Eye Blind with Teresa Lee</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Teresa Lee comes on to defend Third Eye Blind!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-10-25T11_26_41-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-25T11_26_41-07_00</comments>
+      <pubDate>Wed, 25 Oct 2017 18:26:41 +0000</pubDate>
+      <dcterms:modified>2017-10-25</dcterms:modified>
+      <dcterms:created>2017-10-25</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-25T11_26_41-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-10-25T11_26_41-07_00.mp3" length="68230512" type="audio/mpeg"/>
+      <itunes:duration>5685</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Teresa Lee comes on to defend Third Eye Blind!</itunes:summary>
+      <itunes:subtitle>Teresa Lee comes on to defend Third Eye Blind!</itunes:subtitle>
+    </item>
+    <item>
+      <title>29: Macklemore with Kenny DeForest</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Kenny DeForest comes on to talk Macklemore!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-10-18T12_17_06-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-18T12_17_06-07_00</comments>
+      <pubDate>Wed, 18 Oct 2017 19:17:06 +0000</pubDate>
+      <dcterms:modified>2017-10-18</dcterms:modified>
+      <dcterms:created>2017-10-18</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-18T12_17_06-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-10-18T12_17_06-07_00.mp3" length="68569367" type="audio/mpeg"/>
+      <itunes:duration>5713</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Kenny DeForest comes on to talk Macklemore!</itunes:summary>
+      <itunes:subtitle>Kenny DeForest comes on to talk Macklemore!</itunes:subtitle>
+    </item>
+    <item>
+      <title>BONUS: Worst Song On Spotify Volume 1</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;This is a bonus weekly feature that will be on our Patreon, but this one is free! Patreon.com/standbyyourband</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-10-17T09_11_23-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-17T09_11_23-07_00</comments>
+      <pubDate>Tue, 17 Oct 2017 16:11:23 +0000</pubDate>
+      <dcterms:modified>2017-10-17</dcterms:modified>
+      <dcterms:created>2017-10-17</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-17T09_11_23-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-10-17T09_11_23-07_00.mp3" length="11843199" type="audio/mpeg"/>
+      <itunes:duration>987</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This is a bonus weekly feature that will be on our Patreon, but this one is free! Patreon.com/standbyyourband</itunes:summary>
+      <itunes:subtitle>This is a bonus weekly feature that will be on our Patreon, but this one is free! Patreon.com/sta...</itunes:subtitle>
+    </item>
+    <item>
+      <title>28: Hilary Duff with Brian Falduto from School of Rock!</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Brian Falduto (School of Rock) comes on to talk teen idol Hilary Duff! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-10-11T13_40_15-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-11T13_40_15-07_00</comments>
+      <pubDate>Wed, 11 Oct 2017 20:40:15 +0000</pubDate>
+      <dcterms:modified>2017-10-11</dcterms:modified>
+      <dcterms:created>2017-10-11</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-11T13_40_15-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-10-11T13_40_15-07_00.mp3" length="46438751" type="audio/mpeg"/>
+      <itunes:duration>3869</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Brian Falduto (School of Rock) comes on to talk teen idol Hilary Duff! </itunes:summary>
+      <itunes:subtitle>Brian Falduto (School of Rock) comes on to talk teen idol Hilary Duff! </itunes:subtitle>
+    </item>
+    <item>
+      <title>27: Foo Fighters with Shane Torres</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Shane comes on to talk Foo Fighters!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-10-04T13_52_29-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-04T13_52_29-07_00</comments>
+      <pubDate>Wed, 04 Oct 2017 20:52:29 +0000</pubDate>
+      <dcterms:modified>2017-10-04</dcterms:modified>
+      <dcterms:created>2017-10-04</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-10-04T13_52_29-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-10-04T13_52_29-07_00.mp3" length="74561342" type="audio/mpeg"/>
+      <itunes:duration>6212</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Shane comes on to talk Foo Fighters!</itunes:summary>
+      <itunes:subtitle>Shane comes on to talk Foo Fighters!</itunes:subtitle>
+    </item>
+    <item>
+      <title>26: Maroon 5 with Joel Kim Booster </title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Joel Kim Booster comes on to talk Maroon 5 to the boys! Rate and review on iTunes for a good time! Patreon.com/standbyyourband</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-09-26T23_38_53-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-26T23_38_53-07_00</comments>
+      <pubDate>Wed, 27 Sep 2017 06:38:53 +0000</pubDate>
+      <dcterms:modified>2017-09-27</dcterms:modified>
+      <dcterms:created>2017-09-27</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-26T23_38_53-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-09-26T23_38_53-07_00.mp3" length="55961636" type="audio/mpeg"/>
+      <itunes:duration>4662</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Joel Kim Booster comes on to talk Maroon 5 to the boys! Rate and review on iTunes for a good time! Patreon.com/standbyyourband</itunes:summary>
+      <itunes:subtitle>Joel Kim Booster comes on to talk Maroon 5 to the boys! Rate and review on iTunes for a good time...</itunes:subtitle>
+    </item>
+    <item>
+      <title>25: P!NK with Megan Gailey</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Megan Gailey comes on to talk P!NK to the boys Tom and Tommy! E-mail us at standbyyourbandpod@gmail.com with questions or comments! Rate and review if you're a sweetie!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-09-20T09_49_20-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-20T09_49_20-07_00</comments>
+      <pubDate>Wed, 20 Sep 2017 16:49:20 +0000</pubDate>
+      <dcterms:modified>2017-09-20</dcterms:modified>
+      <dcterms:created>2017-09-20</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-20T09_49_20-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-09-20T09_49_20-07_00.mp3" length="61882317" type="audio/mpeg"/>
+      <itunes:duration>5156</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Megan Gailey comes on to talk P!NK to the boys Tom and Tommy! E-mail us at standbyyourbandpod@gmail.com with questions or comments! Rate and review if you're a sweetie!</itunes:summary>
+      <itunes:subtitle>Megan Gailey comes on to talk P!NK to the boys Tom and Tommy! E-mail us at standbyyourbandpod@gma...</itunes:subtitle>
+    </item>
+    <item>
+      <title>24: Umphrey's McGee with Brett Arnold</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Brett Arnold (@BrettRedacted) joins the boys to talk Umphrey's McGee!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-09-13T11_52_29-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-13T11_52_29-07_00</comments>
+      <pubDate>Wed, 13 Sep 2017 18:52:29 +0000</pubDate>
+      <dcterms:modified>2017-09-13</dcterms:modified>
+      <dcterms:created>2017-09-13</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-13T11_52_29-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-09-13T11_52_29-07_00.mp3" length="71422758" type="audio/mpeg"/>
+      <itunes:duration>5952</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12364720.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Brett Arnold (@BrettRedacted) joins the boys to talk Umphrey's McGee!</itunes:summary>
+      <itunes:subtitle>Brett Arnold (@BrettRedacted) joins the boys to talk Umphrey's McGee!</itunes:subtitle>
+    </item>
+    <item>
+      <title>23: Toby Keith with Ryan Beck</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Ryan Beck comes on to talk country music star, Toby Keith, to the piss boys! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-09-06T00_20_14-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-06T00_20_14-07_00</comments>
+      <pubDate>Wed, 06 Sep 2017 07:20:14 +0000</pubDate>
+      <dcterms:modified>2017-09-06</dcterms:modified>
+      <dcterms:created>2017-09-06</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-09-06T00_20_14-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-09-06T00_20_14-07_00.mp3" length="135996915" type="audio/mpeg"/>
+      <itunes:duration>5665</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ryan Beck comes on to talk country music star, Toby Keith, to the piss boys! </itunes:summary>
+      <itunes:subtitle>Ryan Beck comes on to talk country music star, Toby Keith, to the piss boys! </itunes:subtitle>
+    </item>
+    <item>
+      <title>22: Coldplay with Jared Thompson</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Tom Thakkar is on the road, so he stops by Bloomington to talk to Jared Thompson about Coldplay! Normal episodes are back next week!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-30T07_59_36-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-30T07_59_36-07_00</comments>
+      <pubDate>Wed, 30 Aug 2017 14:59:36 +0000</pubDate>
+      <dcterms:modified>2017-08-30</dcterms:modified>
+      <dcterms:created>2017-08-30</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-30T07_59_36-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-30T07_59_36-07_00.mp3" length="77165038" type="audio/mpeg"/>
+      <itunes:duration>6429</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tom Thakkar is on the road, so he stops by Bloomington to talk to Jared Thompson about Coldplay! Normal episodes are back next week!</itunes:summary>
+      <itunes:subtitle>Tom Thakkar is on the road, so he stops by Bloomington to talk to Jared Thompson about Coldplay! ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>21: Audioslave with Eli Yudin</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Eli Yudin comes on to talk about Audioslave! Rate and review on iTunes! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-23T02_00_00-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-23T02_00_00-07_00</comments>
+      <pubDate>Wed, 23 Aug 2017 09:00:00 +0000</pubDate>
+      <dcterms:modified>2017-08-23</dcterms:modified>
+      <dcterms:created>2017-08-23</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-23T02_00_00-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords>audioslave,tom,thakkar,tommy,mcnamara,eli,yudin</itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-23T02_00_00-07_00.mp3" length="133428981" type="audio/mpeg"/>
+      <itunes:duration>5558</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Eli Yudin comes on to talk about Audioslave! Rate and review on iTunes! </itunes:summary>
+      <itunes:subtitle>Eli Yudin comes on to talk about Audioslave! Rate and review on iTunes! </itunes:subtitle>
+    </item>
+    <item>
+      <title>20: Rancid with Mary Houlihan</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Mary Houlihan comes on to talk Rancid to the boys! Rate and review on iTunes for a good time!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-16T01_40_33-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-16T01_40_33-07_00</comments>
+      <pubDate>Wed, 16 Aug 2017 08:40:33 +0000</pubDate>
+      <dcterms:modified>2017-08-16</dcterms:modified>
+      <dcterms:created>2017-08-16</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-16T01_40_33-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-16T01_40_33-07_00.mp3" length="76184149" type="audio/mpeg"/>
+      <itunes:duration>6347</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12316378.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mary Houlihan comes on to talk Rancid to the boys! Rate and review on iTunes for a good time!</itunes:summary>
+      <itunes:subtitle>Mary Houlihan comes on to talk Rancid to the boys! Rate and review on iTunes for a good time!</itunes:subtitle>
+    </item>
+    <item>
+      <title>BONUS PREVIEW: Fall Out Boy with Alex Stone</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;This is a preview of our first Patreon episode with Alex Stone talking Fall Out Boy! Subscribe at Patreon.com/standbyyourband</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-15T11_00_44-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-15T11_00_44-07_00</comments>
+      <pubDate>Tue, 15 Aug 2017 18:00:44 +0000</pubDate>
+      <dcterms:modified>2017-08-15</dcterms:modified>
+      <dcterms:created>2017-08-15</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-15T11_00_44-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-15T11_00_44-07_00.mp3" length="14803290" type="audio/mpeg"/>
+      <itunes:duration>1233</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This is a preview of our first Patreon episode with Alex Stone talking Fall Out Boy! Subscribe at Patreon.com/standbyyourband</itunes:summary>
+      <itunes:subtitle>This is a preview of our first Patreon episode with Alex Stone talking Fall Out Boy! Subscribe at...</itunes:subtitle>
+    </item>
+    <item>
+      <title>19: They Might Be Giants with Joe Rumrill and Andrew Tisher</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Joe Rumrill and Andrew Tisher join the boys to talk They Might Be Giants! Rate and review if you're nasty! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-09T13_16_40-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-09T13_16_40-07_00</comments>
+      <pubDate>Wed, 09 Aug 2017 20:16:40 +0000</pubDate>
+      <dcterms:modified>2017-08-09</dcterms:modified>
+      <dcterms:created>2017-08-09</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-09T13_16_40-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-09T13_16_40-07_00.mp3" length="90359313" type="audio/mpeg"/>
+      <itunes:duration>6453</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Joe Rumrill and Andrew Tisher join the boys to talk They Might Be Giants! Rate and review if you're nasty! </itunes:summary>
+      <itunes:subtitle>Joe Rumrill and Andrew Tisher join the boys to talk They Might Be Giants! Rate and review if you'...</itunes:subtitle>
+    </item>
+    <item>
+      <title>18: Evanescence with Marcia Belsky</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Marcia Belsky (Misandry with Marcia and Rae)! Comes on to talk one of her fave bands, Evanescence! Check it out and rate and review on iTunes to help us out! E-mail us at StandByYourBandPod@Gmail.com and follow Marcia at @MarciaBelsky </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-08-02T07_36_09-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-02T07_36_09-07_00</comments>
+      <pubDate>Wed, 02 Aug 2017 14:36:09 +0000</pubDate>
+      <dcterms:modified>2017-08-02</dcterms:modified>
+      <dcterms:created>2017-08-02</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-08-02T07_36_09-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-08-02T07_36_09-07_00.mp3" length="78841121" type="audio/mpeg"/>
+      <itunes:duration>6569</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Marcia Belsky (Misandry with Marcia and Rae)! Comes on to talk one of her fave bands, Evanescence! Check it out and rate and review on iTunes to help us out! E-mail us at StandByYourBandPod@Gmail.com and follow Marcia at @MarciaBelsky </itunes:summary>
+      <itunes:subtitle>Marcia Belsky (Misandry with Marcia and Rae)! Comes on to talk one of her fave bands, Evanescence...</itunes:subtitle>
+    </item>
+    <item>
+      <title>17: Counting Crows with Sean Donnelly and Farah Brook</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Crossover episode! The boys talk with Sean Donnelly and Farah Brook from the Defend Your Movie Podcast (Showbriz Studios) about Adam Duritz's hair and also the Counting Crows! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-07-27T12_19_53-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-27T12_19_53-07_00</comments>
+      <pubDate>Thu, 27 Jul 2017 19:19:53 +0000</pubDate>
+      <dcterms:modified>2017-07-27</dcterms:modified>
+      <dcterms:created>2017-07-27</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-27T12_19_53-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-07-27T12_19_53-07_00.mp3" length="35987898" type="audio/mpeg"/>
+      <itunes:duration>2999</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Crossover episode! The boys talk with Sean Donnelly and Farah Brook from the Defend Your Movie Podcast (Showbriz Studios) about Adam Duritz's hair and also the Counting Crows! </itunes:summary>
+      <itunes:subtitle>Crossover episode! The boys talk with Sean Donnelly and Farah Brook from the Defend Your Movie Po...</itunes:subtitle>
+    </item>
+    <item>
+      <title>16: Soulja Boy with Rob Haze</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Rob Haze (Book of Ye, Comedy Central) comes on to defend Soulja Boy! #Jet and #NERD are also talked about a bit!
+Enjoy the ep, rate and review on iTunes if you're the best!
+</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-07-19T01_00_00-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-19T01_00_00-07_00</comments>
+      <pubDate>Wed, 19 Jul 2017 08:00:00 +0000</pubDate>
+      <dcterms:modified>2017-07-19</dcterms:modified>
+      <dcterms:created>2017-07-19</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-19T01_00_00-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords>rob,haze,soulja,boy,jet,nerd,tommy,mcnamara,guilty,pleasure,music,abba,journey,thakkar,comedy,barenaked,ladies,staind,matteo,lane</itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-07-19T01_00_00-07_00.mp3" length="121730519" type="audio/mpeg"/>
+      <itunes:duration>5072</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12261565.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Rob Haze (Book of Ye, Comedy Central) comes on to defend Soulja Boy! #Jet and #NERD are also talked about a bit!
+Enjoy the ep, rate and review on iTunes if you're the best!
+</itunes:summary>
+      <itunes:subtitle>Rob Haze (Book of Ye, Comedy Central) comes on to defend Soulja Boy! #Jet and #NERD are also talk...</itunes:subtitle>
+    </item>
+    <item>
+      <title>15: Journey with Casey James Salengo</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Casey James Salengo joins the boys to talk about Journey and so much more!
+Casey's playlist:
+Faithfully
+Lovin, Touchin, Squeezin
+Lights
+Who's Crying Now
+Open Arms
+Don't Stop Believin'
+
+Rate and review on iTunes if you're nasty!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-07-12T01_01_11-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-12T01_01_11-07_00</comments>
+      <pubDate>Wed, 12 Jul 2017 08:01:11 +0000</pubDate>
+      <dcterms:modified>2017-07-12</dcterms:modified>
+      <dcterms:created>2017-07-12</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-12T01_01_11-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-07-12T01_01_11-07_00.mp3" length="76808476" type="audio/mpeg"/>
+      <itunes:duration>6400</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Casey James Salengo joins the boys to talk about Journey and so much more!
+Casey's playlist:
+Faithfully
+Lovin, Touchin, Squeezin
+Lights
+Who's Crying Now
+Open Arms
+Don't Stop Believin'
+
+Rate and review on iTunes if you're nasty!</itunes:summary>
+      <itunes:subtitle>Casey James Salengo joins the boys to talk about Journey and so much more!
+Casey's playlist:
+Fa...</itunes:subtitle>
+    </item>
+    <item>
+      <title>14: Paris Hilton/Ashlee Simpson with Emmy Blotnick</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Emmy Blotnick (Comedy Central, MTV) joins the boys to talk about the music of Paris Hilton and Ashlee Simpson! 
+Here's the playlist:
+Stars are Blind
+Nothing in this World
+Do Ya Think I'm Sexy
+Come Alive
+Pieces of Me
+La La
+Autobiography
+Undiscovered</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-07-05T09_39_21-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-05T09_39_21-07_00</comments>
+      <pubDate>Wed, 05 Jul 2017 16:39:21 +0000</pubDate>
+      <dcterms:modified>2017-07-05</dcterms:modified>
+      <dcterms:created>2017-07-05</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-07-05T09_39_21-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-07-05T09_39_21-07_00.mp3" length="57745148" type="audio/mpeg"/>
+      <itunes:duration>4812</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Emmy Blotnick (Comedy Central, MTV) joins the boys to talk about the music of Paris Hilton and Ashlee Simpson! 
+Here's the playlist:
+Stars are Blind
+Nothing in this World
+Do Ya Think I'm Sexy
+Come Alive
+Pieces of Me
+La La
+Autobiography
+Undiscovered</itunes:summary>
+      <itunes:subtitle>Emmy Blotnick (Comedy Central, MTV) joins the boys to talk about the music of Paris Hilton and As...</itunes:subtitle>
+    </item>
+    <item>
+      <title>13: Eagles with Kyle Ayers</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Kyle Ayers joins Tom and Tommy to talk about Eagles! Rate and review on iTunes for a free blowj! 
+
+Kyle's Eagles playlist:
+1. Take It Easy
+2. The Long Run
+3. Peaceful Easy Feeling
+4. Seven Bridges Road (Live) 
+5. One of These Nights
+6. Lyin' Eyes</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-06-28T07_27_59-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-28T07_27_59-07_00</comments>
+      <pubDate>Wed, 28 Jun 2017 14:27:59 +0000</pubDate>
+      <dcterms:modified>2017-06-28</dcterms:modified>
+      <dcterms:created>2017-06-28</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-28T07_27_59-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-06-28T07_27_59-07_00.mp3" length="51877942" type="audio/mpeg"/>
+      <itunes:duration>4323</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Kyle Ayers joins Tom and Tommy to talk about Eagles! Rate and review on iTunes for a free blowj! 
+
+Kyle's Eagles playlist:
+1. Take It Easy
+2. The Long Run
+3. Peaceful Easy Feeling
+4. Seven Bridges Road (Live) 
+5. One of These Nights
+6. Lyin' Eyes</itunes:summary>
+      <itunes:subtitle>Kyle Ayers joins Tom and Tommy to talk about Eagles! Rate and review on iTunes for a free blowj! ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>12: Mariah Carey with Matteo Lane</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Matteo Lane (MTV!) talks Mariah Carey! 
+Follow Matteo on Instagram and Twitter!
+Matteo's Mariah playlist:
+Emotions
+Fantasy
+Always Be My Baby
+We Belong Together
+Make It Happen (Live from MSG)
+
+Rate and Review on iTunes if you're nasty!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-06-20T23_53_30-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-20T23_53_30-07_00</comments>
+      <pubDate>Wed, 21 Jun 2017 06:53:30 +0000</pubDate>
+      <dcterms:modified>2017-06-21</dcterms:modified>
+      <dcterms:created>2017-06-21</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-20T23_53_30-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-06-20T23_53_30-07_00.mp3" length="51182353" type="audio/mpeg"/>
+      <itunes:duration>4265</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Matteo Lane (MTV!) talks Mariah Carey! 
+Follow Matteo on Instagram and Twitter!
+Matteo's Mariah playlist:
+Emotions
+Fantasy
+Always Be My Baby
+We Belong Together
+Make It Happen (Live from MSG)
+
+Rate and Review on iTunes if you're nasty!</itunes:summary>
+      <itunes:subtitle>Matteo Lane (MTV!) talks Mariah Carey! 
+Follow Matteo on Instagram and Twitter!
+Matteo's Mariah...</itunes:subtitle>
+    </item>
+    <item>
+      <title>11: 311 with Sean Patton</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066588.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Sean Patton (Comedy Central, IFC) comes on to defend the pride/shame of Omaha, 311! Rate and review on iTunes if you're having a good time! Email us at standbyyourbandpod@gmail.com.
+Sean's 311 playlist:
+1. Amber
+2. Welcome
+3. My Stoney Baby
+4. Down
+5. 8:16 A.M.
+6. F*** the Bulls***</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-06-14T06_57_27-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-14T06_57_27-07_00</comments>
+      <pubDate>Wed, 14 Jun 2017 13:57:27 +0000</pubDate>
+      <dcterms:modified>2017-06-14</dcterms:modified>
+      <dcterms:created>2017-06-14</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-14T06_57_27-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-06-14T06_57_27-07_00.mp3" length="145483727" type="audio/mpeg"/>
+      <itunes:duration>6062</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066588.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sean Patton (Comedy Central, IFC) comes on to defend the pride/shame of Omaha, 311! Rate and review on iTunes if you're having a good time! Email us at standbyyourbandpod@gmail.com.
+Sean's 311 playlist:
+1. Amber
+2. Welcome
+3. My Stoney Baby
+4. Down
+5. 8:16 A.M.
+6. F*** the Bulls***</itunes:summary>
+      <itunes:subtitle>Sean Patton (Comedy Central, IFC) comes on to defend the pride/shame of Omaha, 311! Rate and revi...</itunes:subtitle>
+    </item>
+    <item>
+      <title>10: Barenaked Ladies with Jared Thompson and Jonas Schrodt</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Jared Thompson (Comedy Attic owner and Limestone co-founder) and Jonas Schrodt (Limestone, Girls Night) battle about Barenaked Ladies in a heated ep! Tom and Tommy are hungover as hell! E-mail us at StandByYourBandPod@gmail.com. 
+Jonas's BNL playlist:
+1. Brian Wilson
+2. Enid
+3. Jane
+4. The Old Apartment
+5. Break Your Heart
+6. It's Only Me</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-06-07T08_57_21-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-07T08_57_21-07_00</comments>
+      <pubDate>Wed, 07 Jun 2017 15:57:21 +0000</pubDate>
+      <dcterms:modified>2017-06-07</dcterms:modified>
+      <dcterms:created>2017-06-07</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-06-07T08_57_21-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-06-07T08_57_21-07_00.mp3" length="64039679" type="audio/mpeg"/>
+      <itunes:duration>5337</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jared Thompson (Comedy Attic owner and Limestone co-founder) and Jonas Schrodt (Limestone, Girls Night) battle about Barenaked Ladies in a heated ep! Tom and Tommy are hungover as hell! E-mail us at StandByYourBandPod@gmail.com. 
+Jonas's BNL playlist:
+1. Brian Wilson
+2. Enid
+3. Jane
+4. The Old Apartment
+5. Break Your Heart
+6. It's Only Me</itunes:summary>
+      <itunes:subtitle>Jared Thompson (Comedy Attic owner and Limestone co-founder) and Jonas Schrodt (Limestone, Girls ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>9: Limp Bizkit with Mike Recine</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Mike Recine (Comedy Central, Conan) comes on to talk about Limp Bizkit with Tom and Tommy in a heated ep! Follow Mike at @MikeRecine and email the boys at StandByYourBandPod@Gmail.com. Rate and review on iTunes for a good time! 
+Mike's Limp Bizkit playlist:
+1. Rollin (air Raid)
+2. Rollin (Urban Assault)
+3. Getcha Groove On
+4. Livin It Up
+5. My Way
+6. Hot Dog</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-05-31T00_00_00-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-31T00_00_00-07_00</comments>
+      <pubDate>Wed, 31 May 2017 07:00:00 +0000</pubDate>
+      <dcterms:modified>2017-06-08</dcterms:modified>
+      <dcterms:created>2017-06-08</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-31T00_00_00-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords>tommy,mcnamara,tom,thakkar,mike,recine,limp,bizkit,music,comedy,podcast,stand,by,your,band,guilty,pleasure</itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-05-31T00_00_00-07_00.mp3" length="113099882" type="audio/mpeg"/>
+      <itunes:duration>4712</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Mike Recine (Comedy Central, Conan) comes on to talk about Limp Bizkit with Tom and Tommy in a heated ep! Follow Mike at @MikeRecine and email the boys at StandByYourBandPod@Gmail.com. Rate and review on iTunes for a good time! 
+Mike's Limp Bizkit playlist:
+1. Rollin (air Raid)
+2. Rollin (Urban Assault)
+3. Getcha Groove On
+4. Livin It Up
+5. My Way
+6. Hot Dog</itunes:summary>
+      <itunes:subtitle>Mike Recine (Comedy Central, Conan) comes on to talk about Limp Bizkit with Tom and Tommy in a he...</itunes:subtitle>
+    </item>
+    <item>
+      <title>8: Red Hot Chili Peppers with Liza Treyger</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Liza Treyger (Comedy Central) talks Red Hot Chili Peppers and a little bit of Miley with Tom and Tommy! Check out Liza @GlitterCheese! Rate and review on iTunes for us to S your D&#8217;s! Thanks to Mike Carozza for theme and Bob Nugent for art!
+Liza&#8217;s playlist:
+Otherside
+By The Way
+Tell Me Baby
+Snow (Hey Oh)
+Hard To Concentrate
+Havana Affair
+On Mercury</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-05-24T08_49_52-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-24T08_49_52-07_00</comments>
+      <pubDate>Wed, 24 May 2017 15:49:52 +0000</pubDate>
+      <dcterms:modified>2017-05-24</dcterms:modified>
+      <dcterms:created>2017-05-24</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-24T08_49_52-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-05-24T08_49_52-07_00.mp3" length="66946481" type="audio/mpeg"/>
+      <itunes:duration>5578</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Liza Treyger (Comedy Central) talks Red Hot Chili Peppers and a little bit of Miley with Tom and Tommy! Check out Liza @GlitterCheese! Rate and review on iTunes for us to S your D&#8217;s! Thanks to Mike Carozza for theme and Bob Nugent for art!
+Liza&#8217;s playlist:
+Otherside
+By The Way
+Tell Me Baby
+Snow (Hey Oh)
+Hard To Concentrate
+Havana Affair
+On Mercury</itunes:summary>
+      <itunes:subtitle>Liza Treyger (Comedy Central) talks Red Hot Chili Peppers and a little bit of Miley with Tom and ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>7: Bob Seger with Ryan Donahue &amp; Conor Delehanty</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Ryan Donahue (Jimmy Kimmel) &amp; Conor Delehanty (Green Shirt) talk the Ramblin' Gamblin' Man Bob Seger to Tom and Tommy! E-mail us with your comments and feedback at StandByYourBandPod@Gmail.com, Follow us at @StandByYourBand, and follow our guests at @RyanJayDonahue &amp; @ConorDelehanty.
+Rate and review on iTunes and we'll S your D's!
+The playlist this week is NOT on Spotify, but still a fun listen! 
+1. Turn the Page
+2. Beautiful Stranger
+3. Main Street
+4. Traveling Man
+5. Against the Wind
+6. Night Moves</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-05-17T08_27_54-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-17T08_27_54-07_00</comments>
+      <pubDate>Wed, 17 May 2017 15:27:54 +0000</pubDate>
+      <dcterms:modified>2017-05-17</dcterms:modified>
+      <dcterms:created>2017-05-17</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-17T08_27_54-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-05-17T08_27_54-07_00.mp3" length="64806728" type="audio/mpeg"/>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ryan Donahue (Jimmy Kimmel) &amp; Conor Delehanty (Green Shirt) talk the Ramblin' Gamblin' Man Bob Seger to Tom and Tommy! E-mail us with your comments and feedback at StandByYourBandPod@Gmail.com, Follow us at @StandByYourBand, and follow our guests at @RyanJayDonahue &amp; @ConorDelehanty.
+Rate and review on iTunes and we'll S your D's!
+The playlist this week is NOT on Spotify, but still a fun listen! 
+1. Turn the Page
+2. Beautiful Stranger
+3. Main Street
+4. Traveling Man
+5. Against the Wind
+6. Night Moves</itunes:summary>
+      <itunes:subtitle>Ryan Donahue (Jimmy Kimmel) &amp; Conor Delehanty (Green Shirt) talk the Ramblin' Gamblin' Man Bob Se...</itunes:subtitle>
+    </item>
+    <item>
+      <title>6: Marilyn Manson with Nate Fridson</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Nate Fridson joins the band boys Tom Thakkar and Tommy McNamara to talk about the metal man himself, Marilyn Manson! Rate and review on iTunes for a good time! Thanks to Mike Carozza and Bob Nugent for music and art!
+Nate's playlist:
+1. Tourniquet
+2. 1996
+3. Cryptorchid
+4. Great Big White World
+5. Little Horn
+6. Irresponsible Hate Anthem</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-05-10T09_25_11-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-10T09_25_11-07_00</comments>
+      <pubDate>Wed, 10 May 2017 16:25:11 +0000</pubDate>
+      <dcterms:modified>2017-05-10</dcterms:modified>
+      <dcterms:created>2017-05-10</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-10T09_25_11-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-05-10T09_25_11-07_00.mp3" length="45582602" type="audio/mpeg"/>
+      <itunes:duration>3799</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Nate Fridson joins the band boys Tom Thakkar and Tommy McNamara to talk about the metal man himself, Marilyn Manson! Rate and review on iTunes for a good time! Thanks to Mike Carozza and Bob Nugent for music and art!
+Nate's playlist:
+1. Tourniquet
+2. 1996
+3. Cryptorchid
+4. Great Big White World
+5. Little Horn
+6. Irresponsible Hate Anthem</itunes:summary>
+      <itunes:subtitle>Nate Fridson joins the band boys Tom Thakkar and Tommy McNamara to talk about the metal man himse...</itunes:subtitle>
+    </item>
+    <item>
+      <title>5: Steely Dan with Nick Naney &amp; Dan Perlman </title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Nick Naney and Dan Perlman join Tom and Tommy for a rowdy little talk about Steely Dan! E-mail us at standbyyourbandpod@gmail.com with feedback! 
+Dan's songs:
+Deacon Blues
+My Old School
+Kid Charlemagne
+
+Nick's picks:
+Everyone's Gone to the Movies
+Dirty Work
+Any Major Dude Will Tell You
+
+Rate and review for our eternal love!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-05-03T06_29_17-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-03T06_29_17-07_00</comments>
+      <pubDate>Wed, 03 May 2017 13:29:17 +0000</pubDate>
+      <dcterms:modified>2017-05-03</dcterms:modified>
+      <dcterms:created>2017-05-03</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-05-03T06_29_17-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-05-03T06_29_17-07_00.mp3" length="58707878" type="audio/mpeg"/>
+      <itunes:duration>4892</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Nick Naney and Dan Perlman join Tom and Tommy for a rowdy little talk about Steely Dan! E-mail us at standbyyourbandpod@gmail.com with feedback! 
+Dan's songs:
+Deacon Blues
+My Old School
+Kid Charlemagne
+
+Nick's picks:
+Everyone's Gone to the Movies
+Dirty Work
+Any Major Dude Will Tell You
+
+Rate and review for our eternal love!</itunes:summary>
+      <itunes:subtitle>Nick Naney and Dan Perlman join Tom and Tommy for a rowdy little talk about Steely Dan! E-mail us...</itunes:subtitle>
+    </item>
+    <item>
+      <title>4: Yellowcard with Ahri Findling</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Ahri Findling loves Yellowcard and he doesn't care who knows it! He joins Tom and Tommy to show them the way with his playlist. Follow the show at @Standbyyourband and email us at StandByYourBandPod@Gmail.com.
+Ahri's Yellowcard playlist:
+Lights and Sounds
+View From Heaven (Acoustic)
+Sureshot
+For Pete's Sake
+Life of a Salesman
+Gifts and Curses</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-04-26T04_47_07-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-26T04_47_07-07_00</comments>
+      <pubDate>Wed, 26 Apr 2017 11:47:07 +0000</pubDate>
+      <dcterms:modified>2017-04-26</dcterms:modified>
+      <dcterms:created>2017-04-26</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-26T04_47_07-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-04-26T04_47_07-07_00.mp3" length="59831353" type="audio/mpeg"/>
+      <itunes:duration>4986</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ahri Findling loves Yellowcard and he doesn't care who knows it! He joins Tom and Tommy to show them the way with his playlist. Follow the show at @Standbyyourband and email us at StandByYourBandPod@Gmail.com.
+Ahri's Yellowcard playlist:
+Lights and Sounds
+View From Heaven (Acoustic)
+Sureshot
+For Pete's Sake
+Life of a Salesman
+Gifts and Curses</itunes:summary>
+      <itunes:subtitle>Ahri Findling loves Yellowcard and he doesn't care who knows it! He joins Tom and Tommy to show t...</itunes:subtitle>
+    </item>
+    <item>
+      <title>3: Incubus with Greta Rose Titelman</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Greta Rose Titelman (Lady Lovin' Podcast) joins Tom and Tommy to talk about Incubus! Teenage angst, virginity, Brandon Boyd's confusingly hot bod, and more in this ep! Check out Greta on Twitter at @Gertie_Bird and e-mail us at StandByYourBandPod@Gmail.com with questions and comments! You can find Greta's Incubus playlist on Tom Thakkar's Spotify, or find them yourself! 
+1. Nice To Know You
+2. Wish You Were Here
+3. Circles
+4. Aqueous Transmission
+5. The Warmth 
+6. Are You In?
+
+Rate and review us on iTunes and we'll love you forever! </description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-04-19T07_22_45-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-19T07_22_45-07_00</comments>
+      <pubDate>Wed, 19 Apr 2017 14:22:45 +0000</pubDate>
+      <dcterms:modified>2017-04-19</dcterms:modified>
+      <dcterms:created>2017-04-19</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-19T07_22_45-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-04-19T07_22_45-07_00.mp3" length="63308669" type="audio/mpeg"/>
+      <itunes:duration>5276</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Greta Rose Titelman (Lady Lovin' Podcast) joins Tom and Tommy to talk about Incubus! Teenage angst, virginity, Brandon Boyd's confusingly hot bod, and more in this ep! Check out Greta on Twitter at @Gertie_Bird and e-mail us at StandByYourBandPod@Gmail.com with questions and comments! You can find Greta's Incubus playlist on Tom Thakkar's Spotify, or find them yourself! 
+1. Nice To Know You
+2. Wish You Were Here
+3. Circles
+4. Aqueous Transmission
+5. The Warmth 
+6. Are You In?
+
+Rate and review us on iTunes and we'll love you forever! </itunes:summary>
+      <itunes:subtitle>Greta Rose Titelman (Lady Lovin' Podcast) joins Tom and Tommy to talk about Incubus! Teenage angs...</itunes:subtitle>
+    </item>
+    <item>
+      <title>2: ABBA with Joe Kwaczala</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Joe Kwaczala (Clickhole, Onion News Network) comes all the way from Los Angeles, CA to defend the Swedish Sensation, ABBA! Despite ABBA's giant success, we find many people who don't respect them, and Joe shows Tom and Tommy what we've all forgotten, to stand by ABBA. You can see Joe's ABBA playlist on Tom Thakkar's Spotify, or find the songs yourself! 
+1. Gimme! Gimme! Gimme! 
+2. The Winner Takes it All 
+3. Ring Ring 
+4. Love Isn't Easy 
+5. Waterloo 
+6. Knowing Me, Knowing You 
+Rate and review on iTunes and we'll love you forever!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-04-11T21_01_13-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-11T21_01_13-07_00</comments>
+      <pubDate>Wed, 12 Apr 2017 04:01:13 +0000</pubDate>
+      <dcterms:modified>2017-04-12</dcterms:modified>
+      <dcterms:created>2017-04-12</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-11T21_01_13-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-04-11T21_01_13-07_00.mp3" length="47901021" type="audio/mpeg"/>
+      <itunes:duration>3992</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Joe Kwaczala (Clickhole, Onion News Network) comes all the way from Los Angeles, CA to defend the Swedish Sensation, ABBA! Despite ABBA's giant success, we find many people who don't respect them, and Joe shows Tom and Tommy what we've all forgotten, to stand by ABBA. You can see Joe's ABBA playlist on Tom Thakkar's Spotify, or find the songs yourself! 
+1. Gimme! Gimme! Gimme! 
+2. The Winner Takes it All 
+3. Ring Ring 
+4. Love Isn't Easy 
+5. Waterloo 
+6. Knowing Me, Knowing You 
+Rate and review on iTunes and we'll love you forever!</itunes:summary>
+      <itunes:subtitle>Joe Kwaczala (Clickhole, Onion News Network) comes all the way from Los Angeles, CA to defend the...</itunes:subtitle>
+    </item>
+    <item>
+      <title>1: Matchbox 20 with Jack Comstock</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Stand By Your Band kicks off with a band that has been named in the top 20 worst bands on several lists! Jack Comstock joins Tom Thakkar and Tommy McNamara to discuss his love for them! You can get his playlist on Tom Thakkar's Spotify, or find the songs yourself! 
+1. Back 2 Good
+2. Mad Season
+3. Shame
+4. Busted
+5. Could I Be You
+6. Downfall
+Send us your faves at StandByYourBandPod@gmail.com or tweet us at @StandByYourBand! 
+Special thanks to Mike Carozza and Bob Nugent for music and our logo respectively!</description>
+      <guid isPermaLink="true">http://standbyyourband.podomatic.com/entry/2017-04-04T08_53_54-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-04T08_53_54-07_00</comments>
+      <pubDate>Tue, 04 Apr 2017 15:53:54 +0000</pubDate>
+      <dcterms:modified>2017-04-04</dcterms:modified>
+      <dcterms:created>2017-04-04</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/standbyyourband/episodes/2017-04-04T08_53_54-07_00</link>
+      <dc:creator>Thomas Thakkar</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://standbyyourband.podomatic.com/enclosure/2017-04-04T08_53_54-07_00.mp3" length="47330193" type="audio/mpeg"/>
+      <itunes:duration>3944</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/53/5a/a7/tomathakkar/1400x1400_12066666.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Stand By Your Band kicks off with a band that has been named in the top 20 worst bands on several lists! Jack Comstock joins Tom Thakkar and Tommy McNamara to discuss his love for them! You can get his playlist on Tom Thakkar's Spotify, or find the songs yourself! 
+1. Back 2 Good
+2. Mad Season
+3. Shame
+4. Busted
+5. Could I Be You
+6. Downfall
+Send us your faves at StandByYourBandPod@gmail.com or tweet us at @StandByYourBand! 
+Special thanks to Mike Carozza and Bob Nugent for music and our logo respectively!</itunes:summary>
+      <itunes:subtitle>Stand By Your Band kicks off with a band that has been named in the top 20 worst bands on several...</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
