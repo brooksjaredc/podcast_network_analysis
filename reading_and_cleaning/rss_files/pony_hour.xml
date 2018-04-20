@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:212832286/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:212832286/sounds.rss?before=295943398" rel="next" type="application/rss+xml"/>
+        <title>The Pony Hour</title>
+        <link>http://soundcloud.com/theponyhour</link>
+        <pubDate>Tue, 12 Sep 2017 22:15:08 +0000</pubDate>
+        <lastBuildDate>Tue, 12 Sep 2017 22:15:08 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Tony Hinchcliffe</description>
+        <itunes:subtitle>Podcast by Tony Hinchcliffe</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>The Pony Hour</itunes:name>
+          <itunes:email>hinchcliffe.comedy@yahoo.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Tony Hinchcliffe</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg</url>
+          <title>The Pony Hour</title>
+          <link>http://soundcloud.com/theponyhour</link>
+        </image>
+        <itunes:category text="Comedy"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/342095322</guid>
+      <title>Luis J. Gomez</title>
+      <pubDate>Tue, 12 Sep 2017 22:15:08 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/louis-j-gomez</link>
+      <itunes:duration>00:54:59</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>The Pony sits down for a great talk with Legion of Skanks' Luis J. Gomez.</itunes:summary>
+      <itunes:subtitle>The Pony sits down for a great talk with Legion o…</itunes:subtitle>
+      <description>The Pony sits down for a great talk with Legion of Skanks' Luis J. Gomez.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/342095322-theponyhour-louis-j-gomez.mp3" length="51435200"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000242375609-g27j2t-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/335965551</guid>
+      <title>Jerron Horton</title>
+      <pubDate>Wed, 02 Aug 2017 17:05:30 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/jerron-horton</link>
+      <itunes:duration>01:03:39</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony talks to one of his best friends about their adventures together, the road, and if Tony's neighbor is racist or not.</itunes:summary>
+      <itunes:subtitle>Tony talks to one of his best friends about their…</itunes:subtitle>
+      <description>Tony talks to one of his best friends about their adventures together, the road, and if Tony's neighbor is racist or not.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/335965551-theponyhour-jerron-horton.mp3" length="60971270"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/333927421</guid>
+      <title>The Mean Boys</title>
+      <pubDate>Wed, 19 Jul 2017 21:09:17 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/the-mean-boys</link>
+      <itunes:duration>01:07:26</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Connor Mcspadden &amp; Keith Carey come in to rip on Tony, the news. Stories, announcements, you won't want to miss it.</itunes:summary>
+      <itunes:subtitle>Connor Mcspadden &amp; Keith Carey come in to rip on …</itunes:subtitle>
+      <description>Connor Mcspadden &amp; Keith Carey come in to rip on Tony, the news. Stories, announcements, you won't want to miss it.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/333927421-theponyhour-the-mean-boys.mp3" length="64592915"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/327447494</guid>
+      <title>Big Jay Oakerson</title>
+      <pubDate>Sat, 10 Jun 2017 17:36:10 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/big-jay-oakerson</link>
+      <itunes:duration>01:06:05</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony and Big Jay talk about their beginnings in stand-up, their local stand-up scenes, crowd work, and going on the road.</itunes:summary>
+      <itunes:subtitle>Tony and Big Jay talk about their beginnings in s…</itunes:subtitle>
+      <description>Tony and Big Jay talk about their beginnings in stand-up, their local stand-up scenes, crowd work, and going on the road.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/327447494-theponyhour-big-jay-oakerson.mp3" length="63291875"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/320249872</guid>
+      <title>Jeremiah Watkins</title>
+      <pubDate>Sun, 30 Apr 2017 23:20:56 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/jeremiah-mixdown</link>
+      <itunes:duration>01:06:44</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony and one of his favorite comedians and friends Jeremiah Watkins talk about stand-up, confidence, working together on kill tony, and Jeremiah getting attacked on a recent episode.</itunes:summary>
+      <itunes:subtitle>Tony and one of his favorite comedians and friend…</itunes:subtitle>
+      <description>Tony and one of his favorite comedians and friends Jeremiah Watkins talk about stand-up, confidence, working together on kill tony, and Jeremiah getting attacked on a recent episode.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/320249872-theponyhour-jeremiah-mixdown.mp3" length="63913205"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/315621887</guid>
+      <title>Tait Fletcher</title>
+      <pubDate>Sat, 01 Apr 2017 23:44:44 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/tait-fletcher</link>
+      <itunes:duration>01:16:24</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony's talks with fighter, podcaster, actor, business owner, Tait Fletcher.</itunes:summary>
+      <itunes:subtitle>Tony's talks with fighter, podcaster, actor, busi…</itunes:subtitle>
+      <description>Tony's talks with fighter, podcaster, actor, business owner, Tait Fletcher.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/315621887-theponyhour-tait-fletcher.mp3" length="73182281"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/312578331</guid>
+      <title>Frank Castillo</title>
+      <pubDate>Wed, 15 Mar 2017 19:25:26 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/frank-castillo</link>
+      <itunes:duration>01:12:58</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony's talks with the Roast Battle champion and one of the hardest working young comics about what he is up to with his new success and what it takes to make it in comedy.</itunes:summary>
+      <itunes:subtitle>Tony's talks with the Roast Battle champion and o…</itunes:subtitle>
+      <description>Tony's talks with the Roast Battle champion and one of the hardest working young comics about what he is up to with his new success and what it takes to make it in comedy.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/312578331-theponyhour-frank-castillo.mp3" length="87485666"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/301331182</guid>
+      <title>Bruce Buffer</title>
+      <pubDate>Sat, 07 Jan 2017 04:34:03 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/bruce-buffer</link>
+      <itunes:duration>00:57:27</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony's talks with the voice of the octagon about Michael Buffer, Ronda, losing virginity, poker, business, and love.</itunes:summary>
+      <itunes:subtitle>Tony's talks with the voice of the octagon about …</itunes:subtitle>
+      <description>Tony's talks with the voice of the octagon about Michael Buffer, Ronda, losing virginity, poker, business, and love.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/301331182-theponyhour-bruce-buffer.mp3" length="68892026"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/301132920</guid>
+      <title>David Arquette</title>
+      <pubDate>Thu, 05 Jan 2017 23:46:32 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/david-arquette</link>
+      <itunes:duration>01:00:02</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony and David talk about his history in movies, pro wrestling, being a father, and being Hollywood royalty.</itunes:summary>
+      <itunes:subtitle>Tony and David talk about his history in movies, …</itunes:subtitle>
+      <description>Tony and David talk about his history in movies, pro wrestling, being a father, and being Hollywood royalty.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/301132920-theponyhour-david-arquette.mp3" length="57495158"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/298309107</guid>
+      <title>Nate Diaz</title>
+      <pubDate>Sat, 17 Dec 2016 04:38:06 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/nate-diaz</link>
+      <itunes:duration>01:01:06</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony talks to one of his favorite fighters Nate Diaz about psychological warfare, comedy, Joanna, and slapping people.</itunes:summary>
+      <itunes:subtitle>Tony talks to one of his favorite fighters Nate D…</itunes:subtitle>
+      <description>Tony talks to one of his favorite fighters Nate Diaz about psychological warfare, comedy, Joanna, and slapping people.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/298309107-theponyhour-nate-diaz.mp3" length="73259600"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/295943398</guid>
+      <title>Brendan Schaub</title>
+      <pubDate>Fri, 02 Dec 2016 23:33:30 +0000</pubDate>
+      <link>https://soundcloud.com/theponyhour/brendan-schaub</link>
+      <itunes:duration>01:15:23</itunes:duration>
+      <itunes:author>Tony Hinchcliffe</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Tony talks with friend, fighter, podcaster, and comedian Brendan Schaub about fighters union (he makes an exclusive announcement about this), Diaz brothers, Conor McGregor, Cyborg, Rousey, comedy strike, and more.</itunes:summary>
+      <itunes:subtitle>Tony talks with friend, fighter, podcaster, and c…</itunes:subtitle>
+      <description>Tony talks with friend, fighter, podcaster, and comedian Brendan Schaub about fighters union (he makes an exclusive announcement about this), Diaz brothers, Conor McGregor, Cyborg, Rousey, comedy strike, and more.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/295943398-theponyhour-brendan-schaub.mp3" length="72206918"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000310577091-m7tor3-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

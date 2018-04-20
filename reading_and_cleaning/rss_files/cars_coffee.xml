@@ -1,0 +1,1341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:190378871/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:190378871/sounds.rss?before=244780560" rel="next" type="application/rss+xml"/>
+        <title>Comedians in Coffee Getting Cars</title>
+        <link>http://www.comediansincoffeegettingcars.com/</link>
+        <pubDate>Sat, 03 Mar 2018 23:11:32 +0000</pubDate>
+        <lastBuildDate>Sat, 03 Mar 2018 23:11:32 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Jon Newman and his guest sit in a hot tub full of coffee and plan a Gone in 60 Seconds style heist.</description>
+        <itunes:subtitle>Jon Newman and his guest sit in a hot tub full of…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Comedians in Coffee</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Jon Newman</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg</url>
+          <title>Comedians in Coffee</title>
+          <link>http://www.comediansincoffeegettingcars.com/</link>
+        </image>
+        <itunes:category text="Comedy"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/394067709</guid>
+      <title>Fumi Abe and Caitlin Peluffo return</title>
+      <pubDate>Sat, 03 Feb 2018 22:00:28 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/fumi-abe-and-caitlin-peluffo-return</link>
+      <itunes:duration>01:13:47</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Episode 100! The final one. Jon has Fumi Abe and Caitlin Peluffo back on to wrap this up.</itunes:summary>
+      <itunes:subtitle>Episode 100! The final one. Jon has Fumi Abe and …</itunes:subtitle>
+      <description>Episode 100! The final one. Jon has Fumi Abe and Caitlin Peluffo back on to wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/394067709-comediansincoffeegettingcars-fumi-abe-and-caitlin-peluffo-return.mp3" length="88548748"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/389731572</guid>
+      <title>CW Headley and Catherine Zini return</title>
+      <pubDate>Sat, 27 Jan 2018 02:15:37 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/cw-headley-and-catherine-zini-return</link>
+      <itunes:duration>01:04:45</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Episode 99! Jon has some of his favorite guests back to catch up and wrap this up.</itunes:summary>
+      <itunes:subtitle>Episode 99! Jon has some of his favorite guests b…</itunes:subtitle>
+      <description>Episode 99! Jon has some of his favorite guests back to catch up and wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/389731572-comediansincoffeegettingcars-cw-headley-and-catherine-zini-return.mp3" length="77708977"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/386590964</guid>
+      <title>Jesse Eigner and Andrea Jones-Rooy return</title>
+      <pubDate>Sat, 20 Jan 2018 19:44:13 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jesse-eigner-and-andrea-jones-rooy-return</link>
+      <itunes:duration>01:10:05</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Episode 98! Jon has some of his favorite guests back to catch up and wrap this up.</itunes:summary>
+      <itunes:subtitle>Episode 98! Jon has some of his favorite guests b…</itunes:subtitle>
+      <description>Episode 98! Jon has some of his favorite guests back to catch up and wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/386590964-comediansincoffeegettingcars-jesse-eigner-and-andrea-jones-rooy-return.mp3" length="84097483"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/382713635</guid>
+      <title>Ian Hunt and Pedro Gonzalez return</title>
+      <pubDate>Fri, 12 Jan 2018 21:19:55 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ian-hunt-and-pedro-gonzalez-return</link>
+      <itunes:duration>01:03:03</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Episode 97! Jon has some of his favorite guests back to catch up and wrap this up.</itunes:summary>
+      <itunes:subtitle>Episode 97! Jon has some of his favorite guests b…</itunes:subtitle>
+      <description>Episode 97! Jon has some of his favorite guests back to catch up and wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/382713635-comediansincoffeegettingcars-ian-hunt-and-pedro-gonzalez-return.mp3" length="75657842"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/379731800</guid>
+      <title>Jeremy Hammond and Joe Striks return</title>
+      <pubDate>Sat, 06 Jan 2018 19:43:51 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jeremy-hammond-and-joe-striks-return</link>
+      <itunes:duration>01:12:00</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Episode 96! 4 more to go. Jon has some old favorites back to wrap this up.</itunes:summary>
+      <itunes:subtitle>Episode 96! 4 more to go. Jon has some old favori…</itunes:subtitle>
+      <description>Episode 96! 4 more to go. Jon has some old favorites back to wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/379731800-comediansincoffeegettingcars-jeremy-hammond-and-joe-striks-return.mp3" length="86407752"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/376666085</guid>
+      <title>Frank DeRuggiero and James Nichols return</title>
+      <pubDate>Sat, 30 Dec 2017 19:52:07 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/frank-deruggiero-and-james-nichols-return</link>
+      <itunes:duration>01:09:58</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>The podcast is ending. Jon has some of his favorite guests back to catch up and wrap this up.</itunes:summary>
+      <itunes:subtitle>The podcast is ending. Jon has some of his favori…</itunes:subtitle>
+      <description>The podcast is ending. Jon has some of his favorite guests back to catch up and wrap this up.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/376666085-comediansincoffeegettingcars-frank-deruggiero-and-james-nichols-return.mp3" length="83957467"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/373521731</guid>
+      <title>Melissa Stokoski</title>
+      <pubDate>Sat, 23 Dec 2017 17:37:07 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/melissa-stokoski</link>
+      <itunes:duration>00:57:07</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Melissa steal some cars on the Upper East Side.</itunes:summary>
+      <itunes:subtitle>Jon and Melissa steal some cars on the Upper East…</itunes:subtitle>
+      <description>Jon and Melissa steal some cars on the Upper East Side.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/373521731-comediansincoffeegettingcars-melissa-stokoski.mp3" length="68542610"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/370436849</guid>
+      <title>Matt Levy</title>
+      <pubDate>Sat, 16 Dec 2017 18:11:39 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/matt-levy</link>
+      <itunes:duration>00:58:07</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Matt rob bitcoin!</itunes:summary>
+      <itunes:subtitle>Jon and Matt rob bitcoin!</itunes:subtitle>
+      <description>Jon and Matt rob bitcoin!</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/370436849-comediansincoffeegettingcars-matt-levy.mp3" length="69742675"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/367288574</guid>
+      <title>Mike Mancusi</title>
+      <pubDate>Sat, 09 Dec 2017 21:19:02 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/mike-mancusi</link>
+      <itunes:duration>00:55:17</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Mike steal something probably.</itunes:summary>
+      <itunes:subtitle>Jon and Mike steal something probably.</itunes:subtitle>
+      <description>Jon and Mike steal something probably.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/367288574-comediansincoffeegettingcars-mike-mancusi.mp3" length="66342577"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/360954503</guid>
+      <title>Mike Coscarelli</title>
+      <pubDate>Sun, 26 Nov 2017 02:18:24 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/mike-coscarelli</link>
+      <itunes:duration>01:01:17</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Mike plan a money laundering storefront.</itunes:summary>
+      <itunes:subtitle>Jon and Mike plan a money laundering storefront.</itunes:subtitle>
+      <description>Jon and Mike plan a money laundering storefront.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/360954503-comediansincoffeegettingcars-mike-coscarelli.mp3" length="73554985"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/354347102</guid>
+      <title>Molly Kornfeld</title>
+      <pubDate>Sat, 11 Nov 2017 19:00:53 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/molly-kornfeld</link>
+      <itunes:duration>00:53:41</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Molly rob a bank or something!</itunes:summary>
+      <itunes:subtitle>Jon and Molly rob a bank or something!</itunes:subtitle>
+      <description>Jon and Molly rob a bank or something!</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/354347102-comediansincoffeegettingcars-molly-kornfeld.mp3" length="64429369"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/351121924</guid>
+      <title>Randall Otis</title>
+      <pubDate>Sat, 04 Nov 2017 17:35:02 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/randall-otis</link>
+      <itunes:duration>00:58:13</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Randall rob a retirement home!</itunes:summary>
+      <itunes:subtitle>Jon and Randall rob a retirement home!</itunes:subtitle>
+      <description>Jon and Randall rob a retirement home!</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/351121924-comediansincoffeegettingcars-randall-otis.mp3" length="69869108"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/349051898</guid>
+      <title>Mike Guild</title>
+      <pubDate>Sat, 28 Oct 2017 22:27:01 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/mike-guild</link>
+      <itunes:duration>00:58:19</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Mike rob the UN</itunes:summary>
+      <itunes:subtitle>Jon and Mike rob the UN</itunes:subtitle>
+      <description>Jon and Mike rob the UN</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/349051898-comediansincoffeegettingcars-mike-guild.mp3" length="69989271"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/347948910</guid>
+      <title>Alon Elian</title>
+      <pubDate>Sat, 21 Oct 2017 17:33:29 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/alon-elian</link>
+      <itunes:duration>00:57:11</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Alon heist the church of Scientology.</itunes:summary>
+      <itunes:subtitle>Jon and Alon heist the church of Scientology.</itunes:subtitle>
+      <description>Jon and Alon heist the church of Scientology.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/347948910-comediansincoffeegettingcars-alon-elian.mp3" length="68629336"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/346182633</guid>
+      <title>Jeff McBride</title>
+      <pubDate>Tue, 10 Oct 2017 01:26:29 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jeff-mcbride</link>
+      <itunes:duration>01:01:26</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jeff steal the Declaration of Independence.</itunes:summary>
+      <itunes:subtitle>Jon and Jeff steal the Declaration of Independenc…</itunes:subtitle>
+      <description>Jon and Jeff steal the Declaration of Independence.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/346182633-comediansincoffeegettingcars-jeff-mcbride.mp3" length="73719034"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000246360690-i2d8zn-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/344448135</guid>
+      <title>Michael Verdi</title>
+      <pubDate>Thu, 28 Sep 2017 17:47:00 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/michael-verdi</link>
+      <itunes:duration>00:57:35</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Michael rob Martin Shkreli.</itunes:summary>
+      <itunes:subtitle>Jon and Michael rob Martin Shkreli.</itunes:subtitle>
+      <description>Jon and Michael rob Martin Shkreli.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/344448135-comediansincoffeegettingcars-michael-verdi.m4a" length="114574958"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000244723620-lmfgly-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/343557540</guid>
+      <title>Robby Leon</title>
+      <pubDate>Fri, 22 Sep 2017 16:17:13 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/robby-leon</link>
+      <itunes:duration>00:56:45</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Robby rob a bank from under a video store.</itunes:summary>
+      <itunes:subtitle>Jon and Robby rob a bank from under a video store.</itunes:subtitle>
+      <description>Jon and Robby rob a bank from under a video store.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/343557540-comediansincoffeegettingcars-robby-leon.m4a" length="112893252"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000243861403-sb7c6j-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/342268734</guid>
+      <title>Robert Dean</title>
+      <pubDate>Thu, 14 Sep 2017 01:55:54 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/robert-dean</link>
+      <itunes:duration>01:02:43</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Robert rob a casino!</itunes:summary>
+      <itunes:subtitle>Jon and Robert rob a casino!</itunes:subtitle>
+      <description>Jon and Robert rob a casino!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/342268734-comediansincoffeegettingcars-robert-dean.m4a" length="124750639"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000242542581-mvj1b3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/341323314</guid>
+      <title>Maggie Lalley</title>
+      <pubDate>Thu, 07 Sep 2017 14:57:48 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/maggie-lalley</link>
+      <itunes:duration>00:58:06</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Maggie steal a giant Panda from MoMA PS1.</itunes:summary>
+      <itunes:subtitle>Jon and Maggie steal a giant Panda from MoMA PS1.</itunes:subtitle>
+      <description>Jon and Maggie steal a giant Panda from MoMA PS1.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/341323314-comediansincoffeegettingcars-maggie-lalley.m4a" length="115615989"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000241655120-2bd7ir-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/340302826</guid>
+      <title>Ian Lara</title>
+      <pubDate>Thu, 31 Aug 2017 14:20:58 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ian-lara</link>
+      <itunes:duration>00:54:11</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ian briefly plan to rob a casino.</itunes:summary>
+      <itunes:subtitle>Jon and Ian briefly plan to rob a casino.</itunes:subtitle>
+      <description>Jon and Ian briefly plan to rob a casino.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/340302826-comediansincoffeegettingcars-ian-lara.m4a" length="107763178"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000240673275-seg8w2-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/339248118</guid>
+      <title>Davidson Boswell</title>
+      <pubDate>Thu, 24 Aug 2017 03:59:14 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/davidson-boswell</link>
+      <itunes:duration>00:57:35</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Davidson rob a coinstar.</itunes:summary>
+      <itunes:subtitle>Jon and Davidson rob a coinstar.</itunes:subtitle>
+      <description>Jon and Davidson rob a coinstar.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/339248118-comediansincoffeegettingcars-davidson-boswell.m4a" length="114557468"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000239635426-0vulq3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/338438210</guid>
+      <title>Venessa Peruda</title>
+      <pubDate>Fri, 18 Aug 2017 15:51:39 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/venessa-peruda</link>
+      <itunes:duration>00:56:01</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Venessa plan a restrained bank heist.</itunes:summary>
+      <itunes:subtitle>Jon and Venessa plan a restrained bank heist.</itunes:subtitle>
+      <description>Jon and Venessa plan a restrained bank heist.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/338438210-comediansincoffeegettingcars-venessa-peruda.m4a" length="111448121"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000238863458-7b2tfl-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/337291369</guid>
+      <title>Mike Nguyen</title>
+      <pubDate>Thu, 10 Aug 2017 13:44:46 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/mike-nguyen</link>
+      <itunes:duration>00:57:31</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Mike plan a robbery of Blockbuster Video.</itunes:summary>
+      <itunes:subtitle>Jon and Mike plan a robbery of Blockbuster Video.</itunes:subtitle>
+      <description>Jon and Mike plan a robbery of Blockbuster Video.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/337291369-comediansincoffeegettingcars-mike-nguyen.m4a" length="114409627"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000237724105-xu0zs9-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/336102577</guid>
+      <title>Danny Vega</title>
+      <pubDate>Thu, 03 Aug 2017 15:33:29 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/danny-vega</link>
+      <itunes:duration>00:56:49</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Danny kidnap a Panda hunter.</itunes:summary>
+      <itunes:subtitle>Jon and Danny kidnap a Panda hunter.</itunes:subtitle>
+      <description>Jon and Danny kidnap a Panda hunter.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/336102577-comediansincoffeegettingcars-danny-vega.m4a" length="113030304"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000236489542-ocvxbq-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/335068582</guid>
+      <title>Deno Demartino</title>
+      <pubDate>Thu, 27 Jul 2017 13:04:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/deno-demartino</link>
+      <itunes:duration>00:55:42</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Deno rob an office!</itunes:summary>
+      <itunes:subtitle>Jon and Deno rob an office!</itunes:subtitle>
+      <description>Jon and Deno rob an office!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/335068582-comediansincoffeegettingcars-deno-demartino.m4a" length="110851860"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000235414726-zzkgji-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/334185118</guid>
+      <title>Paul Spratt</title>
+      <pubDate>Fri, 21 Jul 2017 15:16:20 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/paul-spratt</link>
+      <itunes:duration>00:54:29</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Paul blow up a government building.</itunes:summary>
+      <itunes:subtitle>Jon and Paul blow up a government building.</itunes:subtitle>
+      <description>Jon and Paul blow up a government building.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/334185118-comediansincoffeegettingcars-paul-spratt.m4a" length="108331330"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000234552407-urajoa-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/333028253</guid>
+      <title>Leo Volf</title>
+      <pubDate>Thu, 13 Jul 2017 15:19:11 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/leo-volf</link>
+      <itunes:duration>00:58:42</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Leo rob a bank or whatever unoriginal thing we do when we have no time to talk about the heist.</itunes:summary>
+      <itunes:subtitle>Jon and Leo rob a bank or whatever unoriginal thi…</itunes:subtitle>
+      <description>Jon and Leo rob a bank or whatever unoriginal thing we do when we have no time to talk about the heist.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/333028253-comediansincoffeegettingcars-leo-volf.m4a" length="116749249"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000233439462-v31v2u-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/331904752</guid>
+      <title>Connor Creagan</title>
+      <pubDate>Thu, 06 Jul 2017 13:56:09 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/connor-creagan</link>
+      <itunes:duration>00:56:16</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Connor steal some art!</itunes:summary>
+      <itunes:subtitle>Jon and Connor steal some art!</itunes:subtitle>
+      <description>Jon and Connor steal some art!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/331904752-comediansincoffeegettingcars-connor-creagan.m4a" length="111977085"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000232330138-dpuqfr-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/330745130</guid>
+      <title>Danny Rathbun</title>
+      <pubDate>Thu, 29 Jun 2017 16:14:24 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/danny-rathbun</link>
+      <itunes:duration>00:56:09</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Danny rob a Sports Authority</itunes:summary>
+      <itunes:subtitle>Jon and Danny rob a Sports Authority</itunes:subtitle>
+      <description>Jon and Danny rob a Sports Authority</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/330745130-comediansincoffeegettingcars-danny-rathbun.m4a" length="111657660"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000231178204-6swq2r-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/329495965</guid>
+      <title>Jill Weiner</title>
+      <pubDate>Thu, 22 Jun 2017 14:08:37 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jill-weiner</link>
+      <itunes:duration>00:56:37</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jill are the distraction element in a heist!</itunes:summary>
+      <itunes:subtitle>Jon and Jill are the distraction element in a hei…</itunes:subtitle>
+      <description>Jon and Jill are the distraction element in a heist!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/329495965-comediansincoffeegettingcars-jill-weiner.m4a" length="112547641"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000230019640-15urur-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/328215653</guid>
+      <title>Jason Chatfield</title>
+      <pubDate>Thu, 15 Jun 2017 15:25:54 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jason-chatfield</link>
+      <itunes:duration>00:59:01</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jason rob an apartment building!</itunes:summary>
+      <itunes:subtitle>Jon and Jason rob an apartment building!</itunes:subtitle>
+      <description>Jon and Jason rob an apartment building!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/328215653-comediansincoffeegettingcars-jason-chatfield.m4a" length="117398077"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000228532838-1a6k6c-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/327144695</guid>
+      <title>Erick Hellwig</title>
+      <pubDate>Thu, 08 Jun 2017 15:59:55 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/erick-hellwig</link>
+      <itunes:duration>01:03:17</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Erick steal something, who remembers.</itunes:summary>
+      <itunes:subtitle>Jon and Erick steal something, who remembers.</itunes:subtitle>
+      <description>Jon and Erick steal something, who remembers.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/327144695-comediansincoffeegettingcars-erick-hellwig.m4a" length="125863111"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000227413995-bsy359-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/325473829</guid>
+      <title>Ethan Hall</title>
+      <pubDate>Thu, 01 Jun 2017 04:19:26 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ethan-hall</link>
+      <itunes:duration>00:58:08</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ethan steal some art.</itunes:summary>
+      <itunes:subtitle>Jon and Ethan steal some art.</itunes:subtitle>
+      <description>Jon and Ethan steal some art.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/325473829-comediansincoffeegettingcars-ethan-hall.m4a" length="115623208"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000225255286-0emmg0-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/324446867</guid>
+      <title>Jordan Raybould</title>
+      <pubDate>Thu, 25 May 2017 14:13:25 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jordan-raybould</link>
+      <itunes:duration>00:57:31</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jordan plan to rob a bank!</itunes:summary>
+      <itunes:subtitle>Jon and Jordan plan to rob a bank!</itunes:subtitle>
+      <description>Jon and Jordan plan to rob a bank!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/324446867-comediansincoffeegettingcars-jordan-raybould.m4a" length="114439006"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000224318208-qfftl2-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/323226999</guid>
+      <title>Ginny Hogan</title>
+      <pubDate>Thu, 18 May 2017 15:05:43 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ginny-hogan</link>
+      <itunes:duration>00:56:09</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ginny rob a McDonalds for the dollar menu.</itunes:summary>
+      <itunes:subtitle>Jon and Ginny rob a McDonalds for the dollar menu.</itunes:subtitle>
+      <description>Jon and Ginny rob a McDonalds for the dollar menu.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/323226999-comediansincoffeegettingcars-ginny-hogan.m4a" length="111637396"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000223129070-gj8v9q-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/322111475</guid>
+      <title>Ryan Mulholland</title>
+      <pubDate>Thu, 11 May 2017 15:02:33 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ryan-mulholland</link>
+      <itunes:duration>00:56:40</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ryan rob all the antidepressants in New York.</itunes:summary>
+      <itunes:subtitle>Jon and Ryan rob all the antidepressants in New Y…</itunes:subtitle>
+      <description>Jon and Ryan rob all the antidepressants in New York.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/322111475-comediansincoffeegettingcars-ryan-mulholland.m4a" length="112759751"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000222115051-oo13du-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/320946132</guid>
+      <title>Pedro Salinas</title>
+      <pubDate>Thu, 04 May 2017 14:35:07 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/pedro-salinas</link>
+      <itunes:duration>01:04:16</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Pedro rob a liquor store.</itunes:summary>
+      <itunes:subtitle>Jon and Pedro rob a liquor store.</itunes:subtitle>
+      <description>Jon and Pedro rob a liquor store.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/320946132-comediansincoffeegettingcars-pedro-salinas.m4a" length="127806264"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000221039283-ppj8mj-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/319745749</guid>
+      <title>Matt Maran</title>
+      <pubDate>Thu, 27 Apr 2017 15:41:41 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/matt-maran</link>
+      <itunes:duration>00:57:59</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Matt plan to heist a bank or something. Who remembers or cares.
+
+We talk wrestling, comedy, sports, and kinds of things.</itunes:summary>
+      <itunes:subtitle>Jon and Matt plan to heist a bank or something. W…</itunes:subtitle>
+      <description>Jon and Matt plan to heist a bank or something. Who remembers or cares.
+
+We talk wrestling, comedy, sports, and kinds of things.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/319745749-comediansincoffeegettingcars-matt-maran.m4a" length="115360614"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000219941463-4m6da5-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/318639356</guid>
+      <title>Chloe McGovern</title>
+      <pubDate>Thu, 20 Apr 2017 14:54:05 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/chloe-mcgovern</link>
+      <itunes:duration>00:55:35</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Chloe rob Greenwich Village Comedy Club.</itunes:summary>
+      <itunes:subtitle>Jon and Chloe rob Greenwich Village Comedy Club.</itunes:subtitle>
+      <description>Jon and Chloe rob Greenwich Village Comedy Club.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/318639356-comediansincoffeegettingcars-chloe-mcgovern.m4a" length="110506554"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000218679820-v1y5ni-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/317502293</guid>
+      <title>Anthony Apruzzese</title>
+      <pubDate>Thu, 13 Apr 2017 14:28:57 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/anthony-apruzzese</link>
+      <itunes:duration>00:57:34</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Anthony rob a Jersey bank!</itunes:summary>
+      <itunes:subtitle>Jon and Anthony rob a Jersey bank!</itunes:subtitle>
+      <description>Jon and Anthony rob a Jersey bank!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/317502293-comediansincoffeegettingcars-anthony-apruzzese.m4a" length="114424988"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000217622299-ohdbof-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/316404338</guid>
+      <title>Eric Schmidt</title>
+      <pubDate>Thu, 06 Apr 2017 15:28:50 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/eric-schmidt</link>
+      <itunes:duration>00:57:10</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Eric steal a boat!</itunes:summary>
+      <itunes:subtitle>Jon and Eric steal a boat!</itunes:subtitle>
+      <description>Jon and Eric steal a boat!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/316404338-comediansincoffeegettingcars-eric-schmidt.m4a" length="113623072"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000216535379-td6l1d-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/315222228</guid>
+      <title>James Myers</title>
+      <pubDate>Thu, 30 Mar 2017 14:29:08 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/james-myers</link>
+      <itunes:duration>00:59:24</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and James rob at Amtrak train.</itunes:summary>
+      <itunes:subtitle>Jon and James rob at Amtrak train.</itunes:subtitle>
+      <description>Jon and James rob at Amtrak train.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/315222228-comediansincoffeegettingcars-james-myers.m4a" length="118057722"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000215408945-1e05pa-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/314093826</guid>
+      <title>Patrick Holbert</title>
+      <pubDate>Thu, 23 Mar 2017 14:38:55 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/patrick-holbert</link>
+      <itunes:duration>00:58:40</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Patrick steal police tow trucks!</itunes:summary>
+      <itunes:subtitle>Jon and Patrick steal police tow trucks!</itunes:subtitle>
+      <description>Jon and Patrick steal police tow trucks!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/314093826-comediansincoffeegettingcars-patrick-holbert.m4a" length="116707572"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000214275377-0cjya6-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/312796105</guid>
+      <title>Max Ogle</title>
+      <pubDate>Thu, 16 Mar 2017 19:37:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/max-ogle</link>
+      <itunes:duration>00:58:11</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Max steal Julian Assange's secrets</itunes:summary>
+      <itunes:subtitle>Jon and Max steal Julian Assange's secrets</itunes:subtitle>
+      <description>Jon and Max steal Julian Assange's secrets</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/312796105-comediansincoffeegettingcars-max-ogle.m4a" length="115745156"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000212948783-puwrsr-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/311535328</guid>
+      <title>Isabel Hagen</title>
+      <pubDate>Thu, 09 Mar 2017 16:16:48 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/isabel-hagen</link>
+      <itunes:duration>00:57:13</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Isabel steal a van!</itunes:summary>
+      <itunes:subtitle>Jon and Isabel steal a van!</itunes:subtitle>
+      <description>Jon and Isabel steal a van!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/311535328-comediansincoffeegettingcars-isabel-hagen.m4a" length="113823864"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000211738172-r0ma7p-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/310345519</guid>
+      <title>Amy Cardinale</title>
+      <pubDate>Thu, 02 Mar 2017 15:35:33 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/amy-cardinale</link>
+      <itunes:duration>00:57:04</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Amy plan a heist to get her cat back.</itunes:summary>
+      <itunes:subtitle>Jon and Amy plan a heist to get her cat back.</itunes:subtitle>
+      <description>Jon and Amy plan a heist to get her cat back.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/310345519-comediansincoffeegettingcars-amy-cardinale.m4a" length="113423396"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000210403967-fktf61-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/309212042</guid>
+      <title>Jess Reed</title>
+      <pubDate>Thu, 23 Feb 2017 18:54:45 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jess-reed</link>
+      <itunes:duration>01:04:13</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jess plan to heist some ice cream.</itunes:summary>
+      <itunes:subtitle>Jon and Jess plan to heist some ice cream.</itunes:subtitle>
+      <description>Jon and Jess plan to heist some ice cream.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/309212042-comediansincoffeegettingcars-jess-reed.m4a" length="127704929"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000209264717-5rybpd-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/308051808</guid>
+      <title>Luke Mones</title>
+      <pubDate>Thu, 16 Feb 2017 16:21:40 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/luke-mones</link>
+      <itunes:duration>00:55:50</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Luke steal diamonds from a nonprofit!</itunes:summary>
+      <itunes:subtitle>Jon and Luke steal diamonds from a nonprofit!</itunes:subtitle>
+      <description>Jon and Luke steal diamonds from a nonprofit!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/308051808-comediansincoffeegettingcars-luke-mones.m4a" length="111048635"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000208103117-0j0aoo-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/306916161</guid>
+      <title>Lance Pauker</title>
+      <pubDate>Thu, 09 Feb 2017 18:05:46 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/lance-pauker</link>
+      <itunes:duration>01:00:42</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Lance plan to open a mom and pop shop to compete with Walmart. Also, check out Lance on Medium. He writes really funny haikus and poems: https://medium.com/@L.Pauker</itunes:summary>
+      <itunes:subtitle>Jon and Lance plan to open a mom and pop shop to …</itunes:subtitle>
+      <description>Jon and Lance plan to open a mom and pop shop to compete with Walmart. Also, check out Lance on Medium. He writes really funny haikus and poems: https://medium.com/@L.Pauker</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/306916161-comediansincoffeegettingcars-lance-pauker.m4a" length="120750902"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000207007740-94d1vj-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/305774799</guid>
+      <title>Bret Raybould</title>
+      <pubDate>Thu, 02 Feb 2017 16:19:31 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/bret-raybould</link>
+      <itunes:duration>01:01:27</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Bret plan a heist of the art at Wake Forest University. They also talk technology, family, comedy, and all kinds of things.
+
+Check out Bret's sketch comedy group &quot;The Raybould Brothers&quot; on YouTube and subscribe to help them get more tools to make more sketches.</itunes:summary>
+      <itunes:subtitle>Jon and Bret plan a heist of the art at Wake Fore…</itunes:subtitle>
+      <description>Jon and Bret plan a heist of the art at Wake Forest University. They also talk technology, family, comedy, and all kinds of things.
+
+Check out Bret's sketch comedy group &quot;The Raybould Brothers&quot; on YouTube and subscribe to help them get more tools to make more sketches.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/305774799-comediansincoffeegettingcars-bret-raybould.m4a" length="122243389"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000205922380-rx8uhl-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/304631977</guid>
+      <title>Maddy Smith</title>
+      <pubDate>Thu, 26 Jan 2017 15:30:27 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/maddy-smith</link>
+      <itunes:duration>00:56:31</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Maddy plan a heist of fruits and vegetables!</itunes:summary>
+      <itunes:subtitle>Jon and Maddy plan a heist of fruits and vegetabl…</itunes:subtitle>
+      <description>Jon and Maddy plan a heist of fruits and vegetables!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/304631977-comediansincoffeegettingcars-maddy-smith.m4a" length="112457055"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000204834400-sp92w3-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/303665750</guid>
+      <title>Thiago Macklin</title>
+      <pubDate>Fri, 20 Jan 2017 15:15:39 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/thiago-macklin</link>
+      <itunes:duration>00:58:42</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Thiago heist a post-apocalyptic cruise ship (Captain Phillips style).</itunes:summary>
+      <itunes:subtitle>Jon and Thiago heist a post-apocalyptic cruise sh…</itunes:subtitle>
+      <description>Jon and Thiago heist a post-apocalyptic cruise ship (Captain Phillips style).</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/303665750-comediansincoffeegettingcars-thiago-macklin.m4a" length="116737839"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000203831086-xzjnlv-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/302354212</guid>
+      <title>Caitlin Puckett and Calvin Cole</title>
+      <pubDate>Thu, 12 Jan 2017 15:23:12 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/caitlin-puckett-and-calvin-cole</link>
+      <itunes:duration>01:01:39</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon, Calvin, and Caitlin break into a Chicago apartment to retrieve some guinea pigs!</itunes:summary>
+      <itunes:subtitle>Jon, Calvin, and Caitlin break into a Chicago apa…</itunes:subtitle>
+      <description>Jon, Calvin, and Caitlin break into a Chicago apartment to retrieve some guinea pigs!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/302354212-comediansincoffeegettingcars-caitlin-puckett-and-calvin-cole.m4a" length="125742662"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000202663110-3axtlj-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/301057447</guid>
+      <title>Catherine Zini</title>
+      <pubDate>Thu, 05 Jan 2017 15:21:12 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/catherine-zini</link>
+      <itunes:duration>00:54:14</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Catherine plan a heist to free all the cats from the ASPCA.</itunes:summary>
+      <itunes:subtitle>Jon and Catherine plan a heist to free all the ca…</itunes:subtitle>
+      <description>Jon and Catherine plan a heist to free all the cats from the ASPCA.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/301057447-comediansincoffeegettingcars-catherine-zini.m4a" length="110538054"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000201346457-qwplyf-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/300056962</guid>
+      <title>Emily Lynne</title>
+      <pubDate>Thu, 29 Dec 2016 15:04:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/emily-lynne</link>
+      <itunes:duration>00:48:56</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Emily plan a heist to create tragic situations.</itunes:summary>
+      <itunes:subtitle>Jon and Emily plan a heist to create tragic situa…</itunes:subtitle>
+      <description>Jon and Emily plan a heist to create tragic situations.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/300056962-comediansincoffeegettingcars-emily-lynne.m4a" length="97825377"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000200484146-pp5j9a-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/299176654</guid>
+      <title>Nick Milton</title>
+      <pubDate>Thu, 22 Dec 2016 18:15:45 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/nick-milton</link>
+      <itunes:duration>00:56:43</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Nick plan a heist to get him booked on a bar show!</itunes:summary>
+      <itunes:subtitle>Jon and Nick plan a heist to get him booked on a …</itunes:subtitle>
+      <description>Jon and Nick plan a heist to get him booked on a bar show!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/299176654-comediansincoffeegettingcars-nick-milton.m4a" length="112756118"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000199714803-go9zra-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/298033748</guid>
+      <title>Usama Siddiquee</title>
+      <pubDate>Thu, 15 Dec 2016 15:08:35 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/usama-siddiquee</link>
+      <itunes:duration>00:55:50</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Usama plan a heist of Fairway Market.</itunes:summary>
+      <itunes:subtitle>Jon and Usama plan a heist of Fairway Market.</itunes:subtitle>
+      <description>Jon and Usama plan a heist of Fairway Market.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/298033748-comediansincoffeegettingcars-usama-siddiquee.m4a" length="114353770"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000198556094-yd861k-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/296840596</guid>
+      <title>Brandon Scott Wolf</title>
+      <pubDate>Thu, 08 Dec 2016 15:53:46 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/brandon-scott-wolf</link>
+      <itunes:duration>00:59:59</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Brandon plan to steal art from the Philadelphia school district!</itunes:summary>
+      <itunes:subtitle>Jon and Brandon plan to steal art from the Philad…</itunes:subtitle>
+      <description>Jon and Brandon plan to steal art from the Philadelphia school district!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/296840596-comediansincoffeegettingcars-brandon-scott-wolf.m4a" length="118832278"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000197435024-g3vso2-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/295733305</guid>
+      <title>Harrison Herreman</title>
+      <pubDate>Thu, 01 Dec 2016 17:39:45 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/harrison-herreman</link>
+      <itunes:duration>01:00:13</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Harrison plan a heist to bring a smile to my face!</itunes:summary>
+      <itunes:subtitle>Jon and Harrison plan a heist to bring a smile to…</itunes:subtitle>
+      <description>Jon and Harrison plan a heist to bring a smile to my face!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/295733305-comediansincoffeegettingcars-harrison-herreman.m4a" length="119681684"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000202562645-4j37l1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/294756655</guid>
+      <title>Harrison Tweed</title>
+      <pubDate>Fri, 25 Nov 2016 18:28:02 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/harrison-tweed</link>
+      <itunes:duration>00:56:29</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Harrison plan a heist to take out the surplus of comedians around!</itunes:summary>
+      <itunes:subtitle>Jon and Harrison plan a heist to take out the sur…</itunes:subtitle>
+      <description>Jon and Harrison plan a heist to take out the surplus of comedians around!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/294756655-comediansincoffeegettingcars-harrison-tweed.m4a" length="112309351"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000195320049-5y7ggg-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/293480896</guid>
+      <title>Gracie Canaan</title>
+      <pubDate>Thu, 17 Nov 2016 14:49:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/gracie-canaan</link>
+      <itunes:duration>00:50:03</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Gracie plan a heist in order to pay off her student loans!</itunes:summary>
+      <itunes:subtitle>Jon and Gracie plan a heist in order to pay off h…</itunes:subtitle>
+      <description>Jon and Gracie plan a heist in order to pay off her student loans!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/293480896-comediansincoffeegettingcars-gracie-canaan.m4a" length="99432082"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000194015941-7ypp87-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/292394961</guid>
+      <title>Lucien Formichella</title>
+      <pubDate>Thu, 10 Nov 2016 15:53:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/lucien-formichella</link>
+      <itunes:duration>00:56:50</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Lucien plan to rob a post-apocalyptic deli!</itunes:summary>
+      <itunes:subtitle>Jon and Lucien plan to rob a post-apocalyptic del…</itunes:subtitle>
+      <description>Jon and Lucien plan to rob a post-apocalyptic deli!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/292394961-comediansincoffeegettingcars-lucien-formichella.m4a" length="113006921"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000192925078-t9pr74-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/291327694</guid>
+      <title>Pedro Gonzalez</title>
+      <pubDate>Thu, 03 Nov 2016 15:16:58 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/pedro-gonzalez</link>
+      <itunes:duration>00:58:14</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Pedro plan to smuggle drugs from Columbia!</itunes:summary>
+      <itunes:subtitle>Jon and Pedro plan to smuggle drugs from Columbia!</itunes:subtitle>
+      <description>Jon and Pedro plan to smuggle drugs from Columbia!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/291327694-comediansincoffeegettingcars-pedro-gonzalez.m4a" length="115743628"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000191886261-fta2dd-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/290237166</guid>
+      <title>Daniel Raderstrong</title>
+      <pubDate>Thu, 27 Oct 2016 14:17:27 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/daniel-raderstrong</link>
+      <itunes:duration>00:57:17</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Daniel steal crafts from a children's camp to sell back to their parents.</itunes:summary>
+      <itunes:subtitle>Jon and Daniel steal crafts from a children's cam…</itunes:subtitle>
+      <description>Jon and Daniel steal crafts from a children's camp to sell back to their parents.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/290237166-comediansincoffeegettingcars-daniel-raderstrong.m4a" length="113935199"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000190900196-djcbiv-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/289128774</guid>
+      <title>CW Headley</title>
+      <pubDate>Thu, 20 Oct 2016 11:18:48 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/cw-headley</link>
+      <itunes:duration>00:53:37</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and CW try to steal back his father's approval from beyond the grave.</itunes:summary>
+      <itunes:subtitle>Jon and CW try to steal back his father's approva…</itunes:subtitle>
+      <description>Jon and CW try to steal back his father's approval from beyond the grave.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/289128774-comediansincoffeegettingcars-cw-headley.m4a" length="106595118"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000190903631-h8bpmz-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/287497407</guid>
+      <title>Andrea Jones-Rooy</title>
+      <pubDate>Thu, 13 Oct 2016 14:52:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/andrea-jones-rooy</link>
+      <itunes:duration>00:57:07</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Andrea smuggle iPhones to China!</itunes:summary>
+      <itunes:subtitle>Jon and Andrea smuggle iPhones to China!</itunes:subtitle>
+      <description>Jon and Andrea smuggle iPhones to China!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/287497407-comediansincoffeegettingcars-andrea-jones-rooy.m4a" length="113634771"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000190904269-rhtab0-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/286322362</guid>
+      <title>Adam Gabel</title>
+      <pubDate>Thu, 06 Oct 2016 14:46:46 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/adam-gabel</link>
+      <itunes:duration>00:59:27</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Adam plan to steal a rack of books from the street outside the Strand.</itunes:summary>
+      <itunes:subtitle>Jon and Adam plan to steal a rack of books from t…</itunes:subtitle>
+      <description>Jon and Adam plan to steal a rack of books from the street outside the Strand.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/286322362-comediansincoffeegettingcars-adam-gabel.m4a" length="118212105"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000186884605-m9bl8b-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/285270124</guid>
+      <title>Jon Hudson</title>
+      <pubDate>Thu, 29 Sep 2016 14:49:01 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jon-hudson</link>
+      <itunes:duration>00:57:56</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jon plan a heist to start their own theatre.</itunes:summary>
+      <itunes:subtitle>Jon and Jon plan a heist to start their own theat…</itunes:subtitle>
+      <description>Jon and Jon plan a heist to start their own theatre.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/285270124-comediansincoffeegettingcars-jon-hudson.m4a" length="115253234"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000185829471-zxknfg-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/284100816</guid>
+      <title>Ja-Ron Young</title>
+      <pubDate>Thu, 22 Sep 2016 13:26:39 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ja-ron-young</link>
+      <itunes:duration>00:56:55</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ja-Ron plan to break into the Museum of Natural History to get some dino bones.</itunes:summary>
+      <itunes:subtitle>Jon and Ja-Ron plan to break into the Museum of N…</itunes:subtitle>
+      <description>Jon and Ja-Ron plan to break into the Museum of Natural History to get some dino bones.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/284100816-comediansincoffeegettingcars-ja-ron-young.m4a" length="113214428"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000184360946-sbw1ve-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283194672</guid>
+      <title>Caitlin Peluffo</title>
+      <pubDate>Fri, 16 Sep 2016 14:39:47 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/caitlin-peluffo</link>
+      <itunes:duration>00:55:24</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Caitlin plan a heist to get back at the woman who ran into her car.</itunes:summary>
+      <itunes:subtitle>Jon and Caitlin plan a heist to get back at the w…</itunes:subtitle>
+      <description>Jon and Caitlin plan a heist to get back at the woman who ran into her car.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/283194672-comediansincoffeegettingcars-caitlin-peluffo.m4a" length="110196002"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000184360128-3kkytx-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/281977657</guid>
+      <title>Santi Espinosa</title>
+      <pubDate>Thu, 08 Sep 2016 16:37:04 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/santi-espinosa</link>
+      <itunes:duration>00:56:22</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Santi plan a classic bank robbery.</itunes:summary>
+      <itunes:subtitle>Jon and Santi plan a classic bank robbery.</itunes:subtitle>
+      <description>Jon and Santi plan a classic bank robbery.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/281977657-comediansincoffeegettingcars-santi-espinosa.m4a" length="112146009"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000181408905-7i9exm-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/280905762</guid>
+      <title>Janelle Draper</title>
+      <pubDate>Thu, 01 Sep 2016 14:10:48 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/janelle-draper</link>
+      <itunes:duration>00:58:00</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Janelle plan an Amtrak pyramid scheme heist.</itunes:summary>
+      <itunes:subtitle>Jon and Janelle plan an Amtrak pyramid scheme hei…</itunes:subtitle>
+      <description>Jon and Janelle plan an Amtrak pyramid scheme heist.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/280905762-comediansincoffeegettingcars-janelle-draper.m4a" length="115398145"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000179947182-5kjpyt-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/279840589</guid>
+      <title>Dave Columbo</title>
+      <pubDate>Thu, 25 Aug 2016 14:37:58 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/dave-columbo</link>
+      <itunes:duration>01:02:44</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Dave plan a reverse heist and return a stolen wallet insert!</itunes:summary>
+      <itunes:subtitle>Jon and Dave plan a reverse heist and return a st…</itunes:subtitle>
+      <description>Jon and Dave plan a reverse heist and return a stolen wallet insert!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/279840589-comediansincoffeegettingcars-dave-columbo.m4a" length="124742330"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000178623552-6w7l8t-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/278817905</guid>
+      <title>Frank DeRuggiero</title>
+      <pubDate>Thu, 18 Aug 2016 15:26:12 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/frank-deruggiero</link>
+      <itunes:duration>00:58:15</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Frank steal/kidnap James Caan. Comedians in Coffee Getting Caans!</itunes:summary>
+      <itunes:subtitle>Jon and Frank steal/kidnap James Caan. Comedians …</itunes:subtitle>
+      <description>Jon and Frank steal/kidnap James Caan. Comedians in Coffee Getting Caans!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/278817905-comediansincoffeegettingcars-frank-deruggiero.m4a" length="115865886"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000177304620-wd306s-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/277809740</guid>
+      <title>Benny and Griff</title>
+      <pubDate>Thu, 11 Aug 2016 14:19:28 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/benny-and-griff</link>
+      <itunes:duration>00:55:23</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon, Benny and Griff plan not one but three heists!</itunes:summary>
+      <itunes:subtitle>Jon, Benny and Griff plan not one but three heist…</itunes:subtitle>
+      <description>Jon, Benny and Griff plan not one but three heists!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/277809740-comediansincoffeegettingcars-benny-and-griff.m4a" length="112804144"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000175893842-kaf32g-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/276799264</guid>
+      <title>Kami Dimitrova</title>
+      <pubDate>Thu, 04 Aug 2016 14:25:02 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/kami-dimitrova</link>
+      <itunes:duration>00:59:47</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Kami steal men from the set of the Tonight Show!</itunes:summary>
+      <itunes:subtitle>Jon and Kami steal men from the set of the Tonigh…</itunes:subtitle>
+      <description>Jon and Kami steal men from the set of the Tonight Show!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/276799264-comediansincoffeegettingcars-kami-dimitrova.m4a" length="118909103"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000174843385-8x50mp-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/275767779</guid>
+      <title>Matt Leary</title>
+      <pubDate>Thu, 28 Jul 2016 14:32:14 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/matt-leary</link>
+      <itunes:duration>00:54:16</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Matt break into houses, Home Alone style, to get his parents back!</itunes:summary>
+      <itunes:subtitle>Jon and Matt break into houses, Home Alone style,…</itunes:subtitle>
+      <description>Jon and Matt break into houses, Home Alone style, to get his parents back!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/275767779-comediansincoffeegettingcars-matt-leary.m4a" length="110643683"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000173721863-42raur-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/274714383</guid>
+      <title>Phil Stamato</title>
+      <pubDate>Thu, 21 Jul 2016 15:54:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/phil-stamato</link>
+      <itunes:duration>00:56:09</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Phil break into a museum and steal the Holy Grail!</itunes:summary>
+      <itunes:subtitle>Jon and Phil break into a museum and steal the Ho…</itunes:subtitle>
+      <description>Jon and Phil break into a museum and steal the Holy Grail!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/274714383-comediansincoffeegettingcars-phil-stamato.m4a" length="114131865"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000172587139-4ep1xt-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/273655902</guid>
+      <title>Raquel Castellar</title>
+      <pubDate>Thu, 14 Jul 2016 14:23:43 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/raquel-castellar</link>
+      <itunes:duration>00:57:47</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Raquel travel back in time to steal scrolls from the Library at Alexandria</itunes:summary>
+      <itunes:subtitle>Jon and Raquel travel back in time to steal scrol…</itunes:subtitle>
+      <description>Jon and Raquel travel back in time to steal scrolls from the Library at Alexandria</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/273655902-comediansincoffeegettingcars-raquel-castellar.m4a" length="114949837"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000171436923-qszi57-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/272604896</guid>
+      <title>Fumi Abe</title>
+      <pubDate>Thu, 07 Jul 2016 16:07:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/fumi-abe</link>
+      <itunes:duration>00:57:54</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Fumi get steal back his kidnapped parents from children!</itunes:summary>
+      <itunes:subtitle>Jon and Fumi get steal back his kidnapped parents…</itunes:subtitle>
+      <description>Jon and Fumi get steal back his kidnapped parents from children!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/272604896-comediansincoffeegettingcars-fumi-abe.m4a" length="115178826"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000170507815-6edd6w-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/271670215</guid>
+      <title>James Nichols</title>
+      <pubDate>Fri, 01 Jul 2016 04:15:28 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/james-nichols</link>
+      <itunes:duration>00:57:53</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and James steal not one but two cars!</itunes:summary>
+      <itunes:subtitle>Jon and James steal not one but two cars!</itunes:subtitle>
+      <description>Jon and James steal not one but two cars!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/271670215-comediansincoffeegettingcars-james-nichols.m4a" length="115069041"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000169676492-p8bxth-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/270743545</guid>
+      <title>Damian Holmes</title>
+      <pubDate>Sat, 25 Jun 2016 00:43:11 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/damian-holmes</link>
+      <itunes:duration>00:56:50</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Damian steal a car from the set of Comedians in Cars Getting Coffee</itunes:summary>
+      <itunes:subtitle>Jon and Damian steal a car from the set of Comedi…</itunes:subtitle>
+      <description>Jon and Damian steal a car from the set of Comedians in Cars Getting Coffee</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/270743545-comediansincoffeegettingcars-damian-holmes.m4a" length="110125789"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000168895886-p5biqa-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/269436025</guid>
+      <title>John Donovan</title>
+      <pubDate>Thu, 16 Jun 2016 16:41:58 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/john-donavan</link>
+      <itunes:duration>00:56:34</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jon plan a heist involving a Members Only jacket.</itunes:summary>
+      <itunes:subtitle>Jon and Jon plan a heist involving a Members Only…</itunes:subtitle>
+      <description>Jon and Jon plan a heist involving a Members Only jacket.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/269436025-comediansincoffeegettingcars-john-donavan.m4a" length="54977274"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000167661269-tm1rwc-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/268307397</guid>
+      <title>Jonathan Graziano</title>
+      <pubDate>Thu, 09 Jun 2016 15:24:17 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jonathan-graziano</link>
+      <itunes:duration>00:56:09</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jonathan plan a heist involving the theft of an instagram-famous dog.</itunes:summary>
+      <itunes:subtitle>Jon and Jonathan plan a heist involving the theft…</itunes:subtitle>
+      <description>Jon and Jonathan plan a heist involving the theft of an instagram-famous dog.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/268307397-comediansincoffeegettingcars-jonathan-graziano.m4a" length="54573020"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000166659396-zaqsh4-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/267114553</guid>
+      <title>Melissa Diaz</title>
+      <pubDate>Thu, 02 Jun 2016 14:49:40 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/melissa-diaz</link>
+      <itunes:duration>00:53:52</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Melissa plan to a heist/hostage situation involving SeaWorld.</itunes:summary>
+      <itunes:subtitle>Jon and Melissa plan to a heist/hostage situation…</itunes:subtitle>
+      <description>Jon and Melissa plan to a heist/hostage situation involving SeaWorld.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/267114553-comediansincoffeegettingcars-melissa-diaz.m4a" length="52356384"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000165553355-x28a3a-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/266036438</guid>
+      <title>Geoffrey K</title>
+      <pubDate>Thu, 26 May 2016 15:26:12 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/geoffrey-k</link>
+      <itunes:duration>00:54:55</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Geoff plan an art heist.</itunes:summary>
+      <itunes:subtitle>Jon and Geoff plan an art heist.</itunes:subtitle>
+      <description>Jon and Geoff plan an art heist.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/266036438-comediansincoffeegettingcars-geoffrey-k.m4a" length="53366268"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000164578687-s7h228-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/264919702</guid>
+      <title>Freddy G</title>
+      <pubDate>Thu, 19 May 2016 16:49:22 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/freddy-g</link>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Freddy steal back Freddy's old car</itunes:summary>
+      <itunes:subtitle>Jon and Freddy steal back Freddy's old car</itunes:subtitle>
+      <description>Jon and Freddy steal back Freddy's old car</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/264919702-comediansincoffeegettingcars-freddy-g.m4a" length="53462449"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000163566352-g0m7a1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/263781347</guid>
+      <title>Ian Hunt</title>
+      <pubDate>Thu, 12 May 2016 14:56:02 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/ian-hunt</link>
+      <itunes:duration>00:57:01</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Ian plan a heist involving yacht theft!</itunes:summary>
+      <itunes:subtitle>Jon and Ian plan a heist involving yacht theft!</itunes:subtitle>
+      <description>Jon and Ian plan a heist involving yacht theft!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/263781347-comediansincoffeegettingcars-ian-hunt.m4a" length="55410081"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000162509911-q76xmr-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/262647068</guid>
+      <title>Angela Palladino</title>
+      <pubDate>Thu, 05 May 2016 17:06:11 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/angela-palladino</link>
+      <itunes:duration>00:54:16</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Angela plan a heist to steal Walt Disney's frozen head.</itunes:summary>
+      <itunes:subtitle>Jon and Angela plan a heist to steal Walt Disney'…</itunes:subtitle>
+      <description>Jon and Angela plan a heist to steal Walt Disney's frozen head.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/262647068-comediansincoffeegettingcars-angela-palladino.m4a" length="52741100"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000161512010-uaebrv-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/261347973</guid>
+      <title>Justin Angermeyer</title>
+      <pubDate>Thu, 28 Apr 2016 16:10:26 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/justin-angermeyer</link>
+      <itunes:duration>00:58:32</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Justin discuss the live episode and plan another heist that involves stealing back Justin's action figures from childhood.</itunes:summary>
+      <itunes:subtitle>Jon and Justin discuss the live episode and plan …</itunes:subtitle>
+      <description>Jon and Justin discuss the live episode and plan another heist that involves stealing back Justin's action figures from childhood.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/261347973-comediansincoffeegettingcars-justin-angermeyer.m4a" length="56889216"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000160292273-tzur0l-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/261347533</guid>
+      <title>LIVE from Bushshtick</title>
+      <pubDate>Thu, 28 Apr 2016 16:07:22 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/live-from-bushshtick</link>
+      <itunes:duration>00:17:39</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Our very first live episode from Bushshtick, a monthly comedy show at the Pine Box Rock Shop in Brooklyn. Jon and Justin plan a heist that's mainly just Justin screaming about wrestling.</itunes:summary>
+      <itunes:subtitle>Our very first live episode from Bushshtick, a mo…</itunes:subtitle>
+      <description>Our very first live episode from Bushshtick, a monthly comedy show at the Pine Box Rock Shop in Brooklyn. Jon and Justin plan a heist that's mainly just Justin screaming about wrestling.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/261347533-comediansincoffeegettingcars-live-from-bushshtick.m4a" length="17202068"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000160291900-dm0jrb-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/260199469</guid>
+      <title>Jeremy Hammond</title>
+      <pubDate>Thu, 21 Apr 2016 15:44:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jeremy-hammond</link>
+      <itunes:duration>00:58:30</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jeremy plan a heist involving getting into Jeremy's brain. </itunes:summary>
+      <itunes:subtitle>Jon and Jeremy plan a heist involving getting int…</itunes:subtitle>
+      <description>Jon and Jeremy plan a heist involving getting into Jeremy's brain. </description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/260199469-comediansincoffeegettingcars-jeremy-hammond.m4a" length="56852775"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000159243969-ykdh6f-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/258969884</guid>
+      <title>David Spector</title>
+      <pubDate>Thu, 14 Apr 2016 15:14:21 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/david-spector</link>
+      <itunes:duration>00:59:22</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and David break into Area 51 and steal E.T.</itunes:summary>
+      <itunes:subtitle>Jon and David break into Area 51 and steal E.T.</itunes:subtitle>
+      <description>Jon and David break into Area 51 and steal E.T.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/258969884-comediansincoffeegettingcars-david-spector.m4a" length="86191751"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000158064000-sqchds-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/257795949</guid>
+      <title>Caitlin McKee</title>
+      <pubDate>Thu, 07 Apr 2016 14:55:43 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/07-caitlin-mckee</link>
+      <itunes:duration>00:51:16</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Caitlin plan a heist in which they reclaim part of Caitlin's childhood!</itunes:summary>
+      <itunes:subtitle>Jon and Caitlin plan a heist in which they reclai…</itunes:subtitle>
+      <description>Jon and Caitlin plan a heist in which they reclaim part of Caitlin's childhood!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/257795949-comediansincoffeegettingcars-07-caitlin-mckee.m4a" length="74441498"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000156976311-y429gu-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/256511220</guid>
+      <title>Joe Striks</title>
+      <pubDate>Thu, 31 Mar 2016 15:00:07 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/06-joe-striks</link>
+      <itunes:duration>00:53:34</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Joe and Jon plan a heist to get Joe's car from high school back!</itunes:summary>
+      <itunes:subtitle>Joe and Jon plan a heist to get Joe's car from hi…</itunes:subtitle>
+      <description>Joe and Jon plan a heist to get Joe's car from high school back!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/256511220-comediansincoffeegettingcars-06-joe-striks.m4a" length="103358890"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000155659812-cfr0fh-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/254819191</guid>
+      <title>Casey McGowan</title>
+      <pubDate>Thu, 24 Mar 2016 15:05:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/casey-mcgowan</link>
+      <itunes:duration>00:55:57</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Casey plan a heist involving the kidnapping of the guy who runs the Twitter account for Tums.</itunes:summary>
+      <itunes:subtitle>Jon and Casey plan a heist involving the kidnappi…</itunes:subtitle>
+      <description>Jon and Casey plan a heist involving the kidnapping of the guy who runs the Twitter account for Tums.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/254819191-comediansincoffeegettingcars-casey-mcgowan.m4a" length="110281053"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000153807239-gpprb9-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/252358941</guid>
+      <title>Brad Stoll</title>
+      <pubDate>Thu, 17 Mar 2016 15:09:41 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/brad-stoll</link>
+      <itunes:duration>00:56:18</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Brad minimally plan a heist and talk a lot about comedy.
+</itunes:summary>
+      <itunes:subtitle>Jon and Brad minimally plan a heist and talk a lo…</itunes:subtitle>
+      <description>Jon and Brad minimally plan a heist and talk a lot about comedy.
+</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/252358941-comediansincoffeegettingcars-brad-stoll.m4a" length="106607686"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000151311954-p2rghb-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/251529891</guid>
+      <title>Emily Menez</title>
+      <pubDate>Sat, 12 Mar 2016 17:48:43 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/03-emily-menez</link>
+      <itunes:duration>00:55:44</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Emily plan a heist involving breaking into Google to find all the answers.</itunes:summary>
+      <itunes:subtitle>Jon and Emily plan a heist involving breaking int…</itunes:subtitle>
+      <description>Jon and Emily plan a heist involving breaking into Google to find all the answers.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/251529891-comediansincoffeegettingcars-03-emily-menez.m4a" length="108436654"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000150642143-gwtyhs-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/250022530</guid>
+      <title>Scott Englund</title>
+      <pubDate>Thu, 03 Mar 2016 17:06:42 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/scott-england</link>
+      <itunes:duration>00:54:55</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Scott plan a real dumb heist that involves breaking into the Disney vault and releasing all the old movies.</itunes:summary>
+      <itunes:subtitle>Jon and Scott plan a real dumb heist that involve…</itunes:subtitle>
+      <description>Jon and Scott plan a real dumb heist that involves breaking into the Disney vault and releasing all the old movies.</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/250022530-comediansincoffeegettingcars-scott-england.m4a" length="103861273"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000149513302-k8ocvd-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/244780560</guid>
+      <title>Jesse Eigner</title>
+      <pubDate>Sun, 31 Jan 2016 21:57:30 +0000</pubDate>
+      <link>https://soundcloud.com/comediansincoffeegettingcars/jesse-eigner</link>
+      <itunes:duration>00:51:15</itunes:duration>
+      <itunes:author>Jon Newman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Jon and Jesse plan a heist!</itunes:summary>
+      <itunes:subtitle>Jon and Jesse plan a heist!</itunes:subtitle>
+      <description>Jon and Jesse plan a heist!</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/244780560-comediansincoffeegettingcars-jesse-eigner.m4a" length="101870721"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000146117186-wft2zq-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

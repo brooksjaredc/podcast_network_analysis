@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+<ttl>60</ttl>
+<title>EconTalk Archives, 2006</title>
+<link>http://www.EconTalk.org</link>
+<language>en-us</language>
+<copyright>&#xA9; 2006-2013 Library of Economics and Liberty &amp; Liberty Fund, Inc.</copyright>
+
+<description>EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Topics include health care, free trade, economic growth, education, finance, politics, sports, book reviews, parenting, and the curiosities of everyday decision-making. Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Look for related readings and the complete archive of previous shows at EconTalk.org, where you can also comment on the podcasts and ask questions.</description> 
+
+<itunes:subtitle>Economics Brought to Life, Library of Economics and Liberty</itunes:subtitle>
+<itunes:author>EconTalk: Russ Roberts, Library of Economics and Liberty</itunes:author>
+<itunes:summary>EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Topics include health care, free trade, economic growth, education, finance, politics, sports, book reviews, parenting, and the curiosities of everyday decision-making. Russ Roberts, of the Library of Economics and Liberty (econlib.org) and George Mason U., draws you in with lively guests and creative repartee.  Look for related readings and the complete archive of previous shows at EconTalk.org, where you can also comment on the podcasts and ask questions.</itunes:summary>
+
+<itunes:new-feed-url>http://files.libertyfund.org/econtalk/EconTalk2006.xml</itunes:new-feed-url>
+
+
+<itunes:owner>
+<itunes:name>Library of Economics and Liberty</itunes:name>
+<itunes:email>webmaster@econlib.org</itunes:email>
+</itunes:owner>
+<itunes:image href="http://files.libertyfund.org/econtalk/EconTalkCDcover1400y2006.jpg" />
+<itunes:category text="Education">
+<itunes:category text="Higher Education"/>
+</itunes:category>
+<itunes:category text="Science &amp; Medicine">
+<itunes:category text="Social Sciences"/>
+</itunes:category>
+<itunes:category text="Business"/>
+<itunes:explicit>clean</itunes:explicit>
+
+<item>
+<title>Boettke on Katrina and the Economics of Disaster</title>
+
+<itunes:author>EconTalk: Russ Roberts and Pete Boettke</itunes:author>
+
+<pubDate>Mon, 18 Dec 2006 07:45:00 EST</pubDate>
+
+<description>Pete Boettke of George Mason University talks about the role of government and voluntary efforts in relieving suffering during and after a crisis such as Katrina. Drawing on field research he is directing into the aftermath of Hurricane Katrina, Boettke highlights the role of what he calls "civil society"--the informal, voluntary associations we make as individuals with each other to create community.</description>
+<itunes:summary>Pete Boettke of George Mason University talks about the role of government and voluntary efforts in relieving suffering during and after a crisis such as Katrina. Drawing on field research he is directing into the aftermath of Hurricane Katrina, Boettke highlights the role of what he calls "civil society"--the informal, voluntary associations we make as individuals with each other to create community.</itunes:summary>
+<itunes:subtitle>Pete Boettke talks about the role of government and voluntary efforts in relieving suffering during and after a crisis such as Katrina. Drawing on field research he is directing into the aftermath of Katrina, Boettke highlights the informal, voluntary associations we make as individuals with each other to create community.</itunes:subtitle>
+<itunes:keywords>economics, Pete Boettke, Katrina, disasters, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Boettkedisasters.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Boettkedisasters.mp3" length="18046015" type="audio/mpeg" />
+<itunes:duration>1:15:11</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Boudreaux on Law and Legislation</title>
+
+<itunes:author>EconTalk: Russ Roberts and Don Boudreaux</itunes:author>
+
+<pubDate>Mon, 11 Dec 2006 05:20:00 EST</pubDate>
+
+<description>Don Boudreaux of George Mason University talks about the fundamental principles of economics and civilization: spontaneous order and law. Drawing on volume one of Friedrich Hayek's classic, Law, Legislation and Liberty, Boudreaux talks about the distinction between law and legislation, the appropriate role of judges, and how the fulfillment of our expectations allows us to pursue our goals and dreams.</description>
+<itunes:summary>Don Boudreaux of George Mason University talks about the fundamental principles of economics and civilization: spontaneous order and law. Drawing on volume one of Friedrich Hayek's classic, Law, Legislation and Liberty, Boudreaux talks about the distinction between law and legislation, the appropriate role of judges, and how the fulfillment of our expectations allows us to pursue our goals and dreams.</itunes:summary>
+<itunes:subtitle>Don Boudreaux talks about economics, civilization, spontaneous order, and law. Drawing on Hayek's classic, Law, Legislation and Liberty, he discusses law vs. legislation, the role of judges, and how fulfilling our expectations allows us to pursue our goals and dreams.</itunes:subtitle>
+<itunes:keywords>economics, Don Boudreaux, Hayek, law, legislation, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/BoudreauxHayek.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/BoudreauxHayek.mp3" length="17631086" type="audio/mpeg" />
+<itunes:duration>1:13:27</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Caplan on Discrimination and Labor Markets</title>
+
+<itunes:author>EconTalk: Russ Roberts and Bryan Caplan</itunes:author>
+
+<pubDate>Mon, 04 Dec 2006 07:30:00 EST</pubDate>
+
+<description>Bryan Caplan and Russ Roberts discuss the economics of discrimination and government's regulation of labor markets. They talk about the role of the profit motive in reducing or eliminating discrimination and the role of government, particularly in European labor markets. When does government regulation reduce or enforce discrimination? How do other labor market regulations affect employment and unemployment? What is the impact on the European and American standard of living? Does money buy happiness? Does it depend on whether it is earned or received as welfare? These are some of the topics that come up in this wide-ranging conversation.</description>
+<itunes:summary>Bryan Caplan and Russ Roberts discuss the economics of discrimination and government's regulation of labor markets. They talk about the role of the profit motive in reducing or eliminating discrimination and the role of government, particularly in European labor markets. When does government regulation reduce or enforce discrimination? How do other labor market regulations affect employment and unemployment? What is the impact on the European and American standard of living? Does money buy happiness? Does it depend on whether it is earned or received as welfare? These are some of the topics that come up in this wide-ranging conversation.</itunes:summary>
+<itunes:subtitle>Bryan Caplan and Russ Roberts discuss the economics of discrimination and government's regulation of labor markets in this wide-ranging conversation. When does government regulation reduce or enforce discrimination?  What's happened in European labor markets?</itunes:subtitle>
+<itunes:keywords>economics, Bryan Caplan, discrimination, labor, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Caplandiscrimination.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Caplandiscrimination.mp3" length="13860571" type="audio/mpeg" />
+<itunes:duration>57:45</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Postrel on Style</title>
+
+<itunes:author>EconTalk: Russ Roberts and Virginia Postrel</itunes:author>
+
+<pubDate>Mon, 27 Nov 2006 07:00:00 EST</pubDate>
+
+<description>Author and journalist Virginia Postrel talks about how business competes for customers using style and beauty, going beyond price and the standard measures of quality. She looks at the role of appearance in our daily lives and the change from earlier times when style and beauty were luxuries accessible only to the wealthy. She also talks about her donation of a kidney to a friend and how that affected the intensity of her feelings about the policies surrounding organ donations.</description>
+<itunes:summary>Author and journalist Virginia Postrel talks about how business competes for customers using style and beauty, going beyond price and the standard measures of quality. She looks at the role of appearance in our daily lives and the change from earlier times when style and beauty were luxuries accessible only to the wealthy. She also talks about her donation of a kidney to a friend and how that affected the intensity of her feelings about the policies surrounding organ donations.</itunes:summary>
+<itunes:subtitle>Virginia Postrel talks about how business competes for customers using style and beauty, going beyond price and the standard measures of quality. She looks at the role of appearance in our daily lives and the change from earlier times. She also talks about her donation of a kidney to a friend.</itunes:subtitle>
+<itunes:keywords>economics, Virginia Postrel, style, kidney donations, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Postrelstyle.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Postrelstyle.mp3" length="14041652" type="audio/mpeg" />
+<itunes:duration>58:30</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Engerman on Slavery</title>
+
+<itunes:author>EconTalk: Russ Roberts and Stanley Engerman</itunes:author>
+
+<pubDate>Mon, 21 Nov 2006 08:30:00 EST</pubDate>
+
+<description>Stanley Engerman of the University of Rochester talks about slavery throughout world history, the role it played (or didn't play) in the Civil War and the incentives facing slaves and slave owners. This is a wide-ranging, fascinating conversation with the co-author of the classic Time on the Cross (co-authored with Robert Fogel) and the forthcoming Slavery, Emancipation, and Freedom (LSU Press, 2007). Engerman knows as much as anyone alive about the despicable human arrangement called slavery and the vastness and precision of his knowledge is on display in this interview.</description>
+<itunes:summary>Stanley Engerman of the University of Rochester talks about slavery throughout world history, the role it played (or didn't play) in the Civil War and the incentives facing slaves and slave owners. This is a wide-ranging, fascinating conversation with the co-author of the classic Time on the Cross (co-authored with Robert Fogel) and the forthcoming Slavery, Emancipation, and Freedom (LSU Press, 2007). Engerman knows as much as anyone alive about the despicable human arrangement called slavery and the vastness and precision of his knowledge is on display in this interview.</itunes:summary>
+<itunes:subtitle>Stanley Engerman talks about slavery throughout world history, its role in the Civil War and the incentives facing slaves and slave owners. This is a wide-ranging conversation with the co-author of the classic Time on the Cross (co-authored with Robert Fogel) and the forthcoming Slavery, Emancipation, and Freedom (LSU Press, 2007).</itunes:subtitle>
+<itunes:keywords>economics, Stanley Engerman, slavery, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Engermanslavery.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Engermanslavery.mp3" length="17006237" type="audio/mpeg" />
+<itunes:duration>1:10:51</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Peltzman on Regulation</title>
+
+<itunes:author>EconTalk: Russ Roberts and Sam Peltzman</itunes:author>
+
+<pubDate>Mon, 13 Nov 2006 07:00:00 EST</pubDate>
+
+<description>Sam Peltzman of the University of Chicago talks about his views on safety, regulation, unintended consequences and the political economy of bad regulation. The focus is on his pioneering studies of automobile safety and FDA pharmaceutical regulation and the perverse incentives that even good intentions can produce.</description>
+<itunes:summary>Sam Peltzman of the University of Chicago talks about his views on safety, regulation, unintended consequences and the political economy of bad regulation. The focus is on his pioneering studies of automobile safety and FDA pharmaceutical regulation and the perverse incentives that even good intentions can produce.</itunes:summary>
+<itunes:subtitle>Sam Peltzman of the University of Chicago talks about his pioneering studies of automobile safety, FDA pharmaceutical regulation, and the unintended consequences that safety regulation can produce.</itunes:subtitle>
+<itunes:keywords>economics, Sam Peltzman, regulation, automobile, FDA, econlib</itunes:keywords>
+
+<guid>http://files.libertyfund.org/econtalk/PeltzmanregulationA.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/PeltzmanregulationA.mp3" length="12953496" type="audio/mpeg" />
+<itunes:duration>53:58</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Richard Thaler on Libertarian Paternalism</title>
+
+<itunes:author>EconTalk: Russ Roberts and Richard Thaler</itunes:author>
+
+<pubDate>Mon, 06 Nov 2006 06:15:00 EST</pubDate>
+
+<description>Richard Thaler of the U. of Chicago Graduate School of Business defends the idea of libertarian paternalism--how government might use the insights of behavioral economics to help citizens make better choices. Host Russ Roberts accepts the premise that individuals make imperfect choices but challenges Thaler on the likelihood that government, in practice, will improve matters. Along the way they discuss the design of Sweden's social security system, organ donations and whether professors at Cornell University are more or less like you and me.</description>
+<itunes:summary>Richard Thaler of the U. of Chicago Graduate School of Business defends the idea of libertarian paternalism--how government might use the insights of behavioral economics to help citizens make better choices. Host Russ Roberts accepts the premise that individuals make imperfect choices but challenges Thaler on the likelihood that government, in practice, will improve matters. Along the way they discuss the design of Sweden's social security system, organ donations and whether professors at Cornell University are more or less like you and me.</itunes:summary>
+<itunes:subtitle>Richard Thaler defends the idea of libertarian paternalism--how government might use the insights of behavioral economics to help citizens make better choices.</itunes:subtitle>
+<itunes:keywords>economics, Richard Thaler, libertarian paternalism, government, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Thalergovernment.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Thalergovernment.mp3" length="15042142" type="audio/mpeg" />
+<itunes:duration>1:02:40</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Clint Bolick Defends Judicial Activism</title>
+
+<itunes:author>EconTalk: Russ Roberts and Clint Bolick</itunes:author>
+
+<pubDate>Tue, 31 Oct 2006 06:45:00 EST</pubDate>
+
+<description>Clint Bolick, co-founder of the Institute for Justice and President of the Alliance for School Choice makes the case for judicial activism. He and Russ Roberts discuss school choice, interstate wine sales, the Kelo eminent domain case and the crucial role the Supreme Court and the Constitution can and should play in securing economic liberty.</description>
+<itunes:summary>Clint Bolick, co-founder of the Institute for Justice and President of the Alliance for School Choice makes the case for judicial activism. He and Russ Roberts discuss school choice, interstate wine sales, the Kelo eminent domain case and the crucial role the Supreme Court and the Constitution can and should play in securing economic liberty.</itunes:summary>
+<itunes:subtitle>Clint Bolick makes the case for judicial activism. He and Russ Roberts discuss school choice, interstate wine sales, the Kelo case and more.</itunes:subtitle>
+<itunes:keywords>economics, Clint Bolick, judicial activism, Kelo, wine, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Bolickjudicial.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Bolickjudicial.mp3" length="13359744" type="audio/mpeg" />
+<itunes:duration>55:39</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Moneyball</title>
+
+<itunes:author>EconTalk: Russ Roberts and Skip Sauer</itunes:author>
+
+<pubDate>Mon, 23 Oct 2006 05:45:00 EST</pubDate>
+
+<description>Skip Sauer of Clemson University and Russ Roberts discuss the economics of Michael Lewis's Moneyball. Lewis claims that the Oakland As found an undervalued asset--the ability of a baseball player to draw a walk--and used that insight to succeed while spending less money than their rivals. Is it true? Sauer and Roberts try to answer that and other questions. How competitive is the baseball industry? Why do some baseball skills get more attention than others? Plus, new feature: Mailbag!</description>
+<itunes:summary>Skip Sauer of Clemson University and Russ Roberts discuss the economics of Michael Lewis's Moneyball. Lewis claims that the Oakland As found an undervalued asset--the ability of a baseball player to draw a walk--and used that insight to succeed while spending less money than their rivals. Is it true? Sauer and Roberts try to answer that and other questions. How competitive is the baseball industry? Why do some baseball skills get more attention than others? Plus, new feature: Mailbag!</itunes:summary>
+<itunes:subtitle>Skip Sauer talks about Michael Lewis's Moneyball, the undervaluing of walks in baseball, the Oakland As, and more. New feature: Mailbag!</itunes:subtitle>
+<itunes:keywords>economics, Skip Sauer, baseball, Moneyball, walks, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/SauerMoneyball.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/SauerMoneyball.mp3" length="14701536" type="audio/mpeg" />
+<itunes:duration>1:01:15</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Walter Williams on Life, Liberty and Economics</title>
+
+<itunes:author>EconTalk: Russ Roberts and Walter Williams</itunes:author>
+
+<pubDate>Mon, 16 Oct 2006 06:15:00 EST</pubDate>
+
+<description>Professor, Radio Host, and Syndicated Columnist Walter Williams of George Mason University talks with EconTalk's Russ Roberts about his early days as an economist, his controversial view of the Civil War, the insights of Adam Smith and Friedrich Hayek, and some deep but simple economic principles.</description>
+<itunes:summary>Professor, Radio Host, and Syndicated Columnist Walter Williams of George Mason University talks with EconTalk's Russ Roberts about his early days as an economist, his controversial view of the Civil War, the insights of Adam Smith and Friedrich Hayek, and some deep but simple economic principles.</itunes:summary>
+<itunes:subtitle>Radio Host, Columnist, and Professor Walter Williams talks about his early days as an economist, the Civil War, markets, and some deep but simple economic principles.</itunes:subtitle>
+<itunes:keywords>economics, Walter Williams, Civil War, subsidies, supermarkets, greed, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Williamsinterview.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Williamsinterview.mp3" length="15156432" type="audio/mpeg" />
+<itunes:duration>1:03:1</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Religion</title>
+
+<itunes:author>EconTalk: Russ Roberts and Larry Iannaccone</itunes:author>
+
+<pubDate>Mon, 09 Oct 2006 05:30:00 EST</pubDate>
+
+<description>Larry Iannaccone of George Mason University talks with EconTalk's Russ Roberts about the economics of religion. Iannaccone explains why Americans are more religious than Europeans, why Americans became more religious after the colonies became the United States and why it can be rational and rewarding to make religious sacrifices. Join us for a fascinating exploration of the human side of religion.</description>
+<itunes:summary>Larry Iannaccone of George Mason University talks with EconTalk's Russ Roberts about the economics of religion. Iannaccone explains why Americans are more religious than Europeans, why Americans became more religious after the colonies became the United States and why it can be rational and rewarding to make religious sacrifices. Join us for a fascinating exploration of the human side of religion.</itunes:summary>
+<itunes:subtitle>Larry Iannaccone and Russ Roberts discuss why Americans are more religious than Europeans, why Americans became more religious after the colonies became the United States and why it can be rational and rewarding to make religious sacrifices.</itunes:subtitle>
+<itunes:keywords>economics, religion, Iannaccone, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Iannacconereligion.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Iannacconereligion.mp3" length="16376976" type="audio/mpeg" />
+<itunes:duration>1:08:1</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Private vs. Public Risk-Taking</title>
+
+<itunes:author>EconTalk: Russ Roberts and Mike Munger</itunes:author>
+
+
+<pubDate>Tue, 03 Oct 2006 06:45:00 EST</pubDate>
+
+<description>Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.</description>
+<itunes:summary>Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.</itunes:summary>
+<itunes:subtitle>Mike Munger and Russ Roberts discuss public and private risk-taking, including the history of Honda, Apple computers and the use of turkey carcasses as an energy source.</itunes:subtitle>
+<itunes:keywords>economics, Mike Munger, public choice, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Mungerpublic.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Mungerpublic.mp3" length="12443040" type="audio/mpeg" />
+<itunes:duration>51:5</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Obesity</title>
+
+<itunes:author>EconTalk: Russ Roberts and Darius Lakdawalla</itunes:author>
+
+<pubDate>Mon, 25 Sep 2006 07:15:00 EST</pubDate>
+
+<description>Russ Roberts talks with Darius Lakdawalla of Rand and the National Bureau of Economic Research on the economics of obesity, how much fatter are Americans and why. How much is due to the spread of fast food vs. the falling price of food and the change in the U.S. workplace?</description>
+<itunes:summary>Russ Roberts talks with Darius Lakdawalla of Rand and the National Bureau of Economic Research on the economics of obesity, how much fatter are Americans and why. How much is due to the spread of fast food vs. the falling price of food and the change in the U.S. workplace?</itunes:summary>
+<itunes:subtitle>Russ Roberts talks with Darius Lakdawalla on the economics of obesity, how much fatter are Americans and why.</itunes:subtitle>
+<itunes:keywords>economics, Lakdawalla, obesity, fat, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Lakdawallafat.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Lakdawallafat.mp3" length="11256686" type="audio/mpeg" />
+<itunes:duration>46:5</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Paternalism</title>
+
+<itunes:author>EconTalk: Russ Roberts and Ed Glaeser</itunes:author>
+
+<pubDate>Mon, 18 Sep 2006 06:45:00 EST</pubDate>
+
+<description>Economist Ed Glaeser of Harvard University talks with host Russ Roberts about the dangers of soft paternalism--various forms of government regulation that fall short of outright bans or taxes but that are meant to correct alleged flaws in the choices we make. Glaeser argues that while individuals do inevitably make mistakes, so do politicians, and the concentration of power in the hands of the few makes government "benevolence" particularly dangerous.</description>
+<itunes:summary>Economist Ed Glaeser of Harvard University talks with host Russ Roberts about the dangers of soft paternalism--various forms of government regulation that fall short of outright bans or taxes but that are meant to correct alleged flaws in the choices we make. Glaeser argues that while individuals do inevitably make mistakes, so do politicians, and the concentration of power in the hands of the few makes government "benevolence" particularly dangerous.</itunes:summary>
+<itunes:subtitle>Ed Glaeser and Russ Roberts talk about the dangers of soft paternalism--government regulation that falls short of bans or taxes but is meant to correct alleged flaws in our daily choices.</itunes:subtitle>
+<itunes:keywords>economics, Ed Glaeser, government, paternalism, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Glaesergovernment.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Glaesergovernment.mp3" length="10518465" type="audio/mpeg" />
+<itunes:duration>43:5</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Legislators vs. Wal-Mart</title>
+
+<itunes:author>EconTalk: Russ Roberts and Richard Epstein</itunes:author>
+
+<pubDate>Mon, 11 Sep 2006 06:00:00 EST</pubDate>
+
+<description>Russ Roberts and Richard Epstein discuss the attempts to use legislation to handicap Wal-Mart. They also discuss the evolution of the union movement and the constitutionality of various legislative attacks on Wal-Mart.</description>
+<itunes:summary>Russ Roberts and Richard Epstein discuss the attempts to use legislation to handicap Wal-Mart. They also discuss the evolution of the union movement and the constitutionality of various legislative attacks on Wal-Mart.</itunes:summary>
+<itunes:subtitle>Russ Roberts and Richard Epstein discuss the attempts to use legislation to handicap Wal-Mart. They also discuss the evolution of the union movement and the constitutionality of various legislative attacks on Wal-Mart.</itunes:subtitle>
+<itunes:keywords>economics, Richard Epstein, walmart, regulation, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Epsteinwalmart.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Epsteinwalmart.mp3" length="10573845" type="audio/mpeg" />
+<itunes:duration>44:0</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Friedman on Capitalism and Freedom</title>
+
+<itunes:author>EconTalk: Russ Roberts and Milton Friedman</itunes:author>
+
+<pubDate>Mon, 4 Sep 2006 07:25:00 EST</pubDate>
+
+<description>Russ Roberts talks to Milton Friedman about the radical ideas he put forward almost 50 years ago in Capitalism and Freedom. Listen to the most influential economist of the past 50 years discuss the principles of liberty, social responsibility of business, the inertia behind bad legislation and his career as economist and public intellectual.</description>
+<itunes:summary>Russ Roberts talks to Milton Friedman about the radical ideas he put forward almost 50 years ago in Capitalism and Freedom. Listen to the most influential economist of the past 50 years discuss the principles of liberty, social responsibility of business, the inertia behind bad legislation and his career as economist and public intellectual.</itunes:summary>
+<itunes:subtitle>Russ Roberts talks to Milton Friedman about the radical ideas he put forward almost 50 years ago in Capitalism and Freedom. Listen to the most influential economist of the past 50 years discuss the principles of liberty, social responsibility of business, the inertia behind bad legislation and his career as economist and public intellectual.</itunes:subtitle>
+<itunes:keywords>economics, Milton Friedman, capitalism, freedom, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Friedmanfreedom.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Friedmanfreedom.mp3" length="10432888" type="audio/mpeg" />
+<itunes:duration>43:3</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Milton Friedman on Money</title>
+
+<itunes:author>EconTalk: Russ Roberts and Milton Friedman</itunes:author>
+
+<pubDate>Mon, 28 Aug 2006 07:30:00 EST</pubDate>
+
+<description>Russ Roberts talks with Milton Friedman about his research and views on inflation, the Federal Reserve, Alan Greenspan and Ben Bernanke, and what the future holds.</description>
+<itunes:summary>Russ Roberts talks with Milton Friedman about his research and views on inflation, the Federal Reserve, Alan Greenspan and Ben Bernanke, and what the future holds.</itunes:summary>
+<itunes:subtitle>Russ Roberts talks with Milton Friedman about his research and views on inflation, the Federal Reserve, Alan Greenspan and Ben Bernanke, and what the future holds.</itunes:subtitle>
+
+<itunes:keywords>economics, Milton Friedman, money, Fed, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Friedmanmoney.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Friedmanmoney.mp3" length="6412748" type="audio/mpeg" />
+<itunes:duration>26:4</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Political Economy of Power</title>
+
+<itunes:author>EconTalk: Russ Roberts and Bruce Bueno de Mesquita</itunes:author>
+
+<pubDate>Mon, 14 Aug 2006 07:25:00 EST</pubDate>
+
+<description>Russ Roberts talks with Hoover Institution and NYU political scientist Bruce Bueno de Mesquita about his theory of political power--how dictators and democratically elected leaders respond to the political forces that keep them in office. This lengthy and intense conversation covers a wide range of topics including the evil political genius of Lenin, the dark side of US foreign aid, the sinister machinations of King Leopold of Belgium, the natural resource curse, the British monarchy in the 11th century, term limits and the inevitable failure of the standard methods of fighting world poverty.</description>
+<itunes:summary>Russ Roberts talks with Hoover Institution and NYU political scientist Bruce Bueno de Mesquita about his theory of political power--how dictators and democratically elected leaders respond to the political forces that keep them in office. This lengthy and intense conversation covers a wide range of topics including the evil political genius of Lenin, the dark side of US foreign aid, the sinister machinations of King Leopold of Belgium, the natural resource curse, the British monarchy in the 11th century, term limits and the inevitable failure of the standard methods of fighting world poverty.</itunes:summary>
+<itunes:subtitle>Russ Roberts talks with political scientist Bruce Bueno de Mesquita about his theory of political power--how dictators and democratically elected leaders respond to the political forces that keep them in office.</itunes:subtitle>
+<itunes:keywords>economics, Bueno de Mesquita, Leopold, Belgium, democracy, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/BuenodeMesquitapower.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/BuenodeMesquitapower.mp3" length="21128359" type="audio/mpeg" />
+<itunes:duration>1:28:02</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Chris Anderson and the Long Tail</title>
+
+<itunes:author>EconTalk: Russ Roberts and Chris Anderson</itunes:author>
+
+<pubDate>Mon, 7 Aug 2006 07:00:00 EST</pubDate>
+
+<description>Russ Roberts talks with Chris Anderson of Wired Magazine about the ideas in his new book, The Long Tail: Why the Future of Business is Selling Less of More. Topics include the weird world of internet distribution and production, how the Sears catalog of the 1890s was the predecessor to Amazon books in the 1990s, the economics of choice and the role of filters, and the challenges of wrapping our minds around emergent phenomena.</description>
+<itunes:summary>Russ Roberts talks with Chris Anderson of Wired Magazine about the ideas in his new book, The Long Tail: Why the Future of Business is Selling Less of More. Topics include the weird world of internet distribution and production, how the Sears catalog of the 1890s was the Amazon Books of the 1990s, the economics of choice and the role of filters, and the challenges of wrapping our minds around emergent phenomena.</itunes:summary>
+<itunes:subtitle>Russ Roberts talks with Chris Anderson of Wired Magazine about the ideas in his new book, The Long Tail. Topics include the weird world of internet distribution and production, the wonders of the Sears catalog of the 1890s, and the economics of choice.</itunes:subtitle>
+<itunes:keywords>economics, Chris Anderson, internet, business, long tail, econlib</itunes:keywords>
+
+
+<guid>http://www.econlib.org/library/Downloads/Andersontail.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Andersontail.mp3" length="12626651" type="audio/mpeg" />
+<itunes:duration>52:4</itunes:duration>
+
+<itunes:image href="http://www.econlib.org/library/cuniformEconTalk.jpg" />
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Cogan on Improving the Health Care System</title>
+
+<itunes:author>EconTalk: Russ Roberts and John Cogan</itunes:author>
+
+<pubDate>Mon, 31 Jul 2006 11:25:00 EST</pubDate>
+
+<description>Russ Roberts talks with Stanford University's John Cogan about what's wrong with America's health care system and how to make it right.</description>
+<itunes:summary>Russ Roberts talks with Stanford University's John Cogan about what's wrong with America's health care system and how to make it right.</itunes:summary>
+<itunes:subtitle>Russ Roberts talks with Stanford University's John Cogan about what's wrong with America's health care system and how to make it right.</itunes:subtitle>
+<itunes:keywords>economics, John Cogan, health care, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Coganhealth.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Coganhealth.mp3" length="12629232" type="audio/mpeg" />
+<itunes:duration>52:4</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Making Schools Better: A Conversation with Rick Hanushek</title>
+
+<itunes:author>EconTalk: Russ Roberts and Eric Hanushek</itunes:author>
+
+<pubDate>Mon, 24 Jul 2006 2:30:00 EST</pubDate>
+
+<description>Russ Roberts and Rick Hanushek, of Stanford University, talk about why the standard reforms such as more spending or better educated teachers have failed and what needs to be done in the future.</description>
+<itunes:summary>Russ Roberts and Rick Hanushek, of Stanford University, talk about why the standard reforms such as more spending or better educated teachers have failed and what needs to be done in the future.</itunes:summary>
+<itunes:subtitle>Russ Roberts and Rick Hanushek, of Stanford University, talk about why the standard reforms such as more spending or better educated teachers have failed and what needs to be done in the future.</itunes:subtitle>
+<itunes:keywords>economics, Rick Hanushek, education, schools, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Hanushekeducation.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Hanushekeducation.mp3" length="8270928" type="audio/mpeg" />
+<itunes:duration>34:3</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Barro on Growth</title>
+<itunes:author>EconTalk: Russ Roberts and Robert Barro</itunes:author>
+<pubDate>Mon, 17 Jul 2006 5:30:00 EST</pubDate>
+
+<description>Russ Roberts interviews Robert Barro, Harvard University Professor and Hoover Institution Senior Fellow, on the economics of growth, what the developed world can do to help poor people around the world, and the role of US assets and the dollar in world finance.</description>
+<itunes:summary>Russ Roberts interviews Robert Barro, Harvard University Professor and Hoover Institution Senior Fellow, on the economics of growth, what the developed world can do to help poor people around the world, and the role of US assets and the dollar in world finance.</itunes:summary>
+<itunes:subtitle>Russ Roberts interviews Robert Barro on the economics of growth, what the developed world can do to help poor people around the world, and the role of US assets and the dollar in world finance.</itunes:subtitle>
+<itunes:keywords>economics, Robert Barro, free trade, growth, trade deficit, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Barrogrowth.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Barrogrowth.mp3" length="11358432" type="audio/mpeg" />
+<itunes:duration>47:2</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>An Interview with Gary Becker</title>
+<itunes:author>EconTalk: Russ Roberts and Gary Becker</itunes:author>
+<pubDate>Mon, 10 Jul 2006 4:30:00 EST</pubDate>
+
+<description>Russ Roberts interviews Gary Becker, of the University of Chicago, on the challenges of being an intellectual maverick, the economic approach to human behavior, the influences of Adam Smith and Alfred Marshall on Becker's work and Becker's optimism for the future of economics.</description>
+<itunes:summary>Russ Roberts interviews Gary Becker, of the University of Chicago, on the challenges of being an intellectual maverick, the economic approach to human behavior, the influences of Adam Smith and Alfred Marshall on Becker's work and Becker's optimism for the future of economics.</itunes:summary>
+<itunes:subtitle>Russ Roberts interviews Nobel Prize winner Gary Becker, of the University of Chicago.</itunes:subtitle>
+<itunes:keywords>economics, Gary Becker, Nobel Prize, human behavior, Alfred Marshall, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Beckerinterview.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Beckerinterview.mp3" length="7161120" type="audio/mpeg" />
+<itunes:duration>29:5</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Giving Away Money: An Economist's Guide to Political Life</title>
+<itunes:author>EconTalk: Russ Roberts and Mike Munger</itunes:author>
+<pubDate>Fri, 23 Jun 2006 12:30:00 EST</pubDate>
+
+<description>Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.</description>
+<itunes:summary>Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.</itunes:summary>
+<itunes:subtitle>The economics of politics, rent-seeking, and lobbying, by Russ Roberts and Mike Munger.</itunes:subtitle>
+<itunes:keywords>economics, Mike Munger, politics, rent-seeking, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Mungerrentseeking.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Mungerrentseeking.mp3" length="6927696" type="audio/mpeg" />
+<itunes:duration>28:51</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Intermittent Explosive Disorder: Mental Illness or Made-Up Malady?</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Fri, 16 Jun 2006 18:00:00 EST</pubDate>
+
+<description>Russ Roberts looks at the economics and science of intermittent explosive disorder--violent rage out of proportion to its cause. Was the recent study that discovered this problem good science or unreliable? Was the media coverage of the study accurate? How do state insurance regulations create incentives for intellectual dishonesty?</description>
+<itunes:summary>Russ Roberts looks at the economics and science of intermittent explosive disorder--violent rage out of proportion to its cause. Was the recent study that discovered this problem good science or unreliable? Was the media coverage of the study accurate? How do state insurance regulations create incentives for intellectual dishonesty?</itunes:summary>
+<itunes:subtitle>The economics and science of intermittent explosive disorder.</itunes:subtitle>
+<itunes:keywords>economics, Russ Roberts, intermittent explosive disorder, IED, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Robertsdisorder.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Robertsdisorder.mp3" length="5811120" type="audio/mpeg" />
+<itunes:duration>24:1</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Organ Donation</title>
+<itunes:author>EconTalk: Russ Roberts and Richard Epstein</itunes:author>
+<pubDate>Mon, 05 Jun 2006 12:00:00 EST</pubDate>
+
+<description>Richard Epstein, law professor at the University of Chicago, and Russ Roberts discuss the market for kidneys. Should people be allowed to buy and sell kidneys? How might a market for kidneys actually work in practice? Should mercenary motives be allowed to trump altruism? Epstein deals with these questions and more.</description>
+<itunes:summary>Richard Epstein, law professor at the University of Chicago, and Russ Roberts discuss the market for kidneys. Should people be allowed to buy and sell kidneys? How might a market for kidneys actually work in practice? Should mercenary motives be allowed to trump altruism? Epstein deals with these questions and more.</itunes:summary>
+<itunes:subtitle>Organ donations and the market for kidneys, by Russ Roberts and Richard Epstein.</itunes:subtitle>
+<itunes:keywords>economics, Richard Epstein, organ donations, kidney donations, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Kidneys.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Kidneys.mp3" length="19103350" type="audio/mpeg" />
+<itunes:duration>39:5</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+
+<item>
+<title>The Economics of Medical Malpractice</title>
+<itunes:author>EconTalk: Russ Roberts and Alex Tabarrok</itunes:author>
+<pubDate>Tue, 30 May 2006 15:00:00 EST</pubDate>
+
+<description>Alex Tabarrok of George Mason U. and Russ Roberts talk about medical malpractice, why insurance premiums vary by state, price gouging by insurance companies, the politics of being a judge and an idea for a new TV show using a tried-and-true formula, the American Victim.</description>
+<itunes:summary>Alex Tabarrok of George Mason U. and Russ Roberts talk about medical malpractice, why insurance premiums vary by state, price gouging by insurance companies, the politics of being a judge and an idea for a new TV show using a tried-and-true formula, the American Victim.</itunes:summary>
+<itunes:subtitle>Medical malpractice, insurance premiums, and the politics of being a judge, by Russ Roberts and Alex Tabarrok.</itunes:subtitle>
+<itunes:keywords>economics, Alex Tabarrok, medical malpractice, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Malpractice.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Malpractice.mp3" length="18821018" type="audio/mpeg" />
+<itunes:duration>39:1</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Inheritance</title>
+<itunes:author>EconTalk: Russ Roberts and Don Cox</itunes:author>
+<pubDate>Wed, 04 May 2006 12:00:00 EST</pubDate>
+
+<description>Don Cox of Boston College and Russ Roberts discuss the economics of inheritance, estates and the family. They look at how parents divide their time and money between their children and our concerns for what people think of us after we are gone.</description>
+<itunes:summary>Don Cox of Boston College and Russ Roberts discuss the economics of inheritance, estates and the family. They look at how parents divide their time and money between their children and our concerns for what people think of us after we are gone.</itunes:summary>
+<itunes:subtitle>How parents divide their time and money between their children and our concerns for what people think of us after we are gone, by Russ Roberts and Don Cox</itunes:subtitle>
+<itunes:keywords>economics, Don Cox, inheritance, parents, econlib</itunes:keywords>
+
+<guid>http://www.econlib.org/library/Downloads/Cox_Parents.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/Cox_Parents.mp3" length="18777341" type="audio/mpeg" />
+<itunes:duration>39:1</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>The Economics of Sports</title>
+<description>Skip Sauer of Clemson University and Russ Roberts talk about the economic impact of sports stadiums, how to create incentives in baseball, football and soccer, and the virtues and failings of socialism in sports.</description>
+<enclosure url="http://files.libertyfund.org/econtalk/Sauer_Sports.mp3" length="19050896" type="audio/mpeg" />
+<pubDate>Tue, 18 Apr 2006 15:00:00 EST</pubDate>
+
+<itunes:author>EconTalk: Russ Roberts and Skip Sauer</itunes:author>
+<itunes:subtitle>The economic impact of sports stadiums and socialism in sports, by Russ Roberts and Skip Sauer</itunes:subtitle>
+<itunes:summary>Skip Sauer of Clemson University and Russ Roberts talk about the economic impact of sports stadiums, how to create incentives in baseball, football and soccer, and the virtues and failings of socialism in sports.</itunes:summary>
+<itunes:duration>39:4</itunes:duration>
+<itunes:explicit>clean</itunes:explicit>
+<guid>http://www.econlib.org/library/Downloads/Sauer_Sports.mp3</guid>
+<itunes:keywords>economics, Skip Sauer, sports, baseball, football, soccer, socialism, econlib</itunes:keywords>
+</item>
+
+<item>
+<title>Ticket Scalping and Opportunity Cost</title>
+<description>Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.</description>
+<enclosure url="http://files.libertyfund.org/econtalk/Munger_Radio.mp3" length="14283235" type="audio/mpeg" />
+<guid>http://www.econlib.org/library/Downloads/Munger_Radio.mp3</guid>
+<pubDate>Mon, 10 Apr 2006 15:00:00 EST</pubDate>
+
+<itunes:author>EconTalk: Russ Roberts and Michael Munger</itunes:author>
+<itunes:subtitle>Ticket Scalping, gifts, and opportunity costs, by Russ Roberts and Michael Munger</itunes:subtitle>
+<itunes:summary>Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.</itunes:summary>
+<itunes:duration>29:45</itunes:duration>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:keywords>economics, Mike Munger, ticket scalping, e-Bay, opportunity costs, econlib</itunes:keywords>
+</item>
+
+<item>
+<title>The Economics of Parenting</title>
+<description>Don Cox of Boston College talks with Russ Roberts about how creating incentives can ease daily life with toddlers and young children.</description>
+<enclosure url="http://files.libertyfund.org/econtalk/Cox_Radio.mp3" length="16771137" type="audio/mpeg" />
+<guid>http://www.econlib.org/library/Downloads/Cox_Radio.mp3</guid>
+<pubDate>Thu, 16 Mar 2006 05:00:00 GMT</pubDate>
+
+<itunes:author>EconTalk: Russ Roberts and Don Cox</itunes:author>
+<itunes:subtitle>Parenting and incentive compatibility, by Russ Roberts and Don Cox</itunes:subtitle>
+<itunes:summary>Don Cox of Boston College talks with Russ Roberts about how creating incentives can ease daily life with toddlers and young children.</itunes:summary>
+<itunes:duration>34:6</itunes:duration>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:keywords>economics, Don Cox, parenting, incentives, econlib</itunes:keywords>
+</item>
+
+
+
+</channel>
+</rss>
+
+

@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+<ttl>60</ttl>
+<title>EconTalk Archives, 2012</title>
+<link>http://www.EconTalk.org</link>
+<language>en-us</language>
+<copyright>&#xA9; 2006-2013 Library of Economics and Liberty &amp; Liberty Fund, Inc.</copyright>
+
+<description>EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, parenting, and the curiosities of everyday decision-making. Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Look for related readings and the complete archive of previous shows at EconTalk.org, where you can also comment on the podcasts and ask questions.</description> 
+
+<itunes:subtitle>Economics Brought to Life, Library of Economics and Liberty</itunes:subtitle>
+<itunes:author>EconTalk: Russ Roberts, Library of Economics and Liberty</itunes:author>
+<itunes:summary>EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, parenting, and the curiosities of everyday decision-making. Russ Roberts, of the Library of Economics and Liberty (econlib.org) and George Mason U., draws you in with lively guests and creative repartee.  Look for related readings and the complete archive of previous shows at EconTalk.org, where you can also comment on the podcasts and ask questions.</itunes:summary>
+<itunes:owner>
+<itunes:name>Library of Economics and Liberty</itunes:name>
+<itunes:email>webmaster@econlib.org</itunes:email>
+</itunes:owner>
+<itunes:image href="http://files.libertyfund.org/econtalk/EconTalkCDcover1400y2012.jpg" />
+<itunes:category text="Education">
+<itunes:category text="Higher Education"/>
+</itunes:category>
+<itunes:category text="Science &amp; Medicine">
+<itunes:category text="Social Sciences"/>
+</itunes:category>
+<itunes:category text="Business"/>
+<itunes:explicit>clean</itunes:explicit>
+
+
+<item>
+<title>Pettit on the Prison Population, Survey Data and African-American Progress</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 31 Dec 2012 06:30:00 EST</pubDate>
+<description>Becky Pettit of the University of Washington and author of Invisible Men talks with EconTalk host Russ Roberts about the growth of the prison population in the United States in recent decades. Pettit describes the magnitude of the increase particularly among demographic groups. She then discusses the implications of this increase for interpreting social statistics. Because the prison population isn't included in the main government surveys used by social scientists, data drawn from those surveys can be misleading as to what is actually happening among demographic groups, particularly the African-American population.</description>
+<itunes:summary>Becky Pettit of the University of Washington and author of Invisible Men talks with EconTalk host Russ Roberts about the growth of the prison population in the United States in recent decades. Pettit describes the magnitude of the increase particularly among demographic groups. She then discusses the implications of this increase for interpreting social statistics. Because the prison population isn't included in the main government surveys used by social scientists, data drawn from those surveys can be misleading as to what is actually happening among demographic groups, particularly the African-American population.</itunes:summary>
+<itunes:subtitle>Becky Pettit talks with host Russ Roberts about her book Invisible Men, about the growth of the prison population in the U.S. in recent decades. Pettit describes the magnitude of the increase particularly among demographic groups. She then discusses the implications of this increase for interpreting social statistics. Because the prison population isn't included in the main government surveys used by social scientists, data drawn from those surveys can be misleading as to what is actually happening among demographic groups, particularly the African-American population.</itunes:subtitle>
+<itunes:keywords>economics, Becky Pettit, prisons, invisible men, social science, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Pettitprison.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Pettitprison.mp3" length="30241910" type="audio/mpeg" />
+<itunes:duration>1:02:51</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Lisa Turner on Organic Farming</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 24 Dec 2012 06:30:00 EST</pubDate>
+<description>Lisa Turner of Laughing Stock Farm talks with EconTalk host Russ Roberts about life as a small organic farmer. She describes her working day, the challenges of farming, the role of the U.S. Department of Agriculture in her life and what some job applicants who want to work on her farm need to understand about business.</description>
+<itunes:summary>Lisa Turner of Laughing Stock Farm talks with EconTalk host Russ Roberts about life as a small organic farmer. She describes her working day, the challenges of farming, the role of the U.S. Department of Agriculture in her life and what some job applicants who want to work on her farm need to understand about business.</itunes:summary>
+<itunes:subtitle>Lisa Turner of Laughing Stock Farm talks with host Russ Roberts about life as a small organic farmer. She describes her working day, the challenges of farming, the role of the US Department of Agriculture in her life and what some job applicants who want to work on her farm need to understand about business.</itunes:subtitle>
+<itunes:keywords>economics, Lisa Turner, slow food, agriculture, buy local, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Turnerfarming.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Turnerfarming.mp3" length="30019467" type="audio/mpeg" />
+<itunes:duration>1:02:23</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Boudreaux on Reading Hayek</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 17 Dec 2012 06:30:00 EST</pubDate>
+<description>Don Boudreaux of George Mason University talks with EconTalk host Russ Roberts about the work of F. A. Hayek, particularly his writings on philosophy and political economy. Boudreaux provides an audio annotated bibliography of Hayek's most important books and essays and gives suggestions on where to start and how to proceed through Hayek's works if you are a beginner.</description>
+<itunes:summary>Don Boudreaux of George Mason University talks with EconTalk host Russ Roberts about the work of F. A. Hayek, particularly his writings on philosophy and political economy. Boudreaux provides an audio annotated bibliography of Hayek's most important books and essays and gives suggestions on where to start and how to proceed through Hayek's works if you are a beginner.</itunes:summary>
+<itunes:subtitle>Don Boudreaux talks with host Russ Roberts about the work of F. A. Hayek, particularly his writings on philosophy and political economy. Boudreaux provides an audio annotated bibliography of Hayek's most important books and essays and gives suggestions on where to start and how to proceed through Hayek's works if you are a beginner.</itunes:subtitle>
+<itunes:keywords>economics, Don Boudreaux, Friedrich A. Hayek, philosophy, annotated bibliography, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Boudreauxreading.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Boudreauxreading.mp3" length="35133608" type="audio/mpeg" />
+<itunes:duration>1:13:02</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Chris Anderson on Makers and Manufacturing</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 10 Dec 2012 06:30:00 EST</pubDate>
+<description>Chris Anderson, author of Makers: The New Industrial Revolution, talks with EconTalk host Russ Roberts about his new book--the story of how technology is transforming the manufacturing business. Anderson argues that the plummeting prices of 3D printers and other tabletop design and manufacturing tools allows for individuals to enter manufacturing and for manufacturing to become customized in a way that was unimaginable until recently. Anderson explores how social networking interacts with this technology to create a new world of crowd-sourced design and production.</description>
+<itunes:summary>Chris Anderson, author of Makers: The New Industrial Revolution, talks with EconTalk host Russ Roberts about his new book--the story of how technology is transforming the manufacturing business. Anderson argues that the plummeting prices of 3D printers and other tabletop design and manufacturing tools allows for individuals to enter manufacturing and for manufacturing to become customized in a way that was unimaginable until recently. Anderson explores how social networking interacts with this technology to create a new world of crowd-sourced design and production.</itunes:summary>
+<itunes:subtitle>Author Chris Anderson talks with host Russ Roberts about his new book, Makers, the story of how technology is transforming the manufacturing business. He argues that the plummeting prices of 3D printers and other tabletop design and manufacturing tools allows for individuals to enter manufacturing and for manufacturing to become customized in a way that was unimaginable until recently. Anderson explores how social networking interacts with this technology to create a new world of crowd-sourced design and production.</itunes:subtitle>
+<itunes:keywords>economics, Chris Anderson, technology, drones, robots, robotics, desktop factories, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Andersonmanufacturing.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Andersonmanufacturing.mp3" length="30912879" type="audio/mpeg" />
+<itunes:duration>1:04:15</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Mulligan on Redistribution, Unemployment, and the Labor Market</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 03 Dec 2012 06:30:00 EST</pubDate>
+<description>Casey Mulligan of the University of Chicago and the author of The Redistribution Recession, talks with EconTalk host Russ Roberts about the ideas in the book. Mulligan argues that increases in the benefits available to unemployed workers explains the depth of the Great Recession that began in 2007 and the slowness of the recovery particularly in the labor market. Mulligan argues that other macroeconomic explanations ignore the microeconomic incentives facing workers and employers.</description>
+<itunes:summary>Casey Mulligan of the University of Chicago and the author of The Redistribution Recession, talks with EconTalk host Russ Roberts about the ideas in the book. Mulligan argues that increases in the benefits available to unemployed workers explains the depth of the Great Recession that began in 2007 and the slowness of the recovery particularly in the labor market. Mulligan argues that other macroeconomic explanations ignore the microeconomic incentives facing workers and employers.</itunes:summary>
+<itunes:subtitle>Casey Mulligan talks with host Russ Roberts about the ideas in his book, The Redistribution Recession. He argues that increases in the benefits available to unemployed workers explains the depth of the 2007 Great Recession and the slowness of the recovery particularly in the labor market. Mulligan argues that other macroeconomic explanations ignore the microeconomic incentives facing workers and employers.</itunes:subtitle>
+<itunes:keywords>economics, Casey Mulligan, great recession, recovery,    employment, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Mulliganredistribution.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Mulliganredistribution.mp3" length="31469014" type="audio/mpeg" />
+<itunes:duration>1:05:24</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Angell on Big Pharma</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 26 Nov 2012 06:30:00 EST</pubDate>
+<description>Marcia Angell of Harvard Medical School and the author of The Truth About the Drug Companies talks with EconTalk host Russ Roberts about the impact of pharmaceutical companies on academic research, clinical trials and the political process. Angell argues that the large pharmaceutical companies produce little or no innovation and use their political power to exploit consumers and taxpayers.</description>
+<itunes:summary>Marcia Angell of Harvard Medical School and the author of The Truth About the Drug Companies talks with EconTalk host Russ Roberts about the impact of pharmaceutical companies on academic research, clinical trials and the political process. Angell argues that the large pharmaceutical companies produce little or no innovation and use their political power to exploit consumers and taxpayers.</itunes:summary>
+<itunes:subtitle>Marcia Angell talks with host Russ Roberts about the impact of pharmaceutical companies on academic research, clinical trials and the political process. She argues that the large pharmaceutical companies produce little or no innovation and use their political power to exploit consumers and taxpayers.</itunes:subtitle>
+<itunes:keywords>economics, Marcia Angell, pharmaceuticals, drug companies, research, clinical trials, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Angellpharmaceuticals.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Angellpharmaceuticals.mp3" length="28869433" type="audio/mpeg" />
+<itunes:duration>59:59</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Cochrane on Health Care</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 19 Nov 2012 06:30:00 EST</pubDate>
+<description>John Cochrane of the University of Chicago and Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about how existing regulations distort the market for health care. Cochrane argues that many of the problems in the health care market would go away if these distortions were removed. In this conversation, he explores how the market for health care might work in the United States without those distortions. He also addresses some of the common arguments against a more choice-oriented less top-down approach.</description>
+<itunes:summary>John Cochrane of the University of Chicago and Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about how existing regulations distort the market for health care. Cochrane argues that many of the problems in the health care market would go away if these distortions were removed. In this conversation, he explores how the market for health care might work in the United States without those distortions. He also addresses some of the common arguments against a more choice-oriented less top-down approach.</itunes:summary>
+<itunes:subtitle>John Cochrane talks with host Russ Roberts about how existing regulations distort the market for health care. Cochrane argues that many of the problems in the health care market would go away if these distortions were removed. In this conversation, he explores how the market for health care might work in the United States without those distortions. He also addresses some of the common arguments against a more choice-oriented less top-down approach.</itunes:subtitle>
+<itunes:keywords>economics, JohnCochrane, Obamacare, affordable care act, regulations, markets, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Cochranehealth.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Cochranehealth.mp3" length="28519816" type="audio/mpeg" />
+<itunes:duration>59:16</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Munger on John Locke, Prices, and Hurricane Sandy</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 12 Nov 2012 06:30:00 EST</pubDate>
+<description>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled "Venditio," Munger explores Locke's views on markets, prices, and morality.</description>
+<itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled "Venditio," Munger explores Locke's views on markets, prices, and morality.</itunes:summary>
+<itunes:subtitle>Mike Munger talks with host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled "Venditio," Munger explores Locke's views on markets, prices, and morality.</itunes:subtitle>
+<itunes:keywords>economics, Mike Munger, gouging, markets, prices, morality, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/MungerLocke.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/MungerLocke.mp3" length="31258127" type="audio/mpeg" />
+<itunes:duration>1:04:58</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Joshua Rauh on Public Pensions</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 05 Nov 2012 06:30:00 EST</pubDate>
+<description>Joshua Rauh, Professor of Finance at Stanford University's Graduate School of Business and a senior fellow at Stanford University's Hoover Institution, talks with EconTalk host Russ Roberts about the unfunded liabilities from state employee pensions. The publicly stated shortfall in revenue relative to promised pensions is about $1 trillion. Rauh estimates the number to be over $4 trillion. Rauh explains why that number is more realistic, how the problem grew in recent years, and how the fiscal situation might be fixed moving forward. He also discusses some of the political and legal choices that we are likely to face going forward as states face strained budgets from promises made in the past to retired workers.</description>
+<itunes:summary>Joshua Rauh, Professor of Finance at Stanford University's Graduate School of Business and a senior fellow at Stanford University's Hoover Institution, talks with EconTalk host Russ Roberts about the unfunded liabilities from state employee pensions. The publicly stated shortfall in revenue relative to promised pensions is about $1 trillion. Rauh estimates the number to be over $4 trillion. Rauh explains why that number is more realistic, how the problem grew in recent years, and how the fiscal situation might be fixed moving forward. He also discusses some of the political and legal choices that we are likely to face going forward as states face strained budgets from promises made in the past to retired workers.</itunes:summary>
+<itunes:subtitle>Joshua Rauh talks with host Russ Roberts about the unfunded liabilities from state employee pensions. The publicly stated shortfall in revenue relative to promised pensions is about $1 trillion. Rauh estimates the number to be over $4 trillion. Rauh explains why that number is more realistic, how the problem grew in recent years, and how the fiscal situation might be fixed moving forward. He also discusses some of the political and legal choices that we are likely to face going forward as states face strained budgets from promises made in the past to retired workers.</itunes:subtitle>
+<itunes:keywords>economics, Joshua Rauh, state governments, government employees, budget deficits, unfunded liabilities, fiscal planning, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Rauhpensions.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Rauhpensions.mp3" length="32863262" type="audio/mpeg" />
+<itunes:duration>1:08:19</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Hanke on Hyperinflation, Monetary Policy, and Debt</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 29 Oct 2012 06:30:00 EST</pubDate>
+<description>Steve Hanke of Johns Hopkins and the Cato Institute talks with EconTalk host Russ Roberts about hyperinflation and the U.S. fiscal situation. Hanke argues that despite the seemingly aggressive policies of the Federal Reserve over the last four years, there is currently little or no risk of serious inflation in the United States. His argument is that broad measures of the money supply lag well below their trend level. While high-powered reserves have indeed expanded dramatically, they have not increased sufficiently to offset reductions in bank money, in part because of requirements imposed by Basel III. So, the overall money supply, broadly defined, has fallen. Hanke does argue that the current fiscal path of the United States poses a serious threat to economic stability. The conversation closes with a discussion of hyperinflation in Iran--its causes and what might eventually happen as a result.</description>
+<itunes:summary>Steve Hanke of Johns Hopkins and the Cato Institute talks with EconTalk host Russ Roberts about hyperinflation and the U.S. fiscal situation. Hanke argues that despite the seemingly aggressive policies of the Federal Reserve over the last four years, there is currently little or no risk of serious inflation in the United States. His argument is that broad measures of the money supply lag well below their trend level. While high-powered reserves have indeed expanded dramatically, they have not increased sufficiently to offset reductions in bank money, in part because of requirements imposed by Basel III. So, the overall money supply, broadly defined, has fallen. Hanke does argue that the current fiscal path of the United States poses a serious threat to economic stability. The conversation closes with a discussion of hyperinflation in Iran--its causes and what might eventually happen as a result.</itunes:summary>
+<itunes:subtitle>Steve Hanke talks with host Russ Roberts about hyperinflation and the U.S. fiscal situation. He argues that despite the seemingly aggressive policies of the Federal Reserve over the last four years, there is currently little or no risk of serious inflation in the U.S. His argument is that broad measures of the money supply lag well below their trend level. While high-powered reserves have indeed expanded dramatically, they have not increased sufficiently to offset reductions in bank money, in part because of requirements imposed by Basel III. So, the overall money supply, broadly defined, has fallen. Hanke does argue that the current fiscal path of the United States poses a serious threat to economic stability. The conversation closes with a discussion of hyperinflation in Iran--its causes and what might eventually happen as a result.</itunes:subtitle>
+<itunes:keywords>economics, Steve Hanke, inflation, money supply, federal reserve, Iran, Basel III, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Hankehyperinflation.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Hankehyperinflation.mp3" length="32038668" type="audio/mpeg" />
+<itunes:duration>1:06:35</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Rodden on the Geography of Voting</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 22 Oct 2012 06:30:00 EST</pubDate>
+<description>Jonathan Rodden, political science professor at Stanford and a senior fellow at the Hoover Institution speaks with EconTalk host Russ Roberts about the geography of voting. The main focus is on the tendency of urban voters around the world to vote for candidates on the left relative to suburban and rural voters. Rodden argues that this pattern is related to the geography of work and housing going back to the industrial revolution. He also discusses the implications of various voting systems such as winner-take-all vs. proportional representation, the electoral college and how political systems and voter preferences can produce unexpected outcomes.</description>
+<itunes:summary>Jonathan Rodden, political science professor at Stanford and a senior fellow at the Hoover Institution speaks with EconTalk host Russ Roberts about the geography of voting. The main focus is on the tendency of urban voters around the world to vote for candidates on the left relative to suburban and rural voters. Rodden argues that this pattern is related to the geography of work and housing going back to the industrial revolution. He also discusses the implications of various voting systems such as winner-take-all vs. proportional representation, the electoral college and how political systems and voter preferences can produce unexpected outcomes.</itunes:summary>
+<itunes:subtitle>Jonathan Rodden talks with host Russ Roberts about the geography of voting. The main focus is on the tendency of urban voters around the world to vote for candidates on the left relative to suburban and rural voters. He argues that this pattern is related to the geography of work and housing going back to the industrial revolution. He also discusses the implications of various voting systems such as winner-take-all vs. proportional representation, the electoral college and how political systems and voter preferences can produce unexpected outcomes.</itunes:subtitle>
+<itunes:keywords>economics, Jonathan Rodden, voters, electoral college, suburban, rural, politics, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Roddenvoting.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Roddenvoting.mp3" length="27733237" type="audio/mpeg" />
+<itunes:duration>57:37</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Kling on Education and the Internet</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 15 Oct 2012 06:30:00 EST</pubDate>
+<description>Arnold Kling, economist and teacher, talks with EconTalk host Russ Roberts about recent technological innovations in education and Kling's forecast for their impact on learning and how they might affect traditional education. Examples include the recent explosion of online lessons and classes, new teaching styles that exploit those offerings, and the nature of learning in various kinds of classrooms and student-teacher interactions.</description>
+<itunes:summary>Arnold Kling, economist and teacher, talks with EconTalk host Russ Roberts about recent technological innovations in education and Kling's forecast for their impact on learning and how they might affect traditional education. Examples include the recent explosion of online lessons and classes, new teaching styles that exploit those offerings, and the nature of learning in various kinds of classrooms and student-teacher interactions.</itunes:summary>
+<itunes:subtitle>Arnold Kling talks with host Russ Roberts about recent technological innovations in education and Kling's forecast for their impact on learning and how they might affect traditional education. Examples include the recent explosion of online lessons and classes, new teaching styles that exploit those offerings, and the nature of learning in various kinds of classrooms and student-teacher interactions.</itunes:subtitle>
+<itunes:keywords>economics, Arnold Kling, teaching, college, technology, online, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Klingeducation.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Klingeducation.mp3" length="32230481" type="audio/mpeg" />
+<itunes:duration>1:06:59</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Garett Jones on Fisher, Debt, and Deflation</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 08 Oct 2012 06:30:00 EST</pubDate>
+<description>Garett Jones of George Mason University talks with EconTalk host Russ Roberts about the ideas of Irving Fisher on debt and deflation. In a book, Booms and Depressions and in a 1933 Econometrica article, Fisher argued that debt-fueled investment booms lead to liquidation of assets at unexpectedly low prices followed by a contraction in the money supply which leads to deflation and a contraction in the real side of the economy--a recession or a depression. Jones then discusses the relevance of Fisher's theory for the current state of the economy in the aftermath of the financial crisis.</description>
+<itunes:summary>Garett Jones of George Mason University talks with EconTalk host Russ Roberts about the ideas of Irving Fisher on debt and deflation. In a book, Booms and Depressions and in a 1933 Econometrica article, Fisher argued that debt-fueled investment booms lead to liquidation of assets at unexpectedly low prices followed by a contraction in the money supply which leads to deflation and a contraction in the real side of the economy--a recession or a depression. Jones then discusses the relevance of Fisher's theory for the current state of the economy in the aftermath of the financial crisis.</itunes:summary>
+<itunes:subtitle>Garett Jones talks with host Russ Roberts about the ideas of Irving Fisher on debt and deflation. Fisher argued that debt-fueled investment booms lead to liquidation of assets at unexpectedly low prices followed by a contraction in the money supply which leads to deflation and a contraction in the real side of the economy--a recession or a depression. Jones then discusses the relevance of Fisher's theory for the current state of the economy in the aftermath of the financial crisis.</itunes:subtitle>
+<itunes:keywords>economics, Garett Jones, money, monetary policy, recessions, borrowing, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Jonesdebt.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Jonesdebt.mp3" length="29516479" type="audio/mpeg" />
+<itunes:duration>1:01:20</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Robert Skidelsky on Money, the Good Life, and How Much is Enough</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 01 Oct 2012 06:30:00 EST</pubDate>
+<description>Robert Skidelsky, noted biographer of John Maynard Keynes and author (with his son Edward) of the recently published How Much is Enough, talks with EconTalk host Russ Roberts about materialism, growth, insatiability, and the good life. Skidelsky argues that we work too hard and too long. He argues that the good life has more leisure than we currently consume and that public policy should be structured to discourage work in wealthy countries where work can still be uninspiring. Skidelsky criticizes the discipline of economics and economists for contributing to an obsession with growth to the detriment of what he says are more meaningful and life-enhancing policy goals.</description>
+<itunes:summary>Robert Skidelsky, noted biographer of John Maynard Keynes and author (with his son Edward) of the recently published How Much is Enough, talks with EconTalk host Russ Roberts about materialism, growth, insatiability, and the good life. Skidelsky argues that we work too hard and too long. He argues that the good life has more leisure than we currently consume and that public policy should be structured to discourage work in wealthy countries where work can still be uninspiring. Skidelsky criticizes the discipline of economics and economists for contributing to an obsession with growth to the detriment of what he says are more meaningful and life-enhancing policy goals.</itunes:summary>
+<itunes:subtitle>Author Robert Skidelsky talks with host Russ Roberts about materialism, growth, insatiability, and the good life--topics from his book, How Much is Enough, (co-author, Edward Skidelsky). He argues that we work too hard and too long. He argues that the good life has more leisure than we currently consume and that public policy should be structured to discourage work in wealthy countries where work can still be uninspiring. Skidelsky criticizes the discipline of economics and economists for contributing to an obsession with growth to the detriment of what he says are more meaningful and life-enhancing policy goals.</itunes:subtitle>
+<itunes:keywords>economics, Robert Skidelsky, labor, leisure, work, growth, materialism, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Skidelskyenough.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Skidelskyenough.mp3" length="26281503" type="audio/mpeg" />
+<itunes:duration>54:36</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Frank and Roberts on Infrastructure</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 24 Sep 2012 06:30:00 EST</pubDate>
+<description>Robert Frank of Cornell University and EconTalk host Russ Roberts debate the merits of a large increase of infrastructure spending. In the summer of 2012, Frank and Roberts were interviewed by Alex Blumberg of NPR's Planet Money. That interview was trimmed to ten minutes for a Planet Money podcast. This is the entire conversation. Frank argues that a  trillion increase in infrastructure spending, where the projects are decided by a bipartisan commission, would put people back to work and repair a near-failing system at a time when it is cheap to repair it and cheap to fund those repairs. Roberts disagrees with virtually every piece of Frank's argument. This lively conversation covers fundamental disagreements over fiscal policy, the proper role for government, and the political process.</description>
+<itunes:summary>Robert Frank of Cornell University and EconTalk host Russ Roberts debate the merits of a large increase of infrastructure spending. In the summer of 2012, Frank and Roberts were interviewed by Alex Blumberg of NPR's Planet Money. That interview was trimmed to ten minutes for a Planet Money podcast. This is the entire conversation. Frank argues that a  trillion increase in infrastructure spending, where the projects are decided by a bipartisan commission, would put people back to work and repair a near-failing system at a time when it is cheap to repair it and cheap to fund those repairs. Roberts disagrees with virtually every piece of Frank's argument. This lively conversation covers fundamental disagreements over fiscal policy, the proper role for government, and the political process.</itunes:summary>
+<itunes:subtitle>Robert Frank and host Russ Roberts debate the merits of a large increase of infrastructure spending. In the summer of 2012, Frank and Roberts were interviewed by Alex Blumberg of NPR's Planet Money. That interview was trimmed to ten minutes for a Planet Money podcast. This is the entire conversation. Frank argues that a  trillion increase in infrastructure spending, where the projects are decided by a bipartisan commission, would put people back to work and repair a near-failing system at a time when it is cheap to repair it and cheap to fund those repairs. Roberts disagrees with virtually every piece of Frank's argument. This lively conversation covers fundamental disagreements over fiscal policy, the proper role for government, and the political process.</itunes:subtitle>
+<itunes:keywords>economics, Robert Frank, NPR, Alex Blumberg, Planet Money, government spending, jobs, fiscal stimulus, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Frankinfrastructure.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Frankinfrastructure.mp3" length="27846925" type="audio/mpeg" />
+<itunes:duration>57:51</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Paul Tough on How Children Succeed</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 17 Sep 2012 06:30:00 EST</pubDate>
+<description>Paul Tough, author of How Children Succeed, talks with EconTalk host Russ Roberts about why children succeed and fail in school and beyond school. He argues that conscientiousness--a mixture of self-control and determination--can be a more important measure of academic and professional success than cognitive ability. He also discusses innovative techniques that schools, individuals, and non-profits are using to inspire young people in distressed neighborhoods. The conversation closes with the implications for public policy in fighting poverty.</description>
+<itunes:summary>Paul Tough, author of How Children Succeed, talks with EconTalk host Russ Roberts about why children succeed and fail in school and beyond school. He argues that conscientiousness--a mixture of self-control and determination--can be a more important measure of academic and professional success than cognitive ability. He also discusses innovative techniques that schools, individuals, and non-profits are using to inspire young people in distressed neighborhoods. The conversation closes with the implications for public policy in fighting poverty.</itunes:summary>
+<itunes:subtitle>Paul Tough, author of How Children Succeed, talks with host Russ Roberts about why children succeed and fail in and beyond school. He argues that conscientiousness--a mixture of self-control and determination--can be a more important measure of academic and professional success than cognitive ability. He also discusses innovative techniques that schools, individuals, and non-profits are using to inspire young people in distressed neighborhoods. The conversation closes with the implications for public policy in fighting poverty.</itunes:subtitle>
+<itunes:keywords>economics, Paul Tough, education, family, poverty, cognitive, psychology, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Toughchildren.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Toughchildren.mp3" length="26626065" type="audio/mpeg" />
+<itunes:duration>55:19</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Nosek on Truth, Science, and Academic Incentives</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 10 Sep 2012 06:30:00 EST</pubDate>
+<description>Brian Nosek of the University of Virginia talks with EconTalk host Russ Roberts about how incentives in academic life create a tension between truth-seeking and professional advancement. Nosek argues that these incentives create a subconscious bias toward making research decisions in favor of novel results that may not be true, particularly in empirical and experimental work in the social sciences. In the second half of the conversation, Nosek details some practical innovations occurring in the field of psychology, to replicate established results and to publicize unpublished results that are not sufficiently exciting to merit publication but that nevertheless advance understanding and knowledge. These include the Open Science Framework and PsychFileDrawer.</description>
+<itunes:summary>Brian Nosek of the University of Virginia talks with EconTalk host Russ Roberts about how incentives in academic life create a tension between truth-seeking and professional advancement. Nosek argues that these incentives create a subconscious bias toward making research decisions in favor of novel results that may not be true, particularly in empirical and experimental work in the social sciences. In the second half of the conversation, Nosek details some practical innovations occurring in the field of psychology, to replicate established results and to publicize unpublished results that are not sufficiently exciting to merit publication but that nevertheless advance understanding and knowledge. These include the Open Science Framework and PsychFileDrawer.</itunes:summary>
+<itunes:subtitle>Brian Nosek talks with host Russ Roberts about how incentives in academic life create a tension between truth-seeking and professional advancement. Nosek argues that these incentives create a subconscious bias toward making research decisions in favor of novel results that may not be true, particularly in empirical and experimental work in the social sciences. In the second half of the conversation, Nosek details some practical innovations occurring in the field of psychology, to replicate established results and to publicize unpublished results that are not sufficiently exciting to merit publication but that nevertheless advance understanding and knowledge. These include the Open Science Framework and PsychFileDrawer.</itunes:subtitle>
+<itunes:keywords>economics, Brian Nosek, psychology, education, research, social sciences, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Nosektruth.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Nosektruth.mp3" length="27176545" type="audio/mpeg" />
+<itunes:duration>56:28</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Barofsky on Bailouts</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 03 Sep 2012 06:30:00 EST</pubDate>
+<description>Neil Barofsky, author of Bailout and the former Special Inspector General for the TARP program, talks with EconTalk host Russ Roberts about his book and the government bailouts by the Bush and Obama Administrations. Barofsky recounts what he learned about how Washington works and the incentives facing politicians and bureaucrats. His book and this interview are a workshop in public choice economics. Along the way he unravels some of the acronyms of the last few years including TARP, TALF, and HAMP. The conversation concludes with lessons learned by Barofsky and what might be done in the future to prevent the corruption and ineffectiveness of past bailouts.</description>
+<itunes:summary>Neil Barofsky, author of Bailout and the former Special Inspector General for the TARP program, talks with EconTalk host Russ Roberts about his book and the government bailouts by the Bush and Obama Administrations. Barofsky recounts what he learned about how Washington works and the incentives facing politicians and bureaucrats. His book and this interview are a workshop in public choice economics. Along the way he unravels some of the acronyms of the last few years including TARP, TALF, and HAMP. The conversation concludes with lessons learned by Barofsky and what might be done in the future to prevent the corruption and ineffectiveness of past bailouts.</itunes:summary>
+<itunes:subtitle>Neil Barofsky, author of Bailout and the former Special Inspector General for the TARP program, talks with host Russ Roberts about his book and the government bailouts by the Bush and Obama Administrations. He recounts what he learned about how Washington works and the incentives facing politicians and bureaucrats. His book and this interview are a workshop in public choice economics. Along the way he unravels some of the acronyms of the last few years including TARP, TALF, and HAMP. The conversation concludes with lessons learned by Barofsky and what might be done in the future to prevent the corruption and ineffectiveness of past bailouts.</itunes:subtitle>
+<itunes:keywords>economics, Neil Barofsky, TARP, government, politics, Bush, Obama, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Barofskybailouts.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Barofskybailouts.mp3" length="30239085" type="audio/mpeg" />
+<itunes:duration>1:02:50</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Roger Noll on the Economics of Sports</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 27 Aug 2012 06:30:00 EST</pubDate>
+<description>Roger Noll of Stanford University talks with EconTalk host Russ Roberts about the economics of sports. Noll discusses the economic effects of stadium subsidies, the labor market for athletes, the business side of college sports, competitive balance in sports leagues, safety in sports, performance-enhancing drugs, and how the role of sports in the lives of children has changed.</description>
+<itunes:summary>Roger Noll of Stanford University talks with EconTalk host Russ Roberts about the economics of sports. Noll discusses the economic effects of stadium subsidies, the labor market for athletes, the business side of college sports, competitive balance in sports leagues, safety in sports, performance-enhancing drugs, and how the role of sports in the lives of children has changed.</itunes:summary>
+<itunes:subtitle>Roger Noll talks with host Russ Roberts about the economics of sports. Noll discusses the economic effects of stadium subsidies, the labor market for athletes, the business side of college sports, competitive balance in sports leagues, safety in sports, performance-enhancing drugs, and how the role of sports in the lives of children has changed.</itunes:subtitle>
+<itunes:keywords>economics, Roger Noll, stadiums, performance enhancing drugs, baseball, football, basketball, hockey, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Nollsports.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Nollsports.mp3" length="32214812" type="audio/mpeg" />
+<itunes:duration>1:06:57</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Ohanian on the Great Recession and the Labor Market</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 20 Aug 2012 06:30:00 EST</pubDate>
+<description>Lee Ohanian of UCLA talks with EconTalk host Russ Roberts about the recession, the recovery, and the state of labor market. Ohanian describes the unusual aspects of this recession and recovery in the United States as shown by the labor market and the unusual performance of hours worked, productivity, and wages. He also discusses the behavior of business investment and speculates as to why this recession and the recovery has been so different in the United States. The conversation closes with a discussion of the role of the foreclosure process in encouraging unemployment.</description>
+<itunes:summary>Lee Ohanian of UCLA talks with EconTalk host Russ Roberts about the recession, the recovery, and the state of labor market. Ohanian describes the unusual aspects of this recession and recovery in the United States as shown by the labor market and the unusual performance of hours worked, productivity, and wages. He also discusses the behavior of business investment and speculates as to why this recession and the recovery has been so different in the United States. The conversation closes with a discussion of the role of the foreclosure process in encouraging unemployment.</itunes:summary>
+<itunes:subtitle>Lee Ohanian talks with host Russ Roberts about the recession, the recovery, and the state of labor market. He describes the unusual aspects of this U.S. recession and recovery as shown by the labor market and the unusual performance of hours worked, productivity, and wages. He also discusses the behavior of business investment and speculates as to why this recession and the recovery has been so different in the United States. The conversation closes with a discussion of the role of the foreclosure process in encouraging unemployment.</itunes:subtitle>
+<itunes:keywords>economics, Lee Ohanian, productivity, wages, unemployment, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Ohanianrecession.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Ohanianrecession.mp3" length="35781826" type="audio/mpeg" />
+<itunes:duration>1:14:23</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Frisby on Tax Reform</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 13 Aug 2012 06:30:00 EST</pubDate>
+<description>Tammy Frisby of Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about the likelihood of U.S. tax reform in the near future. Frisby reviews the changes in tax policy over the last 30 years focusing on the changes of the 1980s, looking at both the economics and politics of past changes. The conversation then turns to the present and the possible changes that might be coming as the Bush tax cuts expire on January 1, 2013.</description>
+<itunes:summary>Tammy Frisby of Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about the likelihood of U.S. tax reform in the near future. Frisby reviews the changes in tax policy over the last 30 years focusing on the changes of the 1980s, looking at both the economics and politics of past changes. The conversation then turns to the present and the possible changes that might be coming as the Bush tax cuts expire on January 1, 2013.</itunes:summary>
+<itunes:subtitle>Tammy Frisby talks with host Russ Roberts about the likelihood of U.S. tax reform in the near future. Frisby reviews the changes in tax policy over the last 30 years focusing on the changes of the 1980s, looking at both the economics and politics of past changes. The conversation then turns to the present and the possible changes that might be coming as the Bush tax cuts expire on January 1, 2013.</itunes:subtitle>
+<itunes:keywords>economics, Tammy Frisby, taxation, government, budget, policy, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Frisbytaxreform.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Frisbytaxreform.mp3" length="32277960" type="audio/mpeg" />
+<itunes:duration>1:07:05</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Ober on the Ancient Greek Economy</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 06 Aug 2012 06:30:00 EST</pubDate>
+<description>Josiah Ober of Stanford University talks with EconTalk host Russ Roberts about the economy of ancient Greece, particularly Athens. Ober notes that the standard view of ancient Greece is that it was very poor. Drawing on various kinds of evidence, Ober argues that Greece was actually quite successful, and that the average citizen of ancient Athens lived quite well by ancient standards. He suggests two possible explanations for Greece's economic success--an openness of the political process that reduced transaction costs and encouraged human capital investment or innovation and cross-fertilization across Greek states. The conversation also explores the nature of evidence for understanding antiquity and the prospect for future discoveries pertaining to ancient Greece.</description>
+<itunes:summary>Josiah Ober of Stanford University talks with EconTalk host Russ Roberts about the economy of ancient Greece, particularly Athens. Ober notes that the standard view of ancient Greece is that it was very poor. Drawing on various kinds of evidence, Ober argues that Greece was actually quite successful, and that the average citizen of ancient Athens lived quite well by ancient standards. He suggests two possible explanations for Greece's economic success--an openness of the political process that reduced transaction costs and encouraged human capital investment or innovation and cross-fertilization across Greek states. The conversation also explores the nature of evidence for understanding antiquity and the prospect for future discoveries pertaining to ancient Greece.</itunes:summary>
+<itunes:subtitle>Josiah Ober talks with host Russ Roberts about the economy of ancient Greece, particularly Athens. The standard view of ancient Greece is that it was very poor. Ober argues that Greece was actually quite successful, and that the average citizen of ancient Athens lived quite well by ancient standards. He suggests two possible explanations for Greece's economic success--an openness of the political process that reduced transaction costs and encouraged human capital investment or innovation and cross-fertilization across Greek states. The conversation also explores the nature of evidence for understanding antiquity and the prospect for future discoveries pertaining to ancient Greece.</itunes:subtitle>
+<itunes:keywords>economics, Josiah Ober, Greece, international, Athens, classical, European, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Oberancientgreece.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Oberancientgreece.mp3" length="31886915" type="audio/mpeg" />
+<itunes:duration>1:06:16</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Scott Atlas on American Health Care</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 30 Jul 2012 06:30:00 EST</pubDate>
+<description>Scott Atlas, Senior Fellow at Stanford University's Hoover Institution and author of In Excellent Health, talks with EconTalk host Russ Roberts about the U.S. health care system. Atlas argues that the U.S. health care system is top-notch relative to other countries and that data that show otherwise rely on including factors unrelated to health care or on spurious definitions. For example, life expectancy in the United States is unexceptional. When you take out suicides and fatal car accidents, factors that Atlas argues are unrelated to the health care system, the United States has the longest life expectancy in the world. A similar change occurs when measuring infant mortality--foreign data do not include as many at-risk births as in the United States and the measure of a birth is not comparable. In a number of other areas including cancer survival rates, access to hip replacement surgery and waiting times to see a physician, Atlas argues that the United States is also at or near the top. The discussion concludes with a discussion of access to health care for the poor and the failure of Medicaid.</description>
+<itunes:summary>Scott Atlas, Senior Fellow at Stanford University's Hoover Institution and author of In Excellent Health, talks with EconTalk host Russ Roberts about the U.S. health care system. Atlas argues that the U.S. health care system is top-notch relative to other countries and that data that show otherwise rely on including factors unrelated to health care or on spurious definitions. For example, life expectancy in the United States is unexceptional. When you take out suicides and fatal car accidents, factors that Atlas argues are unrelated to the health care system, the United States has the longest life expectancy in the world. A similar change occurs when measuring infant mortality--foreign data do not include as many at-risk births as in the United States and the measure of a birth is not comparable. In a number of other areas including cancer survival rates, access to hip replacement surgery and waiting times to see a physician, Atlas argues that the United States is also at or near the top. The discussion concludes with a discussion of access to health care for the poor and the failure of Medicaid.</itunes:summary>
+<itunes:subtitle>Scott Atlas talks with host Russ Roberts about the U.S. health care system. Atlas argues it is top-notch relative to other countries and that data that show otherwise rely on including factors unrelated to health care or on spurious definitions. For example, life expectancy in the United States is unexceptional. When you take out suicides and fatal car accidents, factors that Atlas argues are unrelated to the health care system, the U.S. life expectancy is the longest in the world. Similarly, foreign data do not include as many at-risk births as U.S. data and the measure of a birth is not comparable. In a number of other areas including cancer survival rates, access to hip replacement surgery and waiting times to see a physician, Atlas argues that the United States is also at or near the top. The discussion concludes with a discussion of access to health care for the poor and the failure of Medicaid.</itunes:subtitle>
+<itunes:keywords>economics, Scott Atlas, statistics, infant mortality, international, hip replacement, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Atlashealth.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Atlashealth.mp3" length="29693678" type="audio/mpeg" />
+<itunes:duration>1:01:42</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Brady on the 2012 US Election</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 23 Jul 2012 06:30:00 EST</pubDate>
+<description>David Brady, Professor of Political Science and the Graduate School of Business at Stanford University and a senior fellow at Stanford's Hoover Institution talks with EconTalk host Russ Roberts about the November elections in the United States. Brady argues that while the economy favors the challenger, Mitt Romney, current polling data gives a slight edge to President Obama in both the popular vote and the electoral college. The data all suggest that House will stay Republican and the Senate will either go slightly Republican or be tied. Brady also discusses why this may change over the next few months, the importance of the independent vote, and Romney's strategy in choosing a running mate.</description>
+<itunes:summary>David Brady, Professor of Political Science and the Graduate School of Business at Stanford University and a senior fellow at Stanford's Hoover Institution talks with EconTalk host Russ Roberts about the November elections in the United States. Brady argues that while the economy favors the challenger, Mitt Romney, current polling data gives a slight edge to President Obama in both the popular vote and the electoral college. The data all suggest that House will stay Republican and the Senate will either go slightly Republican or be tied. Brady also discusses why this may change over the next few months, the importance of the independent vote, and Romney's strategy in choosing a running mate.</itunes:summary>
+<itunes:subtitle>David Brady talks with host Russ Roberts about the November elections in the U.S. Brady argues that while the economy favors the challenger, Mitt Romney, current polling data gives a slight edge to President Obama. The data all suggest that House will stay Republican and the Senate will either go slightly Republican or be tied. Brady also discusses why this may change over the next few months, the importance of the independent vote, and Romney's strategy in choosing a running mate.</itunes:subtitle>
+<itunes:keywords>economics, David Brady, polls, Obama, Romney, politics, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Brady2012election.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Brady2012election.mp3" length="31649297" type="audio/mpeg" />
+<itunes:duration>1:05:47</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Taubes on Why We Get Fat</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 16 Jul 2012 06:30:00 EST</pubDate>
+<description>Gary Taubes, author of Why We Get Fat, talks with EconTalk host Russ Roberts about why we get fat and the nature of evidence in a complex system. The current mainstream view is that we get fat because we eat too much and don't exercise enough. Taubes challenges this seemingly uncontroversial argument with a number of empirical observations, arguing instead that excessive carbohydrate consumption causes obesity. In this conversation he explains how your body reacts to carbohydrates and explains why the mainstream argument of "calories in/calories out" is inadequate for explaining obesity. He also discusses the history of the idea of carbohydrates' importance tracing it back to German and Austrian nutritionists whose work was ignored after WWII. Roberts ties the discussion to other emergent, complex phenomena such as the economy. The conversation closes with a discussion of the risks of confirmation bias and cherry-picking data to suit one's pet hypotheses.</description>
+<itunes:summary>Gary Taubes, author of Why We Get Fat, talks with EconTalk host Russ Roberts about why we get fat and the nature of evidence in a complex system. The current mainstream view is that we get fat because we eat too much and don't exercise enough. Taubes challenges this seemingly uncontroversial argument with a number of empirical observations, arguing instead that excessive carbohydrate consumption causes obesity. In this conversation he explains how your body reacts to carbohydrates and explains why the mainstream argument of "calories in/calories out" is inadequate for explaining obesity. He also discusses the history of the idea of carbohydrates' importance tracing it back to German and Austrian nutritionists whose work was ignored after WWII. Roberts ties the discussion to other emergent, complex phenomena such as the economy. The conversation closes with a discussion of the risks of confirmation bias and cherry-picking data to suit one's pet hypotheses.</itunes:summary>
+<itunes:subtitle>Author Gary Taubes talks with host Russ Roberts about why we get fat and the nature of evidence. The current mainstream view is that we get fat because we eat too much and don't exercise enough. Taubes challenges this seemingly uncontroversial argument with a number of empirical observations, arguing instead that excessive carbohydrate consumption causes obesity. In this conversation he explains how your body reacts to carbohydrates and explains why the mainstream argument of "calories in/calories out" is inadequate for explaining obesity. He also discusses the history of the idea of carbohydrates' importance tracing it back to German and Austrian nutritionists whose work was ignored after WWII. Roberts ties the discussion to other emergent, complex phenomena such as the economy. The conversation closes with a discussion of the risks of confirmation bias and cherry-picking data to suit one's pet hypotheses.</itunes:subtitle>
+<itunes:keywords>economics, Gary Taubes, weight loss, carbohydrates, obesity, health, nutrition, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Taubeswhy.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Taubeswhy.mp3" length="38485428" type="audio/mpeg" />
+<itunes:duration>1:20:01</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Stiglitz on Inequality</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 09 Jul 2012 06:30:00 EST</pubDate>
+<description>Nobel Laureate Joseph Stiglitz of Columbia University talks with EconTalk host Russ Roberts about the ideas in his recent book, The Price of Inequality. Stiglitz argues that the American economy is dysfunctional, benefitting only those at the very top while the bulk of the workforce sees little or no gain in their standard of living over recent decades. Stiglitz blames this result on deregulation and the political power of the financial sector and others at the top. He wants an increase in regulation and the role of government in the economy and a more transparent Federal Reserve Bank that he blames for coddling the financial sector. The conversation also includes a discussion of the Keynesian multiplier.</description>
+<itunes:summary>Nobel Laureate Joseph Stiglitz of Columbia University talks with EconTalk host Russ Roberts about the ideas in his recent book, The Price of Inequality. Stiglitz argues that the American economy is dysfunctional, benefitting only those at the very top while the bulk of the workforce sees little or no gain in their standard of living over recent decades. Stiglitz blames this result on deregulation and the political power of the financial sector and others at the top. He wants an increase in regulation and the role of government in the economy and a more transparent Federal Reserve Bank that he blames for coddling the financial sector. The conversation also includes a discussion of the Keynesian multiplier.</itunes:summary>
+<itunes:subtitle>Nobel Laureate Joseph Stiglitz talks with host Russ Roberts about the ideas in his recent book, The Price of Inequality. He argues that the American economy is dysfunctional, benefitting only those at the very top while the bulk of the workforce sees little or no gain in their standard of living over recent decades. He blames this result on deregulation and the political power of the financial sector and others at the top. He wants an increase in regulation and the role of government in the economy and a more transparent Federal Reserve Bank that he blames for coddling the financial sector. The conversation also includes a discussion of the Keynesian multiplier.</itunes:subtitle>
+<itunes:keywords>economics, Joseph Stiglitz, finance, Keynesian, nobel, financial, regulation, multipliers, stimulus, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Stiglitzinequality.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Stiglitzinequality.mp3" length="32469946" type="audio/mpeg" />
+<itunes:duration>1:07:29</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Zingales on Capitalism and Crony Capitalism</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 02 Jul 2012 06:30:00 EST</pubDate>
+<description>Luigi Zingales of the University of Chicago and author of A Capitalism for the People talks with EconTalk host Russ Roberts about the ideas in his book. Zingales argues that the financial sector has used its political power to enhance the size of the sector and the compensations executives receive. This is symptomatic of a larger problem where special interests steer resources and favors based on their political influence. Zingales argues for a capitalism for the people rather than a capitalism for cronies or the politically powerful. The conversation concludes with a plea by Zingales to his fellow economists to speak out against behavior that is legal but immoral--lobbying Congress for special treatment that exploits others to benefit one's own industry, for example.</description>
+<itunes:summary>Luigi Zingales of the University of Chicago and author of A Capitalism for the People talks with EconTalk host Russ Roberts about the ideas in his book. Zingales argues that the financial sector has used its political power to enhance the size of the sector and the compensations executives receive. This is symptomatic of a larger problem where special interests steer resources and favors based on their political influence. Zingales argues for a capitalism for the people rather than a capitalism for cronies or the politically powerful. The conversation concludes with a plea by Zingales to his fellow economists to speak out against behavior that is legal but immoral--lobbying Congress for special treatment that exploits others to benefit one's own industry, for example.</itunes:summary>
+<itunes:subtitle>Luigi Zingales talks with host Russ Roberts about the ideas in his book, A Capitalism for the People. He argues that the financial sector has used its political power to enhance the size of the sector and the compensations executives receive. This is symptomatic of a larger problem where special interests steer resources and favors based on their political influence. Zingales argues for a capitalism for the people rather than a capitalism for cronies or the politically powerful. The conversation concludes with a plea by Zingales to his fellow economists to speak out against behavior that is legal but immoral--lobbying Congress for special treatment that exploits others to benefit one's own industry, for example.</itunes:subtitle>
+<itunes:keywords>economics, Luigi Zingales, finance, executive compensation, politics, lobbying, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Zingalescapitalism.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Zingalescapitalism.mp3" length="31740231" type="audio/mpeg" />
+<itunes:duration>1:05:58</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Moretti on Jobs, Cities, and Innovation</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 25 Jun 2012 06:30:00 EST</pubDate>
+<description>Enrico Moretti of the University of California, Berkeley and the author of the New Geography of Jobs talks to EconTalk host Russ Roberts about the ideas in his book. Moretti traces how the economic success of cities and the workers who live there depends on the education of those workers. Moretti argues that there are spillover effects from educated workers--increased in jobs and wages in the city. He uses changes in the fortunes of Seattle and Albuquerque over the last three decades as an example of how small changes can affect the path of economic development and suggests a strong role for serendipity in determining which cities become hubs for high-tech innovation. The conversation concludes with Moretti making the case for increasing investments in education and research and development.</description>
+<itunes:summary>Enrico Moretti of the University of California, Berkeley and the author of the New Geography of Jobs talks to EconTalk host Russ Roberts about the ideas in his book. Moretti traces how the economic success of cities and the workers who live there depends on the education of those workers. Moretti argues that there are spillover effects from educated workers--increased in jobs and wages in the city. He uses changes in the fortunes of Seattle and Albuquerque over the last three decades as an example of how small changes can affect the path of economic development and suggests a strong role for serendipity in determining which cities become hubs for high-tech innovation. The conversation concludes with Moretti making the case for increasing investments in education and research and development.</itunes:summary>
+<itunes:subtitle>Enrico Moretti talks to host Russ Roberts about the ideas in his book, the New Geography of Jobs. He traces how the economic success of cities and the workers who live there depends on the education of those workers. Moretti argues that there are spillover effects from educated workers--increased in jobs and wages in the city. He uses changes in the fortunes of Seattle and Albuquerque over the last three decades as an example of how small changes can affect the path of economic development and suggests a strong role for serendipity in determining which cities become hubs for high-tech innovation. The conversation concludes with Moretti making the case for increasing investments in education and research and development.</itunes:subtitle>
+<itunes:keywords>economics, Enrico Moretti, employment, education, Seattle, Albuquerque, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Moretticities.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Moretticities.mp3" length="34525302" type="audio/mpeg" />
+<itunes:duration>01:11:46</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Manzi on Knowledge, Policy, and Uncontrolled</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 18 Jun 2012 06:30:00 EST</pubDate>
+<description>Jim Manzi, author of Uncontrolled, talks with EconTalk host Russ Roberts about the reliability of science and the ideas in his book. Manzi argues that unlike science, which can produce useful results using controlled experiments, social science typically involves complex systems where system-wide experiments are rare and statistical tools are limited in their ability to isolate causal relations. Because of the complexity of social environments, even narrow experiments are unlikely to have the wide application that can be found in the laws uncovered by experiments in the physical sciences. Manzi advocates a trial-and-error approach using randomized field trials to verify the usefulness of many policy proposals. And he argues for humility and lowered expectations when it comes to understanding causal effects in social settings related to public policy.</description>
+<itunes:summary>Jim Manzi, author of Uncontrolled, talks with EconTalk host Russ Roberts about the reliability of science and the ideas in his book. Manzi argues that unlike science, which can produce useful results using controlled experiments, social science typically involves complex systems where system-wide experiments are rare and statistical tools are limited in their ability to isolate causal relations. Because of the complexity of social environments, even narrow experiments are unlikely to have the wide application that can be found in the laws uncovered by experiments in the physical sciences. Manzi advocates a trial-and-error approach using randomized field trials to verify the usefulness of many policy proposals. And he argues for humility and lowered expectations when it comes to understanding causal effects in social settings related to public policy.</itunes:summary>
+<itunes:subtitle>Jim Manzi, author of Uncontrolled, talks with host Russ Roberts about the reliability of science and the ideas in his book. Manzi argues that unlike science, which can produce useful results using controlled experiments, social science typically involves complex systems where system-wide experiments are rare and statistical tools are limited in their ability to isolate causal relations. Because of the complexity of social environments, even narrow experiments are unlikely to have the wide application that can be found in the laws uncovered by experiments in the physical sciences. Manzi advocates a trial-and-error approach using randomized field trials to verify the usefulness of many policy proposals. And he argues for humility and lowered expectations when it comes to understanding causal effects in social settings related to public policy.</itunes:subtitle>
+<itunes:keywords>economics, Jim Manzi, social sciences, experiments, randomized field trials, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Manziknowledge.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Manziknowledge.mp3" length="30718532" type="audio/mpeg" />
+<itunes:duration>01:03:50</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Jonah Lehrer on Creativity and Imagine</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 11 Jun 2012 06:30:00 EST</pubDate>
+<description>Jonah Lehrer, staff writer for The New Yorker and author of Imagine: How Creativity Works, talks with EconTalk host Russ Roberts about the science of creativity. They discuss focusing vs. ignoring as a way to solve problems, the potential for computer-based creativity, how W. H. Auden used drugs to improve his poetry, Bob Dylan, Steve Jobs, and the creative power of mindless relaxation. The conversation closes with a discussion of what policies might increase creativity.</description>
+<itunes:summary>Jonah Lehrer, staff writer for The New Yorker and author of Imagine: How Creativity Works, talks with EconTalk host Russ Roberts about the science of creativity. They discuss focusing vs. ignoring as a way to solve problems, the potential for computer-based creativity, how W. H. Auden used drugs to improve his poetry, Bob Dylan, Steve Jobs, and the creative power of mindless relaxation. The conversation closes with a discussion of what policies might increase creativity.</itunes:summary>
+<itunes:subtitle>Jonah Lehrer, staff writer for The New Yorker and author of Imagine, talks with host Russ Roberts about the science of creativity. They discuss focusing vs. ignoring as a way to solve problems, the potential for computer-based creativity, how Auden used drugs to improve his poetry, Bob Dylan, Steve Jobs, and the creative power of mindless relaxation. The conversation closes with a discussion of what policies might increase creativity.</itunes:subtitle>
+<itunes:keywords>economics, Jonah Lehrer, imagination, neuroscience, poetry, problem solving, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Lehrercreativity.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Lehrercreativity.mp3" length="33760427" type="audio/mpeg" />
+<itunes:duration>01:10:11</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Yong on Science, Replication, and Journalism</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 04 Jun 2012 06:30:00 EST</pubDate>
+<description>Ed Yong, science writer and blogger at "Not Exactly Rocket Science" at Discover Magazine, talks with EconTalk host Russ Roberts about the challenges of science and science journalism. Yong was recently entangled in a controversy over the failure of researchers to replicate a highly-cited and influential psychology study. He discusses the issues behind the failed replication and the problem of replication in general in other fields, arguing that replication is under-appreciated and little rewarded. After a discussion of the incentives facing scientists, the conversation turns to the challenges facing science journalists when work that is peer-reviewed may still not be reliable.</description>
+<itunes:summary>Ed Yong, science writer and blogger at "Not Exactly Rocket Science" at Discover Magazine, talks with EconTalk host Russ Roberts about the challenges of science and science journalism. Yong was recently entangled in a controversy over the failure of researchers to replicate a highly-cited and influential psychology study. He discusses the issues behind the failed replication and the problem of replication in general in other fields, arguing that replication is under-appreciated and little rewarded. After a discussion of the incentives facing scientists, the conversation turns to the challenges facing science journalists when work that is peer-reviewed may still not be reliable.</itunes:summary>
+<itunes:subtitle>Science writer Ed Yong talks with host Russ Roberts about science and science journalism challenges. Yong was recently entangled in a controversy over the failure of researchers to replicate an influential psychology study. He discusses the issues behind the failed replication and the problem of replication in general in other fields, arguing that replication is under-appreciated and little rewarded. After a discussion of the incentives facing scientists, the conversation turns to the challenges facing science journalists when work that is peer-reviewed may still not be reliable.</itunes:subtitle>
+<itunes:keywords>economics, Ed Yong, discover magazine, psychology, scientific method, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Yongscience.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Yongscience.mp3" length="34330746" type="audio/mpeg" />
+<itunes:duration>01:11:22</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Larry White on the Clash of Economic Ideas</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 28 May 2012 06:30:00 EST</pubDate>
+<description>Lawrence H. White of George Mason University and author of The Clash of Economic Ideas talks to EconTalk host Russ Roberts about the economists and their ideas of the past one hundred years. They discuss Keynes and Hayek, monetary policy and the Great Depression, Germany after the Second World War, the economy of India, and the future of monetary policy.</description>
+<itunes:summary>Lawrence H. White of George Mason University and author of The Clash of Economic Ideas talks to EconTalk host Russ Roberts about the economists and their ideas of the past one hundred years. They discuss Keynes and Hayek, monetary policy and the Great Depression, Germany after the Second World War, the economy of India, and the future of monetary policy.</itunes:summary>
+<itunes:subtitle>Lawrence H. White talks to host Russ Roberts about economists and their ideas of the past 100 years. They discuss Keynes and Hayek, monetary policy and the Great Depression, Germany after WWII, the economy of India, and the future of monetary policy.</itunes:subtitle>
+<itunes:keywords>economics, Lawrence H. White, history, government policies, Great Depression, WWII, India, macroeconomics, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Whiteideas.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Whiteideas.mp3" length="30120231" type="audio/mpeg" />
+<itunes:duration>01:02:36</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Coase on Externalities, the Firm, and the State of Economics</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 21 May 2012 06:30:00 EST</pubDate>
+<description>Nobel Laureate Ronald Coase of the University of Chicago talks with EconTalk host Russ Roberts about his career, the current state of economics, and the Chinese economy. Coase, born in 1910, reflects on his youth, his two great papers, "The Nature of the Firm" and "The Problem of Social Cost". At the end of conversation he discusses his new book on China, How China Became Capitalist (co-authored with Ning Wang), and the future of the Chinese and world economies.</description>
+<itunes:summary>Nobel Laureate Ronald Coase of the University of Chicago talks with EconTalk host Russ Roberts about his career, the current state of economics, and the Chinese economy. Coase, born in 1910, reflects on his youth, his two great papers, "The Nature of the Firm" and "The Problem of Social Cost". At the end of conversation he discusses his new book on China, How China Became Capitalist (co-authored with Ning Wang), and the future of the Chinese and world economies.</itunes:summary>
+<itunes:subtitle>Nobel Laureate Ronald Coase talks with host Russ Roberts about his career, the current state of economics, and the Chinese economy. Coase, born in 1910, reflects on his youth, his two great papers, "The Nature of the Firm" and "The Problem of Social Cost". At the end of conversation he discusses his new book on China, How China Became Capitalist (co-authored with Ning Wang), and the future of the Chinese and world economies.</itunes:subtitle>
+<itunes:keywords>economics, Ronald Coase, Nobel Prize, social cost, private firms, capitalism, China, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Coaseexternalities.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Coaseexternalities.mp3" length="29093748" type="audio/mpeg" />
+<itunes:duration>01:00:27</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Owen on Parenting, Money, and the First National Bank of Dad</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 14 May 2012 06:30:00 EST</pubDate>
+<description>David Owen, author of The First National Bank of Dad, talks with EconTalk host Russ Roberts about how to educate our children about money and finance. Owen explains how he created his own savings accounts for his kids that gave them an incentive to save and other ways to teach them about postponing gratification, investing, keeping money in perspective and other life lessons. The conversation closes with a discussion of the value of reading to your kids.</description>
+<itunes:summary>David Owen, author of The First National Bank of Dad, talks with EconTalk host Russ Roberts about how to educate our children about money and finance. Owen explains how he created his own savings accounts for his kids that gave them an incentive to save and other ways to teach them about postponing gratification, investing, keeping money in perspective and other life lessons. The conversation closes with a discussion of the value of reading to your kids.</itunes:summary>
+<itunes:subtitle>Author David Owen talks with host Russ Roberts about how to educate children about money and finance. Owen explains how he created his own savings accounts for his kids that gave them an incentive to save and other ways to teach them about postponing gratification, investing, keeping money in perspective and other life lessons. The conversation closes with a discussion of the value of reading to your kids.</itunes:subtitle>
+<itunes:keywords>economics, David Owen, kids, parents, teaching, finance, saving, investing, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Owenparenting.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Owenparenting.mp3" length="30683246" type="audio/mpeg" />
+<itunes:duration>01:03:46</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Schmidtz on Rawls, Nozick, and Justice</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 07 May 2012 06:30:00 EST</pubDate>
+<description>David Schmidtz of the University of Arizona talks with EconTalk host Russ Roberts about the work of John Rawls and Robert Nozick. The conversation covers the basic ideas of Rawls and Nozick on inequality and justice and the appropriate role of the state in taxation and property rights.</description>
+<itunes:summary>David Schmidtz of the University of Arizona talks with EconTalk host Russ Roberts about the work of John Rawls and Robert Nozick. The conversation covers the basic ideas of Rawls and Nozick on inequality and justice and the appropriate role of the state in taxation and property rights.</itunes:summary>
+<itunes:subtitle>David Schmidtz talks with host Russ Roberts about the work of John Rawls and Robert Nozick. The conversation covers the basic ideas of Rawls and Nozick on inequality and justice and the appropriate role of the state in taxation and property rights.</itunes:subtitle>
+<itunes:keywords>economics, David Schmidtz, property rights, government policy, taxation, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/SchmidtzRawls.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/SchmidtzRawls.mp3" length="36219699" type="audio/mpeg" />
+<itunes:duration>01:15:18</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Taylor on Rules, Discretion, and First Principles</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 30 Apr 2012 06:30:00 EST</pubDate>
+<description>John Taylor of Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about his new book, First Principles: Five Keys to Restoring America's Prosperity. Taylor argues that when economic policy adhere to the right basic principles such as keeping rules rather than using discretion, then the economy thrives. Ignoring these principles, Taylor argues, leads to bad economic outcomes such as recessions, inflation, or high unemployment. Taylor illustrates these ideas with a whirlwind tour of the last half century of American economic policy and history. The focus is on monetary and fiscal policy but Taylor also discusses health care reform and other policy areas. The conversation closes with a look at the likelihood that economic policy will change dramatically after 2012.</description>
+<itunes:summary>John Taylor of Stanford University's Hoover Institution talks with EconTalk host Russ Roberts about his new book, First Principles: Five Keys to Restoring America's Prosperity. Taylor argues that when economic policy adhere to the right basic principles such as keeping rules rather than using discretion, then the economy thrives. Ignoring these principles, Taylor argues, leads to bad economic outcomes such as recessions, inflation, or high unemployment. Taylor illustrates these ideas with a whirlwind tour of the last half century of American economic policy and history. The focus is on monetary and fiscal policy but Taylor also discusses health care reform and other policy areas. The conversation closes with a look at the likelihood that economic policy will change dramatically after 2012.</itunes:summary>
+<itunes:subtitle>John Taylor talks with EconTalk host Russ Roberts about his new book, First Principles: Five Keys to Restoring America's Prosperity. Taylor argues that when economic policy adhere to the right basic principles such as keeping rules rather than using discretion, then the economy thrives. Ignoring these principles, Taylor argues, leads to bad economic outcomes such as recessions, inflation, or high unemployment. Taylor illustrates these ideas with a whirlwind tour of the last half century of American economic policy and history. The focus is on monetary and fiscal policy but Taylor also discusses health care reform and other policy areas. The conversation closes with a look at the likelihood that economic policy will change dramatically after 2012.</itunes:subtitle>
+<itunes:keywords>economics, John Taylor, recessions, government policy, fiscal, monetary, money, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Taylorrules.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Taylorrules.mp3" length="30105814" type="audio/mpeg" />
+<itunes:duration>01:02:34</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Cowen on Food</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 23 Apr 2012 06:30:00 EST</pubDate>
+<description>Tyler Cowen of George Mason U. and author of An Economist Gets Lunch, talks with EconTalk host Russ Roberts about food, the economics of food, and his new book. In this wide-ranging conversation, Cowen explains why American food was once a wasteland, the environmental impacts of plastic and buying local, why to stay away from fancy restaurants in the central city, and why he spent a month shopping only at an Asian supermarket while living in Northern Virginia.</description>
+<itunes:summary>Tyler Cowen of George Mason U. and author of An Economist Gets Lunch, talks with EconTalk host Russ Roberts about food, the economics of food, and his new book. In this wide-ranging conversation, Cowen explains why American food was once a wasteland, the environmental impacts of plastic and buying local, why to stay away from fancy restaurants in the central city, and why he spent a month shopping only at an Asian supermarket while living in Northern Virginia.</itunes:summary>
+<itunes:subtitle>Tyler Cowen talks with host Russ Roberts about food, the economics of food, and his new book. In this wide-ranging conversation, Cowen explains why American food was once a wasteland, the environmental impacts of plastic and buying local, why to stay away from fancy restaurants in the central city, and why he spent a month shopping only at an Asian supermarket while living in Northern Virginia.</itunes:subtitle>
+<itunes:keywords>economics, Tyler Cowen, organic, foods, natural, foodies, environment, lunch, dinner, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Cowenfood.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Cowenfood.mp3" length="29739610 " type="audio/mpeg" />
+<itunes:duration>01:01:48</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Autor on Disability</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 16 Apr 2012 06:30:00 EST</pubDate>
+<description>David Autor of MIT talks with EconTalk host Russ Roberts about the Social Security Disability Insurance (SSDI) program. SSDI has grown dramatically in recent years and now costs about $200 billion a year. Autor explains how the program works, why the growth has been so dramatic, and the consequences for the stability of the program in the future. This is an illuminated look at the interaction between politics and economics and reveals an activity of government that is relatively ignored today but will not be able to be ignored in the future.</description>
+<itunes:summary>David Autor of MIT talks with EconTalk host Russ Roberts about the Social Security Disability Insurance (SSDI) program. SSDI has grown dramatically in recent years and now costs about $200 billion a year. Autor explains how the program works, why the growth has been so dramatic, and the consequences for the stability of the program in the future. This is an illuminated look at the interaction between politics and economics and reveals an activity of government that is relatively ignored today but will not be able to be ignored in the future.</itunes:summary>
+<itunes:subtitle>David Autor talks with host Russ Roberts about the Social Security Disability Insurance (SSDI) program. SSDI has grown dramatically in recent years and now costs about $200 billion a year. Autor explains how the program works, why the growth has been so dramatic, and the consequences for the stability of the program in the future. This is an illuminated look at the interaction between politics and economics, revealing an activity of government that is relatively ignored today but will not be able to be ignored in the future.</itunes:subtitle>
+<itunes:keywords>economics, David Autor, social security disability insurance, SSDI, government policy, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Autordisability.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Autordisability.mp3" length="29717052" type="audio/mpeg" />
+<itunes:duration>01:01:45</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Burkhauser on the Middle Class</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 09 Apr 2012 06:30:00 EST</pubDate>
+<description>Richard Burkhauser of Cornell University talks with EconTalk host Russ Roberts about the state of the middle class. Drawing on recently published papers, Burkhauser shows that changes in the standard of living of the middle class and other parts of the income distribution are extremely sensitive to various assumptions about how income is defined as well as whether you look at tax units or households. He shows that under one set of assumptions, there has been no change in median income, but under a different and equally reasonable set of assumptions, median income has grown 36%. Burkhauser explains how different assumptions can lead to such different results and argues that the assumptions that lead to the larger growth figure are more appropriate for capturing what has happened over the last 40 years than those that suggest stagnation.</description>
+<itunes:summary>Richard Burkhauser of Cornell University talks with EconTalk host Russ Roberts about the state of the middle class. Drawing on recently published papers, Burkhauser shows that changes in the standard of living of the middle class and other parts of the income distribution are extremely sensitive to various assumptions about how income is defined as well as whether you look at tax units or households. He shows that under one set of assumptions, there has been no change in median income, but under a different and equally reasonable set of assumptions, median income has grown 36%. Burkhauser explains how different assumptions can lead to such different results and argues that the assumptions that lead to the larger growth figure are more appropriate for capturing what has happened over the last 40 years than those that suggest stagnation.</itunes:summary>
+<itunes:subtitle>Richard Burkhauser talks with host Russ Roberts about the state of the middle class. Drawing on recently published papers, Burkhauser shows that changes in the standard of living of the middle class and other parts of the income distribution are extremely sensitive to various assumptions about how income is defined as well as whether you look at tax units or households. He shows that under one set of assumptions, there has been no change in median income, but under a different and equally reasonable set of assumptions, median income has grown 36%. Burkhauser explains how different assumptions can lead to such different results and argues that the assumptions that lead to the larger growth figure are more appropriate for capturing what has happened over the last 40 years than those that suggest stagnation.</itunes:subtitle>
+<itunes:keywords>economics, Richard Burkhauser, standard of living, income inequality, growth, government policy, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Burkhausermiddleclass.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Burkhausermiddleclass.mp3" length="33379441" type="audio/mpeg" />
+<itunes:duration>01:09:23</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Eugene White on Bank Regulation</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 02 Apr 2012 06:30:00 EST</pubDate>
+<description>Eugene White of Rutgers University talks with EconTalk host Russ Roberts about the regulation of banks and financial crises. White argues that most regulation tries to limit the choices of banks to restrain them from making choices that create instability or fragility. A better approach, White argues, is to change the incentives facing bankers so that they would be encouraged to make prudent choices without the need for top-down monitoring. He shows how in the 19th century various regulations and market results encouraged stability and prudence while some regulations made the system more fragile. White discusses the lessons for the current crisis and what might be done to improve the current state of regulation.</description>
+<itunes:summary>Eugene White of Rutgers University talks with EconTalk host Russ Roberts about the regulation of banks and financial crises. White argues that most regulation tries to limit the choices of banks to restrain them from making choices that create instability or fragility. A better approach, White argues, is to change the incentives facing bankers so that they would be encouraged to make prudent choices without the need for top-down monitoring. He shows how in the 19th century various regulations and market results encouraged stability and prudence while some regulations made the system more fragile. White discusses the lessons for the current crisis and what might be done to improve the current state of regulation.</itunes:summary>
+<itunes:subtitle>Eugene White talks with host Russ Roberts about the regulation of banks and financial crises. He argues that most regulation tries to limit the choices of banks to restrain them from making choices that create instability or fragility. A better approach, he argues, is to change the incentives facing bankers so that they would be encouraged to make prudent choices without the need for top-down monitoring. He shows how in the 19th century various regulations and market results encouraged stability and prudence while some regulations made the system more fragile. White discusses the lessons for the current crisis and what might be done to improve the current state of regulation.</itunes:subtitle>
+<itunes:keywords>economics, Eugene White, finance, banking, Federal Reserve, monetary policy, financial crisis, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/WhiteEbanking.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/WhiteEbanking.mp3" length="29033086" type="audio/mpeg" />
+<itunes:duration>01:00:20</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Boudreaux on Public Debt</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 26 Mar 2012 06:30:00 EST</pubDate>
+<description>Don Boudreaux of George Mason University talks with EconTalk host Russ Roberts about the nature of public debt. One view is that there is no burden of the public debt as long as the purchasers of U.S. debt are fellow Americans. In that case, the argument goes, we owe it to ourselves. Drawing on the work of James Buchanan, particularly his book Public Principles of Public Debt: A Defense and Restatement, Boudreaux argues that there is a burden of the debt and it is borne by future taxpayers. Boudreaux argues that all public expenditures have a cost--the different financing mechanisms simply determine who bears the burden of that cost. Boudreaux discusses the political attractiveness of debt finance because the taxes lie in the future and those who will pay for them may not be clearly identified. The conversation closes with a discussion of the role of expectations in both politics and economics of debt finance.</description>
+<itunes:summary>Don Boudreaux of George Mason University talks with EconTalk host Russ Roberts about the nature of public debt. One view is that there is no burden of the public debt as long as the purchasers of U.S. debt are fellow Americans. In that case, the argument goes, we owe it to ourselves. Drawing on the work of James Buchanan, particularly his book Public Principles of Public Debt: A Defense and Restatement, Boudreaux argues that there is a burden of the debt and it is borne by future taxpayers. Boudreaux argues that all public expenditures have a cost--the different financing mechanisms simply determine who bears the burden of that cost. Boudreaux discusses the political attractiveness of debt finance because the taxes lie in the future and those who will pay for them may not be clearly identified. The conversation closes with a discussion of the role of expectations in both politics and economics of debt finance.</itunes:summary>
+<itunes:subtitle>Don Boudreaux talks with host Russ Roberts about the nature of public debt. One view is that there is no burden of the public debt as long as the purchasers of U.S. debt are fellow Americans. In that case, the argument goes, we owe it to ourselves. Drawing on the work of James Buchanan, particularly his book Public Principles of Public Debt: A Defense and Restatement, Boudreaux argues that there is a burden of the debt and it is borne by future taxpayers. Boudreaux argues that all public expenditures have a cost--the different financing mechanisms simply determine who bears the burden of that cost. Boudreaux discusses the political attractiveness of debt finance because the taxes lie in the future and those who will pay for them may not be clearly identified. The conversation closes with a discussion of the role of expectations in both politics and economics of debt finance.</itunes:subtitle>
+<itunes:keywords>economics, Don Boudreaux, burden of the debt, government finance, taxes, future generations, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Boudreauxpublicdebt.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Boudreauxpublicdebt.mp3" length="40447119" type="audio/mpeg" />
+<itunes:duration>01:24:06</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Acemoglu on Why Nations Fail</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 19 Mar 2012 06:30:00 EST</pubDate>
+<description>Daron Acemoglu of MIT and author (with James Robinson) of Why Nations Fail talks with EconTalk host Russ Roberts about the ideas in his book: why some nations fail and others succeed, why some nations grow over time and sustain that growth, while others grow and then stagnate.  Acemoglu draws on an exceptionally rich set of examples over space and time to argue that differences in institutions--political governance and the inclusiveness of the political and economic system--explain the differences in economics success across nations and over time. Acemoglu also discusses how institutions evolve and the critical role institutional change plays in economic success or failure. Along the way, he explains why previous explanations for national economic success are inadequate. The conversation closes with a discussion of the implications of the arguments for foreign aid and attempts by the wealthy nations to help nations that are poor.</description>
+<itunes:summary>Daron Acemoglu of MIT and author (with James Robinson) of Why Nations Fail talks with EconTalk host Russ Roberts about the ideas in his book: why some nations fail and others succeed, why some nations grow over time and sustain that growth, while others grow and then stagnate.  Acemoglu draws on an exceptionally rich set of examples over space and time to argue that differences in institutions--political governance and the inclusiveness of the political and economic system--explain the differences in economics success across nations and over time. Acemoglu also discusses how institutions evolve and the critical role institutional change plays in economic success or failure. Along the way, he explains why previous explanations for national economic success are inadequate. The conversation closes with a discussion of the implications of the arguments for foreign aid and attempts by the wealthy nations to help nations that are poor.</itunes:summary>
+<itunes:subtitle>Daron Acemoglu talks with host Russ Roberts about the ideas in his book, Why Nations Fail: why some nations fail and others succeed, why some nations grow and sustain growth while others grow and then stagnate.  He argues that differences in institutions--political governance and the inclusiveness of the political and economic system--explain the differences in economics success across nations and over time. Acemoglu also discusses how institutions evolve and the critical role institutional change plays in economic success or failure. Along the way, he explains why previous explanations for national economic success are inadequate. The conversation closes with a discussion of the implications of the arguments for foreign aid and attempts by the wealthy nations to help nations that are poor.</itunes:subtitle>
+<itunes:keywords>economics, Daron Acemoglu, poverty, economic growth, political systems, institutions, international comparisons, foreign aid, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Acemoglunations.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Acemoglunations.mp3" length="27277442" type="audio/mpeg" />
+<itunes:duration>56:40</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Derman on Theories, Models, and Science</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 12 Mar 2012 06:30:00 EST</pubDate>
+<description>Emanuel Derman of Columbia University and author of Models. Behaving. Badly talks with EconTalk host Russ Roberts about theories and models, and the elusive nature of truth in the sciences and social sciences. Derman, a former physicist and Goldman Sachs quant, contrasts the search for truth in the sciences with the search for truth in finance and economics. He critiques attempts to make finance more scientific and applies those insights to the financial crisis. The conversation closes with a discussion of career advice for those aspiring to work in quantitative finance.</description>
+<itunes:summary>Emanuel Derman of Columbia University and author of Models. Behaving. Badly talks with EconTalk host Russ Roberts about theories and models, and the elusive nature of truth in the sciences and social sciences. Derman, a former physicist and Goldman Sachs quant, contrasts the search for truth in the sciences with the search for truth in finance and economics. He critiques attempts to make finance more scientific and applies those insights to the financial crisis. The conversation closes with a discussion of career advice for those aspiring to work in quantitative finance.</itunes:summary>
+<itunes:subtitle>Emanuel Derman of Columbia University and author of Models. Behaving. Badly talks with EconTalk host Russ Roberts about theories and models, and the elusive nature of truth in the sciences and social sciences. Derman, a former physicist and Goldman Sachs quant, contrasts the search for truth in the sciences with the search for truth in finance and economics. He critiques attempts to make finance more scientific and applies those insights to the financial crisis. The conversation closes with a discussion of career advice for those aspiring to work in quantitative finance.</itunes:subtitle>
+<itunes:keywords>economics, Emanuel Derman, finance, social sciences, truth, scientific, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Dermantheories.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Dermantheories.mp3" length="28635622" type="audio/mpeg" />
+<itunes:duration>59:30</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Calomiris on Capital Requirements, Leverage, and Financial Regulation</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 05 Mar 2012 06:30:00 EST</pubDate>
+<description>Charles Calomiris of Columbia University talks with EconTalk host Russ Roberts about corporate debt, capital requirements, and financial regulation. This is an in-depth conversation about how debt works on a firm's balance sheet and the risks that debt vs. equity pose for the survival of the firm. Calomiris applies these insights to financial regulation--how it works in practice and the firm's choices in responding to various interventions including bailouts and capital requirements. The conversation closes with a discussion of some of the government interventions in the financial crisis.</description>
+<itunes:summary>Charles Calomiris of Columbia University talks with EconTalk host Russ Roberts about corporate debt, capital requirements, and financial regulation. This is an in-depth conversation about how debt works on a firm's balance sheet and the risks that debt vs. equity pose for the survival of the firm. Calomiris applies these insights to financial regulation--how it works in practice and the firm's choices in responding to various interventions including bailouts and capital requirements. The conversation closes with a discussion of some of the government interventions in the financial crisis.</itunes:summary>
+<itunes:subtitle>Charles Calomiris talks with host Russ Roberts about corporate debt, capital requirements, and financial regulation. This is an in-depth conversation about how debt works on a firm's balance sheet and the risks that debt vs. equity pose for the survival of the firm. Calomiris applies these insights to financial regulation--how it works in practice and the firm's choices in responding to various interventions including bailouts and capital requirements. The conversation closes with a discussion of some of the government interventions in the financial crisis.</itunes:subtitle>
+<itunes:keywords>economics, Charles Calomiris, balance sheets, corporate debt, financial crisis, equity, bailouts, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Calomirisleverage.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Calomirisleverage.mp3" length="41968998" type="audio/mpeg" />
+<itunes:duration>1:27:17</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Weinberger on Too Big to Know</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 27 Feb 2012 06:30:00 EST</pubDate>
+<description>David Weinberger of Harvard University's Berkman Center for Internet &amp; Society and author of Too Big to Know, talks with EconTalk host Russ Roberts about the ideas in the book--how knowledge and data and our understanding of the world around us are being changed by the internet. Weinberger discusses knowledge and how it is attained have changed over time, particularly with the advent of the internet. He argues the internet has dispersed the power of authority and expertise. And he discusses whether the internet is making us smarter or stupider, and the costs and benefits of being able to tailor information to one's own interests and biases.</description>
+<itunes:summary>David Weinberger of Harvard University's Berkman Center for Internet &amp; Society and author of Too Big to Know, talks with EconTalk host Russ Roberts about the ideas in the book--how knowledge and data and our understanding of the world around us are being changed by the internet. Weinberger discusses knowledge and how it is attained have changed over time, particularly with the advent of the internet. He argues the internet has dispersed the power of authority and expertise. And he discusses whether the internet is making us smarter or stupider, and the costs and benefits of being able to tailor information to one's own interests and biases.</itunes:summary>
+<itunes:subtitle>David Weinberger talks with EconTalk host Russ Roberts about the ideas in the book--how knowledge and data and our understanding of the world around us are being changed by the internet. He argues the internet has dispersed the power of authority and expertise. And he discusses whether the internet is making us smarter or stupider, and the costs and benefits of being able to tailor information to one's own interests and biases.</itunes:subtitle>
+<itunes:keywords>economics, David Weinberger, internet, information, power, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Weinbergerinternet.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Weinbergerinternet.mp3" length="30507224" type="audio/mpeg" />
+<itunes:duration>1:03:24</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Adam Davidson on Manufacturing</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 20 Feb 2012 06:30:00 EST</pubDate>
+<description>Adam Davidson of NPR's Planet Money talks with EconTalk host Russ Roberts about manufacturing. Based on an article Davidson wrote for The Atlantic, the conversation looks at the past, present, and future of manufacturing. Davidson visited an after-market auto parts factory in Greenville, South Carolina and talked with employees there as well as with executives at corporate headquarters. What is the future of factory work in America? Why are some manufacturing jobs in America while others are in China or elsewhere? The conversation looks at these questions as well as how well or poorly the U.S. education system prepares students for the world of work.</description>
+<itunes:summary>Adam Davidson of NPR's Planet Money talks with EconTalk host Russ Roberts about manufacturing. Based on an article Davidson wrote for The Atlantic, the conversation looks at the past, present, and future of manufacturing. Davidson visited an after-market auto parts factory in Greenville, South Carolina and talked with employees there as well as with executives at corporate headquarters. What is the future of factory work in America? Why are some manufacturing jobs in America while others are in China or elsewhere? The conversation looks at these questions as well as how well or poorly the U.S. education system prepares students for the world of work.</itunes:summary>
+<itunes:subtitle>Adam Davidson of NPR's Planet Money talks with host Russ Roberts about manufacturing. He looks at the past, present, and future of manufacturing. Davidson visited an after-market auto parts factory in Greenville, SC and talked with employees there as well as with executives at corporate headquarters. What is the future of factory work in America? Why are some manufacturing jobs in America while others are in China or elsewhere? The conversation looks at these questions as well as how well or poorly the U.S. education system prepares students for the world of work.</itunes:subtitle>
+<itunes:keywords>economics, Adam Davidson, jobs, planet money, industry, factories, China, education, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Davidsonmanufacturing.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Davidsonmanufacturing.mp3" length="34549100" type="audio/mpeg" />
+<itunes:duration>1:11:49</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>David Owen on the Environment, Unintended Consequences, and The Conundrum</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 13 Feb 2012 06:30:00 EST</pubDate>
+<description>David Owen of the New Yorker and author of The Conundrum talks with EconTalk host Russ Roberts about the ideas in his book. Owen argues that innovation and energy innovation have increased energy use rather than reduced it and similarly, other seemingly green changes do little to help the reduce humanity's carbon footprint or are actually counter-productive. Only large reductions in consumption are likely to matter and that prescription is unappealing to most people. Owen points out that New York City, ironically perhaps, is one of the greenest places to live because of the efficiencies of density. The conversation concludes with a discussion of how to best approach global warming given these seeming realities.</description>
+<itunes:summary>David Owen of the New Yorker and author of The Conundrum talks with EconTalk host Russ Roberts about the ideas in his book. Owen argues that innovation and energy innovation have increased energy use rather than reduced it and similarly, other seemingly green changes do little to help the reduce humanity's carbon footprint or are actually counter-productive. Only large reductions in consumption are likely to matter and that prescription is unappealing to most people. Owen points out that New York City, ironically perhaps, is one of the greenest places to live because of the efficiencies of density. The conversation concludes with a discussion of how to best approach global warming given these seeming realities.</itunes:summary>
+<itunes:subtitle>Author David Owen talks with host Russ Roberts about the ideas in his book. He argues that innovation and energy innovation have increased energy use rather than reduced it, and other seemingly green changes do little to help the reduce humanity's carbon footprint or are actually counter-productive. Only large reductions in consumption are likely to matter and that prescription is unappealing to most people. Owen points out that New York City, ironically perhaps, is one of the greenest places to live because of the efficiencies of density. The conversation concludes with a discussion of how to best approach global warming given these seeming realities.</itunes:subtitle>
+<itunes:keywords>economics, David Owen, global warming, energy use, carbon footprint, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Owenenvironment.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Owenenvironment.mp3" length="34072921" type="audio/mpeg" />
+<itunes:duration>01:10:50</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>William Black on Financial Fraud</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 06 Feb 2012 06:30:00 EST</pubDate>
+<description>William Black of University of Missouri-Kansas City and author of The Best Way to Rob a Bank Is to Own One, talks with EconTalk host Russ Roberts about financial fraud, starting with the Savings and Loan debacle up through the current financial crisis. Black explains how bank executives can use fraudulent loans to inflate the size of their bank in order to justify large compensation packages. He argues that "liar loans" were a major part of the crisis and that policy changes made it easy to generate such loans without criminal repercussions.</description>
+<itunes:summary>William Black of University of Missouri-Kansas City and author of The Best Way to Rob a Bank Is to Own One, talks with EconTalk host Russ Roberts about financial fraud, starting with the Savings and Loan debacle up through the current financial crisis. Black explains how bank executives can use fraudulent loans to inflate the size of their bank in order to justify large compensation packages. He argues that "liar loans" were a major part of the crisis and that policy changes made it easy to generate such loans without criminal repercussions.</itunes:summary>
+<itunes:subtitle>William Black talks with host Russ Roberts about financial fraud, starting with the Savings &amp; Loan debacle up through the current financial crisis. Black explains how bank executives can use fraudulent loans to inflate the size of their bank in order to justify large compensation packages. He argues that "liar loans" were a major part of the crisis and that policy changes made it easy to generate such loans without criminal repercussions</itunes:subtitle>
+<itunes:keywords>economics, William Black, crisis, liar loans, banks, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Blackfinancialfraud.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Blackfinancialfraud.mp3" length="39654475" type="audio/mpeg" />
+<itunes:duration>1:22:27</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Fama on Finance</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 30 Jan 2012 06:30:00 EST</pubDate>
+<description>Eugene Fama of the University of Chicago talks with EconTalk host Russ Roberts about the evolution of finance, the efficient market hypothesis, the current crisis, the economics of stimulus, and the role of empirical work in finance and economics.</description>
+<itunes:summary>Eugene Fama of the University of Chicago talks with EconTalk host Russ Roberts about the evolution of finance, the efficient market hypothesis, the current crisis, the economics of stimulus, and the role of empirical work in finance and economics.</itunes:summary>
+<itunes:subtitle>Eugene Fama talks with host Russ Roberts about the evolution of finance, the efficient market hypothesis, the current crisis, the economics of stimulus, and the role of empirical work in finance and economics.</itunes:subtitle>
+<itunes:keywords>economics, Eugene Fama, financial crisis, efficient markets, stimulus, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Famafinance.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Famafinance.mp3" length="29647872" type="audio/mpeg" />
+<itunes:duration>1:01:37</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>David Rose on the Moral Foundations of Economic Behavior</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 23 Jan 2012 06:30:00 EST</pubDate>
+<description>David Rose of the University of Missouri, St. Louis and the author of The Moral Foundation of Economic Behavior talks with EconTalk host Russ Roberts about the book and the role morality plays in prosperity. Rose argues that morality plays a crucial role in prosperity and economic development. Knowing that the people you trade with have a principled aversion to exploiting opportunities for cheating in dealing with others allows economic actors to trust one another. That in turn allows for the widespread specialization and interaction through markets with strangers that creates prosperity. In this conversation, Rose explores the nature of the principles that work best to engender trust. The conversation closes with a discussion of the current trend in morality in America and the implications for trust and prosperity.</description>
+<itunes:summary>David Rose of the University of Missouri, St. Louis and the author of The Moral Foundation of Economic Behavior talks with EconTalk host Russ Roberts about the book and the role morality plays in prosperity. Rose argues that morality plays a crucial role in prosperity and economic development. Knowing that the people you trade with have a principled aversion to exploiting opportunities for cheating in dealing with others allows economic actors to trust one another. That in turn allows for the widespread specialization and interaction through markets with strangers that creates prosperity. In this conversation, Rose explores the nature of the principles that work best to engender trust. The conversation closes with a discussion of the current trend in morality in America and the implications for trust and prosperity.</itunes:summary>
+<itunes:subtitle>David Rose, author of The Moral Foundation of Economic Behavior, talks with host Russ Roberts about the book and the role morality plays in prosperity. Knowing that the people you trade with have a principled aversion to exploiting opportunities for cheating in dealing with others allows economic actors to trust one another. That in turn allows for the widespread specialization and interaction through markets with strangers that creates prosperity. In this conversation, Rose explores the nature of the principles that work best to engender trust. The conversation closes with a discussion of the current trend in morality in America and the implications for trust and prosperity.</itunes:subtitle>
+<itunes:keywords>economics, David Rose, prosperity, specialization, morality, trust, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/RoseDmoral.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/RoseDmoral.mp3" length="34422928" type="audio/mpeg" />
+<itunes:duration>1:11:33</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Taleb on Antifragility</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 16 Jan 2012 06:30:00 EST</pubDate>
+<description>Nassim Taleb, author of Fooled By Randomness and The Black Swan, talks with EconTalk host Russ Roberts about antifragility, the concept behind Taleb's next book, a work in progress. Taleb talks about how we can cope with our ignorance and uncertainty in a complex world. Topics covered include health, finance, political systems, the Fed, your career, Seneca, shame, heroism, and a few more.</description>
+<itunes:summary>Nassim Taleb, author of Fooled By Randomness and The Black Swan, talks with EconTalk host Russ Roberts about antifragility, the concept behind Taleb's next book, a work in progress. Taleb talks about how we can cope with our ignorance and uncertainty in a complex world. Topics covered include health, finance, political systems, the Fed, your career, Seneca, shame, heroism, and a few more.</itunes:summary>
+<itunes:subtitle>Nassim Taleb, author of Fooled By Randomness and The Black Swan, talks with EconTalk host Russ Roberts about antifragility, the concept behind Taleb's next book, a work in progress. Taleb talks about how we can cope with our ignorance and uncertainty in a complex world. Topics covered include health, finance, political systems, the Fed, your career, Seneca, shame, heroism, and a few more.</itunes:subtitle>
+<itunes:keywords>economics, Nassim Taleb, uncertainty, health care, finance, political systems, black swan, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Talebantifragility.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Talebantifragility.mp3" length="35566815" type="audio/mpeg" />
+<itunes:duration>1:13:56</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Dean Baker on the Crisis</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 09 Jan 2012 06:30:00 EST</pubDate>
+<description>Dean Baker of the Center for Economic Policy and Research talks with EconTalk host Russ Roberts about the financial crisis. Baker sees the crisis as part of a broader set of phenomena--rising inequality and declining unionization. Baker is highly critical on both economic and political grounds of the policy attempts to stimulate the economy as well as the governance structure of the Federal Reserve. The conversation closes with a discussion of potential innovations to lower the budgetary cost of health care.</description>
+<itunes:summary>Dean Baker of the Center for Economic Policy and Research talks with EconTalk host Russ Roberts about the financial crisis. Baker sees the crisis as part of a broader set of phenomena--rising inequality and declining unionization. Baker is highly critical on both economic and political grounds of the policy attempts to stimulate the economy as well as the governance structure of the Federal Reserve. The conversation closes with a discussion of potential innovations to lower the budgetary cost of health care.</itunes:summary>
+<itunes:subtitle>Dean Baker talks with host Russ Roberts about the financial crisis. Baker sees the crisis as part of a broader set of phenomena--rising inequality and declining unionization. Baker is highly critical on both economic and political grounds of the policy attempts to stimulate the economy as well as the governance structure of the Federal Reserve. The conversation closes with a discussion of potential innovations to lower the budgetary cost of health care.</itunes:subtitle>
+<itunes:keywords>economics, Dean Baker, financial crisis, recession, inequality, unions, monetary policy, fiscal stimulus, federal reserve, health care, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Bakerfinancial.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Bakerfinancial.mp3" length="30708670" type="audio/mpeg" />
+<itunes:duration>01:03:49</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+<item>
+<title>Sumner on Money and the Fed</title>
+<itunes:author>EconTalk: Russ Roberts</itunes:author>
+<pubDate>Mon, 02 Jan 2012 06:30:00 EST</pubDate>
+<description>Scott Sumner of Bentley University and the blog The Money Illusion talks with EconTalk host Russ Roberts about the state of monetary policy, the actions of the Federal Reserve over the past two years and the state of the economy. Sumner argues that monetary policy has been too tight and helped create the crisis. He disputes the relevance of the so-called liquidity trap and argues that aggressive monetary policy is both possible and desirable. The conversation closes with a discussion of what we have learned and failed to learn during the crisis.</description>
+<itunes:summary>Scott Sumner of Bentley University and the blog The Money Illusion talks with EconTalk host Russ Roberts about the state of monetary policy, the actions of the Federal Reserve over the past two years and the state of the economy. Sumner argues that monetary policy has been too tight and helped create the crisis. He disputes the relevance of the so-called liquidity trap and argues that aggressive monetary policy is both possible and desirable. The conversation closes with a discussion of what we have learned and failed to learn during the crisis.</itunes:summary>
+<itunes:subtitle>Scott Sumner talks with host Russ Roberts about monetary policy, the actions of the Federal Reserve over the past two years and the economy. Sumner argues that monetary policy has been too tight and helped create the crisis. He disputes the relevance of the liquidity trap and argues that aggressive monetary policy is both possible and desirable. The conversation closes with a discussion of what we have learned and failed to learn during the crisis.</itunes:subtitle>
+<itunes:keywords>economics, Scott Sumner, monetary policy, federal reserve, liquidity trap, recession, econlib</itunes:keywords>
+<guid>http://files.libertyfund.org/econtalk/y2012/Sumnerfederalreserve.mp3</guid>
+<enclosure url="http://files.libertyfund.org/econtalk/y2012/Sumnerfederalreserve.mp3" length="32139977" type="audio/mpeg" />
+<itunes:duration>01:06:48</itunes:duration> 
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+</channel>
+</rss>
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wait Wait... Don't Tell Me!</title>
+    <link>http://www.npr.org/programs/wait-wait-dont-tell-me/</link>
+    <description><![CDATA[NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.]]></description>
+    <copyright>2014 NPR</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en</language>
+    <itunes:new-feed-url>https://www.npr.org/rss/podcast.php?id=344098539</itunes:new-feed-url>
+    <itunes:summary><![CDATA[NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.]]></itunes:summary>
+    <itunes:author>NPR</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Games &amp; Hobbies"/>
+    <itunes:category text="Other Games"/>
+    <itunes:image href="https://media.npr.org/images/podcasts/primary/icon_344098539-f089cf02094b52708d0979b026a157aa5a1e3ac1.jpg?s=1400"/>
+    <image>
+      <url>https://media.npr.org/images/podcasts/primary/icon_344098539-f089cf02094b52708d0979b026a157aa5a1e3ac1.jpg?s=200</url>
+      <title>Wait Wait... Don't Tell Me!</title>
+      <link>http://www.npr.org/programs/wait-wait-dont-tell-me/</link>
+    </image>
+    <lastBuildDate>Sat, 31 Mar 2018 12:00:04 -0400</lastBuildDate>
+    <item>
+      <title>Best of Not My Job</title>
+      <description><![CDATA[It's Spring Break, so we are offering some past segments featuring Daniel Handler, Michael Giacchino, Ben Sasse, and Joe Buck.]]></description>
+      <pubDate>Sat, 31 Mar 2018 12:00:04 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>f0317d42-1d3d-45d9-a2e6-49246ed1062a</guid>
+      <itunes:title>Best of Not My Job</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It's Spring Break, so we are offering some past segments featuring Daniel Handler, Michael Giacchino, Ben Sasse, and Joe Buck.]]></itunes:summary>
+      <itunes:duration>2933</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[It's Spring Break, so we are offering some past segments featuring Daniel Handler, Michael Giacchino, Ben Sasse, and Joe Buck.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/03/20180331_waitwait_wwdtmpodcast180331.mp3?orgId=1&amp;d=2933&amp;p=344098539&amp;story=598432709&amp;t=podcast&amp;e=598432709&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>LeVar Burton</title>
+      <description><![CDATA[LeVar Burton, actor, joins us along with panelists Amy Dickinson, Adam Burke, and Rashawn Scott.]]></description>
+      <pubDate>Sat, 24 Mar 2018 12:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>b11f0d6b-8e11-4181-b207-abf955f4f4cf</guid>
+      <itunes:title>LeVar Burton</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[LeVar Burton, actor, joins us along with panelists Amy Dickinson, Adam Burke, and Rashawn Scott.]]></itunes:summary>
+      <itunes:duration>2968</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[LeVar Burton, actor, joins us along with panelists Amy Dickinson, Adam Burke, and Rashawn Scott.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/03/20180324_waitwait_wwdtmpodcast180324.mp3?orgId=1&amp;d=2968&amp;p=344098539&amp;story=596601638&amp;t=podcast&amp;e=596601638&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tom Brady</title>
+      <description><![CDATA[Tom Brady, quarterback for the New England Patriots, joins us along with panelists Helen Hong, Mo Rocca, and Tom Bodett.]]></description>
+      <pubDate>Sat, 17 Mar 2018 12:00:11 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>272d3e91-a095-4323-8e25-58b0fce96903</guid>
+      <itunes:title>Tom Brady</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Tom Brady, quarterback for the New England Patriots, joins us along with panelists Helen Hong, Mo Rocca, and Tom Bodett.]]></itunes:summary>
+      <itunes:duration>2921</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Tom Brady, quarterback for the New England Patriots, joins us along with panelists Helen Hong, Mo Rocca, and Tom Bodett.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/03/20180317_waitwait_wwdtmpodcast180317.mp3?orgId=1&amp;d=2921&amp;p=344098539&amp;story=594499630&amp;t=podcast&amp;e=594499630&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Austan Goolsbee</title>
+      <description><![CDATA[Austan Goolsbee, American economist, joins us along with panelists Faith Salie, Alonzo Bodden, and Tara Clancy.]]></description>
+      <pubDate>Sat, 10 Mar 2018 12:00:05 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>9551cc53-eb24-4cd3-a83d-65816ee81cf1</guid>
+      <itunes:title>Austan Goolsbee</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Austan Goolsbee, American economist, joins us along with panelists Faith Salie, Alonzo Bodden, and Tara Clancy.]]></itunes:summary>
+      <itunes:duration>2926</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Austan Goolsbee, American economist, joins us along with panelists Faith Salie, Alonzo Bodden, and Tara Clancy.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/03/20180310_waitwait_wwdtmpodcast180310.mp3?orgId=1&amp;d=2926&amp;p=344098539&amp;story=592521335&amp;t=podcast&amp;e=592521335&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jessie Diggins</title>
+      <description><![CDATA[Jessie Diggins, Olympic Gold Medalist in Cross Country Skiing, joins us along with Paula Poundstone, Luke Burbank, and Rozanne Robertsm]]></description>
+      <pubDate>Sat, 03 Mar 2018 12:00:01 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>d35f57d4-58d6-4c29-8d9c-f155c7e4db41</guid>
+      <itunes:title>Jessie Diggins</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Jessie Diggins, Olympic Gold Medalist in Cross Country Skiing, joins us along with Paula Poundstone, Luke Burbank, and Rozanne Robertsm]]></itunes:summary>
+      <itunes:duration>2961</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Jessie Diggins, Olympic Gold Medalist in Cross Country Skiing, joins us along with Paula Poundstone, Luke Burbank, and Rozanne Robertsm]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/03/20180303_waitwait_wwdtmpodcast180303.mp3?orgId=1&amp;d=2961&amp;p=344098539&amp;story=590484089&amp;t=podcast&amp;e=590484089&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Best of Wait Wait: Oscar Preview Edition</title>
+      <description><![CDATA[This week, with the Oscars one week away, we play some of our favorite recent interviews with movie makers, Oscar nominees and a children's book author.]]></description>
+      <pubDate>Sat, 24 Feb 2018 12:00:24 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>8a2c56ec-86ea-44e2-a7df-37d1224b15ca</guid>
+      <itunes:title>Best of Wait Wait: Oscar Preview Edition</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, with the Oscars one week away, we play some of our favorite recent interviews with movie makers, Oscar nominees and a children's book author.]]></itunes:summary>
+      <itunes:duration>2999</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[This week, with the Oscars one week away, we play some of our favorite recent interviews with movie makers, Oscar nominees and a children's book author.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-mp3/npr/waitwait/2018/02/20180224_waitwait_wwdtm_podcast_180224.mp3?orgId=1&amp;d=2999&amp;p=344098539&amp;story=588467676&amp;t=podcast&amp;e=588467676&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>David Duchovny</title>
+      <description><![CDATA[David Duchovny, actor, joins us along with panelists Faith Salie, Mo Rocca, and Liz Miele.]]></description>
+      <pubDate>Sat, 17 Feb 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>9c884b92-3c03-450c-9fc4-45f5b85a36c4</guid>
+      <itunes:title>David Duchovny</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[David Duchovny, actor, joins us along with panelists Faith Salie, Mo Rocca, and Liz Miele.]]></itunes:summary>
+      <itunes:duration>2885</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[David Duchovny, actor, joins us along with panelists Faith Salie, Mo Rocca, and Liz Miele.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/02/20180217_waitwait_wwdtmpodcast180217-696b28c6-16a2-4e29-84f8-c56942d25740.mp3?orgId=1&amp;d=2885&amp;p=344098539&amp;story=586718296&amp;t=podcast&amp;e=586718296&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Peter Buttigieg</title>
+      <description><![CDATA[Peter Buttigieg joins us along with panelists Adam Felber, Amy Dickinson, and Hari Kondabolu.]]></description>
+      <pubDate>Sat, 10 Feb 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>fa6eb56e-53e7-4dfe-a75d-9967dbfce3ab</guid>
+      <itunes:title>Peter Buttigieg</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Peter Buttigieg joins us along with panelists Adam Felber, Amy Dickinson, and Hari Kondabolu.]]></itunes:summary>
+      <itunes:duration>2847</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Peter Buttigieg joins us along with panelists Adam Felber, Amy Dickinson, and Hari Kondabolu.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/02/20180210_waitwait_wwdtmpodcast180210-ac4d6872-fd53-47a9-a4c5-415b43c3e67f.mp3?orgId=1&amp;d=2847&amp;p=344098539&amp;story=584701960&amp;t=podcast&amp;e=584701960&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dr. Michael Rosbash</title>
+      <description><![CDATA[Dr. Michael Rosbash, a 2017 Nobel Prize winner in Medicine, joins us along with panelists Paula Poundstone, Tom Bodett, and Helen Hong.]]></description>
+      <pubDate>Sat, 03 Feb 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>04881a61-ff88-4afb-9de3-e59ab2c0f72e</guid>
+      <itunes:title>Dr. Michael Rosbash</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Dr. Michael Rosbash, a 2017 Nobel Prize winner in Medicine, joins us along with panelists Paula Poundstone, Tom Bodett, and Helen Hong.]]></itunes:summary>
+      <itunes:duration>2893</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Dr. Michael Rosbash, a 2017 Nobel Prize winner in Medicine, joins us along with panelists Paula Poundstone, Tom Bodett, and Helen Hong.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/02/20180203_waitwait_wwdtmpodcast180203-2d7a26ba-5333-4dc9-ad3b-d79b93b47783.mp3?orgId=1&amp;d=2893&amp;p=344098539&amp;story=582925912&amp;t=podcast&amp;e=582925912&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Krysten Ritter</title>
+      <description><![CDATA[Krysten Ritter, actress/author, joins us along with panelists Faith Salie, Peter Grosz, and Bim Adewunmi.]]></description>
+      <pubDate>Sat, 27 Jan 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>2c814489-e09c-4bee-a5dd-2a7fbeec991c</guid>
+      <itunes:title>Krysten Ritter</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Krysten Ritter, actress/author, joins us along with panelists Faith Salie, Peter Grosz, and Bim Adewunmi.]]></itunes:summary>
+      <itunes:duration>2924</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Krysten Ritter, actress/author, joins us along with panelists Faith Salie, Peter Grosz, and Bim Adewunmi.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/01/20180127_waitwait_wwdtmpodcast180127-f19033fb-8979-4377-ba33-12cfeccbb4c2.mp3?orgId=1&amp;d=2924&amp;p=344098539&amp;story=581217568&amp;t=podcast&amp;e=581217568&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Al Roker</title>
+      <description><![CDATA[Al Roker joins us along with panelists Paula Poundstone, Mo Rocca, and Alonzo Bodden.]]></description>
+      <pubDate>Sat, 20 Jan 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>3f19462d-8543-4730-87a7-a8f239fb0e32</guid>
+      <itunes:title>Al Roker</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Al Roker joins us along with panelists Paula Poundstone, Mo Rocca, and Alonzo Bodden.]]></itunes:summary>
+      <itunes:duration>2887</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Al Roker joins us along with panelists Paula Poundstone, Mo Rocca, and Alonzo Bodden.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/01/20180120_waitwait_wwdtmpodcast180120-07d3cb08-bb57-4d76-a99c-2e7feb9e9319.mp3?orgId=1&amp;d=2887&amp;p=344098539&amp;story=579299708&amp;t=podcast&amp;e=579299708&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rian Johnson</title>
+      <description><![CDATA[Rian Johnson, writer and director of The Last Jedi, joins us along with panelists Roy Blount, Jr., Helen Hong, and Adam Felber.]]></description>
+      <pubDate>Sat, 13 Jan 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>6e4130bc-0424-40a0-a879-b8bcde9dce38</guid>
+      <itunes:title>Rian Johnson</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Rian Johnson, writer and director of The Last Jedi, joins us along with panelists Roy Blount, Jr., Helen Hong, and Adam Felber.]]></itunes:summary>
+      <itunes:duration>2920</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Rian Johnson, writer and director of The Last Jedi, joins us along with panelists Roy Blount, Jr., Helen Hong, and Adam Felber.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/01/20180113_waitwait_wwdtmpodcast180113-74786bb7-136a-4a35-817e-67669cd0ea1c.mp3?orgId=1&amp;d=2920&amp;p=344098539&amp;story=577785796&amp;t=podcast&amp;e=577785796&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Best of WWDTM with Lindy West</title>
+      <description><![CDATA[Writer Lindy West joins in on this second Best of 2017 along with Ryan Dempster and Jerry Rice. We also feature some never-before-aired material.]]></description>
+      <pubDate>Sat, 06 Jan 2018 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>48a4732c-d803-4a49-ac21-ee3009113801</guid>
+      <itunes:title>Best of WWDTM with Lindy West</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Writer Lindy West joins in on this second Best of 2017 along with Ryan Dempster and Jerry Rice. We also feature some never-before-aired material.]]></itunes:summary>
+      <itunes:duration>2935</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Writer Lindy West joins in on this second Best of 2017 along with Ryan Dempster and Jerry Rice. We also feature some never-before-aired material.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2018/01/20180106_waitwait_wwdtmpodcast180106-b7ca0f82-e562-4bea-a884-68095012cb58.mp3?orgId=1&amp;d=2935&amp;p=344098539&amp;story=575838748&amp;t=podcast&amp;e=575838748&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Best of WWDTM with Lars Ulrich</title>
+      <description><![CDATA[Lars Ulrich, drummer from Metallica, joins in on the Best of WWDTM 2017. Others include Mavis Staples, Ina Garten, and Stephen Colbert.]]></description>
+      <pubDate>Sat, 30 Dec 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>e5668619-be0c-4792-9a37-e37b52d04891</guid>
+      <itunes:title>Best of WWDTM with Lars Ulrich</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Lars Ulrich, drummer from Metallica, joins in on the Best of WWDTM 2017. Others include Mavis Staples, Ina Garten, and Stephen Colbert.]]></itunes:summary>
+      <itunes:duration>3003</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Lars Ulrich, drummer from Metallica, joins in on the Best of WWDTM 2017. Others include Mavis Staples, Ina Garten, and Stephen Colbert.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/12/20171230_waitwait_wwdtmpodcast171230-944d21b0-fc90-4f01-a032-a5f7de147936.mp3?orgId=1&amp;d=3003&amp;p=344098539&amp;story=574620204&amp;t=podcast&amp;e=574620204&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bradley Whitford</title>
+      <description><![CDATA[Bradley Whitford, actor, joins us along with panelists Peter Grosz, Roxanne Roberts, and Alonzo Bodden.]]></description>
+      <pubDate>Sat, 23 Dec 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>727156b3-7abd-4079-8c82-3dc50fff77da</guid>
+      <itunes:title>Bradley Whitford</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Bradley Whitford, actor, joins us along with panelists Peter Grosz, Roxanne Roberts, and Alonzo Bodden.]]></itunes:summary>
+      <itunes:duration>2989</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Bradley Whitford, actor, joins us along with panelists Peter Grosz, Roxanne Roberts, and Alonzo Bodden.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/12/20171223_waitwait_wwdtmpodcast171223-56ee04cc-f3c1-45ec-acee-303053309a12.mp3?orgId=1&amp;d=2989&amp;p=344098539&amp;story=573086471&amp;t=podcast&amp;e=573086471&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Katy Tur</title>
+      <description><![CDATA[Katy Tur, NBC News Correspondent, joins us along with guest host Mike Pesca and panelists Mo Rocca, Negin Farsad, and Tom Bodett.]]></description>
+      <pubDate>Sat, 16 Dec 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>79440caf-794a-4a0a-b517-0fb119d0fccd</guid>
+      <itunes:title>Katy Tur</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Katy Tur, NBC News Correspondent, joins us along with guest host Mike Pesca and panelists Mo Rocca, Negin Farsad, and Tom Bodett.]]></itunes:summary>
+      <itunes:duration>2980</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Katy Tur, NBC News Correspondent, joins us along with guest host Mike Pesca and panelists Mo Rocca, Negin Farsad, and Tom Bodett.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/12/20171216_waitwait_wwdtmpodcast171216-2cbccae1-f01d-4dbf-9891-86a66cbd512e.mp3?orgId=1&amp;d=2980&amp;p=344098539&amp;story=571251140&amp;t=podcast&amp;e=571251140&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Method Man</title>
+      <description><![CDATA[Method Man, hip hop artist and actor, joins us along with panelists Paula Poundstone, Faith Salie, and P. J. O'Rourke.]]></description>
+      <pubDate>Sat, 09 Dec 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>091e60ad-c787-4c18-8a01-2d41ac1e1abf</guid>
+      <itunes:title>Method Man</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Method Man, hip hop artist and actor, joins us along with panelists Paula Poundstone, Faith Salie, and P. J. O'Rourke.]]></itunes:summary>
+      <itunes:duration>2980</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Method Man, hip hop artist and actor, joins us along with panelists Paula Poundstone, Faith Salie, and P. J. O'Rourke.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/12/20171209_waitwait_wwdtmpodcast171209-278687c4-d884-4c9d-9294-5ff27663f586.mp3?orgId=1&amp;d=2980&amp;p=344098539&amp;story=569540150&amp;t=podcast&amp;e=569540150&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Greta Gerwig</title>
+      <description><![CDATA[Greta Gerwig, director of the new film "Lady Bird" joins us in Seattle along with panelists Luke Burbank, Negin Farsad and Hari Kondabolu]]></description>
+      <pubDate>Sat, 02 Dec 2017 12:38:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>ee1dd160-c6e7-4410-9a2f-b0e50f922c59</guid>
+      <itunes:title>Greta Gerwig</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Greta Gerwig, director of the new film "Lady Bird" joins us in Seattle along with panelists Luke Burbank, Negin Farsad and Hari Kondabolu]]></itunes:summary>
+      <itunes:duration>3041</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Greta Gerwig, director of the new film "Lady Bird" joins us in Seattle along with panelists Luke Burbank, Negin Farsad and Hari Kondabolu]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/12/20171201_waitwait_waitwaitpod-6be515d1-87c0-403d-b93a-e5fef1861e19.mp3?orgId=1&amp;d=3041&amp;p=344098539&amp;story=567926850&amp;t=podcast&amp;e=567926850&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Andrew Zimmern</title>
+      <description><![CDATA[Andrews Zimmern, chef and host of Bizarre Foods, joins us as well as mogul skier Hannah Kearney, author Nora Roberts, and comedian Bassem Youseff.]]></description>
+      <pubDate>Sat, 25 Nov 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>96f97a73-74c5-4800-ac50-57fbffc9dcbb</guid>
+      <itunes:title>Andrew Zimmern</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Andrews Zimmern, chef and host of Bizarre Foods, joins us as well as mogul skier Hannah Kearney, author Nora Roberts, and comedian Bassem Youseff.]]></itunes:summary>
+      <itunes:duration>2953</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Andrews Zimmern, chef and host of Bizarre Foods, joins us as well as mogul skier Hannah Kearney, author Nora Roberts, and comedian Bassem Youseff.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/11/20171125_waitwait_wwdtmpodcast171125-b02cb79b-4917-46d2-9643-09f244d28e93.mp3?orgId=1&amp;d=2953&amp;p=344098539&amp;story=565736300&amp;t=podcast&amp;e=565736300&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Liz Climo</title>
+      <description><![CDATA[Liz Climo, illustrator and children's book author, joins us along with panelists Paula Poundstone, Mo Rocca, and John Hodgman.]]></description>
+      <pubDate>Sat, 18 Nov 2017 12:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>b1c2c05d-62ed-41df-a8d7-7573790c9171</guid>
+      <itunes:title>Liz Climo</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Liz Climo, illustrator and children's book author, joins us along with panelists Paula Poundstone, Mo Rocca, and John Hodgman.]]></itunes:summary>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Liz Climo, illustrator and children's book author, joins us along with panelists Paula Poundstone, Mo Rocca, and John Hodgman.]]></content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/npr/waitwait/2017/11/20171118_waitwait_wwdtmpodcast171118-20132fd5-11bb-4728-ade1-d5995acddfe8.mp3?orgId=1&amp;d=2988&amp;p=344098539&amp;story=564976980&amp;t=podcast&amp;e=564976980&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

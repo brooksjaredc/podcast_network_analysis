@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://rss.earwolf.com/never-not-funny" rel="self" type="application/rss+xml"/>
+		<title>Never Not Funny: The Jimmy Pardo Podcast</title>
+		<link><![CDATA[https://art19.com/shows/never-not-funny]]></link>
+		<description>Never Not Funny is an award-winning weekly podcast hosted by comedian and TV personality Jimmy Pardo and producer Matt Belknap. Since 2006, the show has offered comedy fans the unique opportunity to eavesdrop on freewheeling conversations between Pardo and his sometimes famous, always funny friends. Unscripted. Unedited. Unstoppable. It&apos;s Never Not Funny.Looking for the archives? All episodes older than 6 months can be found exclusively on Stitcher Premium, ad-free. Go to stitcher.com/premium and use promo code EARWOLF for 1 month free (and $5 off the annual plan!)</description>
+		<language>en-us</language>
+		<copyright><![CDATA[Earwolf Media, LLC]]></copyright>
+		<managingEditor>rss@earwolf.com (Earwolf)</managingEditor>
+		<pubDate>Thu, 05 Apr 2018 05:33:40 -0700</pubDate>
+		<lastBuildDate>Thu, 05 Apr 2018 05:33:40 -0700</lastBuildDate>
+		<generator>Dead Wolf Reanimator v1.0</generator>
+		<docs>http://www.earwolf.com</docs>
+		<itunes:author>Earwolf and Jimmy Pardo, Matt Belknap</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Comedy"/>
+		<itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Earwolf</itunes:name>
+			<itunes:email>rss@earwolf.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary>Never Not Funny is an award-winning weekly podcast hosted by comedian and TV personality Jimmy Pardo and producer Matt Belknap. Since 2006, the show has offered comedy fans the unique opportunity to eavesdrop on freewheeling conversations between Pardo and his sometimes famous, always funny friends. Unscripted. Unedited. Unstoppable. It&apos;s Never Not Funny.Looking for the archives? All episodes older than 6 months can be found exclusively on Stitcher Premium, ad-free. Go to stitcher.com/premium and use promo code EARWOLF for 1 month free (and $5 off the annual plan!)</itunes:summary>
+		<image>
+			<url>https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg</url>
+			<title>Never Not Funny: The Jimmy Pardo Podcast</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny]]></link>
+		</image>
+		<item>
+			<title>Episode 2207 - Cristela Alonzo</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/03cd16a4-caaa-4191-b13e-a04334b3ff58]]></link>
+			<description>Taking it to the stage with Cristela Alonzo.</description>
+			<content:encoded><![CDATA[<p>Taking it to the stage with Cristela Alonzo.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/e6hz-C-1ehAuy_SC0IBriMrzZrdXwhFEW3gKfYDpG6U]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 04 Apr 2018 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2207</itunes:episode>
+			<itunes:title>Episode 2207 - Cristela Alonzo</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Taking it to the stage with Cristela Alonzo.</itunes:subtitle>
+			<itunes:summary>Taking it to the stage with Cristela Alonzo.</itunes:summary>
+			<itunes:duration>02:24:25</itunes:duration>
+			<enclosure length="138642494" type="audio/mpeg" url="http://rss.art19.com/episodes/03cd16a4-caaa-4191-b13e-a04334b3ff58.mp3" />
+		</item>
+		<item>
+			<title>Episode 2206 - Anthony Rapp</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/1537d738-a6f5-4540-94d0-8dbb71a4dc31]]></link>
+			<description>Going boldly with Anthony Rapp.</description>
+			<content:encoded><![CDATA[<p>Going boldly with Anthony Rapp.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/yx-ExdNEzLTmjeFcAGgCzA4DnsbLbDcoyPOtcJseTtU]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 28 Mar 2018 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2206</itunes:episode>
+			<itunes:title>Episode 2206 - Anthony Rapp</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Going boldly with Anthony Rapp.</itunes:subtitle>
+			<itunes:summary>Going boldly with Anthony Rapp.</itunes:summary>
+			<itunes:duration>02:12:20</itunes:duration>
+			<enclosure length="127042455" type="audio/mpeg" url="http://rss.art19.com/episodes/1537d738-a6f5-4540-94d0-8dbb71a4dc31.mp3" />
+		</item>
+		<item>
+			<title>Episode 2205 - The Gang</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/39d780f4-9a6b-4964-a539-730b179e5e62]]></link>
+			<description>Calling in sick with Jimmy and the boys.
+
+
+
+
+
+
+
+
+
+
+This episode is brought to you by Harold Ramis Film School, Warby Parker (www.warbyparker.com/pardo), and Quip Toothbrush (www.getquip.com/PARDO).</description>
+			<content:encoded><![CDATA[<p>Calling in sick with Jimmy and the boys.</p><p><br></p><p><br></p><p><br></p><p>This episode is brought to you by Harold Ramis Film School, Warby Parker (www.warbyparker.com/pardo), and Quip Toothbrush (www.getquip.com/PARDO).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/sG4pJ70mb1WEd496P41xl8dwcsJe8bDzK8SP46ee1PY]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 21 Mar 2018 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2205</itunes:episode>
+			<itunes:title>Episode 2205 - The Gang</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Calling in sick with Jimmy and the boys.
+
+
+
+
+
+
+
+
+
+
+This episode is brought to you by Harold Ramis Film School, Warby Parker (www.warbyparker.com/pardo), and Quip Toothbrush (www.getquip.com/PARDO).</itunes:subtitle>
+			<itunes:summary>Calling in sick with Jimmy and the boys.
+
+
+
+
+
+
+
+
+
+
+This episode is brought to you by Harold Ramis Film School, Warby Parker (www.warbyparker.com/pardo), and Quip Toothbrush (www.getquip.com/PARDO).</itunes:summary>
+			<itunes:duration>02:07:00</itunes:duration>
+			<enclosure length="121922455" type="audio/mpeg" url="http://rss.art19.com/episodes/39d780f4-9a6b-4964-a539-730b179e5e62.mp3" />
+		</item>
+		<item>
+			<title>Episode 2204 - Jen Kirkman</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/c7154d7b-27dd-4e55-91fc-42db197a85c9]]></link>
+			<description>Coming home again with Jen Kirkman.</description>
+			<content:encoded><![CDATA[<p>Coming home again with Jen Kirkman.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/A0kBAN1E73T9B7u5BSY4N-RqpRnTf4-Z78cZOgD1Dbg]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 14 Mar 2018 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2204</itunes:episode>
+			<itunes:title>Episode 2204 - Jen Kirkman</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Coming home again with Jen Kirkman.</itunes:subtitle>
+			<itunes:summary>Coming home again with Jen Kirkman.</itunes:summary>
+			<itunes:duration>02:23:20</itunes:duration>
+			<enclosure length="137602612" type="audio/mpeg" url="http://rss.art19.com/episodes/c7154d7b-27dd-4e55-91fc-42db197a85c9.mp3" />
+		</item>
+		<item>
+			<title>Conan O&apos;Brien, Tig Notaro, Rory O&apos;Malley and Paul F. Tompkins at PCAT18</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/06f3f982-9c9d-4dfc-989c-df4f549b0076]]></link>
+			<description>Select segments from Pardcast-a-thon 2018, a benefit for Smile Train. Featuring Conan O&apos;Brien, Tig Notaro, Rory O&apos;Malley and Paul F. Tompkins. Purchase the full 12-hour audio/video package at nevernotfunny.com! Proceeds benefit Smile Train.</description>
+			<content:encoded><![CDATA[<p>Select segments from Pardcast-a-thon 2018, a benefit for Smile Train. Featuring Conan O'Brien, Tig Notaro, Rory O'Malley and Paul F. Tompkins. Purchase the full 12-hour audio/video package at nevernotfunny.com! Proceeds benefit Smile Train.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/42muVkv2vRCv2JEgTmYIHlBsQoL-pB03YoAPl2CfboI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 07 Mar 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>Conan O&apos;Brien, Tig Notaro, Rory O&apos;Malley and Paul F. Tompkins at PCAT18</itunes:title>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:subtitle>Select segments from Pardcast-a-thon 2018, a benefit for Smile Train. Featuring Conan O&apos;Brien, Tig Notaro, Rory O&apos;Malley and Paul F. Tompkins. Purchase the full 12-hour audio/video package at nevernotfunny.com! Proceeds benefit Smile Train.</itunes:subtitle>
+			<itunes:summary>Select segments from Pardcast-a-thon 2018, a benefit for Smile Train. Featuring Conan O&apos;Brien, Tig Notaro, Rory O&apos;Malley and Paul F. Tompkins. Purchase the full 12-hour audio/video package at nevernotfunny.com! Proceeds benefit Smile Train.</itunes:summary>
+			<itunes:duration>01:35:00</itunes:duration>
+			<enclosure length="91202455" type="audio/mpeg" url="http://rss.art19.com/episodes/06f3f982-9c9d-4dfc-989c-df4f549b0076.mp3" />
+		</item>
+		<item>
+			<title>Episode 2203 - Wayne Federman</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/6ae83c97-0fc4-45d4-8f01-5f372bcdb90d]]></link>
+			<description>Matriculating with Wayne Federman.</description>
+			<content:encoded><![CDATA[<p>Matriculating with Wayne Federman.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/Nh5N_yYgpqbEPR8SmB6vzQAnkKasPl-yRQd9u7NM2j0]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 28 Feb 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2203</itunes:episode>
+			<itunes:title>Episode 2203 - Wayne Federman</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Matriculating with Wayne Federman.</itunes:subtitle>
+			<itunes:summary>Matriculating with Wayne Federman.</itunes:summary>
+			<itunes:duration>02:33:00</itunes:duration>
+			<enclosure length="146882142" type="audio/mpeg" url="http://rss.art19.com/episodes/6ae83c97-0fc4-45d4-8f01-5f372bcdb90d.mp3" />
+		</item>
+		<item>
+			<title>Episode 2202 - Rachel Quaintance</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/a8de0bb6-12c5-4cab-bab4-14c511d76f17]]></link>
+			<description>Making your bed with Rachel Quaintance.</description>
+			<content:encoded><![CDATA[<p>Making your bed with Rachel Quaintance.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/nhJaQpYGwaWh2I7woDHGt5g7h9T6JqSSJ3wC_5FMkEs]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 21 Feb 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2202</itunes:episode>
+			<itunes:title>Episode 2202 - Rachel Quaintance</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Making your bed with Rachel Quaintance.</itunes:subtitle>
+			<itunes:summary>Making your bed with Rachel Quaintance.</itunes:summary>
+			<itunes:duration>02:34:10</itunes:duration>
+			<enclosure length="148002272" type="audio/mpeg" url="http://rss.art19.com/episodes/a8de0bb6-12c5-4cab-bab4-14c511d76f17.mp3" />
+		</item>
+		<item>
+			<title>Episode 2201 - Ralph Garman</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/4770a7cf-4a3c-40ca-bc18-4fe74eb10fd7]]></link>
+			<description>Coming in from the cold with Ralph Garman.</description>
+			<content:encoded><![CDATA[<p>Coming in from the cold with Ralph Garman.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ksTDe6L0Ns6Y-XaslnQcr1No8qEhNJFwfYVJSrVY9aI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 14 Feb 2018 20:15:14 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2201</itunes:episode>
+			<itunes:title>Episode 2201 - Ralph Garman</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Coming in from the cold with Ralph Garman.</itunes:subtitle>
+			<itunes:summary>Coming in from the cold with Ralph Garman.</itunes:summary>
+			<itunes:duration>02:27:40</itunes:duration>
+			<enclosure length="141762142" type="audio/mpeg" url="http://rss.art19.com/episodes/4770a7cf-4a3c-40ca-bc18-4fe74eb10fd7.mp3" />
+		</item>
+		<item>
+			<title>Episode 2125 - Phil Rosenthal</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/4ba5d082-d7c7-49e0-9e46-a09b727b0762]]></link>
+			<description>Eating your heart out with Phil Rosenthal.</description>
+			<content:encoded><![CDATA[<p>Eating your heart out with Phil Rosenthal.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/misPQLGg7SSPQFx-j8Np0gH7yWYA1JhyT32qIjUcV44]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 07 Feb 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2125</itunes:episode>
+			<itunes:title>Episode 2125 - Phil Rosenthal</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Eating your heart out with Phil Rosenthal.</itunes:subtitle>
+			<itunes:summary>Eating your heart out with Phil Rosenthal.</itunes:summary>
+			<itunes:duration>02:22:00</itunes:duration>
+			<enclosure length="136322403" type="audio/mpeg" url="http://rss.art19.com/episodes/4ba5d082-d7c7-49e0-9e46-a09b727b0762.mp3" />
+		</item>
+		<item>
+			<title>Episode 2124 - Milana Vayntrub</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/f835a0f3-e6e0-4034-a45d-e3da4be96a14]]></link>
+			<description>Living in the moment with Milana Vayntrub.</description>
+			<content:encoded><![CDATA[<p>Living in the moment with Milana Vayntrub.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/FqbMS6RlbZrp8NOHJZud_vm-pcrHg_8vlUi3HWMqRrc]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 31 Jan 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2124</itunes:episode>
+			<itunes:title>Episode 2124 - Milana Vayntrub</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Living in the moment with Milana Vayntrub.</itunes:subtitle>
+			<itunes:summary>Living in the moment with Milana Vayntrub.</itunes:summary>
+			<itunes:duration>02:07:30</itunes:duration>
+			<enclosure length="122402272" type="audio/mpeg" url="http://rss.art19.com/episodes/f835a0f3-e6e0-4034-a45d-e3da4be96a14.mp3" />
+		</item>
+		<item>
+			<title>Episode 2123 - Jeff Dye</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/825e384d-31cf-4d8f-aa22-4c67b1ee5378]]></link>
+			<description>Spoiling for a fight with Jeff Dye.</description>
+			<content:encoded><![CDATA[<p>Spoiling for a fight with Jeff Dye.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/axuXqa6hYxfvsdPXs7mfdgzpxHOuMW9rk70ILifuJ5w]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 24 Jan 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2123</itunes:episode>
+			<itunes:title>Episode 2123 - Jeff Dye</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Spoiling for a fight with Jeff Dye.</itunes:subtitle>
+			<itunes:summary>Spoiling for a fight with Jeff Dye.</itunes:summary>
+			<itunes:duration>02:13:40</itunes:duration>
+			<enclosure length="128322246" type="audio/mpeg" url="http://rss.art19.com/episodes/825e384d-31cf-4d8f-aa22-4c67b1ee5378.mp3" />
+		</item>
+		<item>
+			<title>Episode 2122 - Michaela Watkins</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/b65878fa-c7e4-44a6-b89b-1e4c2cf4e0af]]></link>
+			<description>Acting casual with Michaela Watkins.</description>
+			<content:encoded><![CDATA[<p>Acting casual with Michaela Watkins.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/_SxOadLug5ht2_c1WJdlT3Q0JpsmEMqCKVTxKMkSwRQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 17 Jan 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2122</itunes:episode>
+			<itunes:title>Episode 2122 - Michaela Watkins</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Acting casual with Michaela Watkins.</itunes:subtitle>
+			<itunes:summary>Acting casual with Michaela Watkins.</itunes:summary>
+			<itunes:duration>02:07:30</itunes:duration>
+			<enclosure length="122402272" type="audio/mpeg" url="http://rss.art19.com/episodes/b65878fa-c7e4-44a6-b89b-1e4c2cf4e0af.mp3" />
+		</item>
+		<item>
+			<title>Episode 2121 - Todd Glass</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/1556e807-d663-41f7-b2fa-f6054e5f1314]]></link>
+			<description>Acting happy with Todd Glass.</description>
+			<content:encoded><![CDATA[<p>Acting happy with Todd Glass.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/MQxL25HOTeaMMtJYYhgQzsu_ImEAFUPL15ecqm1JD90]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 10 Jan 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2121</itunes:episode>
+			<itunes:title>Episode 2121 - Todd Glass</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Acting happy with Todd Glass.</itunes:subtitle>
+			<itunes:summary>Acting happy with Todd Glass.</itunes:summary>
+			<itunes:duration>02:18:20</itunes:duration>
+			<enclosure length="132802351" type="audio/mpeg" url="http://rss.art19.com/episodes/1556e807-d663-41f7-b2fa-f6054e5f1314.mp3" />
+		</item>
+		<item>
+			<title>Episode 21Ff - Demi Adejuyigbe</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/5341d0f6-f55a-4376-bc7f-c01018437a37]]></link>
+			<description>Changing games with Demi Adejuyigbe. (This previously released Players Club episode was recorded on September 14, 2017.)</description>
+			<content:encoded><![CDATA[<p>Changing games with Demi Adejuyigbe. (This previously released Players Club episode was recorded on September 14, 2017.)  </p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/FZZFJyIv5fX0glJhx6EX634az2KupTWJ4EKBHsS_jWw]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 03 Jan 2018 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>Episode 21Ff - Demi Adejuyigbe</itunes:title>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:subtitle>Changing games with Demi Adejuyigbe. (This previously released Players Club episode was recorded on September 14, 2017.)</itunes:subtitle>
+			<itunes:summary>Changing games with Demi Adejuyigbe. (This previously released Players Club episode was recorded on September 14, 2017.)</itunes:summary>
+			<itunes:duration>02:11:00</itunes:duration>
+			<enclosure length="125762664" type="audio/mpeg" url="http://rss.art19.com/episodes/5341d0f6-f55a-4376-bc7f-c01018437a37.mp3" />
+		</item>
+		<item>
+			<title>Episode 21Of - CeCe Pleasants</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/aeeced05-edaa-4c7d-888c-dd4efedaa76c]]></link>
+			<description>Throwing shoes with CeCe Pleasants. (This previously released Players Club episode was recorded on November 16, 2017.)</description>
+			<content:encoded><![CDATA[<p>Throwing shoes with CeCe Pleasants. (This previously released Players Club episode was recorded on November 16, 2017.)</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/6cGAaK2vD-VI51w_lXtOlflgEywhEIRQyONmGZ_fBaM]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 27 Dec 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>Episode 21Of - CeCe Pleasants</itunes:title>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:subtitle>Throwing shoes with CeCe Pleasants. (This previously released Players Club episode was recorded on November 16, 2017.)</itunes:subtitle>
+			<itunes:summary>Throwing shoes with CeCe Pleasants. (This previously released Players Club episode was recorded on November 16, 2017.)</itunes:summary>
+			<itunes:duration>02:13:00</itunes:duration>
+			<enclosure length="127681933" type="audio/mpeg" url="http://rss.art19.com/episodes/aeeced05-edaa-4c7d-888c-dd4efedaa76c.mp3" />
+		</item>
+		<item>
+			<title>Episode 2120 - Jamie Lee</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/7dc548de-c6ff-4a5d-b809-5bf32291377e]]></link>
+			<description>Making eye contact with Jamie Lee.</description>
+			<content:encoded><![CDATA[<p>Making eye contact with Jamie Lee.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/L6TShImLQit6Y309R9ALo25jzXByr_bk2rUgt-VndnI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 20 Dec 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2120</itunes:episode>
+			<itunes:title>Episode 2120 - Jamie Lee</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Making eye contact with Jamie Lee.</itunes:subtitle>
+			<itunes:summary>Making eye contact with Jamie Lee.</itunes:summary>
+			<itunes:duration>02:17:40</itunes:duration>
+			<enclosure length="132162455" type="audio/mpeg" url="http://rss.art19.com/episodes/7dc548de-c6ff-4a5d-b809-5bf32291377e.mp3" />
+		</item>
+		<item>
+			<title>Episode 2119 - Josh Gondelman</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/6747b4d2-b1c6-4631-8921-2b55f45155a1]]></link>
+			<description>Jumping around with Josh Gondelman.</description>
+			<content:encoded><![CDATA[<p>Jumping around with Josh Gondelman.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/rSphtOBNltE3p5uFsC3Tg5XiqtAcq6ZG8eajHz3MyOY]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 13 Dec 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2119</itunes:episode>
+			<itunes:title>Episode 2119 - Josh Gondelman</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Jumping around with Josh Gondelman.</itunes:subtitle>
+			<itunes:summary>Jumping around with Josh Gondelman.</itunes:summary>
+			<itunes:duration>02:12:00</itunes:duration>
+			<enclosure length="126722298" type="audio/mpeg" url="http://rss.art19.com/episodes/6747b4d2-b1c6-4631-8921-2b55f45155a1.mp3" />
+		</item>
+		<item>
+			<title>Episode 2118 - Romesh Ranganathan</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/317d8b49-2b52-41a8-89a0-756034df05bb]]></link>
+			<description>Getting to the Greek with Romesh Ranganathan.</description>
+			<content:encoded><![CDATA[<p>Getting to the Greek with Romesh Ranganathan.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/NI19D0FiipvzFPHpopH4DjFsAMoDVy4SOccGQ-mEq6I]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 06 Dec 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2118</itunes:episode>
+			<itunes:title>Episode 2118 - Romesh Ranganathan</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Getting to the Greek with Romesh Ranganathan.</itunes:subtitle>
+			<itunes:summary>Getting to the Greek with Romesh Ranganathan.</itunes:summary>
+			<itunes:duration>02:13:30</itunes:duration>
+			<enclosure length="128162168" type="audio/mpeg" url="http://rss.art19.com/episodes/317d8b49-2b52-41a8-89a0-756034df05bb.mp3" />
+		</item>
+		<item>
+			<title>Episode 2117 - Tig Notaro</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/7f68771f-00e2-446d-9400-2bf12755179e]]></link>
+			<description>Putting your pants on one leg at a time with Tig Notaro.</description>
+			<content:encoded><![CDATA[<p>Putting your pants on one leg at a time with Tig Notaro.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/cpiwXYv1FU1hIA2xSIzFSaicLoj7A1XCjWTwm3NtkEQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 29 Nov 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2117</itunes:episode>
+			<itunes:title>Episode 2117 - Tig Notaro</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Putting your pants on one leg at a time with Tig Notaro.</itunes:subtitle>
+			<itunes:summary>Putting your pants on one leg at a time with Tig Notaro.</itunes:summary>
+			<itunes:duration>02:25:20</itunes:duration>
+			<enclosure length="139522298" type="audio/mpeg" url="http://rss.art19.com/episodes/7f68771f-00e2-446d-9400-2bf12755179e.mp3" />
+		</item>
+		<item>
+			<title>Episode 2116 - Paul Reiser</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/c02ccdcf-1796-4326-8624-1da2bf09875f]]></link>
+			<description>Making it to the couch with Paul Reiser.</description>
+			<content:encoded><![CDATA[<p>Making it to the couch with Paul Reiser.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/WoPHGGiV2-jQqocIup70dP9N6qBx46XejkhwrzmIwDo]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 22 Nov 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2116</itunes:episode>
+			<itunes:title>Episode 2116 - Paul Reiser</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Making it to the couch with Paul Reiser.</itunes:subtitle>
+			<itunes:summary>Making it to the couch with Paul Reiser.</itunes:summary>
+			<itunes:duration>01:59:15</itunes:duration>
+			<enclosure length="114482364" type="audio/mpeg" url="http://rss.art19.com/episodes/c02ccdcf-1796-4326-8624-1da2bf09875f.mp3" />
+		</item>
+		<item>
+			<title>Episode 2115 - Erin Foley</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/8b35e2ba-11aa-449e-95ff-5b0620cff997]]></link>
+			<description>Letting the games begin with Erin Foley.
+
+
+
+
+
+
+
+This episode is brought to you by Mack Weldon (www.mackweldon.com code: PARDO), Casper Mattresses (www.casper.com/PARDO code: PARDO), and TrackR (www.trackr.com/PARDO).</description>
+			<content:encoded><![CDATA[<p>Letting the games begin with Erin Foley.</p><p><br></p><p><br></p><p>This episode is brought to you by Mack Weldon (www.mackweldon.com code: PARDO), Casper Mattresses (www.casper.com/PARDO code: PARDO), and TrackR (www.trackr.com/PARDO).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/NTYJzIOTknNu7iL-dJYn8M7Zl1hjGDdN79_NJMthLkI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 15 Nov 2017 18:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2115</itunes:episode>
+			<itunes:title>Episode 2115 - Erin Foley</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Letting the games begin with Erin Foley.
+
+
+
+
+
+
+
+This episode is brought to you by Mack Weldon (www.mackweldon.com code: PARDO), Casper Mattresses (www.casper.com/PARDO code: PARDO), and TrackR (www.trackr.com/PARDO).</itunes:subtitle>
+			<itunes:summary>Letting the games begin with Erin Foley.
+
+
+
+
+
+
+
+This episode is brought to you by Mack Weldon (www.mackweldon.com code: PARDO), Casper Mattresses (www.casper.com/PARDO code: PARDO), and TrackR (www.trackr.com/PARDO).</itunes:summary>
+			<itunes:duration>01:52:20</itunes:duration>
+			<enclosure length="107842246" type="audio/mpeg" url="http://rss.art19.com/episodes/8b35e2ba-11aa-449e-95ff-5b0620cff997.mp3" />
+		</item>
+		<item>
+			<title>Episode 2114 - The Sklar Brothers</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/6cbe5aa9-31ff-4637-b64f-fd7e5254d37d]]></link>
+			<description>Shooting hoops with The Sklar Brothers.</description>
+			<content:encoded><![CDATA[<p>Shooting hoops with The Sklar Brothers.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/0ON_2KPprjju8mxTt7aRkLGeI4Q6VfbLIJKN1-medOw]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 08 Nov 2017 20:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2114</itunes:episode>
+			<itunes:title>Episode 2114 - The Sklar Brothers</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Shooting hoops with The Sklar Brothers.</itunes:subtitle>
+			<itunes:summary>Shooting hoops with The Sklar Brothers.</itunes:summary>
+			<itunes:duration>01:55:40</itunes:duration>
+			<enclosure length="111042560" type="audio/mpeg" url="http://rss.art19.com/episodes/6cbe5aa9-31ff-4637-b64f-fd7e5254d37d.mp3" />
+		</item>
+		<item>
+			<title>Episode 2113 - Danielle Koenig</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/6e0f21c6-7712-47d5-b0b1-d994138e1370]]></link>
+			<description>Keeping up with Danielle Koenig.</description>
+			<content:encoded><![CDATA[<p>Keeping up with Danielle Koenig.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/IE0P_PqlhNUebKdVXlN6XJaFn8Gdt_obYPEmWkpCZXU]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 01 Nov 2017 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2113</itunes:episode>
+			<itunes:title>Episode 2113 - Danielle Koenig</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Keeping up with Danielle Koenig.</itunes:subtitle>
+			<itunes:summary>Keeping up with Danielle Koenig.</itunes:summary>
+			<itunes:duration>01:53:25</itunes:duration>
+			<enclosure length="108882546" type="audio/mpeg" url="http://rss.art19.com/episodes/6e0f21c6-7712-47d5-b0b1-d994138e1370.mp3" />
+		</item>
+		<item>
+			<title>Episode 2112 - Paul F. Tompkins</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/ed41828e-c26b-4b7d-8929-7ea3ffc7d283]]></link>
+			<description>Playing ball with Paul F. Tompkins.</description>
+			<content:encoded><![CDATA[<p>Playing ball with Paul F. Tompkins.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/4OUPAGGI4b3EsP8_eZSfEQCwN9dnqOYlUeyhQpVLGIQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 25 Oct 2017 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2112</itunes:episode>
+			<itunes:title>Episode 2112 - Paul F. Tompkins</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Playing ball with Paul F. Tompkins.</itunes:subtitle>
+			<itunes:summary>Playing ball with Paul F. Tompkins.</itunes:summary>
+			<itunes:duration>02:20:40</itunes:duration>
+			<enclosure length="135042194" type="audio/mpeg" url="http://rss.art19.com/episodes/ed41828e-c26b-4b7d-8929-7ea3ffc7d283.mp3" />
+		</item>
+		<item>
+			<title>Episode 2111 - Marc Summers</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/4dea572a-83f6-4bb9-ab69-dbbc03258b55]]></link>
+			<description>Daring to dream with Marc Summers.</description>
+			<content:encoded><![CDATA[<p>Daring to dream with Marc Summers.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/pOLmnTblTOqWCUyewN6oe-PNraP_9GfSuBQKi9VPvF8]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 18 Oct 2017 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2111</itunes:episode>
+			<itunes:title>Episode 2111 - Marc Summers</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Daring to dream with Marc Summers.</itunes:subtitle>
+			<itunes:summary>Daring to dream with Marc Summers.</itunes:summary>
+			<itunes:duration>01:51:20</itunes:duration>
+			<enclosure length="106882194" type="audio/mpeg" url="http://rss.art19.com/episodes/4dea572a-83f6-4bb9-ab69-dbbc03258b55.mp3" />
+		</item>
+		<item>
+			<title>Episode 2110 - Tom Papa</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/6a183d4f-8dbe-4f13-b141-54354ce41971]]></link>
+			<description>Checking bags with Tom Papa.</description>
+			<content:encoded><![CDATA[<p>Checking bags with Tom Papa.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/o9-0RzjWUsdfeEkYeD4UldgzCla438MFkEwSQhxVeeM]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 11 Oct 2017 18:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2110</itunes:episode>
+			<itunes:title>Episode 2110 - Tom Papa</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Checking bags with Tom Papa.</itunes:subtitle>
+			<itunes:summary>Checking bags with Tom Papa.</itunes:summary>
+			<itunes:duration>02:05:00</itunes:duration>
+			<enclosure length="120002351" type="audio/mpeg" url="http://rss.art19.com/episodes/6a183d4f-8dbe-4f13-b141-54354ce41971.mp3" />
+		</item>
+		<item>
+			<title>Episode 2109 - Matt Besser</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/93cf163e-24ef-461f-a6d2-a9d67f07c26d]]></link>
+			<description>Stealing home with Matt Besser.</description>
+			<content:encoded><![CDATA[<p>Stealing home with Matt Besser.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/mF73ABdrVdsCsjx3_7bpYfUyQ8GHDOMSr-TElC8UQwI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Wed, 04 Oct 2017 20:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>2109</itunes:episode>
+			<itunes:title>Episode 2109 - Matt Besser</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Stealing home with Matt Besser.</itunes:subtitle>
+			<itunes:summary>Stealing home with Matt Besser.</itunes:summary>
+			<itunes:duration>02:06:40</itunes:duration>
+			<enclosure length="121602298" type="audio/mpeg" url="http://rss.art19.com/episodes/93cf163e-24ef-461f-a6d2-a9d67f07c26d.mp3" />
+		</item>
+		<item>
+			<title>Find Full Archive of Never Not Funny on Stitcher Premium</title>
+			<link><![CDATA[https://art19.com/shows/never-not-funny/episodes/3d9e690f-1135-4d13-9e7c-48f3ab9e0979]]></link>
+			<description>Find Full Archive of Never Not Funny on Stitcher Premium</description>
+			<content:encoded><![CDATA[<p>Find Full Archive of Never Not Funny on Stitcher Premium</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/41DIV_pJnxhkjzcuc0xXcVfWMVzmAKk9ZHO8X3hm578]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/c4/6d/c5/5c/c46dc55c-501d-4a51-a158-daaefbf6f563/3f5a8803bbc984256649aeab7f02fc2029fe44da17f0da0e0007c9b96c31c158a6e4fd5fb6efc19c5a568ba0bd36eac467cc98a54b565863757d4d1c0940e878.jpeg" />
+			<pubDate>Thu, 02 Jul 1970 12:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>Find Full Archive of Never Not Funny on Stitcher Premium</itunes:title>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:subtitle>Find Full Archive of Never Not Funny on Stitcher Premium</itunes:subtitle>
+			<itunes:summary>Find Full Archive of Never Not Funny on Stitcher Premium</itunes:summary>
+			<itunes:duration>00:00:29</itunes:duration>
+			<enclosure length="479399" type="audio/mpeg" url="http://rss.art19.com/episodes/3d9e690f-1135-4d13-9e7c-48f3ab9e0979.mp3" />
+		</item>
+	</channel>
+</rss>

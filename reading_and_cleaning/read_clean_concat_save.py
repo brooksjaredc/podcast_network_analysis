@@ -27,7 +27,7 @@ bert_kreischer['podcast'] = "Bertcast's podcast"
 tfatk = xml_to_df('rss_files/fighter-and-the-kid.xml')
 tfatk = clean_tfatk(tfatk)
 tfatk['hosts'] = 'Bryan Callen, Brendan Schaub'
-tfatk['podcast'] = 'The Fighter and the Kid'
+tfatk['podcast'] = 'The Fighter & The Kid'
 
 ari_shaffir = xml_to_df('rss_files/ari_shaffir.xml')
 ari_shaffir = clean_ari_shaffir(ari_shaffir)
@@ -49,7 +49,7 @@ chris_hardwick = clean_chris_hardwick(chris_hardwick)
 chris_hardwick['hosts'] = 'Chris Hardwick'
 chris_hardwick['podcast'] = 'ID10T with Chris Hardwick'
 
-sam_harris = xml_to_df_desc('rss_files/sam_harris.xml')
+sam_harris = xml_to_df_subt('rss_files/sam_harris.xml')
 sam_harris = clean_sam_harris(sam_harris)
 sam_harris['hosts'] = 'Sam Harris'
 sam_harris['podcast'] = 'Waking Up with Sam Harris'
@@ -103,6 +103,42 @@ econtalk = xml_to_df('rss_files/econtalk.xml')#archives
 econtalk = clean_econtalk(econtalk)
 econtalk['hosts'] = 'Russ Roberts'
 econtalk['podcast'] = 'Econtalk'
+
+econtalk2007 = xml_to_df_desc('rss_files/econtalk2007.xml')#archives
+econtalk2007 = clean_econtalk_archive(econtalk2007)
+econtalk2007['hosts'] = 'Russ Roberts'
+econtalk2007['podcast'] = 'Econtalk'
+
+econtalk2008 = xml_to_df_desc('rss_files/econtalk2008.xml')#archives
+econtalk2008 = clean_econtalk_archive(econtalk2008)
+econtalk2008['hosts'] = 'Russ Roberts'
+econtalk2008['podcast'] = 'Econtalk'
+
+econtalk2009 = xml_to_df_desc('rss_files/econtalk2009.xml')#archives
+econtalk2009 = clean_econtalk_archive(econtalk2009)
+econtalk2009['hosts'] = 'Russ Roberts'
+econtalk2009['podcast'] = 'Econtalk'
+
+econtalk2010 = xml_to_df_desc('rss_files/econtalk2010.xml')#archives
+econtalk2010 = clean_econtalk_archive(econtalk2010)
+econtalk2010['hosts'] = 'Russ Roberts'
+econtalk2010['podcast'] = 'Econtalk'
+
+econtalk2011 = xml_to_df_desc('rss_files/econtalk2011.xml')#archives
+econtalk2011 = clean_econtalk_archive(econtalk2011)
+econtalk2011['hosts'] = 'Russ Roberts'
+econtalk2011['podcast'] = 'Econtalk'
+
+econtalk2012 = xml_to_df_desc('rss_files/econtalk2012.xml')#archives
+econtalk2012 = clean_econtalk_archive(econtalk2012)
+econtalk2012['hosts'] = 'Russ Roberts'
+econtalk2012['podcast'] = 'Econtalk'
+
+econtalk2013 = xml_to_df_desc('rss_files/econtalk2013.xml')#archives
+econtalk2013 = clean_econtalk_archive(econtalk2013)
+econtalk2013['hosts'] = 'Russ Roberts'
+econtalk2013['podcast'] = 'Econtalk'
+
 
 bill_maher = xml_to_df_subt('rss_files/bill_maher.xml')
 bill_maher = clean_bill_maher(bill_maher)
@@ -184,16 +220,590 @@ comedy_film_nerds = clean_comedy_film_nerds(comedy_film_nerds)
 comedy_film_nerds['hosts'] = 'Graham Elwood, Chris Mancini'
 comedy_film_nerds['podcast'] = 'Comedy Film Nerds'
 
+the_champs = xml_to_df('rss_files/the_champs.xml')
+the_champs = clean_the_champs(the_champs)
+the_champs['hosts'] = 'Neal Brennan, Moshe Kasher'
+the_champs['podcast'] = 'The Champs with Neal Brennan + Moshe Kasher'
+
+julian_loves_music = xml_to_df('rss_files/julian_loves_music.xml')
+julian_loves_music = clean_julian_loves_music(julian_loves_music)
+julian_loves_music['hosts'] = 'Julian McCullough'
+julian_loves_music['podcast'] = 'Julian Loves Music'
+
+chris_cubas = xml_to_df('rss_files/chris_cubas.xml')
+chris_cubas = clean_chris_cubas(chris_cubas)
+chris_cubas['hosts'] = 'Chris Cubas'
+chris_cubas['podcast'] = 'Canceled'
+
+thomas_thakkar = xml_to_df('rss_files/thomas_thakkar.xml')
+thomas_thakkar = clean_thomas_thakkar(thomas_thakkar)
+thomas_thakkar['hosts'] = 'Thomas Thakkar, Tommy McNamara'
+thomas_thakkar['podcast'] = 'Stand By Your Band'
+
+iliza = xml_to_df('rss_files/iliza.xml')
+iliza = clean_iliza(iliza)
+iliza['hosts'] = 'Iliza Shlesinger'
+iliza['podcast'] = 'Truth & Iliza'
+
+race_wars = xml_to_df('rss_files/race_wars.xml')
+race_wars = clean_race_wars(race_wars)
+race_wars['hosts'] = 'Kurt Metzger, Sherrod Small'
+race_wars['podcast'] = 'Race Wars'
+
+todd_barry = xml_to_df('rss_files/todd_barry.xml')
+todd_barry = clean_todd_barry(todd_barry)
+todd_barry['hosts'] = 'Todd Barry'
+todd_barry['podcast'] = 'The Todd Barry Podcast'
+
+my_dumb_friends = xml_to_df('rss_files/my_dumb_friends.xml')
+my_dumb_friends = clean_my_dumb_friends(my_dumb_friends)
+my_dumb_friends['hosts'] = 'Dan St. Germain, Sean Donnelly'
+my_dumb_friends['podcast'] = 'My Dumb Friends'
+
+pleasure_monkey = xml_to_df('rss_files/pleasure_monkey.xml')
+pleasure_monkey = clean_pleasure_monkey(pleasure_monkey)
+pleasure_monkey['hosts'] = 'Conner Moore'
+pleasure_monkey['podcast'] = 'Pleasure Monkey Podcast'
+
+steven_crowder = xml_to_df('rss_files/steven_crowder.xml')
+steven_crowder = clean_steven_crowder(steven_crowder)
+steven_crowder['hosts'] = 'Steven Crowder'
+steven_crowder['podcast'] = 'Louder With Crowder'
+
+doughboys = xml_to_df('rss_files/doughboys.xml')
+doughboys = clean_doughboys(doughboys)
+doughboys['hosts'] = 'Nick Wiger, Mike Mitchell'
+doughboys['podcast'] = 'Doughboys'
+
+bill_simmons = xml_to_df('rss_files/bill_simmons.xml')
+bill_simmons = clean_bill_simmons(bill_simmons)
+bill_simmons['hosts'] = 'Bill Simmons'
+bill_simmons['podcast'] = 'The Bill Simmons Podcast'
+
+legion_of_skanks = xml_to_df('rss_files/legion_of_skanks.xml')
+legion_of_skanks = clean_legion_of_skanks(legion_of_skanks)
+legion_of_skanks['hosts'] = 'Big Jay Oakerson, Luis J. Gomez, Dave Smith'
+legion_of_skanks['podcast'] = 'Legion of Skanks Podcast'
+
+punch_drunk_sports = xml_to_df('rss_files/punch_drunk_sports.xml')
+punch_drunk_sports = clean_punch_drunk_sports(punch_drunk_sports)
+punch_drunk_sports['hosts'] = 'Ari Shaffir, Sam Tripoli, Jayson Thibault'
+punch_drunk_sports['podcast'] = 'Punch Drunk Sports'
+
+hannibal = xml_to_df('rss_files/hannibal.xml')
+hannibal = clean_hannibal(hannibal)
+hannibal['hosts'] = 'Hannibal Buress'
+hannibal['podcast'] = 'Hannibal Buress: Handsome Rambler'
+
+tait_fletcher = xml_to_df('rss_files/tait_fletcher.xml')
+tait_fletcher = clean_tait_fletcher(tait_fletcher)
+tait_fletcher['hosts'] = 'Tait Fletcher'
+tait_fletcher['podcast'] = 'Pirate Life Radio with Tait Fletcher'
+
+steve_rannazzisi = xml_to_df('rss_files/steve_rannazzisi.xml')
+steve_rannazzisi = clean_steve_rannazzisi(steve_rannazzisi)
+steve_rannazzisi['hosts'] = 'Steve Rannazzisi'
+steve_rannazzisi['podcast'] = 'Hear Me This Book'
+
+jim_rome = xml_to_df('rss_files/jim_rome.xml')
+jim_rome = clean_jim_rome(jim_rome)
+jim_rome['hosts'] = 'Jim Rome'
+jim_rome['podcast'] = 'The Jim Rome Podcast'
+
+sklar_brothers = xml_to_df('rss_files/sklar_brothers.xml')
+sklar_brothers = clean_sklar_brothers(sklar_brothers)
+sklar_brothers['hosts'] = 'Jason Sklar, Randy Sklar'
+sklar_brothers['podcast'] = 'View from the Cheap Seats with the Sklar Brothers'
+
+all_things_comedy = xml_to_df('rss_files/all_things_comedy.xml')
+all_things_comedy = clean_all_things_comedy(all_things_comedy)
+all_things_comedy['hosts'] = 'Bill Burr, Al Madrigal'
+all_things_comedy['podcast'] = 'All Things Comedy Live'
+
+dom_irrera = xml_to_df('rss_files/dom_irrera.xml')
+dom_irrera = clean_dom_irrera(dom_irrera)
+dom_irrera['hosts'] = 'Dom Irrera'
+dom_irrera['podcast'] = 'Dom Irrera Live from the Laugh Factory'
+
+aubrey_marcus = xml_to_df('rss_files/aubrey_marcus.xml')
+aubrey_marcus = clean_aubrey_marcus(aubrey_marcus)
+aubrey_marcus['hosts'] = 'Aubrey Marcus'
+aubrey_marcus['podcast'] = 'Aubrey Marcus Podcast'
+
+happy_sad_confused = xml_to_df('rss_files/happy_sad_confused.xml')
+happy_sad_confused = clean_happy_sad_confused(happy_sad_confused)
+happy_sad_confused['hosts'] = 'Josh Horowitz'
+happy_sad_confused['podcast'] = 'Happy Sad Confused'
+
+sam_jones = xml_to_df('rss_files/sam_jones.xml')
+sam_jones = clean_sam_jones(sam_jones)
+sam_jones['hosts'] = 'Sam Jones'
+sam_jones['podcast'] = 'Off Camera with Sam Jones'
+
+maltin = xml_to_df('rss_files/maltin.xml')
+maltin = clean_maltin(maltin)
+maltin['hosts'] = 'Leonard Maltin, Jessie Maltin'
+maltin['podcast'] = 'Maltin on Movies'
+
+guy_raz = xml_to_df('rss_files/guy_raz.xml')
+guy_raz = clean_guy_raz(guy_raz)
+guy_raz['hosts'] = 'Guy Raz'
+guy_raz['podcast'] = 'How I Built This with Guy Raz'
+
+modern_love = xml_to_df('rss_files/modern_love.xml')
+modern_love = clean_modern_love(modern_love)
+modern_love['hosts'] = 'Meghna Chakrabarti'
+modern_love['podcast'] = 'Modern Love'
+
+lewis_howes = xml_to_df('rss_files/lewis_howes.xml')
+lewis_howes = clean_lewis_howes(lewis_howes)
+lewis_howes['hosts'] = 'Lewis Howes'
+lewis_howes['podcast'] = 'The School of Greatness'
+
+ringer_nba = xml_to_df_desc('rss_files/ringer_nba.xml')
+ringer_nba = clean_ringer_nba(ringer_nba)
+ringer_nba['hosts'] = 'Chris Ryan, Justin Verrier, Kevin O’Connor, Jonathan Tjarks, Juliet Litman, Chris Vernon, John Gonzalez, Jonathan Tjarks'
+ringer_nba['podcast'] = 'The Ringer NBA Show'
+
+mike_lupica = xml_to_df('rss_files/mike_lupica.xml')
+mike_lupica = clean_mike_lupica(mike_lupica)
+mike_lupica['hosts'] = 'Mike Lupica'
+mike_lupica['podcast'] = 'The Mike Lupica Show'
+
+ask_me_another = xml_to_df('rss_files/ask_me_another.xml')
+ask_me_another = clean_ask_me_another(ask_me_another)
+ask_me_another['hosts'] = 'Ophira Eisenberg'
+ask_me_another['podcast'] = 'Ask Me Another'
+
+dear_sugars = xml_to_df('rss_files/dear_sugars.xml')
+dear_sugars = clean_dear_sugars(dear_sugars)
+dear_sugars['hosts'] = 'Cheryl Strayed, Steve Almond'
+dear_sugars['podcast'] = 'Dear Sugars'
+
+bugle = xml_to_df_desc('rss_files/bugle.xml')
+bugle = clean_bugle(bugle)
+bugle['hosts'] = 'Andy Zaltzman'
+bugle['podcast'] = 'The Bugle'
+
+daily_zeitgeist = xml_to_df_desc('rss_files/daily_zeitgeist.xml')
+daily_zeitgeist = clean_daily_zeitgeist(daily_zeitgeist)
+daily_zeitgeist['hosts'] = 'Jack O’Brien'
+daily_zeitgeist['podcast'] = 'The Daily Zeitgeist'
+
+smodcast = xml_to_df_summ('rss_files/smodcast.xml')
+smodcast = clean_smodcast(smodcast)
+smodcast['hosts'] = 'Kevin Smith, Scott Mosier'
+smodcast['podcast'] = 'SModcast'
+
+rapaport = xml_to_df('rss_files/rapaport.xml')
+rapaport = clean_rapaport(rapaport)
+rapaport['hosts'] = 'Michael Rapaport'
+rapaport['podcast'] = 'I AM RAPAPORT: STEREO PODCAST'
+
+jimmy_pardo = xml_to_df('rss_files/jimmy_pardo.xml')
+jimmy_pardo = clean_jimmy_pardo(jimmy_pardo)
+jimmy_pardo['hosts'] = 'Jimmy Pardo'
+jimmy_pardo['podcast'] = 'Never Not Funny: The Jimmy Pardo Podcast'
+
+crabfeast = xml_to_df('rss_files/crabfeast.xml')
+crabfeast = clean_crabfeast(crabfeast)
+crabfeast['hosts'] = 'Ryan Sickler, Jay Larson'
+crabfeast['podcast'] = 'The CrabFeast with Ryan Sickler and Jay Larson'
+
+matt_besser = xml_to_df('rss_files/matt_besser.xml')
+matt_besser = clean_matt_besser(matt_besser)
+matt_besser['hosts'] = 'Matt Besser'
+matt_besser['podcast'] = 'improv4humans with Matt Besser'
+
+gilbert_gottfried = xml_to_df('rss_files/gilbert_gottfried.xml')
+gilbert_gottfried = clean_gilbert_gottfried(gilbert_gottfried)
+gilbert_gottfried['hosts'] = 'Gilbert Gottfried'
+gilbert_gottfried['podcast'] = "Gilbert Gottfried's Amazing Colossal Podcast"
+
+jordan_jesse_go = xml_to_df('rss_files/jordan_jesse_go.xml')
+jordan_jesse_go = clean_jordan_jesse_go(jordan_jesse_go)
+jordan_jesse_go['hosts'] = 'Jesse Thorn, Jordan Morris'
+jordan_jesse_go['podcast'] = 'Jordan, Jesse GO!'
+
+jesse_thorn = xml_to_df('rss_files/jesse_thorn.xml')
+jesse_thorn = clean_jesse_thorn(jesse_thorn)
+jesse_thorn['hosts'] = 'Jesse Thorn'
+jesse_thorn['podcast'] = 'Bullseye with Jesse Thorn'
+
+stop_podcasting_yourself = xml_to_df('rss_files/stop_podcasting_yourself.xml')
+stop_podcasting_yourself = clean_stop_podcasting_yourself(stop_podcasting_yourself)
+stop_podcasting_yourself['hosts'] = 'Graham Clark, Dave Shumka'
+stop_podcasting_yourself['podcast'] = 'Stop Podcasting Yourself'
+
+spontaneanation = xml_to_df('rss_files/spontaneanation.xml')
+spontaneanation = clean_spontaneanation(spontaneanation)
+spontaneanation['hosts'] = 'Paul F. Tompkins'
+spontaneanation['podcast'] = 'SPONTANEANATION with Paul F. Tompkins'
+
+tompkast = xml_to_df('rss_files/tompkast.xml')
+tompkast = clean_tompkast(tompkast)
+tompkast['hosts'] = 'Paul F. Tompkins'
+tompkast['podcast'] = 'The Pod F. Tompkast'
+
+dead_authors = xml_to_df('rss_files/dead_authors.xml')
+dead_authors = clean_dead_authors(dead_authors)
+dead_authors['hosts'] = 'Paul F. Tompkins'
+dead_authors['podcast'] = 'The Dead Authors Podcast'
+
+bone_zone = xml_to_df('rss_files/bone_zone.xml')
+bone_zone = clean_bone_zone(bone_zone)
+bone_zone['hosts'] = 'Brendon Walsh, Randy Liedtke'
+bone_zone['podcast'] = 'The Bone Zone'
+
+economic_rockstar = xml_to_df('rss_files/economic_rockstar.xml')
+economic_rockstar = clean_economic_rockstar(economic_rockstar)
+economic_rockstar['hosts'] = 'Frank Conway'
+economic_rockstar['podcast'] = 'Economic Rockstar'
+
+john_roy = xml_to_df('rss_files/john_roy.xml')
+john_roy = clean_john_roy(john_roy)
+john_roy['hosts'] = 'John Roy'
+john_roy['podcast'] = "Don't Ever Change with John Roy"
+
+kurt_braunohler = xml_to_df('rss_files/kurt_braunohler.xml')
+kurt_braunohler = clean_kurt_braunohler(kurt_braunohler)
+kurt_braunohler['hosts'] = 'Kurt Braunohler'
+kurt_braunohler['podcast'] = "The K Ohle with Kurt Braunohler"
+
+steve_agee = xml_to_df('rss_files/steve_agee.xml')
+steve_agee = clean_steve_agee(steve_agee)
+steve_agee['hosts'] = 'Steve Agee'
+steve_agee['podcast'] = 'Steve Agee: Uhhh'
+
+jon_gabrus = xml_to_df('rss_files/jon_gabrus.xml')
+jon_gabrus = clean_jon_gabrus(jon_gabrus)
+jon_gabrus['hosts'] = 'Jon Gabrus'
+jon_gabrus['podcast'] = 'High and Mighty'
+
+x_files = xml_to_df('rss_files/x_files.xhtml')
+x_files = clean_x_files(x_files)
+x_files['hosts'] = 'Kumail Nanjiani'
+x_files['podcast'] = "Kumail Nanjiani's The X-Files Files"
+
+jonathan_van_ness = xml_to_df('rss_files/jonathan_van_ness.xml')
+jonathan_van_ness = clean_jonathan_van_ness(jonathan_van_ness)
+jonathan_van_ness['hosts'] = 'Jonathan Van Ness'
+jonathan_van_ness['podcast'] = "Getting Curious with Jonathan Van Ness"
+
+hollywood_handbook = xml_to_df('rss_files/hollywood-handbook.xml')
+hollywood_handbook = clean_hollywood_handbook(hollywood_handbook)
+hollywood_handbook['hosts'] = 'Hayes Davenport, Sean Clements'
+hollywood_handbook['podcast'] = 'Hollywood Handbook'
+
+rupaul = xml_to_df('rss_files/rupaul.xml')
+rupaul = clean_rupaul(rupaul)
+rupaul['hosts'] = 'RuPaul, Michelle Visage'
+rupaul['podcast'] = "RuPaul: What's The Tee with Michelle Visage"
+
+shane_dawson = xml_to_df_desc('rss_files/shane_dawson.xml')
+shane_dawson = clean_shane_dawson(shane_dawson)
+shane_dawson['hosts'] = 'Shane Dawson'
+shane_dawson['podcast'] = 'Shane And Friends'
+
+grace_helbig = xml_to_df('rss_files/grace_helbig.xml')
+grace_helbig = clean_grace_helbig(grace_helbig)
+grace_helbig['hosts'] = 'Grace Helbig, Jack Ferry'
+grace_helbig['podcast'] = 'Not Too Deep with Grace Helbig'
+
+think_again = xml_to_df('rss_files/think_again.xml')
+think_again = clean_think_again(think_again)
+think_again['hosts'] = 'Jason Gots'
+think_again['podcast'] = 'Think Again – a Big Think Podcast'
+
+rationally_speaking = xml_to_df('rss_files/rationally_speaking.xml')
+rationally_speaking = clean_rationally_speaking(rationally_speaking)
+rationally_speaking['hosts'] = 'Julia Galef'
+rationally_speaking['podcast'] = 'Rationally Speaking'
+
+rationally_speaking = xml_to_df('rss_files/rationally_speaking.xml')
+rationally_speaking = clean_rationally_speaking(rationally_speaking)
+rationally_speaking['hosts'] = 'Julia Galef'
+rationally_speaking['podcast'] = 'Rationally Speaking'
+
+skepticality = xml_to_df_desc('rss_files/skepticality.xml')
+skepticality = clean_skepticality(skepticality)
+skepticality['hosts'] = 'Derek Colanduno, Robynn McCarthy'
+skepticality['podcast'] = 'Skepticality: The Official Podcast of Skeptic Magazine'
+
+friendly_atheist = xml_to_df('rss_files/friendly_atheist.xml')
+friendly_atheist = clean_friendly_atheist(friendly_atheist)
+friendly_atheist['hosts'] = 'Hemant Mehta'
+friendly_atheist['podcast'] = 'Friendly Atheist Podcast'
+
+snoop = xml_to_df('rss_files/snoop.xml')
+snoop = clean_snoop(snoop)
+snoop['hosts'] = 'Snoop Dogg'
+snoop['podcast'] = "Snoop Dogg's GGN Podcast"
+
+katie_couric = xml_to_df('rss_files/katie_couric.xml')
+katie_couric = clean_katie_couric(katie_couric)
+katie_couric['hosts'] = 'Katie Couric'
+katie_couric['podcast'] = 'Katie Couric'
+
+etl = xml_to_df('rss_files/etl.xml')
+etl = clean_etl(etl)
+etl['hosts'] = 'Tina Seelig'
+etl['podcast'] = 'Entrepreneurial Thought Leaders'
+
+ezra_klein = xml_to_df('rss_files/ezra_klein.xml')
+ezra_klein = clean_ezra_klein(ezra_klein)
+ezra_klein['hosts'] = 'Ezra Klein'
+ezra_klein['podcast'] = 'The Ezra Klein Show'
+
+john_gruber = xml_to_df('rss_files/john_gruber.xml')
+john_gruber = clean_john_gruber(john_gruber)
+john_gruber['hosts'] = 'John Gruber'
+john_gruber['podcast'] = 'The Talk Show With John Gruber'
+
+shane_mauss = xml_to_df_summ('rss_files/shane_mauss.xml')
+shane_mauss = clean_shane_mauss(shane_mauss)
+shane_mauss['hosts'] = 'Shane Mauss'
+shane_mauss['podcast'] = 'Here We Are'
+
+double_date = xml_to_df('rss_files/double_date.xml')
+double_date = clean_double_date(double_date)
+double_date['hosts'] = 'Shane Mauss, April Macie'
+double_date['podcast'] = 'Double Date Podcast'
+
+zach_leary = xml_to_df('rss_files/zach_leary.xml')
+zach_leary = clean_zach_leary(zach_leary)
+zach_leary['hosts'] = 'Zach Leary'
+zach_leary['podcast'] = "It's All Happening"
+
+cory_allen = xml_to_df('rss_files/cory_allen.xml')
+cory_allen = clean_cory_allen(cory_allen)
+cory_allen['hosts'] = 'Cory Allen'
+cory_allen['podcast'] = 'The Astral Hustle with Cory Allen'
+
+raghu_markus = xml_to_df('rss_files/raghu_markus.xml')
+raghu_markus = clean_raghu_markus(raghu_markus)
+raghu_markus['hosts'] = 'Raghu Markus'
+raghu_markus['podcast'] = 'Mindrolling with Raghu Markus'
+
+chris_grosso = xml_to_df('rss_files/chris_grosso.xml')
+chris_grosso = clean_chris_grosso(chris_grosso)
+chris_grosso['hosts'] = 'Chris Grosso'
+chris_grosso['podcast'] = 'Chris Grosso The Indie Spiritualist'
+
+london_real = xml_to_df('rss_files/london_real.xml')
+london_real = clean_london_real(london_real)
+london_real['hosts'] = 'Brian Rose'
+london_real['podcast'] = 'London Real'
+
+onnit = xml_to_df('rss_files/onnit.xml')
+onnit = clean_onnit(onnit)
+onnit['hosts'] = 'Aubrey Marcus'
+onnit['podcast'] = 'Onnit Podcast'
+
+festival_of_sports = xml_to_df('rss_files/festival_of_sports.xml')
+festival_of_sports = clean_festival_of_sports(festival_of_sports)
+festival_of_sports['hosts'] = 'Brody Stevens'
+festival_of_sports['podcast'] = 'Brody Stevens Festival Of Sports'
+
+brody_stevens = xml_to_df('rss_files/brody_stevens.xml')
+brody_stevens = clean_brody_stevens(brody_stevens)
+brody_stevens['hosts'] = 'Brody Stevens'
+brody_stevens['podcast'] = 'The Steven Brody Stevens Festival Of Friendship'
+
+wwdtm = xml_to_df('rss_files/wwdtm.xml')
+wwdtm = clean_wwdtm(wwdtm)
+wwdtm['hosts'] = 'Peter Sagal'
+wwdtm['podcast'] = "Wait Wait... Don't Tell Me!"
+
+superego = xml_to_df_desc('rss_files/superego.xml')
+superego = clean_superego(superego)
+superego['hosts'] = 'Matt Gourley, Jeremy Carter, Mark McConville, Paul F. Tompkins'
+superego['podcast'] = 'Superego'
+
+dan_savage = xml_to_df_desc('rss_files/dan_savage.xml')
+dan_savage = clean_dan_savage(dan_savage)
+dan_savage['hosts'] = 'Dan Savage'
+dan_savage['podcast'] = 'Savage Lovecast'
+
+tom_rhodes = xml_to_df('rss_files/tom_rhodes.xml')
+tom_rhodes = clean_tom_rhodes(tom_rhodes)
+tom_rhodes['hosts'] = 'Tom Rhodes'
+tom_rhodes['podcast'] = 'Tom Rhodes Radio Smart Camp'
+
+full_charge = xml_to_df('rss_files/full_charge.xml')
+full_charge = clean_full_charge(full_charge)
+full_charge['hosts'] = 'Matt Fulchiron'
+full_charge['podcast'] = 'The Full Charge Power Hour featuring Matt Fulchiron'
+
+brandt_tobler = xml_to_df('rss_files/brandt_tobler.xml')
+brandt_tobler = clean_brandt_tobler(brandt_tobler)
+brandt_tobler['hosts'] = 'Brandt Tobler'
+brandt_tobler['podcast'] = 'The 31 with Brandt Tobler'
+
+steve_simeone = xml_to_df('rss_files/steve_simeone.xml')
+steve_simeone = clean_steve_simeone(steve_simeone)
+steve_simeone['hosts'] = 'Steve Simeone'
+steve_simeone['podcast'] = 'Good Times: With Steve Simeone'
+
+johnny_pemberton = xml_to_df('rss_files/johnny_pemberton.xhtml')
+johnny_pemberton = clean_johnny_pemberton(johnny_pemberton)
+johnny_pemberton['hosts'] = 'Johnny Pemberton'
+johnny_pemberton['podcast'] = 'Twisting The Wind with Johnny Pemberton'
+
+live_to_tape = xml_to_df('rss_files/live_to_tape.xml')
+live_to_tape = clean_live_to_tape(live_to_tape)
+live_to_tape['hosts'] = 'Johnny Pemberton'
+live_to_tape['podcast'] = 'LIVE TO TAPE with Johnny Pemberton'
+
+jay_mohr = xml_to_df('rss_files/jay_mohr.xml')
+jay_mohr = clean_jay_mohr(jay_mohr)
+jay_mohr['hosts'] = 'Jay Mohr'
+jay_mohr['podcast'] = 'Mohr Stories with Jay Mohr'
+
+pony_hour = xml_to_df('rss_files/pony_hour.xml')
+pony_hour = clean_pony_hour(pony_hour)
+pony_hour['hosts'] = 'Tony Hinchcliffe'
+pony_hour['podcast'] = 'The Pony Hour'
+
+jocko = xml_to_df('rss_files/jocko.xml')
+jocko = clean_jocko(jocko)
+jocko['hosts'] = 'Jocko Willink, Echo Charles'
+jocko['podcast'] = 'Jocko Podcast'
+
+tim_ferriss = xml_to_df_summ('rss_files/tim-ferriss-show.xml')
+tim_ferriss = clean_tim_ferriss(tim_ferriss)
+tim_ferriss['hosts'] = 'Tim Ferriss'
+tim_ferriss['podcast'] = 'The Tim Ferriss Show'
+
+star_talk = xml_to_df('rss_files/star_talk.xml')
+star_talk = clean_star_talk(star_talk)
+star_talk['hosts'] = 'Neil deGrasse Tyson'
+star_talk['podcast'] = 'StarTalk Radio'
+
+doug_stanhope = xml_to_df_desc('rss_files/doug_stanhope.xml')
+doug_stanhope = clean_doug_stanhope(doug_stanhope)
+doug_stanhope['hosts'] = 'Doug Stanhope'
+doug_stanhope['podcast'] = 'The Doug Stanhope Podcast'
+
+bitch_sesh = xml_to_df('rss_files/bitch_sesh.xml')
+bitch_sesh = clean_bitch_sesh(bitch_sesh)
+bitch_sesh['hosts'] = 'Casey Wilson, Danielle Schneider'
+bitch_sesh['podcast'] = 'Bitch Sesh: A Real Housewives Breakdown'
+
+cam_rhea = xml_to_df('rss_files/cam_rhea.xml')
+cam_rhea = clean_cam_rhea(cam_rhea)
+cam_rhea['hosts'] = 'Cameron Esposito, Rhea Butcher'
+cam_rhea['podcast'] = 'Put Your Hands Together with Cam and Rhea'
+
+andy_cohen = xml_to_df('rss_files/andy_cohen.xml')
+andy_cohen = clean_andy_cohen(andy_cohen)
+andy_cohen['hosts'] = 'Andy Cohen'
+andy_cohen['podcast'] = 'Watch What Happens Live with Andy Cohen'
+
+rap_radar = xml_to_df('rss_files/rap_radar.xml')
+rap_radar = clean_rap_radar(rap_radar)
+rap_radar['hosts'] = 'Elliott Wilson, Brian Miller'
+rap_radar['podcast'] = 'Rap Radar Podcast'
+
+vlad_couch = xml_to_df('rss_files/vlad_couch.xml')
+vlad_couch = clean_vlad_couch(vlad_couch)
+vlad_couch['hosts'] = 'DJ Vlad'
+vlad_couch['podcast'] = 'The Vlad Couch'
+
+allegedly = xml_to_df('rss_files/allegedly.xml')
+allegedly = clean_allegedly(allegedly)
+allegedly['hosts'] = 'Theo Von, Matthew Cole Weiss'
+allegedly['podcast'] = 'Allegedly with Theo Von & Matthew Cole Weiss'
+
+this_life = xml_to_df('rss_files/this_life.xml')
+this_life = clean_this_life(this_life)
+this_life['hosts'] = 'Dr. Drew, Bob Forrest'
+this_life['podcast'] = 'This Life #YOULIVE With Dr Drew'
+
+friends_like_these = xml_to_df('rss_files/friends_like_these.xml')
+friends_like_these = clean_friends_like_these(friends_like_these)
+friends_like_these['hosts'] = 'Ana Marie Cox'
+friends_like_these['podcast'] = 'With Friends Like These'
+
+axe_files = xml_to_df('rss_files/axe_files.xml')
+axe_files = clean_axe_files(axe_files)
+axe_files['hosts'] = 'David Axelrod'
+axe_files['podcast'] = 'The Axe Files with David Axelrod'
+
+politically_reactive = xml_to_df('rss_files/politically_reactive.xml')
+politically_reactive = clean_politically_reactive(politically_reactive)
+politically_reactive['hosts'] = 'W. Kamau Bell, Hari Kondabolu'
+politically_reactive['podcast'] = 'Politically Re-Active with W. Kamau Bell & Hari Kondabolu'
+
+james_altucher = xml_to_df('rss_files/james_altucher.xml')
+james_altucher = clean_james_altucher(james_altucher)
+james_altucher['hosts'] = 'James Altucher'
+james_altucher['podcast'] = 'The James Altucher Show'
+
+bulletproof_radio = xml_to_df('rss_files/bulletproof_radio.xml')
+bulletproof_radio = clean_bulletproof_radio(bulletproof_radio)
+bulletproof_radio['hosts'] = 'Dave Asprey'
+bulletproof_radio['podcast'] = 'Bulletproof Radio'
+
+chris_kresser = xml_to_df('rss_files/chris_kresser.xml')
+chris_kresser = clean_chris_kresser(chris_kresser)
+chris_kresser['hosts'] = 'Chris Kresser'
+chris_kresser['podcast'] = 'Revolution Health Radio'
+
+ufc_unfiltered = xml_to_df('rss_files/ufc_unfiltered.xml')
+ufc_unfiltered = clean_ufc_unfiltered(ufc_unfiltered)
+ufc_unfiltered['hosts'] = 'Jim Norton, Matt Serra'
+ufc_unfiltered['podcast'] = 'UFC Unfiltered with Jim Norton and Matt Serra'
+
+dan_harris = xml_to_df('rss_files/dan_harris.xml')
+dan_harris = clean_dan_harris(dan_harris)
+dan_harris['hosts'] = 'Dan Harris'
+dan_harris['podcast'] = '10% Happier with Dan Harris'
+
+supersoul = xml_to_df('rss_files/supersoul.xml')
+supersoul = clean_supersoul(supersoul)
+supersoul['hosts'] = 'Oprah Winfrey'
+supersoul['podcast'] = "Oprah’s SuperSoul Conversations"
+
 df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
                russell_brand, kevin_pereira, chris_hardwick, sam_harris,
                kill_tony, dave_rubin, comedy_bang, h3, marc_maron,
                joey_diaz, your_moms_house, harmontown, stefan_molyneux,
-               econtalk, bill_maher, pete_holmes, anna_faris, dax_shepard,
+               econtalk, econtalk2007, econtalk2008, econtalk2009,
+               econtalk2010, econtalk2011, econtalk2012, econtalk2013,
+               bill_maher, pete_holmes, anna_faris, dax_shepard,
                grapefruit_simmons, sam_tripoli, alison_rosen, chris_ryan,
                hdtgm, todd_glass, dumb_people_town, doug_loves_movies,
                getting_doug_with_high, who_charted, the_indoor_kids,
-               comedy_film_nerds], ignore_index=True)
+               comedy_film_nerds, the_champs, julian_loves_music, chris_cubas,
+               thomas_thakkar, iliza, race_wars, todd_barry, my_dumb_friends,
+               pleasure_monkey, steven_crowder, doughboys, bill_simmons,
+               legion_of_skanks, punch_drunk_sports, hannibal, tait_fletcher,
+               steve_rannazzisi, jim_rome, sklar_brothers, all_things_comedy,
+               dom_irrera, aubrey_marcus, happy_sad_confused, sam_jones, maltin,
+               guy_raz, modern_love, lewis_howes, ringer_nba, mike_lupica,
+               ask_me_another, dear_sugars, bugle, daily_zeitgeist,
+               smodcast, rapaport, jimmy_pardo, crabfeast, matt_besser,
+               gilbert_gottfried, jordan_jesse_go, jesse_thorn,
+               stop_podcasting_yourself, spontaneanation, tompkast,
+               dead_authors, bone_zone, economic_rockstar, john_roy,
+               kurt_braunohler, steve_agee, jon_gabrus, x_files,
+               jonathan_van_ness, hollywood_handbook, rupaul, shane_dawson,
+               grace_helbig, think_again, rationally_speaking, skepticality,
+               friendly_atheist, snoop, katie_couric, etl, ezra_klein,
+               john_gruber, shane_mauss, double_date, zach_leary, cory_allen,
+               raghu_markus, chris_grosso, london_real, onnit, festival_of_sports,
+               brody_stevens, wwdtm, superego, dan_savage, tom_rhodes,
+               full_charge, brandt_tobler, steve_simeone, johnny_pemberton,
+               live_to_tape, jay_mohr, pony_hour, jocko, tim_ferriss,
+               star_talk, doug_stanhope, bitch_sesh, cam_rhea, andy_cohen,
+               rap_radar, vlad_couch, allegedly, this_life, friends_like_these,
+               axe_files, politically_reactive, james_altucher, bulletproof_radio,
+               chris_kresser, ufc_unfiltered, dan_harris, supersoul], ignore_index=True)
 
+
+df['guests'] = [g.rstrip() for g in df['guests']]
+df['guests'] = [g.lstrip() for g in df['guests']]
 
 df.to_csv('cleaned_podcasts.csv', sep='\t')
 
