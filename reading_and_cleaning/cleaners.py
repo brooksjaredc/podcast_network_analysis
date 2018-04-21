@@ -8,6 +8,8 @@ from cleaning_functions import *
 
 def clean_joe_rogan(joe_rogan):
 
+    joe_rogan = xml_to_df(joe_rogan)
+
     ## Remove Fight shows
     
     joe_rogan = joe_rogan[joe_rogan.title.str.contains('MMA Show') == False]
@@ -24,6 +26,8 @@ def clean_joe_rogan(joe_rogan):
     
     replace('Lewis, from Unbox Therapy', 'Lewis from Unbox Therapy', joe_rogan)
     replace('Lewis, form Unbox Therapy', 'Lewis from Unbox Therapy', joe_rogan)
+
+    replace('Chris & Mark Bell', 'Chris Bell & Mark Bell', joe_rogan)
     
     joe_rogan = joe_rogan[pd.notnull(joe_rogan['guests'])]
     joe_rogan = splitDataFrameList(joe_rogan, 'guests', ', ')
@@ -53,6 +57,7 @@ def clean_joe_rogan(joe_rogan):
     replace('Joey "Coco" Diaz', 'Joey Diaz', joe_rogan)
     replace('London Real', 'Brian Rose', joe_rogan)
     replace('""Big"" Jay Oakerson"', 'Big Jay Oakerson', joe_rogan)
+    replace('Legion Of Skanks', 'Big Jay Oakerson, Luis J. Gomez, Dave Smith', joe_rogan)
     
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('From ')]
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('Live ')]
@@ -67,7 +72,8 @@ def clean_joe_rogan(joe_rogan):
 
 
 def clean_duncan_trussel(duncan_trussel):
-    from cleaning_functions import guest_split
+    
+    duncan_trussel = xml_to_df(duncan_trussel)
 
     ## Set Episode numbers
     
@@ -307,6 +313,8 @@ pd.options.mode.chained_assignment = None  # default='warn'
 #bert_kreischer = xml_to_df('bert_kreischer.xml')
 
 def clean_bert_kreischer(bert_kreischer):
+
+    bert_kreischer = xml_to_df(bert_kreischer)
     
     bert_kreischer = bert_kreischer.loc[bert_kreischer.title.str.contains('Call In Sick To Work Show') == False]
 
@@ -421,6 +429,8 @@ def clean_bert_kreischer(bert_kreischer):
 
 def clean_tfatk(tfatk):
 
+    tfatk = xml_to_df(tfatk)
+
     ## Set Episode numbers
     
     tfatk['episode'] = tfatk.title.str.extract(r'\#\s?([\d.]+)',expand=True)
@@ -465,6 +475,8 @@ def clean_tfatk(tfatk):
 
 
 def clean_ari_shaffir(ari_shaffir):
+
+    ari_shaffir = xml_to_df(ari_shaffir)
 
     ## Set Episode numbers
     
@@ -583,6 +595,8 @@ def clean_ari_shaffir(ari_shaffir):
 
 def clean_russell_brand(russell_brand):
 
+    russell_brand = xml_to_df(russell_brand)
+
     russell_brand.replace(u"\u00A0", " ", regex=True, inplace=True)
 
     ## Set Episode numbers
@@ -647,6 +661,8 @@ def clean_russell_brand(russell_brand):
 
 def clean_kevin_pereira(kevin_pereira):
 
+    kevin_pereira = xml_to_df(kevin_pereira)
+
     ## Set Episode numbers
     
     kevin_pereira['episode'] = 185 - kevin_pereira.index
@@ -690,6 +706,8 @@ def clean_kevin_pereira(kevin_pereira):
 
 
 def clean_chris_hardwick(chris_hardwick):
+
+    chris_hardwick = xml_to_df(chris_hardwick)
 
     date_parser('\s\-0000$', chris_hardwick)
     
@@ -739,6 +757,8 @@ def clean_chris_hardwick(chris_hardwick):
 
 def clean_sam_harris(sam_harris):
 
+    sam_harris = xml_to_df_subt(sam_harris)
+
     date_parser('\s\+0000$', sam_harris)
     
     sam_harris['episode'] = sam_harris.title.str.extract(r'\#\s?([\d]+)',expand=True)
@@ -757,6 +777,8 @@ def clean_sam_harris(sam_harris):
 
 
 def clean_kill_tony(kill_tony):
+
+    kill_tony = xml_to_df_subt(kill_tony)
     
     kill_tony = kill_tony[kill_tony.title.str.contains('KILL TONY') == True]
 
@@ -785,6 +807,8 @@ def clean_kill_tony(kill_tony):
 
 
 def clean_dave_rubin(dave_rubin):
+
+    dave_rubin = xml_to_df_summ(dave_rubin)
 
     ## Set Episode numbers
     
@@ -880,6 +904,8 @@ def clean_dave_rubin(dave_rubin):
 
 
 def clean_comedy_bang(comedy_bang):
+
+    comedy_bang = xml_to_df(comedy_bang)
     
     comedy_bang = comedy_bang[comedy_bang.title.str.contains('Best of') == False]
 
@@ -903,6 +929,8 @@ def clean_comedy_bang(comedy_bang):
     return comedy_bang
 
 def clean_h3(h3):
+
+    h3 = xml_to_df(h3)
 
     ## Set Episode numbers
     
@@ -949,6 +977,8 @@ def clean_h3(h3):
 
 def clean_marc_maron(marc_maron):
 
+    marc_maron = xml_to_df(marc_maron)
+
     ## Set Episode numbers
     
     marc_maron['episode'] = marc_maron.title.str.extract(r'([\d]+)\s',expand=True)
@@ -969,6 +999,8 @@ def clean_marc_maron(marc_maron):
 
 
 def clean_joey_diaz(joey_diaz):
+
+    joey_diaz = xml_to_df(joey_diaz)
 
     ## Set Episode numbers
     
@@ -1006,6 +1038,8 @@ def clean_joey_diaz(joey_diaz):
 
 def clean_your_moms_house(your_moms_house):
 
+    your_moms_house = xml_to_df(your_moms_house)
+
     ## Set Episode numbers
     
     your_moms_house['episode'] = your_moms_house.title.str.extract(r'([\d]+)\s?-',expand=True)
@@ -1038,7 +1072,8 @@ def clean_your_moms_house(your_moms_house):
     return your_moms_house
 
 def clean_harmontown(harmontown):
-    from cleaning_functions import guest_split
+    
+    harmontown = xml_to_df_summ(harmontown)
 
     date_parser('\sGMT$', harmontown)
     
@@ -1076,6 +1111,8 @@ def clean_harmontown(harmontown):
 
 def clean_stefan_molyneux(stefan_molyneux):
 
+    stefan_molyneux = xml_to_df(stefan_molyneux)
+
     ## Set Episode numbers
     
     stefan_molyneux['episode'] = stefan_molyneux.title.str.extract(r'([\d]+)\s',expand=True)
@@ -1091,6 +1128,8 @@ def clean_stefan_molyneux(stefan_molyneux):
 
 
 def clean_econtalk(econtalk):
+
+    econtalk = xml_to_df(econtalk)
 
     date_parser('\sEST$', econtalk)
     
@@ -1109,6 +1148,8 @@ def clean_econtalk(econtalk):
 
 
 def clean_econtalk_archive(econtalk_archive):
+
+    econtalk_archive = xml_to_df_desc(econtalk_archive)
         
     date_parser('\sEST$', econtalk_archive)
     
@@ -1136,6 +1177,8 @@ def clean_econtalk_archive(econtalk_archive):
 
 
 def clean_bill_maher(bill_maher):
+
+    bill_maher = xml_to_df_subt(bill_maher)
 
     date_parser('\s\+0000$', bill_maher)
     
@@ -1165,6 +1208,8 @@ def clean_bill_maher(bill_maher):
 
 
 def clean_pete_holmes(pete_holmes):
+
+    pete_holmes = xml_to_df(pete_holmes)
 
     date_parser('\s\+0000$', pete_holmes)
     
@@ -1198,6 +1243,8 @@ def clean_pete_holmes(pete_holmes):
 
 def clean_anna_faris(anna_faris):
 
+    anna_faris = xml_to_df(anna_faris)
+
     date_parser('\s\+0000$', anna_faris)
     
     anna_faris['guests'] = anna_faris.title.str.extract(r'(?:ep [\d]+: )?([\w\s\.\,\'\`\’\-]+)',expand=True)
@@ -1221,6 +1268,8 @@ def clean_anna_faris(anna_faris):
 
 def clean_dax_shepard(dax_shepard):
 
+    dax_shepard = xml_to_df(dax_shepard)
+
     date_parser('\s\-0[78]00$', dax_shepard)
     
     dax_shepard['guests'] = dax_shepard['title']
@@ -1231,6 +1280,8 @@ def clean_dax_shepard(dax_shepard):
 
 
 def clean_grapefruit_simmons(grapefruit_simmons):
+
+    grapefruit_simmons = xml_to_df(grapefruit_simmons)
 
     date_parser('\s\+0000$', grapefruit_simmons)
     
@@ -1248,6 +1299,8 @@ def clean_grapefruit_simmons(grapefruit_simmons):
 
 
 def clean_sam_tripoli(sam_tripoli):
+
+    sam_tripoli = xml_to_df(sam_tripoli)
 
     date_parser('\s\+0000$', sam_tripoli)
     
@@ -1367,6 +1420,8 @@ def clean_sam_tripoli(sam_tripoli):
 
 
 def clean_alison_rosen(alison_rosen):
+
+    alison_rosen = xml_to_df(alison_rosen)
     
     date_parser('\s\+0000$', alison_rosen)
     
@@ -1469,6 +1524,8 @@ def clean_alison_rosen(alison_rosen):
 
 
 def clean_chris_ryan(chris_ryan):
+
+    chris_ryan = xml_to_df(chris_ryan)
     
     chris_ryan['episode'] = chris_ryan.title.str.extract(r'([\d]+)\s',expand=True)
 
@@ -1499,6 +1556,8 @@ def clean_chris_ryan(chris_ryan):
 
 
 def clean_hdtgm(hdtgm):
+
+    hdtgm = xml_to_df(hdtgm)
     
     hdtgm['episode'] = hdtgm.title.str.extract(r'([\d]+)\s',expand=True)
 
@@ -1524,6 +1583,8 @@ def clean_hdtgm(hdtgm):
 
 
 def clean_todd_glass(todd_glass):
+
+    todd_glass = xml_to_df(todd_glass)
     
     todd_glass['episode'] = todd_glass.title.str.extract(r'([\d\.]+)-\s',expand=True)
 
@@ -1556,6 +1617,8 @@ def clean_todd_glass(todd_glass):
 
 def clean_dumb_people_town(dumb_people_town):
 
+    dumb_people_town = xml_to_df(dumb_people_town)
+
     date_parser('\s\-0000$', dumb_people_town)
     
     dumb_people_town['guests'] = dumb_people_town.title.str.extract(r'(?:Minisode: )?([\w\s\.\,\'\`\’\&]+)\s-',expand=True)
@@ -1578,6 +1641,8 @@ def clean_dumb_people_town(dumb_people_town):
 
 def clean_doug_loves_movies(doug_loves_movies):
 
+    doug_loves_movies = xml_to_df(doug_loves_movies)
+
     date_parser('\s\-0000$', doug_loves_movies)
     
     doug_loves_movies['guests'] = doug_loves_movies.title.str.extract(r'([\w\s\.\,\'\`\’\&\"]+)\sguest',expand=True)
@@ -1594,6 +1659,8 @@ def clean_doug_loves_movies(doug_loves_movies):
     return doug_loves_movies
 
 def clean_getting_doug_with_high(getting_doug_with_high):
+
+    getting_doug_with_high = xml_to_df(getting_doug_with_high)
     
     getting_doug_with_high['episode'] = getting_doug_with_high.title.str.extract(r'E[pP] ([\d]+)',expand=True)
 
@@ -1615,6 +1682,8 @@ def clean_getting_doug_with_high(getting_doug_with_high):
     return getting_doug_with_high
 
 def clean_who_charted(who_charted):
+
+    who_charted = xml_to_df(who_charted)
     
     who_charted['episode'] = who_charted.title.str.extract(r'([\d]+)',expand=True)
 
@@ -1633,6 +1702,8 @@ def clean_who_charted(who_charted):
 
 
 def clean_the_indoor_kids(the_indoor_kids):
+
+    the_indoor_kids = xml_to_df(the_indoor_kids)
     
     the_indoor_kids['episode'] = len(the_indoor_kids) - the_indoor_kids.index
     
@@ -1678,6 +1749,8 @@ def clean_the_indoor_kids(the_indoor_kids):
 
 def clean_comedy_film_nerds(comedy_film_nerds):
 
+    comedy_film_nerds = xml_to_df(comedy_film_nerds)
+
     comedy_film_nerds['episode'] = comedy_film_nerds.title.str.extract(r'(Ep [\d]+)',expand=True)
     
     date_parser('\s\+0000$', comedy_film_nerds)
@@ -1695,6 +1768,8 @@ def clean_comedy_film_nerds(comedy_film_nerds):
     return comedy_film_nerds
 
 def clean_the_champs(the_champs):
+
+    the_champs = xml_to_df(the_champs)
     
     date_parser('\s\+0000$', the_champs)
     
@@ -1730,6 +1805,8 @@ def clean_the_champs(the_champs):
 
 
 def clean_julian_loves_music(julian_loves_music):
+
+    julian_loves_music = xml_to_df(julian_loves_music)
     
     date_parser('\s\-0000$', julian_loves_music)
     
@@ -1749,6 +1826,8 @@ def clean_julian_loves_music(julian_loves_music):
     return julian_loves_music
 
 def clean_chris_cubas(chris_cubas):
+
+    chris_cubas = xml_to_df(chris_cubas)
     
     chris_cubas['episode'] = chris_cubas.title.str.extract(r'Canceled Ep. ([\d]+)',expand=True)
     
@@ -1770,6 +1849,8 @@ def clean_chris_cubas(chris_cubas):
 
 
 def clean_thomas_thakkar(thomas_thakkar):
+
+    thomas_thakkar = xml_to_df(thomas_thakkar)
     
     thomas_thakkar['episode'] = thomas_thakkar.title.str.extract(r'Canceled Ep. ([\d]+)',expand=True)
     
@@ -1791,6 +1872,8 @@ def clean_thomas_thakkar(thomas_thakkar):
 
 
 def clean_iliza(iliza):
+
+    iliza = xml_to_df(iliza)
         
     date_parser('\s\-0000$', iliza)
     
@@ -1814,6 +1897,8 @@ def clean_iliza(iliza):
 
 
 def clean_race_wars(race_wars):
+
+    race_wars = xml_to_df(race_wars)
         
     date_parser('\s\+0000$', race_wars)
     
@@ -1838,6 +1923,8 @@ def clean_race_wars(race_wars):
     return race_wars
 
 def clean_todd_barry(todd_barry):
+
+    todd_barry = xml_to_df(todd_barry)
         
     date_parser('\sGMT$', todd_barry)
     
@@ -1859,6 +1946,8 @@ def clean_todd_barry(todd_barry):
 
 
 def clean_my_dumb_friends(my_dumb_friends):#needs more cleaning
+
+    my_dumb_friends = xml_to_df(my_dumb_friends)
         
     date_parser('\s\+0000$', my_dumb_friends)
     
@@ -1888,6 +1977,8 @@ def clean_my_dumb_friends(my_dumb_friends):#needs more cleaning
 
 
 def clean_pleasure_monkey(pleasure_monkey):
+
+    pleasure_monkey = xml_to_df(pleasure_monkey)
         
     date_parser('\s\+0000$', pleasure_monkey)
     
@@ -1910,6 +2001,8 @@ def clean_pleasure_monkey(pleasure_monkey):
 
 
 def clean_steven_crowder(steven_crowder):
+
+    steven_crowder = xml_to_df(steven_crowder)
     
     steven_crowder['episode'] = steven_crowder.title.str.extract(r'\#(\d+)',expand=True)
         
@@ -1958,6 +2051,8 @@ def clean_steven_crowder(steven_crowder):
 
 
 def clean_doughboys(doughboys):
+
+    doughboys = xml_to_df(doughboys)
         
     date_parser('\s\-0000$', doughboys)
     
@@ -1976,6 +2071,8 @@ def clean_doughboys(doughboys):
 
 
 def clean_bill_simmons(bill_simmons):
+
+    bill_simmons = xml_to_df(bill_simmons)
         
     date_parser('\s\-0000$', bill_simmons)
     
@@ -2008,6 +2105,8 @@ def clean_bill_simmons(bill_simmons):
 
 
 def clean_legion_of_skanks(legion_of_skanks):
+
+    legion_of_skanks = xml_to_df(legion_of_skanks)
         
     date_parser('\s\+0000$', legion_of_skanks)
     
@@ -2030,6 +2129,8 @@ def clean_legion_of_skanks(legion_of_skanks):
 
 
 def clean_punch_drunk_sports(punch_drunk_sports):
+
+    punch_drunk_sports = xml_to_df(punch_drunk_sports)
         
     date_parser('\s\+0000$', punch_drunk_sports)
     
@@ -2050,6 +2151,8 @@ def clean_punch_drunk_sports(punch_drunk_sports):
 
 
 def clean_hannibal(hannibal):
+
+    hannibal = xml_to_df(hannibal)
         
     date_parser('\s\+0000$', hannibal)
     
@@ -2068,6 +2171,8 @@ def clean_hannibal(hannibal):
 
 
 def clean_tait_fletcher(tait_fletcher):
+
+    tait_fletcher = xml_to_df(tait_fletcher)
         
     date_parser('\s\+0000$', tait_fletcher)
     
@@ -2093,6 +2198,8 @@ def clean_tait_fletcher(tait_fletcher):
 
 
 def clean_steve_rannazzisi(steve_rannazzisi):
+
+    steve_rannazzisi = xml_to_df(steve_rannazzisi)
         
     date_parser('\s\+0000$', steve_rannazzisi)
     
@@ -2115,6 +2222,8 @@ def clean_steve_rannazzisi(steve_rannazzisi):
 
 
 def clean_jim_rome(jim_rome):
+
+    jim_rome = xml_to_df(jim_rome)
         
     date_parser('\s\+0000$', jim_rome)
     
@@ -2133,6 +2242,8 @@ def clean_jim_rome(jim_rome):
     return jim_rome
 
 def clean_sklar_brothers(sklar_brothers):
+
+    sklar_brothers = xml_to_df(sklar_brothers)
         
     date_parser('\s\-0000$', sklar_brothers)
     
@@ -2159,6 +2270,8 @@ def clean_sklar_brothers(sklar_brothers):
 
 
 def clean_all_things_comedy(all_things_comedy):
+
+    all_things_comedy = xml_to_df(all_things_comedy)
         
     date_parser('\s\+0000$', all_things_comedy)
     
@@ -2183,6 +2296,8 @@ def clean_all_things_comedy(all_things_comedy):
 
 
 def clean_dom_irrera(dom_irrera):
+
+    dom_irrera = xml_to_df(dom_irrera)
         
     date_parser('\s\+0000$', dom_irrera)
     
@@ -2206,6 +2321,8 @@ def clean_dom_irrera(dom_irrera):
 
 
 def clean_aubrey_marcus(aubrey_marcus):
+
+    aubrey_marcus = xml_to_df(aubrey_marcus)
         
     date_parser('\s\-0000$', aubrey_marcus)
     
@@ -2248,6 +2365,8 @@ def clean_aubrey_marcus(aubrey_marcus):
 
 
 def clean_happy_sad_confused(happy_sad_confused):
+
+    happy_sad_confused = xml_to_df(happy_sad_confused)
         
     date_parser('\s\-0000$', happy_sad_confused)
     
@@ -2279,6 +2398,8 @@ def clean_happy_sad_confused(happy_sad_confused):
 
 
 def clean_sam_jones(sam_jones):
+
+    sam_jones = xml_to_df(sam_jones)
         
     date_parser('\s\+0000$', sam_jones)
 
@@ -2292,6 +2413,8 @@ def clean_sam_jones(sam_jones):
 
 
 def clean_maltin(maltin):
+
+    maltin = xml_to_df(maltin)
         
     date_parser('\s\+0000$', maltin)
 
@@ -2325,6 +2448,8 @@ def clean_maltin(maltin):
 
 
 def clean_guy_raz(guy_raz):
+
+    guy_raz = xml_to_df(guy_raz)
         
     date_parser('\s\-0[45]00$', guy_raz)
     
@@ -2348,6 +2473,8 @@ def clean_guy_raz(guy_raz):
 
 
 def clean_modern_love(modern_love):
+
+    modern_love = xml_to_df(modern_love)
         
     date_parser('\s\-0[45]00$', modern_love)
     
@@ -2370,6 +2497,8 @@ def clean_modern_love(modern_love):
 
 
 def clean_lewis_howes(lewis_howes):
+
+    lewis_howes = xml_to_df(lewis_howes)
         
     date_parser('\s\+0000$', lewis_howes)
     
@@ -2412,6 +2541,8 @@ def clean_lewis_howes(lewis_howes):
 
 
 def clean_ringer_nba(ringer_nba):
+
+    ringer_nba = xml_to_df_desc(ringer_nba)
         
     date_parser('\s\-0000$', ringer_nba)
     
@@ -2461,6 +2592,8 @@ def clean_ringer_nba(ringer_nba):
 
 
 def clean_mike_lupica(mike_lupica):
+
+    mike_lupica = xml_to_df(mike_lupica)
     
     mike_lupica = mike_lupica[mike_lupica.title.str.contains('In The Loop') == False]
         
@@ -2478,6 +2611,8 @@ def clean_mike_lupica(mike_lupica):
 
 
 def clean_ask_me_another(ask_me_another):
+
+    ask_me_another = xml_to_df(ask_me_another)
         
     date_parser('\s\-0[45]00$', ask_me_another)
     
@@ -2503,6 +2638,8 @@ def clean_ask_me_another(ask_me_another):
 
 
 def clean_dear_sugars(dear_sugars):
+
+    dear_sugars = xml_to_df(dear_sugars)
         
     date_parser('\s\-0000$', dear_sugars)
     
@@ -2521,6 +2658,8 @@ def clean_dear_sugars(dear_sugars):
 
 
 def clean_bugle(bugle):
+
+    bugle = xml_to_df_desc(bugle)
         
     date_parser('\s\-0000$', bugle)
     
@@ -2565,6 +2704,8 @@ def clean_bugle(bugle):
 
 
 def clean_daily_zeitgeist(daily_zeitgeist):
+
+    daily_zeitgeist = xml_to_df_desc(daily_zeitgeist)
         
     date_parser('\s\-0000$', daily_zeitgeist)
     
@@ -2597,6 +2738,8 @@ def clean_daily_zeitgeist(daily_zeitgeist):
 
 
 def clean_smodcast(smodcast):
+
+    smodcast = xml_to_df_summ(smodcast)
         
     date_parser('\s\+0000$', smodcast)
     
@@ -2632,6 +2775,8 @@ def clean_smodcast(smodcast):
 
 
 def clean_rapaport(rapaport):
+
+    rapaport = xml_to_df(rapaport)
         
     date_parser('\s\+0000$', rapaport)
     
@@ -2650,6 +2795,8 @@ def clean_rapaport(rapaport):
 
 
 def clean_jimmy_pardo(jimmy_pardo):
+
+    jimmy_pardo = xml_to_df(jimmy_pardo)
         
     date_parser('\s\-0[78]00$', jimmy_pardo)
     
@@ -2677,6 +2824,8 @@ def clean_jimmy_pardo(jimmy_pardo):
 
 
 def clean_crabfeast(crabfeast):
+
+    crabfeast = xml_to_df(crabfeast)
         
     date_parser('\s\+0000$', crabfeast)
     
@@ -2704,6 +2853,8 @@ def clean_crabfeast(crabfeast):
 
 
 def clean_matt_besser(matt_besser):
+
+    matt_besser = xml_to_df(matt_besser)
         
     date_parser('\s\-0[78]00$', matt_besser)
     
@@ -2726,6 +2877,8 @@ def clean_matt_besser(matt_besser):
 
 
 def clean_gilbert_gottfried(gilbert_gottfried):
+
+    gilbert_gottfried = xml_to_df(gilbert_gottfried)
         
     date_parser('\s\-0[78]00$', gilbert_gottfried)
     
@@ -2752,6 +2905,8 @@ def clean_gilbert_gottfried(gilbert_gottfried):
 
 
 def clean_jordan_jesse_go(jordan_jesse_go):
+
+    jordan_jesse_go = xml_to_df(jordan_jesse_go)
         
     date_parser('\s\+0000$', jordan_jesse_go)
     
@@ -2774,6 +2929,8 @@ def clean_jordan_jesse_go(jordan_jesse_go):
 
 
 def clean_jesse_thorn(jesse_thorn):
+
+    jesse_thorn = xml_to_df(jesse_thorn)
         
     date_parser('\s\-0[45]00$', jesse_thorn)
     
@@ -2798,6 +2955,8 @@ def clean_jesse_thorn(jesse_thorn):
 
 
 def clean_stop_podcasting_yourself(stop_podcasting_yourself):
+
+    stop_podcasting_yourself = xml_to_df(stop_podcasting_yourself)
         
     date_parser('\s\+0000$', stop_podcasting_yourself)
     
@@ -2822,6 +2981,8 @@ def clean_stop_podcasting_yourself(stop_podcasting_yourself):
 
 
 def clean_spontaneanation(spontaneanation):
+
+    spontaneanation = xml_to_df(spontaneanation)
         
     date_parser('\s\-0[78]00$', spontaneanation)
     
@@ -2844,6 +3005,8 @@ def clean_spontaneanation(spontaneanation):
 
 
 def clean_tompkast(tompkast):
+
+    tompkast = xml_to_df(tompkast)
         
     date_parser('\s\+0000$', tompkast)
     
@@ -2866,6 +3029,8 @@ def clean_tompkast(tompkast):
     return tompkast
 
 def clean_dead_authors(dead_authors):
+
+    dead_authors = xml_to_df(dead_authors)
         
     date_parser('\s\+0000$', dead_authors)
     
@@ -2886,6 +3051,8 @@ def clean_dead_authors(dead_authors):
 
 
 def clean_bone_zone(bone_zone):
+
+    bone_zone = xml_to_df(bone_zone)
         
     date_parser('\s\+0000$', bone_zone)
     
@@ -2917,6 +3084,8 @@ def clean_bone_zone(bone_zone):
 
 
 def clean_economic_rockstar(economic_rockstar):
+
+    economic_rockstar = xml_to_df(economic_rockstar)
     
     economic_rockstar['episode'] = economic_rockstar.title.str.extract(r'(\d+): ',expand=True)
         
@@ -2948,6 +3117,8 @@ def clean_economic_rockstar(economic_rockstar):
 
 
 def clean_john_roy(john_roy):
+
+    john_roy = xml_to_df(john_roy)
         
     date_parser('\sGMT$', john_roy)
     
@@ -2962,6 +3133,8 @@ def clean_john_roy(john_roy):
 
 
 def clean_kurt_braunohler(kurt_braunohler):
+
+    kurt_braunohler = xml_to_df(kurt_braunohler)
         
     date_parser('\s\+0000$', kurt_braunohler)
     
@@ -2987,6 +3160,8 @@ def clean_kurt_braunohler(kurt_braunohler):
 
 
 def clean_steve_agee(steve_agee):
+
+    steve_agee = xml_to_df(steve_agee)
         
     date_parser('\sGMT$', steve_agee)
     
@@ -3018,6 +3193,8 @@ def clean_steve_agee(steve_agee):
 
 
 def clean_jon_gabrus(jon_gabrus):
+
+    jon_gabrus = xml_to_df(jon_gabrus)
         
     date_parser('\s\-0000$', jon_gabrus)
     
@@ -3039,6 +3216,8 @@ def clean_jon_gabrus(jon_gabrus):
     return jon_gabrus
 
 def clean_x_files(x_files):
+
+    x_files = xml_to_df(x_files)
         
     date_parser('\sGMT$', x_files)
     
@@ -3067,6 +3246,8 @@ def clean_x_files(x_files):
 
 
 def clean_jonathan_van_ness(jonathan_van_ness):
+
+    jonathan_van_ness = xml_to_df(jonathan_van_ness)
         
     date_parser('\s\+0000$', jonathan_van_ness)
     
@@ -3100,6 +3281,8 @@ def clean_jonathan_van_ness(jonathan_van_ness):
 
 
 def clean_hollywood_handbook(hollywood_handbook):
+
+    hollywood_handbook = xml_to_df(hollywood_handbook)
         
     date_parser('\s\-0[78]00$', hollywood_handbook)
     
@@ -3115,6 +3298,8 @@ def clean_hollywood_handbook(hollywood_handbook):
 
 
 def clean_rupaul(rupaul):
+
+    rupaul = xml_to_df(rupaul)
         
     date_parser('\s\+0000$', rupaul)
     
@@ -3149,6 +3334,8 @@ def clean_rupaul(rupaul):
 
 
 def clean_shane_dawson(shane_dawson):
+
+    shane_dawson = xml_to_df_desc(shane_dawson)
         
     date_parser('\s\+0000$', shane_dawson)
     
@@ -3180,6 +3367,8 @@ def clean_shane_dawson(shane_dawson):
 
 
 def clean_grace_helbig(grace_helbig):
+
+    grace_helbig = xml_to_df(grace_helbig)
         
     date_parser('\s\-0000$', grace_helbig)
     
@@ -3214,6 +3403,8 @@ def clean_grace_helbig(grace_helbig):
 
 
 def clean_think_again(think_again):
+
+    think_again = xml_to_df(think_again)
         
     date_parser('\s\-0000$', think_again)
     
@@ -3236,6 +3427,8 @@ def clean_think_again(think_again):
 
 
 def clean_rationally_speaking(rationally_speaking):
+
+    rationally_speaking = xml_to_df(rationally_speaking)
         
     date_parser('\s\-0[45]00$', rationally_speaking)
     
@@ -3261,6 +3454,8 @@ def clean_rationally_speaking(rationally_speaking):
 
 
 def clean_skepticality(skepticality):
+
+    skepticality = xml_to_df_desc(skepticality)
         
     date_parser('\s\+0000$', skepticality)
     
@@ -3314,6 +3509,8 @@ def clean_skepticality(skepticality):
 
 
 def clean_friendly_atheist(friendly_atheist):
+
+    friendly_atheist = xml_to_df(friendly_atheist)
         
     date_parser('\s\+0000$', friendly_atheist)
     
@@ -3348,6 +3545,8 @@ def clean_friendly_atheist(friendly_atheist):
 
 
 def clean_katie_couric(katie_couric):
+
+    katie_couric = xml_to_df(katie_couric)
         
     date_parser('\s\-0000$', katie_couric)
     
@@ -3382,6 +3581,8 @@ def clean_katie_couric(katie_couric):
 
 
 def clean_etl(etl):
+
+    etl = xml_to_df(etl)
         
     date_parser('\s\-0[45]00$', etl)
     
@@ -3402,6 +3603,8 @@ def clean_etl(etl):
 
 
 def clean_ezra_klein(ezra_klein):
+
+    ezra_klein = xml_to_df(ezra_klein)
         
     date_parser('\s\-0000$', ezra_klein)
     
@@ -3432,6 +3635,8 @@ def clean_ezra_klein(ezra_klein):
 
 
 def clean_john_gruber(john_gruber):
+
+    john_gruber = xml_to_df(john_gruber)
         
     date_parser('\sE[DS]T$|\s\+0000', john_gruber)
     
@@ -3455,6 +3660,8 @@ def clean_john_gruber(john_gruber):
 
 
 def clean_shane_mauss(shane_mauss):
+
+    shane_mauss = xml_to_df_summ(shane_mauss)
     
     shane_mauss['episode'] = len(shane_mauss) - shane_mauss.index
         
@@ -3511,6 +3718,8 @@ def clean_shane_mauss(shane_mauss):
 
 
 def clean_double_date(double_date):
+
+    double_date = xml_to_df(double_date)
         
     date_parser('\s\+0000', double_date)
     
@@ -3531,6 +3740,8 @@ def clean_double_date(double_date):
 
 
 def clean_zach_leary(zach_leary):
+
+    zach_leary = xml_to_df(zach_leary)
         
     date_parser('\s\+0000', zach_leary)
     
@@ -3564,6 +3775,8 @@ def clean_zach_leary(zach_leary):
 
 
 def clean_cory_allen(cory_allen):
+
+    cory_allen = xml_to_df(cory_allen)
         
     date_parser('\s\+0000', cory_allen)
     
@@ -3593,6 +3806,8 @@ def clean_cory_allen(cory_allen):
 
 
 def clean_raghu_markus(raghu_markus):
+
+    raghu_markus = xml_to_df(raghu_markus)
         
     date_parser('\s\-0000', raghu_markus)
     
@@ -3638,6 +3853,8 @@ def clean_raghu_markus(raghu_markus):
 
 
 def clean_chris_grosso(chris_grosso):
+
+    chris_grosso = xml_to_df(chris_grosso)
         
     date_parser('\s\-0000', chris_grosso)
     
@@ -3657,6 +3874,8 @@ def clean_chris_grosso(chris_grosso):
 
 
 def clean_london_real(london_real):
+
+    london_real = xml_to_df(london_real)
         
     date_parser('\s\+0000', london_real)
     
@@ -3679,6 +3898,8 @@ def clean_london_real(london_real):
 
 
 def clean_onnit(onnit):
+
+    onnit = xml_to_df(onnit)
         
     date_parser('\s\-0000', onnit)
     
@@ -3711,6 +3932,8 @@ def clean_onnit(onnit):
 
 
 def clean_festival_of_sports(festival_of_sports):
+
+    festival_of_sports = xml_to_df(festival_of_sports)
         
     date_parser('\s\+0000', festival_of_sports)
     
@@ -3737,6 +3960,8 @@ def clean_festival_of_sports(festival_of_sports):
 
 
 def clean_brody_stevens(brody_stevens):
+
+    brody_stevens = xml_to_df(brody_stevens)
         
     date_parser('\sGMT', brody_stevens)
     
@@ -3778,6 +4003,8 @@ def clean_brody_stevens(brody_stevens):
 
 
 def clean_wwdtm(wwdtm):
+
+    wwdtm = xml_to_df(wwdtm)
         
     date_parser('\s\-0[45]00$', wwdtm)
     
@@ -3793,6 +4020,8 @@ def clean_wwdtm(wwdtm):
 
 
 def clean_superego(superego):
+
+    superego = xml_to_df_desc(superego)
         
     date_parser('\s\-0[78]00$', superego)
     
@@ -3816,6 +4045,8 @@ def clean_superego(superego):
 
 
 def clean_dan_savage(dan_savage):
+
+    dan_savage = xml_to_df_desc(dan_savage)
         
     date_parser('\s\+0000$', dan_savage)
     
@@ -3886,6 +4117,8 @@ def clean_dan_savage(dan_savage):
 
 
 def clean_tom_rhodes(tom_rhodes):
+
+    tom_rhodes = xml_to_df(tom_rhodes)
         
     date_parser('\s\+0000', tom_rhodes)
     
@@ -3917,6 +4150,8 @@ def clean_tom_rhodes(tom_rhodes):
 
 
 def clean_full_charge(full_charge):
+
+    full_charge = xml_to_df(full_charge)
         
     date_parser('\s\+0000', full_charge)
     
@@ -3943,6 +4178,8 @@ def clean_full_charge(full_charge):
 
 
 def clean_brandt_tobler(brandt_tobler):
+
+    brandt_tobler = xml_to_df(brandt_tobler)
         
     date_parser('\s\+0000', brandt_tobler)
     
@@ -3968,6 +4205,8 @@ def clean_brandt_tobler(brandt_tobler):
 
 
 def clean_steve_simeone(steve_simeone):
+
+    steve_simeone = xml_to_df(steve_simeone)
         
     date_parser('\s\+0000', steve_simeone)
     
@@ -3991,8 +4230,10 @@ def clean_steve_simeone(steve_simeone):
 
 
 def clean_johnny_pemberton(johnny_pemberton):
+
+    johnny_pemberton = xml_to_df(johnny_pemberton)
         
-    date_parser('\sGMT', johnny_pemberton)
+    date_parser('\s\-0000', johnny_pemberton)
     
     johnny_pemberton['guests'] = johnny_pemberton.title.str.extract(r'with ([\w\s\.\,\'\`\’\&\"\-\‘]+)',expand=True)
 
@@ -4027,6 +4268,8 @@ def clean_johnny_pemberton(johnny_pemberton):
 
 
 def clean_live_to_tape(live_to_tape):
+
+    live_to_tape = xml_to_df(live_to_tape)
         
     date_parser('\s\-0000', live_to_tape)
     
@@ -4064,6 +4307,8 @@ def clean_live_to_tape(live_to_tape):
 
 
 def clean_jay_mohr(jay_mohr):
+
+    jay_mohr = xml_to_df(jay_mohr)
         
     date_parser('\sP[SD]T$', jay_mohr)
     
@@ -4084,6 +4329,8 @@ def clean_jay_mohr(jay_mohr):
 
 
 def clean_pony_hour(pony_hour):
+
+    pony_hour = xml_to_df(pony_hour)
         
     date_parser('\s\+0000$', pony_hour)
     
@@ -4106,6 +4353,8 @@ def clean_pony_hour(pony_hour):
 
 
 def clean_jocko(jocko):
+
+    jocko = xml_to_df(jocko)
     
     jocko['episode'] = jocko.title.str.extract(r'(\d+): ',expand=True)
         
@@ -4178,6 +4427,8 @@ def clean_jocko(jocko):
 
 def clean_tim_ferriss(tim_ferriss):
 
+    tim_ferriss = xml_to_df_summ(tim_ferriss)
+
     tim_ferriss.replace(u"\u00A0", " ", regex=True, inplace=True)
     
     ## Set Episode numbers
@@ -4240,6 +4491,8 @@ def clean_tim_ferriss(tim_ferriss):
 
 
 def clean_star_talk(star_talk):
+
+    star_talk = xml_to_df(star_talk)
         
     date_parser('\s\+0000$', star_talk)
     
@@ -4274,6 +4527,8 @@ def clean_star_talk(star_talk):
 
 
 def clean_doug_stanhope(doug_stanhope):
+
+    doug_stanhope = xml_to_df_desc(doug_stanhope)
     
     doug_stanhope.replace(u"\u00A0", " ", regex=True, inplace=True)
         
@@ -4313,6 +4568,8 @@ def clean_doug_stanhope(doug_stanhope):
 
 
 def clean_bitch_sesh(bitch_sesh):
+
+    bitch_sesh = xml_to_df(bitch_sesh)
         
     date_parser('\s\-0[78]00$', bitch_sesh)
     
@@ -4333,6 +4590,8 @@ def clean_bitch_sesh(bitch_sesh):
 
 
 def clean_cam_rhea(cam_rhea):
+
+    cam_rhea = xml_to_df(cam_rhea)
         
     date_parser('\s\-0000$', cam_rhea)
     
@@ -4360,6 +4619,8 @@ def clean_cam_rhea(cam_rhea):
 
 
 def clean_snoop(snoop):
+
+    snoop = xml_to_df(snoop)
         
     date_parser('\s\+0000$', snoop)
     
@@ -4382,6 +4643,8 @@ def clean_snoop(snoop):
 
 
 def clean_andy_cohen(andy_cohen):
+
+    andy_cohen = xml_to_df(andy_cohen)
         
     date_parser('\s\-0000$', andy_cohen)
     
@@ -4410,6 +4673,8 @@ def clean_andy_cohen(andy_cohen):
 
 
 def clean_rap_radar(rap_radar):
+
+    rap_radar = xml_to_df(rap_radar)
         
     date_parser('\s\+0000$', rap_radar)
     
@@ -4432,6 +4697,8 @@ def clean_rap_radar(rap_radar):
 
 
 def clean_vlad_couch(vlad_couch):
+
+    vlad_couch = xml_to_df(vlad_couch)
         
     date_parser('\s\+0000$', vlad_couch)
     
@@ -4459,6 +4726,8 @@ def clean_vlad_couch(vlad_couch):
 
 
 def clean_allegedly(allegedly):
+
+    allegedly = xml_to_df(allegedly)
         
     date_parser('\s\+0000$', allegedly)
     
@@ -4483,6 +4752,8 @@ def clean_allegedly(allegedly):
 
 
 def clean_this_life(this_life):
+
+    this_life = xml_to_df(this_life)
         
     date_parser('\s\+0000$', this_life)
     
@@ -4523,6 +4794,8 @@ def clean_this_life(this_life):
 
 
 def clean_friends_like_these(friends_like_these):
+
+    friends_like_these = xml_to_df(friends_like_these)
         
     date_parser('\s\-0000$', friends_like_these)
     
@@ -4557,6 +4830,8 @@ def clean_friends_like_these(friends_like_these):
 
 
 def clean_axe_files(axe_files):
+
+    axe_files = xml_to_df(axe_files)
         
     date_parser('\s\-0000$', axe_files)
     
@@ -4570,6 +4845,8 @@ def clean_axe_files(axe_files):
 
 
 def clean_politically_reactive(politically_reactive):
+
+    politically_reactive = xml_to_df(politically_reactive)
         
     date_parser('\s\-0000$', politically_reactive)
     
@@ -4613,6 +4890,8 @@ def clean_politically_reactive(politically_reactive):
 
 
 def clean_james_altucher(james_altucher):
+
+    james_altucher = xml_to_df(james_altucher)
         
     date_parser('\s\+0000$', james_altucher)
     
@@ -4639,6 +4918,8 @@ def clean_james_altucher(james_altucher):
 
 
 def clean_bulletproof_radio(bulletproof_radio):
+
+    bulletproof_radio = xml_to_df(bulletproof_radio)
         
     date_parser('\s\-0000$', bulletproof_radio)
     
@@ -4683,6 +4964,8 @@ def clean_bulletproof_radio(bulletproof_radio):
 
 
 def clean_chris_kresser(chris_kresser):
+
+    chris_kresser = xml_to_df(chris_kresser)
         
     date_parser('\s\+0000$', chris_kresser)
     
@@ -4707,6 +4990,8 @@ def clean_chris_kresser(chris_kresser):
 
 
 def clean_ufc_unfiltered(ufc_unfiltered):
+
+    ufc_unfiltered = xml_to_df(ufc_unfiltered)
         
     date_parser('\s\-0000$', ufc_unfiltered)
     
@@ -4750,6 +5035,8 @@ def clean_ufc_unfiltered(ufc_unfiltered):
 
 
 def clean_dan_harris(dan_harris):
+
+    dan_harris = xml_to_df(dan_harris)
         
     date_parser('\sEDT$', dan_harris)
     
@@ -4775,6 +5062,8 @@ def clean_dan_harris(dan_harris):
 
 
 def clean_supersoul(supersoul):
+
+    supersoul = xml_to_df(supersoul)
         
     date_parser('\s\-0000$', supersoul)
     
