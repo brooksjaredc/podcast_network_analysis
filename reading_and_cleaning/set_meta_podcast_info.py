@@ -339,7 +339,7 @@ podcast_info.loc[67] = ['Dear Sugars', ['Cheryl Strayed', 'Steve Almond'], 'http
                         'clean_dear_sugars']
 
 podcast_info.loc[68] = ['The Bugle',  ['Andy Zaltzman'], 'http://feeds.thebuglepodcast.com/thebuglefeed',
-                        'https://f.prxu.org/thebugle/images/aade6bdb-65a2-4b2d-95fc-e0a89bc42f95/bugle_zag-1400.png',
+                        'https://pbs.twimg.com/profile_images/790620693536866304/6xMusIl3_400x400.jpg',
                         ['Comedy'], '',
                         'clean_bugle']
 
@@ -413,7 +413,7 @@ podcast_info.loc[81] = ['The Dead Authors Podcast', ['Paul F. Tompkins'], 'http:
                         'clean_dead_authors']
 
 podcast_info.loc[82] = ['The Bone Zone', ['Brendon Walsh', 'Randy Liedtke'], 'http://feeds.feedburner.com/TheBoneZone',
-                        'https://dl.dropboxusercontent.com/u/88962674/image.jpg',
+                        'https://cdn.shopify.com/s/files/1/2292/0133/products/A_BoneZone_640x640.jpg?v=1507318704',
                         ['Comedy'], 'Bonezone,Doorknockers,Leidtke,Bonehead,Brandon,drdavey,Brendon,Walsh,Randy,Liedtke,and,David,Johnson,Brian,Redban,Deathsquad,bonezone',
                         'clean_bone_zone']
 

@@ -21,6 +21,7 @@ for index, row in podcast_info.iterrows():
     #print(host_list)
     df1['hosts'] = host_list
     df1['podcast'] = row['Podcast Name']
+    df1['podcast_id']=index
     
     df = pd.concat([df, df1])
 

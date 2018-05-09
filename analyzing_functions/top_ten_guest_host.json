@@ -1,0 +1,102 @@
+[
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Joe Rogan",
+      "host_bool": true,
+      "host_podcast": "The Joe Rogan Experience",
+      "guest_podcast": "The Duncan Trussell Family Hour"
+    },
+    "pk": 0
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Duncan Trussell",
+      "host_bool": true,
+      "host_podcast": "The Duncan Trussell Family Hour",
+      "guest_podcast": "The Joe Rogan Experience"
+    },
+    "pk": 1
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Ari Shaffir",
+      "host_bool": true,
+      "host_podcast": "Ari Shaffir's Skeptic Tank",
+      "guest_podcast": "The Joe Rogan Experience"
+    },
+    "pk": 2
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Chris Hardwick",
+      "host_bool": true,
+      "host_podcast": "ID10T with Chris Hardwick",
+      "guest_podcast": "Jordan, Jesse GO!"
+    },
+    "pk": 3
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Jesse Thorn",
+      "host_bool": true,
+      "host_podcast": "Bullseye with Jesse Thorn",
+      "guest_podcast": "Alison Rosen Is Your New Best Friend"
+    },
+    "pk": 4
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Joey Diaz",
+      "host_bool": true,
+      "host_podcast": "The Church of What's Happening Now: With Joey Coco Diaz",
+      "guest_podcast": "The Joe Rogan Experience"
+    },
+    "pk": 5
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Alison Rosen",
+      "host_bool": true,
+      "host_podcast": "Alison Rosen Is Your New Best Friend",
+      "guest_podcast": "Jordan, Jesse GO!"
+    },
+    "pk": 6
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Bert Kreischer",
+      "host_bool": true,
+      "host_podcast": "Bertcast's podcast",
+      "guest_podcast": "The Joe Rogan Experience"
+    },
+    "pk": 7
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Jordan Morris",
+      "host_bool": true,
+      "host_podcast": "Jordan, Jesse GO!",
+      "guest_podcast": "The Indoor Kids with Kumail Nanjiani and Emily V. Gordon"
+    },
+    "pk": 8
+  },
+  {
+    "model": "main_app.People",
+    "fields": {
+      "name": "Christopher Ryan",
+      "host_bool": true,
+      "host_podcast": "Tangentially Speaking with Christopher Ryan",
+      "guest_podcast": "The Joe Rogan Experience"
+    },
+    "pk": 9
+  }
+]

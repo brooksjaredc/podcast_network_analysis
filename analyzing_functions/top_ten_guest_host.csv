@@ -1,0 +1,11 @@
+model	name	host_bool	host_podcast	guest_podcast
+"""model"":""main_app"", ""pk"":0, ""fields"""	Joe Rogan	True	The Joe Rogan Experience	The Duncan Trussell Family Hour
+"""model"":""main_app"", ""pk"":1, ""fields"""	Duncan Trussell	True	The Duncan Trussell Family Hour	The Joe Rogan Experience
+"""model"":""main_app"", ""pk"":2, ""fields"""	Ari Shaffir	True	Ari Shaffir's Skeptic Tank	The Joe Rogan Experience
+"""model"":""main_app"", ""pk"":3, ""fields"""	Chris Hardwick	True	ID10T with Chris Hardwick	Jordan, Jesse GO!
+"""model"":""main_app"", ""pk"":4, ""fields"""	Jesse Thorn	True	Bullseye with Jesse Thorn	Alison Rosen Is Your New Best Friend
+"""model"":""main_app"", ""pk"":5, ""fields"""	Joey Diaz	True	The Church of What's Happening Now: With Joey Coco Diaz	The Joe Rogan Experience
+"""model"":""main_app"", ""pk"":6, ""fields"""	Alison Rosen	True	Alison Rosen Is Your New Best Friend	Jordan, Jesse GO!
+"""model"":""main_app"", ""pk"":7, ""fields"""	Bert Kreischer	True	Bertcast's podcast	The Joe Rogan Experience
+"""model"":""main_app"", ""pk"":8, ""fields"""	Jordan Morris	True	Jordan, Jesse GO!	The Indoor Kids with Kumail Nanjiani and Emily V. Gordon
+"""model"":""main_app"", ""pk"":9, ""fields"""	Christopher Ryan	True	Tangentially Speaking with Christopher Ryan	The Joe Rogan Experience

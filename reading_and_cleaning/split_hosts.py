@@ -40,9 +40,14 @@ split_hosts.to_csv('split_hosts.csv', sep='\t')
 
 
 
+guest_durations_podcast = df1.groupby(['podcast', 'podcast_id', 'guests'])['duration'].sum()
+guest_durations_podcast = guest_durations_podcast.reset_index()
 
+# guest_recent_date = df1.groupby(['podcast', 'podcast_id', 'guests'])['duration'].sum()
+# guest_recent_date = guest_recent_date.reset_index()
 
 guest_durations = split_hosts.groupby(['hosts', 'guests'])['duration'].sum()
 guest_durations = guest_durations.reset_index()
 
 guest_durations.to_csv('guest_durations.csv', sep='\t')
+guest_durations_podcast.to_csv('guest_durations_podcast.csv', sep='\t')

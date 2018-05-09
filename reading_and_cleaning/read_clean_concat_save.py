@@ -805,6 +805,23 @@ df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
 df['guests'] = [g.rstrip() for g in df['guests']]
 df['guests'] = [g.lstrip() for g in df['guests']]
 
+df['podcast_id'] = ''
+
+podcast_info = pd.read_csv('meta_podcast_info.csv', sep='\t', index_col=0)
+d = {}
+for index, row in podcast_info.iterrows():
+	d[row['Podcast Name']]=index-1
+
+print(d)
+
+for index1, row1 in df.iterrows():
+	print(row1['podcast'], d[row1['podcast']])
+	df.at[index1, 'podcast_id']=d[row1['podcast']]
+	# row1['podcast_id']=d[row1['podcast']]
+
+print(df['podcast_id'])
+
+
 df.to_csv('cleaned_podcasts.csv', sep='\t')
 
 

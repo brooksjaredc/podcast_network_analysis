@@ -1,8 +1,12 @@
 import pandas as pd
 
+podcast_info = pd.read_csv('../reading_and_cleaning/meta_podcast_info.csv', sep='\t', index_col=0)
+df = pd.read_csv('../reading_and_cleaning/guest_host_cleaned_podcasts.csv', sep='\t', index_col=0)
 
 podcast_similarities = pd.DataFrame(columns=['podcast1', 'podcast2', 'score'])
 
+num = len(podcast_info)
+index=0
 for index1, row1 in podcast_info.iterrows():
     summ=0
     df1 = df[df['podcast'] == row1['Podcast Name']]
@@ -19,9 +23,9 @@ for index1, row1 in podcast_info.iterrows():
             for index4, row4 in guest_durations2.iterrows():
                 if(row3['guests'] == row4['guests']):
                     summ += row3['duration']*row4['duration']
-        print(row1['Podcast Name'], row2['Podcast Name'], summ)
-        index3 = index1+index2
-        podcast_similarities.loc[index3] = [row1['Podcast Name'], row2['Podcast Name'], summ]
+        index+=1
+        print(index, row1['Podcast Name'], row2['Podcast Name'], summ)
+        podcast_similarities.loc[index] = [row1['Podcast Name'], row2['Podcast Name'], summ]
 
 
 podcast_similarities.to_csv('podcast_similarities.csv', sep='\t')
