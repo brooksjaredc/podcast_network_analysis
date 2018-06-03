@@ -2,6 +2,29 @@ import numpy as np
 import pandas as pd
 import networkx as nx
 from nltk import jaccard_distance
+import pickle
+
+def save_obj(obj, name ):
+    with open(name + '.pkl', 'wb') as f:
+        pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
+
+def splitDataFrameList(df,target_column,separator):
+    ''' df = dataframe to split,
+    target_column = the column containing the values to split
+    separator = the symbol used to perform the split
+    returns: a dataframe with each entry for the target column separated, with each element moved into a new row. 
+    The values in the other columns are duplicated across the newly divided rows.
+    '''
+    def splitListToRows(row,row_accumulator,target_column,separator):
+        split_row = row[target_column].split(separator)
+        for s in split_row:
+            new_row = row.to_dict()
+            new_row[target_column] = s
+            row_accumulator.append(new_row)
+    new_rows = []
+    df.apply(splitListToRows,axis=1,args = (new_rows,target_column,separator))
+    new_df = pd.DataFrame(new_rows)
+    return new_df
 
 def ngrams_split(lst, n):
     counts = dict()
@@ -49,26 +72,67 @@ def word_search(target, words):
 
 
 
-
+podcast_info = pd.read_csv('../reading_and_cleaning/meta_podcast_info.csv', sep='\t', index_col=0)
 df1 = pd.read_csv('../reading_and_cleaning/guest_host_cleaned_podcasts.csv', sep='\t', index_col=0)
+
+d = {}
+for index, row in podcast_info.iterrows():
+    d[row['Podcast Name']]=index-1
+
+save_obj(d, 'podcast_id')
 
 df1['attr'] = 'guest'
 
+# df1['link'] = ''
+
+# for index1, row1 in df1.iterrows():
+    # df1.at[index1, 'link']= '<a href="/podcasts/' + str(d[row1['podcast']]) + '/">' + row1['podcast'] + "</a>"
+
 G3 = nx.from_pandas_dataframe(df1, 'guests', 'podcast', edge_attr=['date', 'duration', 'attr'], create_using=nx.Graph())
 
+
+
+# podcast_info['link'] = '<a href="/podcasts/' + str(podcast_info.index - 1) + '/">' + podcast_info['Podcast Name'] + "</a>"
+
+# podcast_info['link'] = ''
+# for index1, row1 in podcast_info.iterrows():
+#     podcast_info.at[index1, 'link']='<a href="/podcasts/' + str(index1 - 1) + '/">' + row1['Podcast Name'] + "</a>"
+
+# print(podcast_info['link'][1])
+
 podcast_info_split = splitDataFrameList(podcast_info, 'Hosts', ', ')
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.rstrip("'") for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.rstrip('"') for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.rstrip(']') for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.rstrip("'") for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.lstrip('"') for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.lstrip('[') for g in podcast_info_split['Hosts']]
-podcast_info_split['Hosts'] = podcast_info_split['Hosts'] = [g.lstrip("'") for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.rstrip("'") for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.rstrip('"') for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.rstrip(']') for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.rstrip("'") for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.lstrip('"') for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.lstrip('[') for g in podcast_info_split['Hosts']]
+podcast_info_split['Hosts'] = [g.lstrip("'") for g in podcast_info_split['Hosts']]
 
 podcast_info_split['attr'] = 'host'
+
+
+
 G4 = nx.from_pandas_dataframe(podcast_info_split, 'Podcast Name', 'Hosts', edge_attr=['attr'], create_using=nx.Graph())
 
 G3.add_edges_from(G4.edges(data=True))
+
+
+nx.write_edgelist(G3, "six_degrees.edgelist", delimiter='\t')
+
+import csv
+
+G3 = nx.read_edgelist("six_degrees.edgelist", delimiter='\t')
+
+correct_spellings = []
+with open("correct_spellings.csv", 'r') as my_file:
+    reader = csv.reader(my_file, delimiter='\t')
+    for row in reader:
+        correct_spellings.append(row[0])
+
+# print(correct_spellings)
+
+#print(G3.nodes()[0],G3.nodes()[1])
 
 def six_degrees(node1, node2):
     
@@ -115,4 +179,4 @@ def six_degrees(node1, node2):
 
     return message
 
-
+print(six_degrees('Steve-O', 'Ari Shaffir'))

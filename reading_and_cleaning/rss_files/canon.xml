@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://rss.earwolf.com/the-canon" rel="self" type="application/rss+xml"/>
+		<title>The Canon</title>
+		<link><![CDATA[https://art19.com/shows/the-canon]]></link>
+		<description>Film critics Devin Faraci (BIRTH. MOVIES. DEATH.) and Amy Nicholson (MTV News) have a weekly conversation about if a film is worthy to enter the Canon. They will put it up to fan vote at the end of the show, and the legacy of each movie will be officially decided forevermore. [This show is currently on hiatus]. Looking for the archives? All episodes older than 6 months can be found exclusively on Howl.FM, ad-free. Use promo code ‘Earwolf’ for a 30-day free trial.</description>
+		<language>en-us</language>
+		<copyright><![CDATA[All rights reserved]]></copyright>
+		<managingEditor>rss@earwolf.com (Earwolf)</managingEditor>
+		<pubDate>Fri, 18 May 2018 05:32:45 -0700</pubDate>
+		<lastBuildDate>Fri, 18 May 2018 05:32:45 -0700</lastBuildDate>
+		<generator>Dead Wolf Reanimator v1.0</generator>
+		<docs>http://www.earwolf.com</docs>
+		<itunes:author>Earwolf and Amy Nicholson</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:image href="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Earwolf</itunes:name>
+			<itunes:email>rss@earwolf.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary>Film critics Devin Faraci (BIRTH. MOVIES. DEATH.) and Amy Nicholson (MTV News) have a weekly conversation about if a film is worthy to enter the Canon. They will put it up to fan vote at the end of the show, and the legacy of each movie will be officially decided forevermore. [This show is currently on hiatus]. Looking for the archives? All episodes older than 6 months can be found exclusively on Howl.FM, ad-free. Use promo code ‘Earwolf’ for a 30-day free trial.</itunes:summary>
+		<image>
+			<url>https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg</url>
+			<title>The Canon</title>
+			<link><![CDATA[https://art19.com/shows/the-canon]]></link>
+		</image>
+		<item>
+			<title>Introducing Unspooled</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/e49b10e7-fad5-4547-9cf6-d6a8e2328318]]></link>
+			<description>Here’s a preview of Unspooled, a new podcast where Amy teams up with Paul Scheer to watch the all time great films on AFI’s top 100 list. Episode 1: Citizen Kane is out right now.
+
+
+
+
+
+
+
+Check out Unspooled in Apple Podcasts: www.applepodcasts.com/unspooled</description>
+			<content:encoded><![CDATA[<p>Here’s a preview of Unspooled, a new podcast where Amy teams up with Paul Scheer to watch the all time great films on AFI’s top 100 list. Episode 1: Citizen Kane is out right now.</p><p><br></p><p><br></p><p>Check out Unspooled in Apple Podcasts: <a href="https://www.applepodcasts.com/unspooled" target="_blank">www.applepodcasts.com/unspooled</a></p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/NsCwfKtyrDS4fCNOCiiCX5AMiNKyswIevQ2I3ajZ6c0]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Thu, 17 May 2018 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>155</itunes:episode>
+			<itunes:title>Introducing Unspooled</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Here’s a preview of Unspooled, a new podcast where Amy teams up with Paul Scheer to watch the all time great films on AFI’s top 100 list. Episode 1: Citizen Kane is out right now.
+
+
+
+
+
+
+
+Check out Unspooled in Apple Podcasts...</itunes:subtitle>
+			<itunes:summary>Here’s a preview of Unspooled, a new podcast where Amy teams up with Paul Scheer to watch the all time great films on AFI’s top 100 list. Episode 1: Citizen Kane is out right now.
+
+
+
+
+
+
+
+Check out Unspooled in Apple Podcasts: www.applepodcasts.com/unspooled</itunes:summary>
+			<itunes:duration>00:08:41</itunes:duration>
+			<enclosure length="8337867" type="audio/mpeg" url="http://rss.art19.com/episodes/e49b10e7-fad5-4547-9cf6-d6a8e2328318.mp3" />
+		</item>
+		<item>
+			<title>154 Infernal Affairs vs. The Departed (w/ Andrew Ti)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/64b304c6-a18e-4c7e-9da8-9d93c1b8ba8a]]></link>
+			<description>Andrew Ti (Yo, Is This Racist?) joins Amy this week to pit the 2002 Hong Kong crime-thriller “Infernal Affairs” against it’s Scorsese-directed 2006 remake “The Departed.” They discuss the Hong Kong identity, the operatic inspiration of “Infernal Affairs,” and both films’ hidden symbolism. Plus, they compare the films’ respective criminals before making their final cases as to which film should enter The Canon. Should “Infernal Affairs” or “The Departed” go down as one of the all-time greats? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>Andrew Ti (Yo, Is This Racist?) joins Amy this week to pit the 2002 Hong Kong crime-thriller “Infernal Affairs” against it’s Scorsese-directed 2006 remake “The Departed.” They discuss the Hong Kong identity, the operatic inspiration of “Infernal Affairs,” and both films’ hidden symbolism. Plus, they compare the films’ respective criminals before making their final cases as to which film should enter The Canon. Should “Infernal Affairs” or “The Departed” go down as one of the all-time greats? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/6dC20rvetUvy6lICRqY9cNKcD6SHFFBV9aUyRbhjklw]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 13 May 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>154</itunes:episode>
+			<itunes:title>154 Infernal Affairs vs. The Departed (w/ Andrew Ti)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Andrew Ti (Yo, Is This Racist?) joins Amy this week to pit the 2002 Hong Kong crime-thriller “Infernal Affairs” against it’s Scorsese-directed 2006 remake “The Departed.” They discuss the Hong Kong identity, the operatic inspiration of...</itunes:subtitle>
+			<itunes:summary>Andrew Ti (Yo, Is This Racist?) joins Amy this week to pit the 2002 Hong Kong crime-thriller “Infernal Affairs” against it’s Scorsese-directed 2006 remake “The Departed.” They discuss the Hong Kong identity, the operatic inspiration of “Infernal Affairs,” and both films’ hidden symbolism. Plus, they compare the films’ respective criminals before making their final cases as to which film should enter The Canon. Should “Infernal Affairs” or “The Departed” go down as one of the all-time greats? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:08:40</itunes:duration>
+			<enclosure length="65922194" type="audio/mpeg" url="http://rss.art19.com/episodes/64b304c6-a18e-4c7e-9da8-9d93c1b8ba8a.mp3" />
+		</item>
+		<item>
+			<title>153 Cry Uncle! (w/ Lloyd Kaufman)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/d63289c8-0992-4d4c-aea2-783b96ba8c4b]]></link>
+			<description>Renowned filmmaker Lloyd Kaufman (Troma Entertainment) joins Amy to discuss the 1971 comedy “Cry Uncle!” Lloyd talks about his work as a production manager on the film as well as the auteur style of director John G. Avildsen. Plus, we hear about the film&apos;s brand of modern feminism, Lloyd’s cameo in “Rocky,” and the puritanism of American cinema. Does &quot;Cry Uncle!&quot; belong in The Canon? Go to the Earwolf forums to cast your vote now!</description>
+			<content:encoded><![CDATA[<p>Renowned filmmaker Lloyd Kaufman (Troma Entertainment) joins Amy to discuss the 1971 comedy “Cry Uncle!” Lloyd talks about his work as a production manager on the film as well as the auteur style of director John G. Avildsen. Plus, we hear about the film's brand of modern feminism, Lloyd’s cameo in “Rocky,” and the puritanism of American cinema. Does "Cry Uncle!" belong in The Canon? Go to the Earwolf forums to cast your vote now!</p><p><br></p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/uKrQb1KjmDGRhimA7_gaClWgAn1UZdqaD58DzF-Ps_I]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 06 May 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>153</itunes:episode>
+			<itunes:title>153 Cry Uncle! (w/ Lloyd Kaufman)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Renowned filmmaker Lloyd Kaufman (Troma Entertainment) joins Amy to discuss the 1971 comedy “Cry Uncle!” Lloyd talks about his work as a production manager on the film as well as the auteur style of director John G. Avildsen. Plus, we hear about...</itunes:subtitle>
+			<itunes:summary>Renowned filmmaker Lloyd Kaufman (Troma Entertainment) joins Amy to discuss the 1971 comedy “Cry Uncle!” Lloyd talks about his work as a production manager on the film as well as the auteur style of director John G. Avildsen. Plus, we hear about the film&apos;s brand of modern feminism, Lloyd’s cameo in “Rocky,” and the puritanism of American cinema. Does &quot;Cry Uncle!&quot; belong in The Canon? Go to the Earwolf forums to cast your vote now!</itunes:summary>
+			<itunes:duration>01:28:34</itunes:duration>
+			<enclosure length="85035049" type="audio/mpeg" url="http://rss.art19.com/episodes/d63289c8-0992-4d4c-aea2-783b96ba8c4b.mp3" />
+		</item>
+		<item>
+			<title>152 The Breakfast Club (w/ Christy Lemire)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/a1f57c4b-86e1-4ab9-a424-65ea0a054a77]]></link>
+			<description>This week, film critic Christy Lemire joins Amy to discuss the 1985 John Hughes film “The Breakfast Club.” They’ll touch on the film’s nostalgia appeal, its interesting individual character arcs, and the parental issues of the main characters. Plus, they find out where the cast is now and examine the dynamic between Emilio Estevez’s Andy and Molly Ringwald’s Claire. Does “The Breakfast Club” deserve a spot in The Canon? Head to the Earwolf forums now to cast your vote!
+
+This episode is sponsored by Mack Weldon (www.mackweldon.com code: CANON).</description>
+			<content:encoded><![CDATA[<p>This week, film critic Christy Lemire joins Amy to discuss the 1985 John Hughes film “The Breakfast Club.” They’ll touch on the film’s nostalgia appeal, its interesting individual character arcs, and the parental issues of the main characters. Plus, they find out where the cast is now and examine the dynamic between Emilio Estevez’s Andy and Molly Ringwald’s Claire. Does “The Breakfast Club” deserve a spot in The&nbsp;Canon? Head to the Earwolf forums now to cast your vote!</p><p>This episode is sponsored by Mack Weldon (<a href="http://www.mackweldon.com" target="_blank">www.mackweldon.com</a> code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/i8PJvGkT7L91hMQ4Bz9r4VdXaQdKlRf35sCKFtCwvB0]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 29 Apr 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>152</itunes:episode>
+			<itunes:title>152 The Breakfast Club (w/ Christy Lemire)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>This week, film critic Christy Lemire joins Amy to discuss the 1985 John Hughes film “The Breakfast Club.” They’ll touch on the film’s nostalgia appeal, its interesting individual character arcs, and the parental issues of the main characters...</itunes:subtitle>
+			<itunes:summary>This week, film critic Christy Lemire joins Amy to discuss the 1985 John Hughes film “The Breakfast Club.” They’ll touch on the film’s nostalgia appeal, its interesting individual character arcs, and the parental issues of the main characters. Plus, they find out where the cast is now and examine the dynamic between Emilio Estevez’s Andy and Molly Ringwald’s Claire. Does “The Breakfast Club” deserve a spot in The Canon? Head to the Earwolf forums now to cast your vote!
+
+This episode is sponsored by Mack Weldon (www.mackweldon.com code: CANON).</itunes:summary>
+			<itunes:duration>01:21:30</itunes:duration>
+			<enclosure length="78242377" type="audio/mpeg" url="http://rss.art19.com/episodes/a1f57c4b-86e1-4ab9-a424-65ea0a054a77.mp3" />
+		</item>
+		<item>
+			<title>151 The Exorcist vs. The Exorcist III (w/ Thomas Lennon)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/2e9536a5-5142-4dd2-972c-300773a9d125]]></link>
+			<description>Actor and filmmaker Thomas Lennon joins Amy live from Overlook Film Festival to pit the 1973 horror film “The Exorcist” against its 1990 sequel “The Exorcist III.” They discuss how the films use sound design to scare, the true story behind the exorcism, and why “The Exorcist III” is the best threequel of all time. Plus, we get insights about both films from the audience before Amy and Thomas make their final cases for which film should enter The Canon. Should “The Exorcist” or “The Exorcist III” go down as one of the all-time horror greats? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>Actor and filmmaker Thomas Lennon joins Amy live from Overlook Film Festival to pit the 1973 horror film “The Exorcist” against its 1990 sequel “The Exorcist III.” They discuss how the films use sound design to scare, the true story behind the exorcism, and why “The Exorcist III” is the best threequel&nbsp;of all time. Plus, we get insights about both films from the audience before Amy and Thomas make their final cases for which film should enter The Canon. Should “The Exorcist” or “The Exorcist III” go down as one of the all-time horror greats? Cast your vote on the Earwolf forums now!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/Up24maERz78V-pJwGVlJ98BvNBZqO9IpkCl1TPonxsI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 22 Apr 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>151</itunes:episode>
+			<itunes:title>151 The Exorcist vs. The Exorcist III (w/ Thomas Lennon)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Actor and filmmaker Thomas Lennon joins Amy live from Overlook Film Festival to pit the 1973 horror film “The Exorcist” against its 1990 sequel “The Exorcist III.” They discuss how the films use sound design to scare, the true story behind the...</itunes:subtitle>
+			<itunes:summary>Actor and filmmaker Thomas Lennon joins Amy live from Overlook Film Festival to pit the 1973 horror film “The Exorcist” against its 1990 sequel “The Exorcist III.” They discuss how the films use sound design to scare, the true story behind the exorcism, and why “The Exorcist III” is the best threequel of all time. Plus, we get insights about both films from the audience before Amy and Thomas make their final cases for which film should enter The Canon. Should “The Exorcist” or “The Exorcist III” go down as one of the all-time horror greats? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:22:49</itunes:duration>
+			<enclosure length="79504613" type="audio/mpeg" url="http://rss.art19.com/episodes/2e9536a5-5142-4dd2-972c-300773a9d125.mp3" />
+		</item>
+		<item>
+			<title>150 The Avengers (w/ Jenelle Riley)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/6f379468-46c7-450f-a2f7-aa530121fa89]]></link>
+			<description>Screenwriter Jenelle Riley joins Amy to discuss the 2012 superhero movie “The Avengers.” They touch on the strengths of the main cast, the evolution of Marvel’s characters and storylines, and the prominent female stars. Plus, they dissect the film’s humorous beats and the small human moments among the spectacle. Should “The Avengers” be inducted into The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by Mack Weldon (www.mackweldon.com code: CANON).</description>
+			<content:encoded><![CDATA[<p>Screenwriter Jenelle Riley joins Amy to discuss the 2012 superhero movie “The Avengers.” They touch on the strengths of the main cast, the evolution of Marvel’s characters and storylines, and the prominent female stars. Plus, they dissect the film’s humorous beats and the small human moments among the spectacle. Should “The Avengers” be inducted into The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by Mack Weldon (<a href="http://www.mackweldon.com" target="_blank">www.mackweldon.com</a> code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ruiudpz04bYVGsyLGIkkd82JUjh3Cx5tUOUlTXjaqTY]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 16 Apr 2018 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>150</itunes:episode>
+			<itunes:title>150 The Avengers (w/ Jenelle Riley)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Screenwriter Jenelle Riley joins Amy to discuss the 2012 superhero movie “The Avengers.” They touch on the strengths of the main cast, the evolution of Marvel’s characters and storylines, and the prominent female stars. Plus, they dissect the...</itunes:subtitle>
+			<itunes:summary>Screenwriter Jenelle Riley joins Amy to discuss the 2012 superhero movie “The Avengers.” They touch on the strengths of the main cast, the evolution of Marvel’s characters and storylines, and the prominent female stars. Plus, they dissect the film’s humorous beats and the small human moments among the spectacle. Should “The Avengers” be inducted into The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by Mack Weldon (www.mackweldon.com code: CANON).</itunes:summary>
+			<itunes:duration>01:32:01</itunes:duration>
+			<enclosure length="88346958" type="audio/mpeg" url="http://rss.art19.com/episodes/6f379468-46c7-450f-a2f7-aa530121fa89.mp3" />
+		</item>
+		<item>
+			<title>149 Boomerang (w/ Marc Bernardin)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/8ebe4821-7461-40c6-a243-05e1c43f9e06]]></link>
+			<description>Writer and co-host of Fatman on Batman Marc Bernardin joins Amy to discuss the 1992 Eddie Murphy film &quot;Boomerang.&quot; They discuss the importance of the all-black cast, the powerful female characters, and the evolution of the Eddie Murphy identity. Plus, we’ll hear about Robin Givens’ strong performance and how “Boomerang” challenges the audience’s empathy. Does “Boomerang” deserve a spot in The Canon? Cast your vote on the Earwolf forums.</description>
+			<content:encoded><![CDATA[<p>Writer and co-host of <em>Fatman on Batman </em>Marc Bernardin joins Amy to discuss the 1992 Eddie Murphy film "Boomerang." They discuss the importance of the all-black cast, the powerful female characters, and the evolution of the Eddie Murphy identity. Plus, we’ll hear about Robin Givens’ strong performance and how “Boomerang” challenges the audience’s empathy. Does “Boomerang” deserve a spot in The Canon? Cast your vote on the Earwolf forums.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/RLBME00QmFoHaKznsAzvhfBegucvh_UpcDGHNyNWsTA]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 09 Apr 2018 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>149</itunes:episode>
+			<itunes:title>149 Boomerang (w/ Marc Bernardin)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Writer and co-host of Fatman on Batman Marc Bernardin joins Amy to discuss the 1992 Eddie Murphy film &quot;Boomerang.&quot; They discuss the importance of the all-black cast, the powerful female characters, and the evolution of the Eddie Murphy...</itunes:subtitle>
+			<itunes:summary>Writer and co-host of Fatman on Batman Marc Bernardin joins Amy to discuss the 1992 Eddie Murphy film &quot;Boomerang.&quot; They discuss the importance of the all-black cast, the powerful female characters, and the evolution of the Eddie Murphy identity. Plus, we’ll hear about Robin Givens’ strong performance and how “Boomerang” challenges the audience’s empathy. Does “Boomerang” deserve a spot in The Canon? Cast your vote on the Earwolf forums.</itunes:summary>
+			<itunes:duration>01:30:36</itunes:duration>
+			<enclosure length="86981485" type="audio/mpeg" url="http://rss.art19.com/episodes/8ebe4821-7461-40c6-a243-05e1c43f9e06.mp3" />
+		</item>
+		<item>
+			<title>148 Point Break (w/ Andrew Barker)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/50e75dc6-6f82-4e55-9030-6f904e0ebfb6]]></link>
+			<description>Writer Andrew Barker of Variety joins Amy to discuss the 1991 action thriller “Point Break.” They examine the film as an entrance to the 90s, the complex dynamic between Keanu Reeves and Patrick Swayze, and the greatness of character names like Johnny Utah before before getting into director Kathryn Bigelow’s strong understanding of male relationships. Does “Point Break” deserve a spot in The Canon? Head over to the Earwolf forums now to cast your vote!</description>
+			<content:encoded><![CDATA[<p><br></p><p>Writer Andrew Barker of Variety joins Amy to discuss the 1991 action thriller “Point Break.” They examine the film as an entrance to the 90s, the complex dynamic between Keanu Reeves and Patrick Swayze, and the greatness of character names like Johnny Utah before before getting into director Kathryn Bigelow’s strong understanding of male relationships. Does “Point Break” deserve a spot in The Canon? Head over to the Earwolf forums now to cast your vote!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/auz7WcOhUB7X9TkR644TRQqFJP7Fo2XHVwEkMQb_3bc]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 01 Apr 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>148</itunes:episode>
+			<itunes:title>148 Point Break (w/ Andrew Barker)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Writer Andrew Barker of Variety joins Amy to discuss the 1991 action thriller “Point Break.” They examine the film as an entrance to the 90s, the complex dynamic between Keanu Reeves and Patrick Swayze, and the greatness of character names like...</itunes:subtitle>
+			<itunes:summary>Writer Andrew Barker of Variety joins Amy to discuss the 1991 action thriller “Point Break.” They examine the film as an entrance to the 90s, the complex dynamic between Keanu Reeves and Patrick Swayze, and the greatness of character names like Johnny Utah before before getting into director Kathryn Bigelow’s strong understanding of male relationships. Does “Point Break” deserve a spot in The Canon? Head over to the Earwolf forums now to cast your vote!</itunes:summary>
+			<itunes:duration>01:25:24</itunes:duration>
+			<enclosure length="81990635" type="audio/mpeg" url="http://rss.art19.com/episodes/50e75dc6-6f82-4e55-9030-6f904e0ebfb6.mp3" />
+		</item>
+		<item>
+			<title>147 The Umbrellas of Cherbourg (w/ Jen Yamato)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/5c664aa4-0143-46e8-b7b4-e04963b7646c]]></link>
+			<description>LA Times writer Jen Yamato joins Amy this week to discuss the 1964 French-German romantic musical “The Umbrellas of Cherbourg.” They talk about the background of director Jacques Demy, the film’s focus on youthful romantic optimism, and how “The Umbrellas of Cherbourg” went against the tone of French cinema on its release. Plus, we’ll hear about the film’s use of color to reflect emotion and feeling as well as how it frames the ultimate tragedy of dreams that are destined to die. Should “The Umbrellas of Cherbourg” enter The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by FilmStruck.</description>
+			<content:encoded><![CDATA[<p>LA Times writer Jen Yamato joins Amy this week to discuss the 1964 French-German romantic musical “The Umbrellas of Cherbourg.” They talk about the background of director Jacques Demy, the film’s focus on youthful romantic optimism, and how “The Umbrellas of Cherbourg” went against the tone of French cinema on its release. Plus, we’ll hear about the film’s use of color to reflect emotion and feeling as well as how it frames the ultimate tragedy of dreams that are destined to die. Should “The Umbrellas of Cherbourg” enter The Canon? Head to the Earwolf forums now to cast your vote!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://FilmStruck.com" target="_blank">FilmStruck</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/LTCp2x036zx2va83wv0BSP_OUQB2EpC6DY0ZnelVMQ8]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 25 Mar 2018 21:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>147</itunes:episode>
+			<itunes:title>147 The Umbrellas of Cherbourg (w/ Jen Yamato)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>LA Times writer Jen Yamato joins Amy this week to discuss the 1964 French-German romantic musical “The Umbrellas of Cherbourg.” They talk about the background of director Jacques Demy, the film’s focus on youthful romantic optimism, and how...</itunes:subtitle>
+			<itunes:summary>LA Times writer Jen Yamato joins Amy this week to discuss the 1964 French-German romantic musical “The Umbrellas of Cherbourg.” They talk about the background of director Jacques Demy, the film’s focus on youthful romantic optimism, and how “The Umbrellas of Cherbourg” went against the tone of French cinema on its release. Plus, we’ll hear about the film’s use of color to reflect emotion and feeling as well as how it frames the ultimate tragedy of dreams that are destined to die. Should “The Umbrellas of Cherbourg” enter The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by FilmStruck.</itunes:summary>
+			<itunes:duration>01:28:07</itunes:duration>
+			<enclosure length="84596610" type="audio/mpeg" url="http://rss.art19.com/episodes/5c664aa4-0143-46e8-b7b4-e04963b7646c.mp3" />
+		</item>
+		<item>
+			<title>146 Punch-Drunk Love (w/ Emily Yoshida)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/1abcc91a-45dc-4dd4-a4c0-3d1393480343]]></link>
+			<description>This week, film critic and host of the podcast Night Call Emily Yoshida joins Amy to discuss the 2002 Paul Thomas Anderson film “Punch-Drunk Love.” They talk about the film’s stylized rage, the strange charm of Adam Sandler, the clever camerawork and costuming and the relationship between the two lead characters. Does “Punch-Drunk Love” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+This episode is sponsored by Filmstruck and Audible.</description>
+			<content:encoded><![CDATA[<p>This week, film critic and host of the podcast Night Call Emily Yoshida joins Amy to discuss the 2002 Paul Thomas Anderson film “Punch-Drunk Love.” They talk about the film’s stylized rage, the strange charm of Adam Sandler, the clever camerawork and costuming and the relationship between the two lead characters. Does “Punch-Drunk Love” belong in The Canon? Cast your vote on the Earwolf forums now!</p><p>This episode is sponsored by <a href="http://filmstruck.com" target="_blank">Filmstruck</a> and <a href="http://Audible.com/canon" target="_blank">Audible</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/OhVTYkqIY2naq2Fr3PQHEzEWwphx8JJfQV19vcR6mQU]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 19 Mar 2018 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>146</itunes:episode>
+			<itunes:title>146 Punch-Drunk Love (w/ Emily Yoshida)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>This week, film critic and host of the podcast Night Call Emily Yoshida joins Amy to discuss the 2002 Paul Thomas Anderson film “Punch-Drunk Love.” They talk about the film’s stylized rage, the strange charm of Adam Sandler, the clever camerawork...</itunes:subtitle>
+			<itunes:summary>This week, film critic and host of the podcast Night Call Emily Yoshida joins Amy to discuss the 2002 Paul Thomas Anderson film “Punch-Drunk Love.” They talk about the film’s stylized rage, the strange charm of Adam Sandler, the clever camerawork and costuming and the relationship between the two lead characters. Does “Punch-Drunk Love” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+This episode is sponsored by Filmstruck and Audible.</itunes:summary>
+			<itunes:duration>01:20:16</itunes:duration>
+			<enclosure length="77064150" type="audio/mpeg" url="http://rss.art19.com/episodes/1abcc91a-45dc-4dd4-a4c0-3d1393480343.mp3" />
+		</item>
+		<item>
+			<title>145 The Lost Boys (w/ Dallas Sonnier)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/d345add6-ff2a-4588-8521-3e0d6d52e150]]></link>
+			<description>Producer Dallas Sonnier joins Amy this week to discuss the 1987 Joel Schumacher film “The Lost Boys.” Amy and Dallas talk about the otherworldly portrayal of California, the look and fashion of the film, and the acting contributions of Jason Patric and Dianne Wiest. Plus, they note how attention to tiny details and the unusual structure of the film work in its favor. Should “The Lost Boys” find a place in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This epispode is sponsored by FilmStruck.</description>
+			<content:encoded><![CDATA[<p>Producer Dallas Sonnier joins Amy this week to discuss the 1987 Joel Schumacher film “The Lost Boys.” Amy and Dallas talk about the otherworldly portrayal of California, the look and fashion of the film, and the acting contributions of Jason Patric and Dianne Wiest. Plus, they note how attention to tiny details and the unusual structure of the film work in its favor. Should “The Lost Boys” find a place in The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p>This epispode is sponsored by <a href="http://FilmStruck.com" target="_blank">FilmStruck</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/Y8jhZVVNCjFBE4k7fDXEXag26QtqBI7or7NUxL68hSw]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 11 Mar 2018 22:48:39 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>145</itunes:episode>
+			<itunes:title>145 The Lost Boys (w/ Dallas Sonnier)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Producer Dallas Sonnier joins Amy this week to discuss the 1987 Joel Schumacher film “The Lost Boys.” Amy and Dallas talk about the otherworldly portrayal of California, the look and fashion of the film, and the acting contributions of Jason Patric...</itunes:subtitle>
+			<itunes:summary>Producer Dallas Sonnier joins Amy this week to discuss the 1987 Joel Schumacher film “The Lost Boys.” Amy and Dallas talk about the otherworldly portrayal of California, the look and fashion of the film, and the acting contributions of Jason Patric and Dianne Wiest. Plus, they note how attention to tiny details and the unusual structure of the film work in its favor. Should “The Lost Boys” find a place in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This epispode is sponsored by FilmStruck.</itunes:summary>
+			<itunes:duration>01:19:14</itunes:duration>
+			<enclosure length="76073169" type="audio/mpeg" url="http://rss.art19.com/episodes/d345add6-ff2a-4588-8521-3e0d6d52e150.mp3" />
+		</item>
+		<item>
+			<title>144 Fat Girl (w/ Ruben Östlund)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/5cfdeeaf-8dd2-4b93-bbae-dadcdb653fab]]></link>
+			<description>Ruben Östlund, director of Best Foreign Language Film nominee “The Square” joins Amy this week to discuss the 2001 French drama “Fat Girl.” They talk about the controversy surrounding the film’s title and its sexual themes, the relationship between the characters of Anais and Elena, and shocking ending before making their final cases. Does “Fat Girl” belong in The Canon? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>Ruben Östlund, director of Best Foreign Language Film nominee “The Square” joins Amy this week to discuss the 2001 French drama “Fat Girl.” They talk about the controversy surrounding the film’s title and its sexual themes, the relationship between the characters of Anais and Elena, and shocking ending before making their final cases. Does “Fat Girl” belong in The Canon? Cast your vote on the Earwolf forums now!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ZEetU9Mb792Hdehu92yTTQ8263HEvU9SUbelBoDXmdw]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 05 Mar 2018 11:14:29 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>144</itunes:episode>
+			<itunes:title>144 Fat Girl (w/ Ruben Östlund)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Ruben Östlund, director of Best Foreign Language Film nominee “The Square” joins Amy this week to discuss the 2001 French drama “Fat Girl.” They talk about the controversy surrounding the film’s title and its sexual themes, the relationship...</itunes:subtitle>
+			<itunes:summary>Ruben Östlund, director of Best Foreign Language Film nominee “The Square” joins Amy this week to discuss the 2001 French drama “Fat Girl.” They talk about the controversy surrounding the film’s title and its sexual themes, the relationship between the characters of Anais and Elena, and shocking ending before making their final cases. Does “Fat Girl” belong in The Canon? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:13:04</itunes:duration>
+			<enclosure length="70151105" type="audio/mpeg" url="http://rss.art19.com/episodes/5cfdeeaf-8dd2-4b93-bbae-dadcdb653fab.mp3" />
+		</item>
+		<item>
+			<title>143 Gladiator vs. Crouching Tiger, Hidden Dragon (w/ Russ Fischer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/38828b27-2ffe-457a-a41b-12b6233c3e77]]></link>
+			<description>Amy and Russ close out Oscar Movie Month this week with the 2001 Best Picture winner and nominee respectively, Ridley Scott’s “Gladiator” vs. Ang Lee’s “Crouching Tiger, Hidden Dragon.” They break down the spectacle of “Gladiator,” noting the formula that brought it the Best Picture award plus Joaquin Phoenix’s stellar performance. Then, they discuss the game-changing action sequences of “Crouching Tiger, Hidden Dragon” as well as its main character’s imperfections and how it brought Chinese cinema to the world stage. Which film will enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Amy and Russ close out Oscar Movie Month this week with the 2001 Best Picture winner and nominee respectively, Ridley Scott’s “Gladiator” vs. Ang Lee’s “Crouching Tiger, Hidden Dragon.” They break down the spectacle of “Gladiator,” noting the formula that brought it the Best Picture award plus Joaquin Phoenix’s stellar performance. Then, they discuss the game-changing action sequences of “Crouching Tiger, Hidden Dragon” as well as its main character’s imperfections and how it brought Chinese cinema to the world stage. Which film will enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/nSIgv2y4MXL3DpmdAwoncsJk0txCJTWCWKNb3tevk7c]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 25 Feb 2018 21:05:34 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>143</itunes:episode>
+			<itunes:title>143 Gladiator vs. Crouching Tiger, Hidden Dragon (w/ Russ Fischer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Amy and Russ close out Oscar Movie Month this week with the 2001 Best Picture winner and nominee respectively, Ridley Scott’s “Gladiator” vs. Ang Lee’s “Crouching Tiger, Hidden Dragon.” They break down the spectacle of “Gladiator,”...</itunes:subtitle>
+			<itunes:summary>Amy and Russ close out Oscar Movie Month this week with the 2001 Best Picture winner and nominee respectively, Ridley Scott’s “Gladiator” vs. Ang Lee’s “Crouching Tiger, Hidden Dragon.” They break down the spectacle of “Gladiator,” noting the formula that brought it the Best Picture award plus Joaquin Phoenix’s stellar performance. Then, they discuss the game-changing action sequences of “Crouching Tiger, Hidden Dragon” as well as its main character’s imperfections and how it brought Chinese cinema to the world stage. Which film will enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:17:12</itunes:duration>
+			<enclosure length="74123389" type="audio/mpeg" url="http://rss.art19.com/episodes/38828b27-2ffe-457a-a41b-12b6233c3e77.mp3" />
+		</item>
+		<item>
+			<title>142 Driving Miss Daisy vs. Field of Dreams (w/ Russ Fischer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/4e8d53e6-50ef-4e2b-bf32-435f586ec82e]]></link>
+			<description>Amy and Russ continue Oscars Month this week with the 1990 Best Picture winner “Driving Miss Daisy” versus runner-up “Field of Dreams.” First, they take on “Driving Miss Daisy,” discussing Morgan Freeman’s breakout role as Moke Colburn, Jessica Tandy’s sublime unlikeability, and Hans Zimmer’s polarizing score. Then, they talk about “Field of Dreams” and its use of nostalgia, conflicting themes, and prime Kevin Costner. Which 1989 film deserves a spot in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Audible.</description>
+			<content:encoded><![CDATA[<p><br></p><p>Amy and Russ continue Oscars Month this week with the 1990 Best Picture winner “Driving Miss Daisy” versus runner-up “Field of Dreams.” First, they take on “Driving Miss Daisy,” discussing Morgan Freeman’s breakout role as Moke Colburn, Jessica Tandy’s sublime unlikeability, and Hans Zimmer’s polarizing score. Then, they talk about “Field of Dreams” and its use of nostalgia, conflicting themes, and prime Kevin Costner. Which 1989 film deserves a spot in The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a> and <a href="http://Audible.com/CANON" target="_blank">Audible</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/6GbbEEEgd-fOBmycmIYxPvhP2b6ddZ7kGhyKFyjKalI]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 18 Feb 2018 21:08:57 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>142</itunes:episode>
+			<itunes:title>142 Driving Miss Daisy vs. Field of Dreams (w/ Russ Fischer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Amy and Russ continue Oscars Month this week with the 1990 Best Picture winner “Driving Miss Daisy” versus runner-up “Field of Dreams.” First, they take on “Driving Miss Daisy,” discussing Morgan Freeman’s breakout role as Moke Colburn...</itunes:subtitle>
+			<itunes:summary>Amy and Russ continue Oscars Month this week with the 1990 Best Picture winner “Driving Miss Daisy” versus runner-up “Field of Dreams.” First, they take on “Driving Miss Daisy,” discussing Morgan Freeman’s breakout role as Moke Colburn, Jessica Tandy’s sublime unlikeability, and Hans Zimmer’s polarizing score. Then, they talk about “Field of Dreams” and its use of nostalgia, conflicting themes, and prime Kevin Costner. Which 1989 film deserves a spot in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Audible.</itunes:summary>
+			<itunes:duration>01:42:07</itunes:duration>
+			<enclosure length="98046955" type="audio/mpeg" url="http://rss.art19.com/episodes/4e8d53e6-50ef-4e2b-bf32-435f586ec82e.mp3" />
+		</item>
+		<item>
+			<title>141 Midnight Cowboy vs. Butch Cassidy and the Sundance Kid (w/ Russ Fischer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/511f9847-9742-4ca6-b93e-4079e52d2f89]]></link>
+			<description>Film critic Russ Fischer joins Amy for the second week of Oscars Month with a showdown from the 1970 Academy Awards: “Midnight Cowboy” vs. “Butch Cassidy and the Sundance Kid.” First, they discuss the Texas cowboy identity, X-rating, and treatment of homosexuality in “Midnight Cowboy.” Then they tackle “Butch Cassidy and the Sundance Kid,” noting what it pulls from Greek myth, its combined star power of Paul Newman and Robert Redford, and how it set the blockbuster paradigm. Should “Midnight Cowboy” or “Butch Cassidy and the Sundance Kid” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and RXBAR (code: CANON)</description>
+			<content:encoded><![CDATA[<p><br></p><p>Film critic Russ Fischer joins Amy for the second week of Oscars Month with a showdown from the 1970 Academy Awards: “Midnight Cowboy” vs. “Butch Cassidy and the Sundance Kid.” First, they discuss the Texas cowboy identity, X-rating, and treatment of homosexuality in “Midnight Cowboy.” Then they tackle “Butch Cassidy and the Sundance Kid,” noting what it pulls from Greek myth, its combined star power of Paul Newman and Robert Redford, and how it set the blockbuster paradigm. Should “Midnight Cowboy” or “Butch Cassidy and the Sundance Kid” enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a> and <a href="http://RXBAR.com/CANON" target="_blank">RXBAR</a> (code: CANON)</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/dTPAMs7tG19fOSyS5zyU4neNfIzsGDaY8mkhUW_ztqE]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 12 Feb 2018 00:04:56 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>141</itunes:episode>
+			<itunes:title>141 Midnight Cowboy vs. Butch Cassidy and the Sundance Kid (w/ Russ Fischer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Film critic Russ Fischer joins Amy for the second week of Oscars Month with a showdown from the 1970 Academy Awards: “Midnight Cowboy” vs. “Butch Cassidy and the Sundance Kid.” First, they discuss the Texas cowboy identity, X-rating, and...</itunes:subtitle>
+			<itunes:summary>Film critic Russ Fischer joins Amy for the second week of Oscars Month with a showdown from the 1970 Academy Awards: “Midnight Cowboy” vs. “Butch Cassidy and the Sundance Kid.” First, they discuss the Texas cowboy identity, X-rating, and treatment of homosexuality in “Midnight Cowboy.” Then they tackle “Butch Cassidy and the Sundance Kid,” noting what it pulls from Greek myth, its combined star power of Paul Newman and Robert Redford, and how it set the blockbuster paradigm. Should “Midnight Cowboy” or “Butch Cassidy and the Sundance Kid” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and RXBAR (code: CANON)</itunes:summary>
+			<itunes:duration>01:24:13</itunes:duration>
+			<enclosure length="80855040" type="audio/mpeg" url="http://rss.art19.com/episodes/511f9847-9742-4ca6-b93e-4079e52d2f89.mp3" />
+		</item>
+		<item>
+			<title>140 My Fair Lady vs. Mary Poppins (w/ Russ Fischer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/0798509d-24e9-435c-9ddd-77c43720ba5c]]></link>
+			<description>Film critic Russ Fischer joins Amy to kick off Oscar Movie Month with a musical showdown from 1965. First, Amy and Russ talk Best Picture winner “My Fair Lady,” noting Audrey Hepburn’s physical expressiveness, director George Cukor’s use of freeze, and standout songs. Then, they break down “Mary Poppins,” touching on its technical achievement, its depiction of the suffragette movement, and the exuberance Julie Andrews brought to the titular role. Should “My Fair Lady” or “Mary Poppins” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Film critic Russ Fischer joins Amy to kick off Oscar Movie Month with a musical showdown from 1965. First, Amy and Russ talk Best Picture winner “My Fair Lady,” noting Audrey Hepburn’s physical expressiveness, director George Cukor’s use of freeze, and standout songs. Then, they break down “Mary Poppins,” touching on its technical achievement, its depiction of the suffragette movement, and the exuberance Julie Andrews brought to the titular role. Should “My Fair Lady” or “Mary Poppins” enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/AkB2eygS-9cdcTRAHf4VLmK0VPHsik69Vkcsw1vbml0]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sun, 04 Feb 2018 21:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>140</itunes:episode>
+			<itunes:title>140 My Fair Lady vs. Mary Poppins (w/ Russ Fischer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Film critic Russ Fischer joins Amy to kick off Oscar Movie Month with a musical showdown from 1965. First, Amy and Russ talk Best Picture winner “My Fair Lady,” noting Audrey Hepburn’s physical expressiveness, director George Cukor’s use of...</itunes:subtitle>
+			<itunes:summary>Film critic Russ Fischer joins Amy to kick off Oscar Movie Month with a musical showdown from 1965. First, Amy and Russ talk Best Picture winner “My Fair Lady,” noting Audrey Hepburn’s physical expressiveness, director George Cukor’s use of freeze, and standout songs. Then, they break down “Mary Poppins,” touching on its technical achievement, its depiction of the suffragette movement, and the exuberance Julie Andrews brought to the titular role. Should “My Fair Lady” or “Mary Poppins” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:22:36</itunes:duration>
+			<enclosure length="79301067" type="audio/mpeg" url="http://rss.art19.com/episodes/0798509d-24e9-435c-9ddd-77c43720ba5c.mp3" />
+		</item>
+		<item>
+			<title>139 The NeverEnding Story (w/ Dave Nadelberg)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/1c9633fb-0532-4cdd-a966-788ab8a94a9e]]></link>
+			<description>This week, creator of Mortified Dave Nadelberg joins Amy to discuss the 1984 fantasy film “The NeverEnding Story.” They seek out the movie’s deeper subtexts and Dave explains what makes him hate one character in particular before they consider the film’s ambitious production design. Then, they talk about the film’s focus on imagination and how it embodies communal storytelling before making their final cases. Does “The NeverEnding Story” belong in The Canon? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>This week, creator of&nbsp;<a href="http://getmortified.com/" target="_blank">Mortified</a>&nbsp;Dave Nadelberg joins Amy to discuss the 1984 fantasy film “The NeverEnding Story.” They seek out the movie’s deeper subtexts and Dave explains what makes him hate one character in particular before they consider the film’s ambitious production design. Then, they talk about the film’s focus on imagination and how it embodies communal storytelling before making their final cases. Does “The NeverEnding Story” belong in The Canon? Cast your vote on the Earwolf forums now!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/YCligrRMPpA0p6pE4r2jHqwDma46Mxx7c3m-KMWv3bQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 29 Jan 2018 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>139</itunes:episode>
+			<itunes:title>139 The NeverEnding Story (w/ Dave Nadelberg)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>This week, creator of Mortified Dave Nadelberg joins Amy to discuss the 1984 fantasy film “The NeverEnding Story.” They seek out the movie’s deeper subtexts and Dave explains what makes him hate one character in particular before they consider...</itunes:subtitle>
+			<itunes:summary>This week, creator of Mortified Dave Nadelberg joins Amy to discuss the 1984 fantasy film “The NeverEnding Story.” They seek out the movie’s deeper subtexts and Dave explains what makes him hate one character in particular before they consider the film’s ambitious production design. Then, they talk about the film’s focus on imagination and how it embodies communal storytelling before making their final cases. Does “The NeverEnding Story” belong in The Canon? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:22:01</itunes:duration>
+			<enclosure length="78749779" type="audio/mpeg" url="http://rss.art19.com/episodes/1c9633fb-0532-4cdd-a966-788ab8a94a9e.mp3" />
+		</item>
+		<item>
+			<title>138 Harold and Maude vs. Being There (w/ Nate DiMeo)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/3611c305-5dd4-4b49-976a-8f05ee3ca5c0]]></link>
+			<description>This week, podcaster Nate DiMeo (The Memory Palace) joins Amy for a Hal Ashby versus: 1971’s “Harold and Maude” against 1979’s “Being There.” First, they discuss “Harold and Maude,” touching on its message of embracing life, what it says about dealing with your problems, and how the titular relationship defies the bounds of normalcy to feel totally natural. Then, Amy and Nate tackle the treatment of simplicity and limited information in “Being There,” with its theme of finding logic in the illogical and what Chance’s unlikely success says about us all. Which Hal Ashby film belongs in The Canon? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>This week, podcaster Nate DiMeo (The Memory Palace) joins Amy for a Hal Ashby versus: 1971’s “Harold and Maude” against 1979’s “Being There.” First, they discuss “Harold and Maude,” touching on its message of embracing life, what it says about dealing with your problems, and how the titular relationship defies the bounds of normalcy to feel totally natural. Then, Amy and Nate tackle the treatment of simplicity and limited information in “Being There,” with its theme of finding logic in the illogical and what Chance’s unlikely success says about us all. Which Hal Ashby film belongs in The Canon? Cast your vote on the Earwolf forums now!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/7rR4Lv1t5LqFKSsn6dBkK-ovF98ATWvcD8gi1bcc8yk]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 22 Jan 2018 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>138</itunes:episode>
+			<itunes:title>138 Harold and Maude vs. Being There (w/ Nate DiMeo)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>This week, podcaster Nate DiMeo (The Memory Palace) joins Amy for a Hal Ashby versus: 1971’s “Harold and Maude” against 1979’s “Being There.” First, they discuss “Harold and Maude,” touching on its message of embracing life, what it...</itunes:subtitle>
+			<itunes:summary>This week, podcaster Nate DiMeo (The Memory Palace) joins Amy for a Hal Ashby versus: 1971’s “Harold and Maude” against 1979’s “Being There.” First, they discuss “Harold and Maude,” touching on its message of embracing life, what it says about dealing with your problems, and how the titular relationship defies the bounds of normalcy to feel totally natural. Then, Amy and Nate tackle the treatment of simplicity and limited information in “Being There,” with its theme of finding logic in the illogical and what Chance’s unlikely success says about us all. Which Hal Ashby film belongs in The Canon? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:26:12</itunes:duration>
+			<enclosure length="82761351" type="audio/mpeg" url="http://rss.art19.com/episodes/3611c305-5dd4-4b49-976a-8f05ee3ca5c0.mp3" />
+		</item>
+		<item>
+			<title>137 The Hustler (w/ David Scarpa)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/d4c9af1a-20dc-463d-ac4d-c41014db7a75]]></link>
+			<description>Screenwriter David Scarpa (All the Money in the World) joins Amy this week to talk about the 1961 Paul Newman film “The Hustler.” David and Amy discuss how “The Hustler” subverts the underdog paradigm and questions what it means to be a winner or loser. Plus, they find meaning in Fast Eddie’s search for success and what it reveals about the nature of excellence before contrasting the acting of Paul Newman with costars Jackie Gleason and Piper Laurie. Does “The Hustler” belong in The Canon? Cast your vote on the Earwolf forums now! 
+
+
+
+
+This episode is sponsored by RXBAR (code: CANON).</description>
+			<content:encoded><![CDATA[<p>Screenwriter David Scarpa (All the Money in the World) joins Amy this week to talk about the 1961 Paul Newman film “The Hustler.” David and Amy discuss how “The Hustler” subverts the underdog paradigm and questions what it means to be a winner or loser.&nbsp;Plus, they find meaning in Fast Eddie’s search for success and what it reveals about the nature of excellence before contrasting the acting of Paul Newman with costars Jackie Gleason and Piper Laurie. Does “The Hustler” belong in The Canon? Cast your vote on the Earwolf forums now!&nbsp;</p><p><br></p><p>This episode is sponsored by <a href="http://RXBAR.com/canon" target="_blank">RXBAR</a> (code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/yf2PpNTECJiYO2eRVlVuQcdI4Mqk1rjcflrHZaNsPjA]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 15 Jan 2018 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>137</itunes:episode>
+			<itunes:title>137 The Hustler (w/ David Scarpa)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Screenwriter David Scarpa (All the Money in the World) joins Amy this week to talk about the 1961 Paul Newman film “The Hustler.” David and Amy discuss how “The Hustler” subverts the underdog paradigm and questions what it means to be a winner...</itunes:subtitle>
+			<itunes:summary>Screenwriter David Scarpa (All the Money in the World) joins Amy this week to talk about the 1961 Paul Newman film “The Hustler.” David and Amy discuss how “The Hustler” subverts the underdog paradigm and questions what it means to be a winner or loser. Plus, they find meaning in Fast Eddie’s search for success and what it reveals about the nature of excellence before contrasting the acting of Paul Newman with costars Jackie Gleason and Piper Laurie. Does “The Hustler” belong in The Canon? Cast your vote on the Earwolf forums now! 
+
+
+
+
+This episode is sponsored by RXBAR (code: CANON).</itunes:summary>
+			<itunes:duration>01:25:32</itunes:duration>
+			<enclosure length="82116022" type="audio/mpeg" url="http://rss.art19.com/episodes/d4c9af1a-20dc-463d-ac4d-c41014db7a75.mp3" />
+		</item>
+		<item>
+			<title>136 The Best of 2017</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/940b3599-26a2-48d6-bd32-d10173e9507d]]></link>
+			<description>Amy is joined by Engineer Sam to take listener calls as they discuss which film will enter The Canon as the Best of 2017! Will &quot;The Florida Project&quot; find its place? Does &quot;Star Wars: The Last Jedi&quot; have a hope? Will &quot;Lady Bird&quot; make the cut? Can &quot;Get Out&quot; get in? Or will &quot;mother!&quot; take the cake? Cast your vote for the Best of 2017 on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>Amy is joined by Engineer Sam to take listener calls as they discuss which film will enter The Canon as the Best of 2017! Will "The Florida Project" find its place? Does "Star Wars: The Last Jedi" have a hope? Will "Lady Bird" make the cut? Can "Get Out" get in? Or will "mother!" take the cake? Cast your vote for the Best of 2017 on the Earwolf forums now!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/H029Rq5BsY4OciqcGoI-7JiMmi919f25FpWLqcuI2K8]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 08 Jan 2018 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>136</itunes:episode>
+			<itunes:title>136 The Best of 2017</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Amy is joined by Engineer Sam to take listener calls as they discuss which film will enter The Canon as the Best of 2017! Will &quot;The Florida Project&quot; find its place? Does &quot;Star Wars: The Last Jedi&quot; have a hope? Will &quot;Lady...</itunes:subtitle>
+			<itunes:summary>Amy is joined by Engineer Sam to take listener calls as they discuss which film will enter The Canon as the Best of 2017! Will &quot;The Florida Project&quot; find its place? Does &quot;Star Wars: The Last Jedi&quot; have a hope? Will &quot;Lady Bird&quot; make the cut? Can &quot;Get Out&quot; get in? Or will &quot;mother!&quot; take the cake? Cast your vote for the Best of 2017 on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:17:11</itunes:duration>
+			<enclosure length="74102073" type="audio/mpeg" url="http://rss.art19.com/episodes/940b3599-26a2-48d6-bd32-d10173e9507d.mp3" />
+		</item>
+		<item>
+			<title>135 Monty Python and the Holy Grail vs. Monty Python&apos;s Life of Brian (w/ Graham Skipper)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/0fd7f9b3-b90e-4a2b-b1be-d406ef2dcd28]]></link>
+			<description>This week, filmmaker Graham Skipper joins Amy to pit Monty Python’s two greatest comedies against one another: “Monty Python and the Holy Grail” vs. “Monty Python’s Life of Brian.” Graham details a brief history of the sketch group before they get into “Holy Grail,” nothing its hilarious teardown of the Arthur legend and how it frames its own subversions within the movie. Then, they tackle “Life of Brian,” discussing its relevant social politics and how it nails religious satire. Finally, they make their closing arguments as to whether “Monty Python and the Holy Grail” or “Monty Python’s Life of Brian” should enter The Canon. Which Monty Python film wins out? Cast your vote on the Earwolf forums now!</description>
+			<content:encoded><![CDATA[<p>This week, filmmaker Graham Skipper joins Amy to pit Monty Python’s two greatest comedies against one another: “Monty Python and the Holy Grail” vs. “Monty Python’s Life of Brian.” Graham details a brief history of the sketch group before they get into “Holy Grail,” nothing its hilarious teardown of the Arthur legend and how it frames its own subversions within the movie. Then, they tackle “Life of Brian,” discussing its relevant social politics and how it nails religious satire. Finally, they make their closing arguments as to whether “Monty Python and the Holy Grail” or “Monty Python’s Life of Brian” should enter The Canon. Which Monty Python film wins out? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/5vpNMC2XHgbxanx7FCLPqOGGdf6n9WgEjc7hzYEUKnQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>135</itunes:episode>
+			<itunes:title>135 Monty Python and the Holy Grail vs. Monty Python&apos;s Life of Brian (w/ Graham Skipper)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>This week, filmmaker Graham Skipper joins Amy to pit Monty Python’s two greatest comedies against one another: “Monty Python and the Holy Grail” vs. “Monty Python’s Life of Brian.” Graham details a brief history of the sketch group before...</itunes:subtitle>
+			<itunes:summary>This week, filmmaker Graham Skipper joins Amy to pit Monty Python’s two greatest comedies against one another: “Monty Python and the Holy Grail” vs. “Monty Python’s Life of Brian.” Graham details a brief history of the sketch group before they get into “Holy Grail,” nothing its hilarious teardown of the Arthur legend and how it frames its own subversions within the movie. Then, they tackle “Life of Brian,” discussing its relevant social politics and how it nails religious satire. Finally, they make their closing arguments as to whether “Monty Python and the Holy Grail” or “Monty Python’s Life of Brian” should enter The Canon. Which Monty Python film wins out? Cast your vote on the Earwolf forums now!</itunes:summary>
+			<itunes:duration>01:17:55</itunes:duration>
+			<enclosure length="74801319" type="audio/mpeg" url="http://rss.art19.com/episodes/0fd7f9b3-b90e-4a2b-b1be-d406ef2dcd28.mp3" />
+		</item>
+		<item>
+			<title>134 Love Actually (w/ Michael H. Weber)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/ccb7c15c-d2ff-446f-bfb7-3520348f0441]]></link>
+			<description>Screenwriter Michael H. Weber (500 Days of Summer, The Disaster Artist) joins Amy this week to discuss the 2003 romantic comedy “Love Actually.” They discuss how the film succeeds as a mosaic of interlocking stories and why it adds up to more than the sum of its parts. Plus, Michael shares some of the moments on his “Yikes” list before they assess the movie’s charm and take a deep dive into the many plot threads of “Love Actually.” Does “Love Actually” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Screenwriter Michael H. Weber (500 Days of Summer, The Disaster Artist) joins Amy this week to discuss the 2003 romantic comedy “Love Actually.” They discuss how the film succeeds as a mosaic of interlocking stories and why it adds up to more than the sum of its parts. Plus, Michael shares some of the moments on his “Yikes” list before they assess the movie’s charm and take a deep dive into the many plot threads of “Love Actually.” Does “Love Actually” belong in The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/r5h62Kb05egzwlX8Fn5gIa7h23NOdXe_XjMTmbHmtp8]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 25 Dec 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>134</itunes:episode>
+			<itunes:title>134 Love Actually (w/ Michael H. Weber)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Screenwriter Michael H. Weber (500 Days of Summer, The Disaster Artist) joins Amy this week to discuss the 2003 romantic comedy “Love Actually.” They discuss how the film succeeds as a mosaic of interlocking stories and why it adds up to more than...</itunes:subtitle>
+			<itunes:summary>Screenwriter Michael H. Weber (500 Days of Summer, The Disaster Artist) joins Amy this week to discuss the 2003 romantic comedy “Love Actually.” They discuss how the film succeeds as a mosaic of interlocking stories and why it adds up to more than the sum of its parts. Plus, Michael shares some of the moments on his “Yikes” list before they assess the movie’s charm and take a deep dive into the many plot threads of “Love Actually.” Does “Love Actually” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:21:28</itunes:duration>
+			<enclosure length="78214791" type="audio/mpeg" url="http://rss.art19.com/episodes/ccb7c15c-d2ff-446f-bfb7-3520348f0441.mp3" />
+		</item>
+		<item>
+			<title>133 American Psycho (w/ April Wolfe)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/91958a6d-2f94-4052-824b-6684f50b7632]]></link>
+			<description>Film critic and host of the podcast Switchblade Sisters April Wolfe joins Amy this week to discuss Mary Harron’s 2000 film “American Psycho.” They discuss the movie as a dissection of the American male psychosis and consider the equally-weighted feminine reactions throughout. Plus, they talk its initial reception, what the film did for Christian Bale’s career, and its continued relevance as a satire of American culture. Should &quot;American Psycho&quot; enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Film critic and host of the podcast Switchblade Sisters April Wolfe joins Amy this week to discuss Mary Harron’s 2000 film “American Psycho.” They discuss the movie as a dissection of the American male psychosis and consider the equally-weighted feminine reactions throughout. Plus, they talk its initial reception, what the film did for Christian Bale’s career, and its continued relevance as a satire of American culture. Should "American Psycho" enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/7Quh2d6hBD2ew2CWaRuV7UQ6VVlFW2isLSPFEWc6paM]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 18 Dec 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>133</itunes:episode>
+			<itunes:title>133 American Psycho (w/ April Wolfe)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Film critic and host of the podcast Switchblade Sisters April Wolfe joins Amy this week to discuss Mary Harron’s 2000 film “American Psycho.” They discuss the movie as a dissection of the American male psychosis and consider the equally-weighted...</itunes:subtitle>
+			<itunes:summary>Film critic and host of the podcast Switchblade Sisters April Wolfe joins Amy this week to discuss Mary Harron’s 2000 film “American Psycho.” They discuss the movie as a dissection of the American male psychosis and consider the equally-weighted feminine reactions throughout. Plus, they talk its initial reception, what the film did for Christian Bale’s career, and its continued relevance as a satire of American culture. Should &quot;American Psycho&quot; enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:17:10</itunes:duration>
+			<enclosure length="74096222" type="audio/mpeg" url="http://rss.art19.com/episodes/91958a6d-2f94-4052-824b-6684f50b7632.mp3" />
+		</item>
+		<item>
+			<title>132 Carnal Knowledge (w/ Molly Lambert)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/bce45ae2-216e-4687-b842-eaa76203d91b]]></link>
+			<description>Writer Molly Lambert joins Amy this week to discuss the 1971 drama “Carnal Knowledge.” They break down the contrast between Art Garfunkel and Jack Nicholson’s characters, the contemptuous directing of Mike Nichols, and Candice Bergen’s complex performance. Plus, they assess how the film contributed to the socialization of the genders and where it took advantage of the repeal of the Motion Picture Production Code. Does “Carnal Knowledge” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Writer Molly Lambert joins Amy this week to discuss the 1971 drama “Carnal Knowledge.” They break down the contrast between Art Garfunkel and Jack Nicholson’s characters, the contemptuous directing of Mike Nichols, and Candice Bergen’s complex performance. Plus, they assess how the film contributed to the socialization of the genders and where it took advantage of the repeal of the Motion Picture Production Code. Does “Carnal Knowledge” belong in The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/Canon" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ml9lAQXjMDTEGxTBBlgDCOl8wteY_OWZ56Nh0yjNKps]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 11 Dec 2017 00:01:11 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>132</itunes:episode>
+			<itunes:title>132 Carnal Knowledge (w/ Molly Lambert)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Writer Molly Lambert joins Amy this week to discuss the 1971 drama “Carnal Knowledge.” They break down the contrast between Art Garfunkel and Jack Nicholson’s characters, the contemptuous directing of Mike Nichols, and Candice Bergen’s complex...</itunes:subtitle>
+			<itunes:summary>Writer Molly Lambert joins Amy this week to discuss the 1971 drama “Carnal Knowledge.” They break down the contrast between Art Garfunkel and Jack Nicholson’s characters, the contemptuous directing of Mike Nichols, and Candice Bergen’s complex performance. Plus, they assess how the film contributed to the socialization of the genders and where it took advantage of the repeal of the Motion Picture Production Code. Does “Carnal Knowledge” belong in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:27:41</itunes:duration>
+			<enclosure length="84189518" type="audio/mpeg" url="http://rss.art19.com/episodes/bce45ae2-216e-4687-b842-eaa76203d91b.mp3" />
+		</item>
+		<item>
+			<title>131 His Girl Friday vs. The Philadelphia Story (w/ Chris Klimek)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/fb96341d-16ed-4078-ab44-dba72ba18500]]></link>
+			<description>NPR film critic Chris Klimek joins Amy this week to pit two 1940 Cary Grant screwball classics against one another: “His Girl Friday” vs. “The Philadelphia Story.” They discuss the underlying cynicism of “His Girl Friday” and why it isn’t a true romance upon deeper inspection. Then they break down the themes of class and wealth in “The Philadelphia Story” as well as the way Katherine Hepburn plays with the audience perception of actress as goddess followed by an assessment of the portrayal of writers in both films. Should “His Girl Friday” or “The Philadelphia Story” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI and Casper Mattresses (code: CANON).</description>
+			<content:encoded><![CDATA[<p>NPR film critic Chris Klimek joins Amy this week to pit two 1940 Cary Grant screwball classics against one another: “His Girl Friday” vs. “The Philadelphia Story.”&nbsp;They discuss the underlying cynicism of “His Girl Friday” and why it isn’t a true romance upon deeper inspection. Then they break down the themes of class and wealth in “The Philadelphia Story” as well as the way Katherine Hepburn plays with the audience perception of actress as goddess followed by an assessment of the portrayal of writers in both films. Should “His Girl Friday” or “The Philadelphia Story” enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com" target="_blank">MUBI</a> and <a href="http://Casper.com/CANON" target="_blank">Casper Mattresses</a> (code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/tFRZ7zHOHwNFG-_s5Rg6qG6RbWGh0_B-wrGe9UH0W2c]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 04 Dec 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>131</itunes:episode>
+			<itunes:title>131 His Girl Friday vs. The Philadelphia Story (w/ Chris Klimek)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>NPR film critic Chris Klimek joins Amy this week to pit two 1940 Cary Grant screwball classics against one another: “His Girl Friday” vs. “The Philadelphia Story.” They discuss the underlying cynicism of “His Girl Friday” and why it...</itunes:subtitle>
+			<itunes:summary>NPR film critic Chris Klimek joins Amy this week to pit two 1940 Cary Grant screwball classics against one another: “His Girl Friday” vs. “The Philadelphia Story.” They discuss the underlying cynicism of “His Girl Friday” and why it isn’t a true romance upon deeper inspection. Then they break down the themes of class and wealth in “The Philadelphia Story” as well as the way Katherine Hepburn plays with the audience perception of actress as goddess followed by an assessment of the portrayal of writers in both films. Should “His Girl Friday” or “The Philadelphia Story” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+This episode is sponsored by MUBI and Casper Mattresses (code: CANON).</itunes:summary>
+			<itunes:duration>01:29:12</itunes:duration>
+			<enclosure length="85640254" type="audio/mpeg" url="http://rss.art19.com/episodes/fb96341d-16ed-4078-ab44-dba72ba18500.mp3" />
+		</item>
+		<item>
+			<title>130 The Room (w/ Paul Scheer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/15af06ae-a446-4947-b3bc-7190e4adde93]]></link>
+			<description>Paul Scheer returns this week to discuss the best worst movie of all time, “The Room.” He and Amy talk about the inscrutable details throughout the film, what it reveals about the gap between intention and fulfillment, and whether the characters represent facets of Tommy Wiseau’s unknowable brain. Plus, they discuss the true meaning behind the title and Paul shares his awe at working on a recreation of the set in “The Disaster Artist” before they dive into the questions “The Room” prompts about the nature of art. Should “The Room” enter The Canon? Cast your vote on the Earwolf forums now! 
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Paul Scheer returns this week to discuss the best worst movie of all time, “The Room.” He and Amy talk about the inscrutable details throughout the film, what it reveals about the gap between intention and fulfillment, and whether the characters represent facets of Tommy Wiseau’s unknowable brain. Plus, they discuss the true meaning behind the title and Paul shares his awe at working on a recreation of the set in “The Disaster Artist” before they dive into the questions “The Room” prompts about the nature of art. Should “The Room” enter The Canon? Cast your vote on the Earwolf forums now!&nbsp;</p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/canon" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/RF524h8VvUvdfl-LIhDUHMTE8tDR3_90UVtunChqR2w]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 27 Nov 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>130</itunes:episode>
+			<itunes:title>130 The Room (w/ Paul Scheer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Paul Scheer returns this week to discuss the best worst movie of all time, “The Room.” He and Amy talk about the inscrutable details throughout the film, what it reveals about the gap between intention and fulfillment, and whether the characters...</itunes:subtitle>
+			<itunes:summary>Paul Scheer returns this week to discuss the best worst movie of all time, “The Room.” He and Amy talk about the inscrutable details throughout the film, what it reveals about the gap between intention and fulfillment, and whether the characters represent facets of Tommy Wiseau’s unknowable brain. Plus, they discuss the true meaning behind the title and Paul shares his awe at working on a recreation of the set in “The Disaster Artist” before they dive into the questions “The Room” prompts about the nature of art. Should “The Room” enter The Canon? Cast your vote on the Earwolf forums now! 
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:20:06</itunes:duration>
+			<enclosure length="76907833" type="audio/mpeg" url="http://rss.art19.com/episodes/15af06ae-a446-4947-b3bc-7190e4adde93.mp3" />
+		</item>
+		<item>
+			<title>129 Fast, Cheap &amp; Out of Control (w/ Brett Morgen)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/be658990-4315-40f3-952a-4e3acb9e80de]]></link>
+			<description>Filmmaker Brett Morgen (Jane) joins Amy this week to discuss the 1997 documentary “Fast, Cheap &amp; Out of Control.” They touch on how the film changed the landscape of cinema, the power trifecta of director Errol Morris, cinematographer Robert Richardson, and editor Hank Corwin, and where the film’s subjects are now. Plus, Brett explains his take on how the documentary excels at externalizing the interior landscape of its characters. Should “Fast, Cheap &amp; Out of Control” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Casper (code: CANON).</description>
+			<content:encoded><![CDATA[<p>Filmmaker Brett Morgen (Jane) joins Amy this week to discuss the 1997 documentary “Fast, Cheap &amp; Out of Control.” They touch on how the film changed the landscape of cinema, the power trifecta of director Errol Morris, cinematographer Robert Richardson, and editor Hank Corwin, and where the film’s subjects are now. Plus, Brett explains his take on how the documentary excels at externalizing the interior landscape of its characters. Should “Fast, Cheap &amp; Out of Control” enter The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/CANON" target="_blank">MUBI</a> and <a href="http://Casper.com/CANON" target="_blank">Casper</a> (code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/3fhMuYfXs0_mPnOx-1NOTseSVvt0SPedeHIHhmdSbKE]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 20 Nov 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>129</itunes:episode>
+			<itunes:title>129 Fast, Cheap &amp; Out of Control (w/ Brett Morgen)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Filmmaker Brett Morgen (Jane) joins Amy this week to discuss the 1997 documentary “Fast, Cheap &amp; Out of Control.” They touch on how the film changed the landscape of cinema, the power trifecta of director Errol Morris, cinematographer Robert...</itunes:subtitle>
+			<itunes:summary>Filmmaker Brett Morgen (Jane) joins Amy this week to discuss the 1997 documentary “Fast, Cheap &amp; Out of Control.” They touch on how the film changed the landscape of cinema, the power trifecta of director Errol Morris, cinematographer Robert Richardson, and editor Hank Corwin, and where the film’s subjects are now. Plus, Brett explains his take on how the documentary excels at externalizing the interior landscape of its characters. Should “Fast, Cheap &amp; Out of Control” enter The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Casper (code: CANON).</itunes:summary>
+			<itunes:duration>01:26:09</itunes:duration>
+			<enclosure length="82708271" type="audio/mpeg" url="http://rss.art19.com/episodes/be658990-4315-40f3-952a-4e3acb9e80de.mp3" />
+		</item>
+		<item>
+			<title>128 Starship Troopers (w/ Jordan Hoffman)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/b2517c9c-e2be-4ce8-b230-dcadad26dce0]]></link>
+			<description>Host of Engage: The Official Star Trek Podcast Jordan Hoffman joins Amy this week to discuss the 1997 sci-fi action film “Starship Troopers.” They break down the multiple interpretations of fascism the film presents and how the most likely one was influenced by director Paul Verhoeven’s wartime upbringing. Then, they discuss the film’s concentration on the human body, why what it doesn’t show is as important as what it does, and how it fits into our cultural narrative twenty years later. Lastly, they dive into a conversation about the fascinating gender politics within “Starship Troopers.” Should “Starship Troopers” live forever in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</description>
+			<content:encoded><![CDATA[<p>Host of Engage: The Official Star Trek Podcast Jordan Hoffman joins Amy this week to discuss the 1997 sci-fi action film “Starship Troopers.” They break down the multiple interpretations of fascism the film presents and how the most likely one was influenced by director Paul Verhoeven’s wartime upbringing. Then, they discuss the film’s concentration on the human body, why what it doesn’t show is as important as what it does, and how it fits into our cultural narrative twenty years later. Lastly, they dive into a conversation about the fascinating gender politics within “Starship Troopers.” Should “Starship Troopers” live forever in The Canon? Cast your vote on the Earwolf forums now!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://MUBI.com/Canon" target="_blank">MUBI</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/g8J5kX5bkyLfsKESAKxtRWmg142O-Dld8_e8vUDnGF0]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 13 Nov 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>128</itunes:episode>
+			<itunes:title>128 Starship Troopers (w/ Jordan Hoffman)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Host of Engage: The Official Star Trek Podcast Jordan Hoffman joins Amy this week to discuss the 1997 sci-fi action film “Starship Troopers.” They break down the multiple interpretations of fascism the film presents and how the most likely one was...</itunes:subtitle>
+			<itunes:summary>Host of Engage: The Official Star Trek Podcast Jordan Hoffman joins Amy this week to discuss the 1997 sci-fi action film “Starship Troopers.” They break down the multiple interpretations of fascism the film presents and how the most likely one was influenced by director Paul Verhoeven’s wartime upbringing. Then, they discuss the film’s concentration on the human body, why what it doesn’t show is as important as what it does, and how it fits into our cultural narrative twenty years later. Lastly, they dive into a conversation about the fascinating gender politics within “Starship Troopers.” Should “Starship Troopers” live forever in The Canon? Cast your vote on the Earwolf forums now!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI.</itunes:summary>
+			<itunes:duration>01:31:50</itunes:duration>
+			<enclosure length="88176013" type="audio/mpeg" url="http://rss.art19.com/episodes/b2517c9c-e2be-4ce8-b230-dcadad26dce0.mp3" />
+		</item>
+		<item>
+			<title>127 Back to the Future Trilogy (w/ Evan Dickson)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/60111de8-31f7-49a0-8447-85ec58e16839]]></link>
+			<description>Writer Evan Dickson joins Amy this week to discuss the complete Back to the Future trilogy! They pose the entire selection of films for entry into The Canon, touching on the deceptively deep themes, director Robert Zemeckis’s pioneering camerawork, and the unique middle-classiness of the BttF universe. Later, we find out why Biff Tannen is the most vile movie bully in cinematic history before Amy and Evan make their cases for which entries are Canon-worthy. Which Back to the Future films, if any, belong in The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Casper Mattresses (code: CANON).</description>
+			<content:encoded><![CDATA[<p>Writer Evan Dickson joins Amy this week to discuss the complete Back to the Future trilogy! They pose the entire selection of films for entry into The Canon, touching on the deceptively deep themes, director Robert Zemeckis’s pioneering camerawork, and the unique middle-classiness of the BttF universe. Later, we find out why Biff Tannen is the most vile movie bully in cinematic history before Amy and Evan make their cases for which entries are Canon-worthy. Which Back to the Future films, if any, belong in The Canon? Head to the Earwolf forums now to cast your vote!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://mubi.com/canon" target="_blank">MUBI</a> and <a href="http://casper.com/canon" target="_blank">Casper Mattresses</a> (code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/1iNMsY_XQRtqk0ZIaCIiY8FOW3PVyzFJ8eO8Dj_zo50]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 06 Nov 2017 00:00:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>127</itunes:episode>
+			<itunes:title>127 Back to the Future Trilogy (w/ Evan Dickson)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Writer Evan Dickson joins Amy this week to discuss the complete Back to the Future trilogy! They pose the entire selection of films for entry into The Canon, touching on the deceptively deep themes, director Robert Zemeckis’s pioneering camerawork...</itunes:subtitle>
+			<itunes:summary>Writer Evan Dickson joins Amy this week to discuss the complete Back to the Future trilogy! They pose the entire selection of films for entry into The Canon, touching on the deceptively deep themes, director Robert Zemeckis’s pioneering camerawork, and the unique middle-classiness of the BttF universe. Later, we find out why Biff Tannen is the most vile movie bully in cinematic history before Amy and Evan make their cases for which entries are Canon-worthy. Which Back to the Future films, if any, belong in The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by MUBI and Casper Mattresses (code: CANON).</itunes:summary>
+			<itunes:duration>01:32:03</itunes:duration>
+			<enclosure length="88377469" type="audio/mpeg" url="http://rss.art19.com/episodes/60111de8-31f7-49a0-8447-85ec58e16839.mp3" />
+		</item>
+		<item>
+			<title>123 Martyrs (w/ Adam Egypt Mortimer)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/38d93c3d-d795-45fa-b452-3fc098ca9705]]></link>
+			<description>Filmmaker Adam Egypt Mortimer joins Amy to continue Horror Movie Month with one of Adam’s all-time picks, the French 2008 film “Martyrs.” They discuss the New French Extremity movement, the film’s unorthodox exploration of trauma, and how it puts the horrifying back into the horror genre. Plus, Amy and Adam break torture porn down to its basics before making their cases as to whether “Martyrs” should enter The Canon. Cast your vote now on the Earwolf forums!
+
+
+
+
+
+
+
+This episode is sponsored by Mubi.</description>
+			<content:encoded><![CDATA[<p>Filmmaker Adam Egypt Mortimer joins Amy to continue Horror Movie Month with one of Adam’s all-time picks, the French 2008 film “Martyrs.” They discuss the&nbsp;New French Extremity&nbsp;movement, the film’s unorthodox exploration of trauma, and how it puts the horrifying back into the horror genre. Plus, Amy and Adam break torture porn down to its basics before making their cases as to whether “Martyrs” should enter The Canon. Cast your vote now on the Earwolf forums!</p><p><br></p><p><br></p><p>This episode is sponsored by <a href="http://mubi.com/CANON" target="_blank">Mubi</a>.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ZCwjGH2X1Pyt5f5zJdzwSzLc9qdVZF7GPvChwElHizQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 09 Oct 2017 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>123</itunes:episode>
+			<itunes:title>123 Martyrs (w/ Adam Egypt Mortimer)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Filmmaker Adam Egypt Mortimer joins Amy to continue Horror Movie Month with one of Adam’s all-time picks, the French 2008 film “Martyrs.” They discuss the New French Extremity movement, the film’s unorthodox exploration of trauma, and how it...</itunes:subtitle>
+			<itunes:summary>Filmmaker Adam Egypt Mortimer joins Amy to continue Horror Movie Month with one of Adam’s all-time picks, the French 2008 film “Martyrs.” They discuss the New French Extremity movement, the film’s unorthodox exploration of trauma, and how it puts the horrifying back into the horror genre. Plus, Amy and Adam break torture porn down to its basics before making their cases as to whether “Martyrs” should enter The Canon. Cast your vote now on the Earwolf forums!
+
+
+
+
+
+
+
+This episode is sponsored by Mubi.</itunes:summary>
+			<itunes:duration>01:20:46</itunes:duration>
+			<enclosure length="77543549" type="audio/mpeg" url="http://rss.art19.com/episodes/38d93c3d-d795-45fa-b452-3fc098ca9705.mp3" />
+		</item>
+		<item>
+			<title>122 The Tingler (w/ Witney Seibold)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/abb1330e-830d-4b9e-b201-ad8f182a197a]]></link>
+			<description>Film critic and co-host of the podcast Cancelled Too Soon Witney Seibold joins Amy to kick off Horror Movie Month with William Castle&apos;s 1959 film &quot;The Tingler.&quot; They talk about Castle&apos;s use of the &quot;Percepto!&quot; gimmick, the interactivity and creativity of the film&apos;s scares, and why it was made for film lovers especially. Plus, they discuss the role LSD plays in the movie. Does &quot;The Tingler&quot; belong in The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by Casper Mattresses (www.casper.com/canon code: CANON).</description>
+			<content:encoded><![CDATA[<p>Film critic and co-host of the podcast Cancelled Too Soon Witney Seibold joins Amy to kick off Horror Movie Month with William Castle's 1959 film "The Tingler." They talk about Castle's use of the "Percepto!" gimmick, the interactivity and creativity of the film's scares, and why it was made for film lovers especially. Plus, they discuss the role LSD plays in the movie. Does "The Tingler" belong in The Canon? Head to the Earwolf forums now to cast your vote!</p><p><br></p><p><br></p><p>This episode is sponsored by Casper Mattresses (<a href="http://www.casper.com/canon" target="_blank">www.casper.com/canon</a> code: CANON).</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/KODkuav207gnlhzdEZ3O8B5xf4i1BlZy_wdVyKFyxSU]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 02 Oct 2017 00:00:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>122</itunes:episode>
+			<itunes:title>122 The Tingler (w/ Witney Seibold)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Film critic and co-host of the podcast Cancelled Too Soon Witney Seibold joins Amy to kick off Horror Movie Month with William Castle&apos;s 1959 film &quot;The Tingler.&quot; They talk about Castle&apos;s use of the &quot;Percepto!&quot; gimmick, the...</itunes:subtitle>
+			<itunes:summary>Film critic and co-host of the podcast Cancelled Too Soon Witney Seibold joins Amy to kick off Horror Movie Month with William Castle&apos;s 1959 film &quot;The Tingler.&quot; They talk about Castle&apos;s use of the &quot;Percepto!&quot; gimmick, the interactivity and creativity of the film&apos;s scares, and why it was made for film lovers especially. Plus, they discuss the role LSD plays in the movie. Does &quot;The Tingler&quot; belong in The Canon? Head to the Earwolf forums now to cast your vote!
+
+
+
+
+
+
+
+This episode is sponsored by Casper Mattresses (www.casper.com/canon code: CANON).</itunes:summary>
+			<itunes:duration>01:21:43</itunes:duration>
+			<enclosure length="78461805" type="audio/mpeg" url="http://rss.art19.com/episodes/abb1330e-830d-4b9e-b201-ad8f182a197a.mp3" />
+		</item>
+		<item>
+			<title>121 The Matrix (w/ Cameron Esposito)</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/a8d20d16-ad72-40f1-845e-640a3493e9e8]]></link>
+			<description>Comedian Cameron Esposito joins Amy this week to discuss the 1999 sci-fi film &quot;The Matrix.&quot; They break down &quot;The Matrix&quot; as a product of queer theory as well as the implications of the famous &quot;red pill, blue pill&quot; scene. Then they consider the film&apos;s relevance to technology and culture at the end of a millennia, how it utilizes a mashup of styles to entertain the viewer, and why the success of &quot;The Matrix&quot; changed the playing field for new directors. Does &quot;The Matrix&quot; belong in The Canon? Cast your vote on the Earwolf forums now! </description>
+			<content:encoded><![CDATA[<p>Comedian Cameron Esposito joins Amy this week to discuss the 1999 sci-fi film "The Matrix." They break down "The Matrix" as a product of queer theory as well as the implications of the famous "red pill, blue pill" scene. Then they consider the film's relevance to technology and culture at the end of a millennia, how it utilizes a mashup of styles to entertain the viewer, and why the success of "The Matrix" changed the playing field for new directors. Does "The Matrix" belong in The Canon? Cast your vote on the Earwolf forums now!&nbsp;</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/EhbIBQWo_fvH2F--njqvpPCTvyzFRImCqgJTIibPSZU]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 25 Sep 2017 01:07:03 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode>121</itunes:episode>
+			<itunes:title>121 The Matrix (w/ Cameron Esposito)</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Comedian Cameron Esposito joins Amy this week to discuss the 1999 sci-fi film &quot;The Matrix.&quot; They break down &quot;The Matrix&quot; as a product of queer theory as well as the implications of the famous &quot;red pill, blue pill&quot; scene...</itunes:subtitle>
+			<itunes:summary>Comedian Cameron Esposito joins Amy this week to discuss the 1999 sci-fi film &quot;The Matrix.&quot; They break down &quot;The Matrix&quot; as a product of queer theory as well as the implications of the famous &quot;red pill, blue pill&quot; scene. Then they consider the film&apos;s relevance to technology and culture at the end of a millennia, how it utilizes a mashup of styles to entertain the viewer, and why the success of &quot;The Matrix&quot; changed the playing field for new directors. Does &quot;The Matrix&quot; belong in The Canon? Cast your vote on the Earwolf forums now! </itunes:summary>
+			<itunes:duration>01:34:45</itunes:duration>
+			<enclosure length="90963382" type="audio/mpeg" url="http://rss.art19.com/episodes/a8d20d16-ad72-40f1-845e-640a3493e9e8.mp3" />
+		</item>
+		<item>
+			<title>72 The Adventures Of Robin Hood</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/8dd713ef-9a06-4eb3-b549-5608ebd98c7a]]></link>
+			<description>Game of Thrones producer Bryan Cogman joins Devin and Amy to discuss The Adventures of Robin Hood (1938). ​They talk about the film’s inspiration on future pop culture, which character the movie is really about and the actors getting shot with arrows. Cast your vote in the Earwolf forums if The Adventures of Robin Hood should be in The Canon.</description>
+			<content:encoded><![CDATA[<p>Game of Thrones producer Bryan Cogman joins Devin and Amy to discuss The Adventures of Robin Hood (1938). ​They talk about the film’s inspiration on future pop culture, which character the movie is really about and the actors getting shot with arrows. Cast your vote in the Earwolf forums if The Adventures of Robin Hood should be in The Canon.</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/TPBdTsmF6XbjwgT2GAmzl8TL3Okc62i1bd03qADyQ6Y]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 11 Apr 2016 18:18:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>72 The Adventures Of Robin Hood</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Game of Thrones producer Bryan Cogman joins Devin and Amy to discuss The Adventures of Robin Hood (1938). ​They talk about the film’s inspiration on future pop culture, which character the movie is really about and the actors getting shot with...</itunes:subtitle>
+			<itunes:summary>Game of Thrones producer Bryan Cogman joins Devin and Amy to discuss The Adventures of Robin Hood (1938). ​They talk about the film’s inspiration on future pop culture, which character the movie is really about and the actors getting shot with arrows. Cast your vote in the Earwolf forums if The Adventures of Robin Hood should be in The Canon.</itunes:summary>
+			<itunes:duration>00:57:14</itunes:duration>
+			<enclosure length="54959542" type="audio/mpeg" url="http://rss.art19.com/episodes/8dd713ef-9a06-4eb3-b549-5608ebd98c7a.mp3" />
+		</item>
+		<item>
+			<title>47 Fast Times At Ridgemont High</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/6b63590f-11c0-496b-8803-8165a2dc99f9]]></link>
+			<description>Hollywood&apos;s own Jake Fogelnest (writer for Hulu&apos;s Difficult People, Billy on the Street) joins Devin &amp; Amy this week to discuss Fast Times at Ridgemont High: one of the definitive teen movies of the 80s. From the real uncomfortable way sex is portrayed to Sean Penn&apos;s portrayal of Jeff Spicoli to the terrific 80s soundtrack, this movie has it all. Tune in as Devin, Amy, and Jake talk about a movie that presents teenagers as they really are -- and head to the forums on Wolfpop to cast the deciding vote!</description>
+			<content:encoded><![CDATA[<p>Hollywood's own Jake Fogelnest (writer for Hulu's Difficult People, Billy on the Street) joins Devin &amp; Amy this week to discuss Fast Times at Ridgemont High: one of the definitive teen movies of the 80s. From the real uncomfortable way sex is portrayed to Sean Penn's portrayal of Jeff Spicoli to the terrific 80s soundtrack, this movie has it all. Tune in as Devin, Amy, and Jake talk about a movie that presents teenagers as they really are -- and head to the forums on Wolfpop to cast the deciding vote!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/ClexCRchaMZLKiqZdYMmOEF_KV10FsjwkMQ4XT1hmlc]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 19 Oct 2015 17:54:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>47 Fast Times At Ridgemont High</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Hollywood&apos;s own Jake Fogelnest (writer for Hulu&apos;s Difficult People, Billy on the Street) joins Devin &amp; Amy this week to discuss Fast Times at Ridgemont High: one of the definitive teen movies of the 80s. From the real uncomfortable way...</itunes:subtitle>
+			<itunes:summary>Hollywood&apos;s own Jake Fogelnest (writer for Hulu&apos;s Difficult People, Billy on the Street) joins Devin &amp; Amy this week to discuss Fast Times at Ridgemont High: one of the definitive teen movies of the 80s. From the real uncomfortable way sex is portrayed to Sean Penn&apos;s portrayal of Jeff Spicoli to the terrific 80s soundtrack, this movie has it all. Tune in as Devin, Amy, and Jake talk about a movie that presents teenagers as they really are -- and head to the forums on Wolfpop to cast the deciding vote!</itunes:summary>
+			<itunes:duration>01:12:25</itunes:duration>
+			<enclosure length="69527928" type="audio/mpeg" url="http://rss.art19.com/episodes/6b63590f-11c0-496b-8803-8165a2dc99f9.mp3" />
+		</item>
+		<item>
+			<title>33 Animal House vs. Revenge Of The Nerds</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/b4a19d7b-49e1-4fa1-b595-ddc5909cf2d4]]></link>
+			<description>It’s snobs vs. slobs as Devin &amp; Amy put two college comedies against each other: National Lampoon’s Animal House vs. Revenge of the Nerds. Would there be a Revenge of the Nerds without Animal House? Does Poindexter give Bluto a run for his money in the physical comedy department? Do the bad guys in both films deserve what they get in the end? Tune in to hear which movie will stand the test of time as being the better frat comedy -- and head to the forums on Wolfpop to cast the deciding vote!</description>
+			<content:encoded><![CDATA[<p>It’s snobs vs. slobs as Devin &amp; Amy put two college comedies against each other: National Lampoon’s Animal House vs. Revenge of the Nerds. Would there be a Revenge of the Nerds without Animal House? Does Poindexter give Bluto a run for his money in the physical comedy department? Do the bad guys in both films deserve what they get in the end? Tune in to hear which movie will stand the test of time as being the better frat comedy -- and head to the forums on Wolfpop to cast the deciding vote!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/fZDN8v8dtvi_cjnlsyc6Vb_AvvXE45D0Gu2rlIL3GYo]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Mon, 29 Jun 2015 17:31:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>33 Animal House vs. Revenge Of The Nerds</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>It’s snobs vs. slobs as Devin &amp; Amy put two college comedies against each other: National Lampoon’s Animal House vs. Revenge of the Nerds. Would there be a Revenge of the Nerds without Animal House? Does Poindexter give Bluto a run for his...</itunes:subtitle>
+			<itunes:summary>It’s snobs vs. slobs as Devin &amp; Amy put two college comedies against each other: National Lampoon’s Animal House vs. Revenge of the Nerds. Would there be a Revenge of the Nerds without Animal House? Does Poindexter give Bluto a run for his money in the physical comedy department? Do the bad guys in both films deserve what they get in the end? Tune in to hear which movie will stand the test of time as being the better frat comedy -- and head to the forums on Wolfpop to cast the deciding vote!</itunes:summary>
+			<itunes:duration>01:26:36</itunes:duration>
+			<enclosure length="83149217" type="audio/mpeg" url="http://rss.art19.com/episodes/b4a19d7b-49e1-4fa1-b595-ddc5909cf2d4.mp3" />
+		</item>
+		<item>
+			<title>19 Casino Royale</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/79c10108-a26b-4469-a292-57de6c5c63ac]]></link>
+			<description>James Bond expert and I Was There Too host Matt Gourley joins Devin &amp; Amy this week to nominate his pick for the only Bond film in the canon: 2006’s Casino Royale. Is Daniel Craig a better Bond than Sean Connery? Is Vesper the ultimate Bond girl? Should there be more nifty 007 gadgets? Tune in for the discussion on this post Bourne-era Bond film -- and head to the forums on Wolfpop to cast the deciding vote!</description>
+			<content:encoded><![CDATA[<p>James Bond expert and I Was There Too host Matt Gourley joins Devin &amp; Amy this week to nominate his pick for the only Bond film in the canon: 2006’s Casino Royale. Is Daniel Craig a better Bond than Sean Connery? Is Vesper the ultimate Bond girl? Should there be more nifty 007 gadgets? Tune in for the discussion on this post Bourne-era Bond film -- and head to the forums on Wolfpop to cast the deciding vote!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/acxyNOxEj2xTS6XzadnVE1Z_v_Goy_cAzqABlNoI_PQ]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Tue, 24 Mar 2015 16:29:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>19 Casino Royale</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>James Bond expert and I Was There Too host Matt Gourley joins Devin &amp; Amy this week to nominate his pick for the only Bond film in the canon: 2006’s Casino Royale. Is Daniel Craig a better Bond than Sean Connery? Is Vesper the ultimate Bond girl...</itunes:subtitle>
+			<itunes:summary>James Bond expert and I Was There Too host Matt Gourley joins Devin &amp; Amy this week to nominate his pick for the only Bond film in the canon: 2006’s Casino Royale. Is Daniel Craig a better Bond than Sean Connery? Is Vesper the ultimate Bond girl? Should there be more nifty 007 gadgets? Tune in for the discussion on this post Bourne-era Bond film -- and head to the forums on Wolfpop to cast the deciding vote!</itunes:summary>
+			<itunes:duration>01:10:04</itunes:duration>
+			<enclosure length="67269694" type="audio/mpeg" url="http://rss.art19.com/episodes/79c10108-a26b-4469-a292-57de6c5c63ac.mp3" />
+		</item>
+		<item>
+			<title>5 Star Wars Vs. The Empire Strikes Back</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/e90bc14c-53fe-4d1c-a3fc-13323673a3a3]]></link>
+			<description>Devin &amp; Amy clash lightsabers in the first ever versus episode where they will decide which Star Wars movie belongs in the canon. The prequels don&apos;t even deserve to be in the running. Instead they will only focus on the original trilogy. Is Han &amp; Leia&apos;s banter romantic or annoying? Is C-3PO more lovable by being a dick? Can Empire&apos;s bleakness balance out its lack of plot? Tune in for the death match -- and head to the forums on Wolfpop to cast the deciding vote!</description>
+			<content:encoded><![CDATA[<p>Devin &amp; Amy clash lightsabers in the first ever versus episode where they will decide which Star Wars movie belongs in the canon. The prequels don't even deserve to be in the running. Instead they will only focus on the original trilogy. Is Han &amp; Leia's banter romantic or annoying? Is C-3PO more lovable by being a dick? Can Empire's bleakness balance out its lack of plot? Tune in for the death match -- and head to the forums on Wolfpop to cast the deciding vote!</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/w7UeI6VkX7ta0eEDBKx8KznH79m8ptIdXoAzq5JFbCA]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sat, 29 Nov 2014 16:01:00 -0800</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>5 Star Wars Vs. The Empire Strikes Back</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Devin &amp; Amy clash lightsabers in the first ever versus episode where they will decide which Star Wars movie belongs in the canon. The prequels don&apos;t even deserve to be in the running. Instead they will only focus on the original trilogy. Is...</itunes:subtitle>
+			<itunes:summary>Devin &amp; Amy clash lightsabers in the first ever versus episode where they will decide which Star Wars movie belongs in the canon. The prequels don&apos;t even deserve to be in the running. Instead they will only focus on the original trilogy. Is Han &amp; Leia&apos;s banter romantic or annoying? Is C-3PO more lovable by being a dick? Can Empire&apos;s bleakness balance out its lack of plot? Tune in for the death match -- and head to the forums on Wolfpop to cast the deciding vote!</itunes:summary>
+			<itunes:duration>00:59:26</itunes:duration>
+			<enclosure length="57058115" type="audio/mpeg" url="http://rss.art19.com/episodes/e90bc14c-53fe-4d1c-a3fc-13323673a3a3.mp3" />
+		</item>
+		<item>
+			<title>Find Full Archive of The Canon on Stitcher Premium</title>
+			<link><![CDATA[https://art19.com/shows/the-canon/episodes/50a7e968-d5b5-4b93-a6a9-f67a14813f13]]></link>
+			<description>Find Full Archive of The Canon on Stitcher Premium</description>
+			<content:encoded><![CDATA[<p>Find Full Archive of The Canon on Stitcher Premium</p>]]></content:encoded>
+			<guid isPermaLink="false"><![CDATA[gid://art19-episode-locator/V0/Y7riQkiRysNgL1lPwkGzp96EDfr6WCvrRtkM6Ybg9fY]]></guid>
+			<media:thumbnail url="https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg" />
+			<pubDate>Sat, 01 Nov 2014 15:59:00 -0700</pubDate>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:episode></itunes:episode>
+			<itunes:title>Find Full Archive of The Canon on Stitcher Premium</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:subtitle>Find Full Archive of The Canon on Stitcher Premium</itunes:subtitle>
+			<itunes:summary>Find Full Archive of The Canon on Stitcher Premium</itunes:summary>
+			<itunes:duration>00:00:29</itunes:duration>
+			<enclosure length="472293" type="audio/mpeg" url="http://rss.art19.com/episodes/50a7e968-d5b5-4b93-a6a9-f67a14813f13.mp3" />
+		</item>
+	</channel>
+</rss>

@@ -765,6 +765,106 @@ supersoul = clean_supersoul(supersoul)
 supersoul['hosts'] = 'Oprah Winfrey'
 supersoul['podcast'] = "Oprah’s SuperSoul Conversations"
 
+conv_tyler = 'rss_files/conv_tyler.xml'
+conv_tyler = clean_conv_tyler(conv_tyler)
+conv_tyler['hosts'] = 'Tyler Cowen'
+conv_tyler['podcast'] = 'Conversations with Tyler'
+
+macro_musings = 'rss_files/macro_musings.xml'
+macro_musings = clean_macro_musings(macro_musings)
+macro_musings['hosts'] = 'David Beckworth'
+macro_musings['podcast'] = 'Macro Musings'
+
+who_makes_cents = 'rss_files/who_makes_cents.xml'
+who_makes_cents = clean_who_makes_cents(who_makes_cents)
+who_makes_cents['hosts'] = 'Betsy Beasley, David Stein'
+who_makes_cents['podcast'] = 'Who Makes Cents?: A History of Capitalism Podcast'
+
+new_books_econ = 'rss_files/new_books_econ.xml'
+new_books_econ = clean_new_books_econ(new_books_econ)
+new_books_econ['hosts'] = 'Marshall Poe'
+new_books_econ['podcast'] = 'New Books in Economics'
+
+new_books_science = 'rss_files/new_books_science.xml'
+new_books_science = clean_new_books_science(new_books_science)
+new_books_science['hosts'] = 'Marshall Poe'
+new_books_science['podcast'] = 'New Books in Science, Technology, and Society'
+
+new_books_history = 'rss_files/new_books_history.xml'
+new_books_history = clean_new_books_history(new_books_history)
+new_books_history['hosts'] = 'Marshall Poe'
+new_books_history['podcast'] = 'New Books in History'
+
+new_books_biography = 'rss_files/new_books_biography.xml'
+new_books_biography = clean_new_books_biography(new_books_biography)
+new_books_biography['hosts'] = 'Marshall Poe'
+new_books_biography['podcast'] = 'New Books in Biography'
+
+new_books_american = 'rss_files/new_books_american.xml'
+new_books_american = clean_new_books_american(new_books_american)
+new_books_american['hosts'] = 'Marshall Poe'
+new_books_american['podcast'] = 'New Books in American Studies'
+
+dr_gameshow = 'rss_files/dr_gameshow.xml'
+dr_gameshow = clean_dr_gameshow(dr_gameshow)
+dr_gameshow['hosts'] = 'Jo Firestone, Manolo Moreno'
+dr_gameshow['podcast'] = 'Dr. Gameshow'
+
+homophilia = 'rss_files/homophilia.xml'
+homophilia = clean_homophilia(homophilia)
+homophilia['hosts'] = 'Dave Holmes, Matt McConkey'
+homophilia['podcast'] = 'Homophilia'
+
+throwing_shade = 'rss_files/throwing-shade.xml'
+throwing_shade = clean_throwing_shade(throwing_shade)
+throwing_shade['hosts'] = 'Erin Gibson, Bryan Safi'
+throwing_shade['podcast'] = 'Throwing Shade'
+
+womp_it_up = 'rss_files/womp_it_up.xml'
+womp_it_up = clean_womp_it_up(womp_it_up)
+womp_it_up['hosts'] = 'Jessica St. Clair, Lennon Parham'
+womp_it_up['podcast'] = 'WOMP It Up!'
+
+off_book = 'rss_files/off_book.xml'
+off_book = clean_off_book(off_book)
+off_book['hosts'] = 'Jessica McKenna, Zach Reino'
+off_book['podcast'] = 'Off Book: The Improvised Musical'
+
+get_up_on_this = 'rss_files/get_up_on_this.xml'
+get_up_on_this = clean_get_up_on_this(get_up_on_this)
+get_up_on_this['hosts'] = 'Jensen Karp, Matthew Robinson'
+get_up_on_this['podcast'] = 'Get Up On This'
+
+there_too = 'rss_files/there_too.xml'
+there_too = clean_there_too(there_too)
+there_too['hosts'] = 'Matt Gourley'
+there_too['podcast'] = 'I Was There Too'
+
+queery = 'rss_files/queery.xml'
+queery = clean_queery(queery)
+queery['hosts'] = 'Cameron Esposito'
+queery['podcast'] = 'QUEERY with Cameron Esposito'
+
+canon = 'rss_files/canon.xml'
+canon = clean_canon(canon)
+canon['hosts'] = 'Devin Faraci, Amy Nicholson'
+canon['podcast'] = 'The Canon'
+
+james_bonding = 'rss_files/james_bonding.xml'
+james_bonding = clean_james_bonding(james_bonding)
+james_bonding['hosts'] = 'Matt Gourley, Matt Mira'
+james_bonding['podcast'] = 'James Bonding'
+
+kevin_pollak = 'rss_files/kevin_pollak.xml'
+kevin_pollak = clean_kevin_pollak(kevin_pollak)
+kevin_pollak['hosts'] = 'Kevin Pollak'
+kevin_pollak['podcast'] = "Kevin Pollak's Chat Show"
+
+lauren_lapkus = 'rss_files/lauren_lapkus.xml'
+lauren_lapkus = clean_lauren_lapkus(lauren_lapkus)
+lauren_lapkus['hosts'] = 'Lauren Lapkus'
+lauren_lapkus['podcast'] = 'With Special Guest Lauren Lapkus'
+
 df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
                russell_brand, kevin_pereira, chris_hardwick, sam_harris,
                kill_tony, dave_rubin, comedy_bang, h3, marc_maron,
@@ -799,11 +899,20 @@ df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
                star_talk, doug_stanhope, bitch_sesh, cam_rhea, andy_cohen,
                rap_radar, vlad_couch, allegedly, this_life, friends_like_these,
                axe_files, politically_reactive, james_altucher, bulletproof_radio,
-               chris_kresser, ufc_unfiltered, dan_harris, supersoul], ignore_index=True)
+               chris_kresser, ufc_unfiltered, dan_harris, supersoul, conv_tyler,
+               macro_musings, who_makes_cents, new_books_econ, new_books_science,
+               # new_books_history, 
+               new_books_biography, new_books_american,
+               dr_gameshow, homophilia, throwing_shade, womp_it_up, off_book,
+               get_up_on_this, there_too, queery, canon, james_bonding,
+               kevin_pollak, lauren_lapkus], ignore_index=True)
 
 
 df['guests'] = [g.rstrip() for g in df['guests']]
 df['guests'] = [g.lstrip() for g in df['guests']]
+
+df['guests'] = [g.rstrip(' ') for g in df['guests']]
+df['guests'] = [g.lstrip(' ') for g in df['guests']]
 
 df['podcast_id'] = ''
 
@@ -812,14 +921,10 @@ d = {}
 for index, row in podcast_info.iterrows():
 	d[row['Podcast Name']]=index-1
 
-print(d)
-
 for index1, row1 in df.iterrows():
-	print(row1['podcast'], d[row1['podcast']])
 	df.at[index1, 'podcast_id']=d[row1['podcast']]
-	# row1['podcast_id']=d[row1['podcast']]
 
-print(df['podcast_id'])
+
 
 
 df.to_csv('cleaned_podcasts.csv', sep='\t')

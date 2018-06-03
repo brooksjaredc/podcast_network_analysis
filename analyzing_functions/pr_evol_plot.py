@@ -11,7 +11,7 @@ years = mdates.YearLocator()   # every year
 months = mdates.MonthLocator()  # every month
 yearsFmt = mdates.DateFormatter('%Y')
 
-df = pd.read_csv('close_evol.csv', sep = '\t', header=0, index_col=0)
+df = pd.read_csv('auths_evol.csv', sep = '\t', header=0, index_col=0)
 
 #print(list(df.columns.values))
 
@@ -48,12 +48,12 @@ ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 f.autofmt_xdate()
 
 ax.set_xlabel(r'date')
-ax.set_ylabel(r'Closeness Centrality')
+ax.set_ylabel(r'Authority Score')
 
-legend = plt.legend(fancybox=True, loc='lower right',labelspacing=0, framealpha=0.8)
+legend = plt.legend(fancybox=True, loc='upper right',labelspacing=0, framealpha=0.8)
 
 plt.gcf()
 plt.draw()
-plt.savefig('plots/close_evol_top_ten.pdf',format='pdf')
+plt.savefig('plots/auths_evol_top_ten.pdf',format='pdf')
 plt.show()
 

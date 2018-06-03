@@ -57,6 +57,8 @@ def xml_to_df_desc(filename):
 	durations = []
 	descriptions = []
 	for item in e.iter('item'):
+		if(item.find('description')==None):
+			continue
 		titles.append(item.find('title').text)
 		dates.append(item.find('pubDate').text)
 		for d in item.findall('itunes:duration', ns):
@@ -107,7 +109,8 @@ def xml_to_df_summ(filename):
 		for d in item.findall('itunes:duration', ns):
 			durations.append(d.text)
 		for d in item.findall('itunes:summary', ns):
-			summary.append(d.text)
+			summ = d.text
+		summary.append(summ)
 			
 	df = pd.DataFrame()
 	df['title'] = titles
@@ -135,7 +138,8 @@ def guest_split_last(spl, df):
 			if(spl in row['guests']):
 				df.at[index, 'guests'] = row['guests'].split(spl)[-1]
 
-def date_parser(excl, df):
+def date_parser(df):
+	excl = '(\s\+0000|\s\-0000|\sGMT|\sEST|\s\-0[78]00|\s\-0600|\s\-0[45]00|\sP[SD]T|\sE[DS]T)$'
 	dates_no_zeros =[]
 	for d in df['date']:
 		dates_no_zeros.append(re.sub(excl, '', str(d), flags=re.IGNORECASE))

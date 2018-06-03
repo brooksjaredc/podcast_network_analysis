@@ -148,7 +148,7 @@ podcast_info.loc[29] = ['The Todd Glass Show', ['Todd Glass'], 'http://toddglass
                        ['Comedy'], 'toddglass',
                        'clean_todd_glass']
 
-podcast_info.loc[30] = ['Dumb People Town', ['Jason Sklar', 'Randy Sklar'], 'http://feeds.feedburner.com/DumbPeopleTown',
+podcast_info.loc[30] = ['Dumb People Town', ['Jason Sklar', 'Randy Sklar', 'Daniel Van Kirk'], 'http://feeds.feedburner.com/DumbPeopleTown',
                        'https://dfkfj8j276wwv.cloudfront.net/images/d1/f0/9e/47/d1f09e47-98ee-4a81-a842-0a5b02e09873/c09de8c8847d3461cd5665c0556ae2c5e076db7996f9e17c492391b905c6569e0a870b2763313797cd6a7690d6a57e78275313185242280ba0dd0fe36950fac9.jpeg',
                        ['Comedy', 'Society & Culture', 'News & Politics'], 'feral audio,Adam Carolla,Earwolf,Sklarbro Country,sklarbro,Sklarbro County,Dan Van Kirk,Jason Sklar,Dumb People Town,news,Randy Sklar,sklar brothers',
                        'clean_dumb_people_town']
@@ -477,7 +477,7 @@ podcast_info.loc[94] = ['Think Again – a Big Think Podcast', ['Jason Gots'], '
                         ['Arts', 'Society & Culture', 'Science & Medicine'], '',
                         'clean_think_again']
 
-podcast_info.loc[95] = ['Rationally Speaking', ['Julia Galef'], 'http://nycskeptics.org/storage/feeds/rs.xml',
+podcast_info.loc[95] = ['Rationally Speaking', ['Julia Galef', 'Massimo Pigliucci'], 'http://nycskeptics.org/storage/feeds/rs.xml',
                         'http://skepticmedia.org/images/rs/itunesimage.jpg',
                         ['Science & Medicine', 'Natural Sciences', 'Social Sciences', 'Society & Culture', 'Philosophy'], 'skeptic, science, philosophy, skeptics, skepticism, rational',
                         'clean_rationally_speaking']
@@ -487,7 +487,7 @@ podcast_info.loc[96] = ['Skepticality: The Official Podcast of Skeptic Magazine'
                         ['Science & Medicine', 'Society & Culture', 'News & Politics'], '',
                         'clean_skepticality']
 
-podcast_info.loc[97] = ['Friendly Atheist Podcast', ['Hemant Mehta'], 'http://feeds.soundcloud.com/users/soundcloud:users:126685326/sounds.rss',
+podcast_info.loc[97] = ['Friendly Atheist Podcast', ['Hemant Mehta', 'Jessica Bluemke'], 'http://feeds.soundcloud.com/users/soundcloud:users:126685326/sounds.rss',
                         'http://i1.sndcdn.com/avatars-000118968396-6x0y94-original.jpg',
                         ['Religion & Spirituality'], '',
                         'clean_friendly_atheist']
@@ -517,7 +517,7 @@ podcast_info.loc[102] = ['The Talk Show With John Gruber', ['John Gruber'], 'htt
                         ['Technology', 'Tech News'], '',
                         'clean_john_gruber']
 
-podcast_info.loc[103] = ['Here We Are', ['Shane Mauss'], 'http://feeds.feedburner.com/herewearepodcast',
+podcast_info.loc[103] = ['Here We Are', ['Shane Mauss'], 'http://feeds.feedburner.com/herewearepodcast?format=xml',
                         'https://dfkfj8j276wwv.cloudfront.net/images/5d/50/8e/ea/5d508eea-3ba3-478a-bf24-84a01f47f7af/2fdc54332a57826b74074e268ebca1e2261ab3b41180d5f2aa9c389c069cfc4fa309a807eeb4af1bbd46096d78666d5a73ebe2fc94fd567fe63e8e15b8245ac1.jpeg',
                         ['Comedy', 'Science & Medicine'], 'science,Comedy,here we are,shane mauss',
                         'clean_shane_mauss']
@@ -563,7 +563,7 @@ podcast_info.loc[111] = ['Brody Stevens Festival Of Sports', ['Brody Stevens'], 
                         'clean_festival_of_sports']
 
 podcast_info.loc[112] = ['The Steven Brody Stevens Festival Of Friendship', ['Brody Stevens'], 'http://feeds.feedburner.com/StevenBrodyFOF',
-                        'http://static.libsyn.com/p/assets/5/a/a/2/5aa270810d300fbd/FOS4_1.jpg',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/dc/d8/1e/da/dcd81eda-2143-4340-906d-c8d2d6543f82/71361a094d2a83277b6cce0ba8fd7d02855c73ef17e8a060c5f8e3644c6729ee258b31eafa179953be9189e7c9ad6b65a34ac55c4afc7452611ff43fd5fc5edf.jpeg',
                         ['Comedy'], 'comedy',
                         'clean_brody_stevens']
 
@@ -588,7 +588,7 @@ podcast_info.loc[116] = ['Tom Rhodes Radio Smart Camp', ['Tom Rhodes'], 'http://
                         ['Comedy', 'Society & Culture', 'Health'], 'all,central,comedian,comedy,educational,funny,international,knowledge,laughspin,learn,people,personal,podcast,reflection,rhodes,smart,smartcamp,standup,stanhope,things,tom,travel,wisdom,world',
                         'clean_tom_rhodes']
 
-podcast_info.loc[117] = ['The Full Charge Power Hour featuring Matt Fulchiron', ['Matt Fulchiron'], 'http://thefullcharge.com/?feed=podcast',
+podcast_info.loc[117] = ['The Full Charge Power Hour featuring Matt Fulchiron', ['Matt Fulchiron', 'Craig Coleman', 'Radio Rando', 'Eric Alan Wendell'], 'http://thefullcharge.com/?feed=podcast',
                         'http://thefullcharge.com/wp-content/uploads/2014/02/securedownload-1.jpg', 
                         ['Comedy', 'Performing Arts', 'News & Politics', 'Society & Culture', 'Philosophy'], '',
                         'clean_full_charge']
@@ -603,12 +603,12 @@ podcast_info.loc[119] = ['Good Times: With Steve Simeone', ['Steve Simeone'], 'h
                         ['Comedy'], 'comedy,friends,help,self,simeone,steve',
                         'clean_steve_simeone']
 
-podcast_info.loc[120] = ['Twisting The Wind with Johnny Pemberton', ['Johnny Pemberton'], 'http://rss.art19.com/twisting-the-wind',
+podcast_info.loc[120] = ['Twisting The Wind with Johnny Pemberton', ['Johnny Pemberton'], 'http://feeds.feedburner.com/TwistingTheWindWithJohnnyPemberton?format=xml',
                         'https://assets.pippa.io/shows/59ee7e546a56eba371b694b7/show-cover.jpeg',
                         ['Comedy'], 'feral audio,comedy',
                         'clean_johnny_pemberton']
 
-podcast_info.loc[121] = ['LIVE TO TAPE with Johnny Pemberton', ['Johnny Pemberton'], 'http://rss.art19.com/live-to-tape-with-johnny-pemberton-fb',
+podcast_info.loc[121] = ['LIVE TO TAPE with Johnny Pemberton', ['Johnny Pemberton'], 'http://rss.art19.com/live-to-tape-with-johnny-pemberton-fb', #     'http://feeds.feedburner.com/LiveToTapeWithJohnnyPemberton',#    #'http://rss.art19.com/live-to-tape-with-johnny-pemberton-fb',
                         'https://dfkfj8j276wwv.cloudfront.net/images/da/9c/9f/74/da9c9f74-1cc2-4a0a-8496-dd9f50b2079e/6e502f1b994b067ce60e87e644f6c49b6ec9782ad9f0bfd8dcb712a8a674cc2538547ec5c936660e6f30384e7e2c6cf84541c7c21a8ab9aa7a892f4e4fd76fea.jpeg',
                         ['Comedy', 'Arts'], 'starburns,starburns audio,podcasts,podcast,johnny pemberton',
                         'clean_live_to_tape']
@@ -658,7 +658,7 @@ podcast_info.loc[130] = ['Watch What Happens Live with Andy Cohen', ['Andy Cohen
                         ['TV & Film'], 'wwhl,the real housewives,the real housewives of beverly hills,the real housewives of potomac,shahs of sunset,the real housewives of new york city,below deck,vanderpump rules,the real housewives of dallas,the real housewives of new jersey,the real housewives of orange county,housewives,andy cohen,The Real Housewives Of Orange County,bravo tv,the real housewives of atlanta,reality tv,bravo',
                         'clean_andy_cohen']
 
-podcast_info.loc[131] = ['Rap Radar Podcast', ['Elliott Wilson', 'Brian Miller'], 'https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/76f26848-76db-42d9-83bf-a78e0075127f/5d1a6abb-fdfe-4c3e-a6cb-a78e00751284/podcast.rss',
+podcast_info.loc[131] = ['Rap Radar Podcast', ['Elliott Wilson', 'Brian Miller'], 'http://rapradar.com/feed/',
                         'https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/76f26848-76db-42d9-83bf-a78e0075127f/5d1a6abb-fdfe-4c3e-a6cb-a78e00751284/image.jpg?t=1505920529&amp;size=Large',
                         ['Music'], '',
                         'clean_rap_radar']
@@ -722,6 +722,106 @@ podcast_info.loc[143] = ["Oprah’s SuperSoul Conversations", ['Oprah Winfrey'],
                         'http://static.megaphone.fm/podcasts/d14b05a0-b2a6-11e7-9296-bbfc944381a8/image/OWN_SuperSoul_Podcast_Logo_FINAL.jpg',
                         ['Society & Culture', 'Health', 'Religion & Spirituality'], '',
                         'clean_supersoul']
+
+podcast_info.loc[144] = ['Conversations with Tyler', ['Tyler Cowen'], 'http://feeds.soundcloud.com/users/soundcloud:users:146429914/sounds.rss',
+                        'http://i1.sndcdn.com/avatars-000202916330-h6nns1-original.jpg',
+                        ['Society & Culture'], '',
+                        'clean_conv_tyler']
+
+podcast_info.loc[145] = ['Macro Musings', ['David Beckworth'], 'http://feeds.soundcloud.com/users/soundcloud:users:215838245/sounds.rss',
+                        'http://i1.sndcdn.com/avatars-000214765570-civgs0-original.jpg',
+                        ['Business'], '',
+                        'clean_macro_musings']
+
+podcast_info.loc[146] = ['Who Makes Cents?: A History of Capitalism Podcast', ['Betsy Beasley', 'David Stein'], 'http://whomakescents.libsyn.com/rss',
+                        'http://static.libsyn.com/p/assets/8/5/8/7/8587e76e470c6076/WMC-R3-logo-small.jpg',
+                        ['Society & Culture', 'History', 'News & Politics', 'News & Politics', 'Education', 'Higher Education'], 'capitalism,economics,history,labor',
+                        'clean_who_makes_cents']
+
+podcast_info.loc[147] = ['New Books in Economics', ['Marshall Poe'], 'http://newbooksnetwork.com/category/politics-society/economics/feed/',
+                        'http://newbooksnetwork.com/wp-content/nbn_logos_itunes/economics1500x1500.png',
+                        ['Science & Medicine', 'Social Sciences'], '',
+                        'clean_new_books_econ']
+
+podcast_info.loc[148] = ['New Books in Science, Technology, and Society', ['Marshall Poe'], 'http://newbooksnetwork.com/category/science-technology/scitechsoc/feed/',
+                        'https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/8e/e3/688ee3a3-4235-850b-387e-278e628975ce/source/1200x630bb.jpg',
+                        ['Science & Medicine', 'Social Sciences'], '',
+                        'clean_new_books_science']
+
+# podcast_info.loc[149] = ['New Books in History', ['Marshall Poe'], 'http://newbooksnetwork.com/category/politics-society/history/feed/',
+#                         'http://newbooksnetwork.com/wp-content/nbn_logos_itunes/history1500x1500.png',
+#                         ['Society & Culture', 'History'], '',
+#                         'clean_new_books_history']
+
+podcast_info.loc[149] = ['New Books in Biography', ['Marshall Poe'], 'http://newbooksnetwork.com/category/politics-society/biography/feed/',
+                        'https://is3-ssl.mzstatic.com/image/thumb/Music/v4/06/c1/54/06c1545c-f129-3846-815e-348dad539f7a/source/1200x630bb.jpg',
+                        ['Society & Culture', 'History'], '',
+                        'clean_new_books_biography']
+
+podcast_info.loc[150] = ['New Books in American Studies', ['Marshall Poe'], 'http://newbooksnetwork.com/category/peoples-places/american-studies/feed/',
+                        'http://newbooksnetwork.com/wp-content/nbn_logos_itunes/americanstudies1500x1500.png',
+                        ['Society & Culture', 'History'], '',
+                        'clean_new_books_american']
+
+podcast_info.loc[151] = ['Dr. Gameshow', ['Jo Firestone', 'Manolo Moreno'], 'http://rss.earwolf.com/dr-gameshow',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/d2/6a/d8/ff/d26ad8ff-230c-4656-acce-b33ad60f3958/f16994d4c51c5f53b56b41bd6eaf60f28da786a568ec6f572fec5136d56775fed207100869f24b71da4e7f4c74b9250334454c61be2fc0ec5ea958b994d5d498.jpeg',
+                        ['Other Games'], '',
+                        'clean_dr_gameshow']
+
+podcast_info.loc[152] = ['Homophilia', ['Dave Holmes', 'Matt McConkey'], 'http://rss.earwolf.com/homophilia',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/38/ca/04/78/38ca0478-f51f-4e91-a1b6-c8af51970ccf/3c552719ea2849745c875da1b83d0ebf383c5d4136400bf21d230e8f6875a7d77ac76f50045f8b82b5dc2b988117a24f9000f05455ec9a94dbc26aa258c59a4f.jpeg',
+                        ['Society & Culture'], '',
+                        'clean_homophilia']
+
+podcast_info.loc[153] = ['Throwing Shade', ['Erin Gibson', 'Bryan Safi'], 'http://rss.earwolf.com/throwing-shade',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/1d/47/38/a0/1d4738a0-9d4a-49f1-878b-948786f3dd21/ba6e1311322bc963c547ee3234d129c93e99cf4d78dc6f8920695ec34d793bb633c5c97acfa6ce7085d22a957389245145f33f53e8bca8ceb11f5f963d4a61b3.jpeg',
+                        ['News & Politics'], '',
+                        'clean_throwing_shade']
+
+podcast_info.loc[154] = ['WOMP It Up!', ['Jessica St. Clair', 'Lennon Parham'], 'http://rss.earwolf.com/womp-it-up',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/59/9b/b1/ac/599bb1ac-8f9f-42c1-b4d9-ec64fd1f54a0/35a1d783126ddeae688240f8e4ebd9bbf17cbba73439142b1a5eba9c4b2392dfac3e5cfe04219e570fb7c65abaad1049e486ec2ca52b34a086f15bb139f9f2e1.jpeg',
+                        ['Comedy'], '',
+                        'clean_womp_it_up']
+
+podcast_info.loc[155] = ['Off Book: The Improvised Musical', ['Jessica McKenna', 'Zach Reino'], 'http://rss.earwolf.com/off-book',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/02/20/32/14/02203214-2de0-481a-89e2-8c1e8fa93c2e/507cb28a8631035e1a1e7014eb8a0af706f582dc520da95b54f7fa0e8c8380d101368591dd7f89c96d8e69e3d6c4ed5d7e95cd3315bfb65d0cd923f95f4fd7e0.jpeg',
+                        ['Music'], '',
+                        'clean_off_book']
+
+podcast_info.loc[156] = ['Get Up On This', ['Jensen Karp', 'Matthew Robinson'], 'http://rss.earwolf.com/get-up-on-this',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/96/94/bb/ae/9694bbae-109b-4b09-9d2f-f97ea24bcd58/a52fff6ce6b836d4a4be1f40108e31dc2d90982a5adcb22c7bfdbdcf632c7dd96d4ba7e504fb1573103b5439bbb1675fa29bb0dce06114cbc51316ebd3515287.jpeg',
+                        ['Comedy'], '',
+                        'clean_get_up_on_this']
+
+podcast_info.loc[157] = ['I Was There Too', ['Matt Gourley'], 'http://rss.earwolf.com/i-was-there-too',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/0c/49/65/56/0c496556-dc55-4c46-aeec-a4d252804529/5fe462fd701c78ea7af6c590c12d07cca3dd474cdb91f62b387e3e7f6e302d1d42f21117d3615fefaeaffa531e2d8630341cb2e42516de2aae4ccd8dcf886587.jpeg',
+                        ['TV & Film'], '',
+                        'clean_there_too']
+
+podcast_info.loc[158] = ['QUEERY with Cameron Esposito', ['Cameron Esposito'], 'https://rss.earwolf.com/queery',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/85/b4/cd/4b/85b4cd4b-0491-4eff-943a-0715d3f07f0c/2e7ccde36c97c8f34e3f570c2af7694e4a8566f7a29e902edc4b1d498b9aa5accc791e46eefc42f8f706cee1113f3cd5705d0741a161994822def90a91d35a36.jpeg',
+                        ['Society & Culture'], '',
+                        'clean_queery']
+
+podcast_info.loc[159] = ['The Canon', ['Devin Faraci', 'Amy Nicholson'], 'http://rss.earwolf.com/the-canon',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/37/ed/71/12/37ed7112-bec2-4099-96c5-f5da2e0c8dfb/b5f1810968a373afbdeb51ea70708b30febe542d4e876df058d90e4e2cd4d36c670c9559f32d97714f0b060bb2ac3d7e03948b00effc254336a16119bd6a348a.jpeg',
+                        ['TV & Film'], '',
+                        'clean_canon']
+
+podcast_info.loc[160] = ['James Bonding', ['Matt Gourley', 'Matt Mira'], 'http://rss.earwolf.com/james-bonding',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/67/12/2e/44/67122e44-6c49-431d-9248-9e1748442d15/e36b59d5baacbe547753640a3d7b6fbd121c0369d915c6bc2392961c239b7de014ba549bc0a0572f7c9267eeffb0df7fe8f3c3c74d2e7395c05f68f4a4197c80.jpeg',
+                        ['TV & Film'], '',
+                        'clean_james_bonding']
+
+podcast_info.loc[161] = ["Kevin Pollak's Chat Show", ['Kevin Pollak'], 'http://rss.earwolf.com/kevin-pollaks-chat-show',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/f5/4e/2d/91/f54e2d91-29a7-4b1c-a45d-f7d0e05ab6b3/055cfa62d72411cda59cfa7b6b90b9ab97d63d5fbb2a060b5c817597f02929adef57f40613e002b1a7fc68b2e3cb044782df1c33593045813bd10f2dd7174812.jpeg',
+                        ['TV & Film'], '',
+                        'clean_kevin_pollak']
+
+podcast_info.loc[162] = ['With Special Guest Lauren Lapkus', ['Lauren Lapkus'], 'http://rss.earwolf.com/with-special-guest-lauren-lapkus',
+                        'https://dfkfj8j276wwv.cloudfront.net/images/bf/34/07/7c/bf34077c-a676-4c2b-868a-c3ebce0ff608/d05e6f3e4df2da08baf7434ff2af1b7040e206448b77aff58ea401d12c808eb90cffb66d9945515c975ad2919e06793a10d4ad965f7938e7273588e9ff5a4aa7.jpeg',
+                        ['Comedy'], '',
+                        'clean_lauren_lapkus']
 
 
 
