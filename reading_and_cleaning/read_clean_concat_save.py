@@ -865,6 +865,22 @@ lauren_lapkus = clean_lauren_lapkus(lauren_lapkus)
 lauren_lapkus['hosts'] = 'Lauren Lapkus'
 lauren_lapkus['podcast'] = 'With Special Guest Lauren Lapkus'
 
+slate_money = 'rss_files/slate_money.xml'
+slate_money = clean_slate_money(slate_money)
+slate_money['hosts'] = 'Felix Salmon'
+slate_money['podcast'] = 'Slate Money'
+
+richard_herring = 'rss_files/richard_herring.xml'
+richard_herring = clean_richard_herring(richard_herring)
+richard_herring['hosts'] = 'Richard Herring'
+richard_herring['podcast'] = "Richard Herring's Leicester Square Theatre Podcast"
+
+carasantamaria = 'rss_files/carasantamaria.xml'
+carasantamaria = clean_carasantamaria(carasantamaria)
+carasantamaria['hosts'] = 'Cara Santa Maria'
+carasantamaria['podcast'] = 'TALK NERDY'
+
+
 df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
                russell_brand, kevin_pereira, chris_hardwick, sam_harris,
                kill_tony, dave_rubin, comedy_bang, h3, marc_maron,
@@ -905,7 +921,8 @@ df = pd.concat([joe_rogan, duncan_trussel, bert_kreischer, tfatk, ari_shaffir,
                new_books_biography, new_books_american,
                dr_gameshow, homophilia, throwing_shade, womp_it_up, off_book,
                get_up_on_this, there_too, queery, canon, james_bonding,
-               kevin_pollak, lauren_lapkus], ignore_index=True)
+               kevin_pollak, lauren_lapkus, slate_money, richard_herring,
+               carasantamaria], ignore_index=True)
 
 
 df['guests'] = [g.rstrip() for g in df['guests']]
@@ -924,8 +941,13 @@ for index, row in podcast_info.iterrows():
 for index1, row1 in df.iterrows():
 	df.at[index1, 'podcast_id']=d[row1['podcast']]
 
+remove_nickname(df)
 
+guest_split_last('Dr. ', df)
+guest_split_last('Dr ', df)
 
+replace('Drew', 'Dr. Drew', df)
+replace('Oz', 'Dr. Oz', df)
 
 df.to_csv('cleaned_podcasts.csv', sep='\t')
 

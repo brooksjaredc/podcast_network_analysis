@@ -32,7 +32,10 @@ def xml_to_df(filename):
 	descriptions = []
 	for item in e.iter('item'):
 		for d in item.findall('itunes:duration', ns):
-			dur = d.text
+			if(d.text=='00.58.48'):
+				dur = '00:58:48'
+			else:
+				dur = d.text.split('.')[0]
 		durations.append(dur)
 		titles.append(item.find('title').text)
 		dates.append(item.find('pubDate').text)
@@ -62,7 +65,7 @@ def xml_to_df_desc(filename):
 		titles.append(item.find('title').text)
 		dates.append(item.find('pubDate').text)
 		for d in item.findall('itunes:duration', ns):
-			durations.append(d.text)
+			durations.append(d.text.split('.')[0])
 		descriptions.append(item.find('description').text)
 			
 	df = pd.DataFrame()
@@ -84,7 +87,7 @@ def xml_to_df_subt(filename):
 		titles.append(item.find('title').text)
 		dates.append(item.find('pubDate').text)
 		for d in item.findall('itunes:duration', ns):
-			durations.append(d.text)
+			durations.append(d.text.split('.')[0])
 		for d in item.findall('itunes:subtitle', ns):
 			subtitles.append(d.text)
 			
@@ -107,7 +110,7 @@ def xml_to_df_summ(filename):
 		titles.append(item.find('title').text)
 		dates.append(item.find('pubDate').text)
 		for d in item.findall('itunes:duration', ns):
-			durations.append(d.text)
+			durations.append(d.text.split('.')[0])
 		for d in item.findall('itunes:summary', ns):
 			summ = d.text
 		summary.append(summ)
@@ -139,8 +142,21 @@ def guest_split_last(spl, df):
 				df.at[index, 'guests'] = row['guests'].split(spl)[-1]
 
 def date_parser(df):
-	excl = '(\s\+0000|\s\-0000|\sGMT|\sEST|\s\-0[78]00|\s\-0600|\s\-0[45]00|\sP[SD]T|\sE[DS]T)$'
+	excl = '(\s\+0000|\s\-0000|\sGMT|\sEST|\s\-0[78]00|\s\-0600|\s\-0[45]00|\sP[SD]T|\sE[DS]T|\s\+0100)$'
 	dates_no_zeros =[]
 	for d in df['date']:
 		dates_no_zeros.append(re.sub(excl, '', str(d), flags=re.IGNORECASE))
 	df['date'] = [dt.datetime.strptime(d, '%a, %d %b %Y %H:%M:%S') for d in dates_no_zeros]
+
+
+def remove_nickname(df):
+	nickname = re.compile('[\w\s]+\"[\w\s]+\"[\w\s]+')
+	for index, row in df.iterrows():
+		if(pd.notnull(row['guests'])):
+			name1 = row['guests']
+			if(nickname.search(name1)):
+				name2 = re.sub(r'\".*\" ', "", row['guests']).strip()
+				if(name1!=name2):
+					print(name1, name2)
+					df.at[index, 'guests'] = name2
+

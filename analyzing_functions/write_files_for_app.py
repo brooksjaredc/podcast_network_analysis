@@ -74,16 +74,41 @@ guest_host.sort_values(by='date', inplace=True)
 guest_host.reset_index(inplace=True, drop=True)
 most_recent_date = guest_host['date'].iloc[-1]
 
+top_cat_dict = load_obj('top_categories')
+df_top_cat = pd.DataFrame(list(top_cat_dict.items()), columns=['name', 'cat'])
+top_cats = df_top_cat.groupby(['cat']).count()
+top_cats.reset_index(inplace=True)
+top_cats.sort_values(by='name', inplace=True, ascending=False)
+top_cats.reset_index(inplace=True, drop=True)
+cat_dict = {}
+for index, row in top_cats.iterrows():
+    cat_dict[row['cat']] = index
+
+cat_dict
+top_cats['name'].values
+
+w = top_cats['name'].values/sum(top_cats['name'].values)
+w_dict = {}
+for i in range(len(top_cats)):
+    w_dict[top_cats['cat'].values[i]] = w[i]
+
 
 
 podcast_info['avg_day_diff'] = 0.0
 podcast_info['active'] = False
 podcast_info['premier'] = ''
 podcast_info['avg_ep_lengths'] = ''
+podcast_info['cat_bias'] = ''
 
 for index, row in podcast_info.iterrows():
     podcast_df = guest_host[guest_host['podcast']==row['Podcast Name']].copy()
     podcast_df.reset_index(inplace=True, drop=True)
+    num_guests = len(podcast_df)
+    cats = ast.literal_eval(row['categories'])
+    top_cat_podcast = cats[0]
+    wi = w_dict[top_cat_podcast]
+    num_top_cat = 0
+    num_all_cat = 0
     podcast_info.at[index, 'premier'] = str(podcast_df['date'].iloc[0])
     day_diffs = []
     ep_lengths = []
@@ -91,14 +116,141 @@ for index, row in podcast_info.iterrows():
         ep_lengths.append(row1['duration'])
         if(index1>0):
             day_diffs.append(((podcast_df['date'][index1]-podcast_df['date'][index1-1]).total_seconds()/86400))
+        if(top_cat_dict[row1['guests']]==top_cat_podcast):
+            num_top_cat+=1
     most_recent_ep_date = podcast_df['date'].iloc[-1]
     days_since_most_recent = (most_recent_date-most_recent_ep_date).total_seconds()/86400
     active = True
     if(days_since_most_recent > 5*np.mean(day_diffs)):
         active = False
+    qi = num_top_cat/num_guests
+    if(qi==1):
+        beta_i = 'Full Bias'
+    else:
+        beta_i = str(np.round(np.log(wi)/(np.log(qi)),1))
     podcast_info.at[index, 'avg_day_diff'] = np.round(np.mean(day_diffs),1)
     podcast_info.at[index, 'active'] = active
     podcast_info.at[index, 'avg_ep_lengths'] = sec_to_hours(np.round(np.mean(ep_lengths),0))
+    podcast_info.at[index, 'cat_bias'] = beta_i
+
+
+# guest_host = pd.read_csv('../reading_and_cleaning/guest_host_cleaned_podcasts.csv', sep='\t', index_col=0)
+# guest_host['date'] = pd.to_datetime(guest_host['date'])
+# guest_host.sort_values(by='date', inplace=True)
+# guest_host.reset_index(inplace=True, drop=True)
+
+####################################################################################################################################
+
+## Setting Leadership Scores
+
+sorted_hubs = load_obj('sorted_hubs')
+sorted_hubs = sorted(sorted_hubs.items(), key=operator.itemgetter(1))
+
+top_hubs = [x[0] for x in sorted_hubs][0:500]
+
+g_hubs = load_obj('g_hubs')
+g_hubs['Moshe Kasher']
+
+hub_first_podcast = {}
+for hub in top_hubs:
+    hub_df = guest_host[guest_host['guests']==hub].copy()
+    hub_first_podcast[hub] = hub_df['podcast'].iloc[0]
+
+
+start = dt(2017, 1, 1)
+end = dt(2018, 1, 1)
+         
+split_hosts = pd.read_csv('../reading_and_cleaning/split_hosts.csv', sep='\t', index_col=0)
+guest_durations = split_hosts.groupby(['hosts', 'guests'])['duration'].sum()
+guest_durations = guest_durations.reset_index()
+
+split_hosts['date'] = pd.to_datetime(split_hosts['date'])
+split_hosts.sort_values(by='date', inplace=True)
+split_hosts.reset_index(inplace=True, drop=True)
+dates = [x for x in split_hosts['date']]
+
+valid_dates_start = [(d < start) for d in dates]
+start_df = split_hosts[valid_dates_start]
+start_df.reset_index(inplace=True, drop=True)
+         
+valid_dates_end = [(d < end) for d in dates]
+end_df = split_hosts[valid_dates_end]
+end_df.reset_index(inplace=True, drop=True)
+
+print(len(start_df), len(end_df), len(split_hosts))
+print(start_df['date'].iloc[-1], end_df['date'].iloc[-1], split_hosts['date'].iloc[-1])
+
+guest_durations_start = start_df.groupby(['hosts', 'guests'])['duration'].sum()
+guest_durations_start = guest_durations_start.reset_index()
+G1_start = nx.from_pandas_dataframe(guest_durations_start, 'guests', 'hosts', edge_attr=['duration'], create_using=nx.Graph())
+bt_start = nx.betweenness_centrality(G1_start)
+print('Bt Start')
+
+guest_durations_end = end_df.groupby(['hosts', 'guests'])['duration'].sum()
+guest_durations_end = guest_durations_end.reset_index()
+G1_end = nx.from_pandas_dataframe(guest_durations_end, 'guests', 'hosts', edge_attr=['duration'], create_using=nx.Graph())
+bt_end = nx.betweenness_centrality(G1_end)
+print('Bt End')
+
+
+in_bt_start = [x for x in bt_start]
+
+host_list = []
+for index1, row1 in podcast_info.iterrows():
+    hosts = ast.literal_eval(row1['Hosts'])
+    for host in hosts:
+        host_list.append(host)
+
+host_list = list(set(host_list))
+
+hl = pd.DataFrame(host_list)
+hl.to_csv('host_list.csv', index=False)
+
+bt_diff = {}
+for key in bt_end:
+    if(key not in host_list):
+        if(key in in_bt_start):
+            bt_diff[key] = bt_end[key]-bt_start[key]
+        else:
+            bt_diff[key] = bt_end[key]
+sorted_bt_diff = sorted(bt_diff.items(), key=operator.itemgetter(1), reverse=True)
+top_bt_diff = [x[0] for x in sorted_bt_diff][0:500]
+
+hub_first_podcast = {}
+for hub in top_hubs:
+    hub_df = guest_host[guest_host['guests']==hub].copy()
+    hub_first_podcast[hub] = hub_df['podcast'].iloc[0]
+#     print(hub, hub_df['podcast'].iloc[0])
+
+bt_diff_first_podcast = {}
+for bt in top_bt_diff:
+    bt_df = guest_host[guest_host['guests']==bt].copy()
+    bt_diff_first_podcast[bt] = bt_df['podcast'].iloc[0]
+#     print(bt, bt_df['podcast'].iloc[0])
+
+podcast_info['hub_leader_score'] = 0.0
+podcast_info['bt_diff_leader_score'] = 0.0
+
+for index, row in podcast_info.iterrows():
+    hub_leader_score = 0
+    bt_diff_leader_score = 0
+    for hub in top_hubs:
+        if(hub_first_podcast[hub]==row['Podcast Name']):
+            hub_leader_score += g_hubs[hub]
+            #print(hub, row['Podcast Name'], leader_score, g_hubs[hub])
+    podcast_info.at[index, 'hub_leader_score'] = np.round(100*hub_leader_score,2)
+    for bt in top_bt_diff:
+        if(bt_diff_first_podcast[bt]==row['Podcast Name']):
+            bt_diff_leader_score += bt_diff[bt]
+    podcast_info.at[index, 'bt_diff_leader_score'] = np.round(100*bt_diff_leader_score,2)
+    # print(row['Podcast Name'], hub_leader_score, bt_diff_leader_score)
+
+print('Leaders Set')
+
+podcast_info.to_csv('meta_podcast_info.csv', sep='\t')
+
+####################################################################################################################################
+
 
 
 similarities = pd.read_csv('podcast_similarities.csv', sep='\t', index_col=0)
@@ -106,21 +258,27 @@ similarities = similarities[similarities['score']>0]
 
 G1 = nx.from_pandas_dataframe(similarities, 'podcast1', 'podcast2', edge_attr=['score'], create_using=nx.Graph())
 
-sorted_close = sorted(nx.closeness_centrality(G1).items(), key=operator.itemgetter(1), reverse=True)
+close = nx.closeness_centrality(G1)
+save_obj(close, 'p_close')
+sorted_close = sorted(close.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_close = pd.DataFrame(sorted_close)
 sorted_close_dict = {}
 for index, row in df_sorted_close.iterrows():
     sorted_close_dict[row[0]] = index+1
 print("Closeness Centrality Done")
 
-sorted_bt = sorted(nx.betweenness_centrality(G1).items(), key=operator.itemgetter(1), reverse=True)
+bt = nx.betweenness_centrality(G1)
+save_obj(bt, 'p_bt')
+sorted_bt = sorted(bt.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_bt = pd.DataFrame(sorted_bt)
 print("Betweenness Centrality Done")
 sorted_bt_dict = {}
 for index, row in df_sorted_bt.iterrows():
     sorted_bt_dict[row[0]] = index+1
 
-sorted_degree = sorted(nx.degree_centrality(G1).items(), key=operator.itemgetter(1), reverse=True)
+degree = nx.degree_centrality(G1)
+save_obj(degree, 'p_degree')
+sorted_degree = sorted(degree.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_degree = pd.DataFrame(sorted_degree)
 sorted_degree_dict = {}
 for index, row in df_sorted_degree.iterrows():
@@ -130,10 +288,15 @@ podcast_info['close_rank'] = 0
 podcast_info['bt_rank'] = 0
 podcast_info['degree_rank'] = 0
 
+
+
+# print(podcast_info.columns)
+
 p_info  = podcast_info.drop(['feedURL', 'keywords', 'cleaner'], axis=1)
 p_info.columns=['name', 'hosts', 'imgurl', 'categories', 'description', 
                 'percent_unique', 'num_guests', 'num_unique', 'avg_day_diff', 
-                'active', 'premier', 'avg_ep_lengths', 
+                'active', 'premier', 'avg_ep_lengths', 'cat_bias',
+                'hub_leader_score', 'bt_diff_leader_score',
                 'close_rank', 'bt_rank', 'degree_rank']
 
 for index, row in p_info.iterrows():
@@ -141,6 +304,7 @@ for index, row in p_info.iterrows():
     p_info.at[index, 'close_rank'] = sorted_close_dict[row['name']]
     p_info.at[index, 'bt_rank'] = sorted_bt_dict[row['name']]
 
+p_info.to_csv('p_info.csv', sep='\t')
 
 p_info['podcast_id'] = podcast_info.index-1
 
@@ -221,6 +385,7 @@ guest_durations = pd.read_csv('../reading_and_cleaning/guest_durations.csv', sep
 G1 = nx.from_pandas_dataframe(guest_durations, 'guests', 'hosts', edge_attr=['duration'], create_using=nx.DiGraph())
 
 pr = nx.pagerank(G1, weight='duration')
+save_obj(pr, 'g_pr')
 sorted_pr = sorted(pr.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_pr = pd.DataFrame(sorted_pr)
 sorted_pr_dict = {}
@@ -231,12 +396,16 @@ save_obj(sorted_pr_dict, 'sorted_pr_dict')
 
 hubs, authorities = nx.hits(G1)
 
+save_obj(hubs, 'g_hubs')
 sorted_hubs = sorted(hubs.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_hubs = pd.DataFrame(sorted_hubs)
 sorted_hubs_dict = {}
 for index, row in df_sorted_hubs.iterrows():
     sorted_hubs_dict[row[0]] = index+1
 
+save_obj(sorted_hubs_dict, 'sorted_hubs')
+
+save_obj(authorities, 'g_auths')
 sorted_authorities = sorted(authorities.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_authorities = pd.DataFrame(sorted_authorities)
 sorted_auths_dict = {}
@@ -245,21 +414,27 @@ for index, row in df_sorted_authorities.iterrows():
 
 G2 = nx.from_pandas_dataframe(guest_durations, 'guests', 'hosts', edge_attr=['duration'], create_using=nx.Graph())
 
-sorted_close = sorted(nx.closeness_centrality(G2).items(), key=operator.itemgetter(1), reverse=True)
+close = nx.closeness_centrality(G2)
+save_obj(close, 'g_close')
+sorted_close = sorted(close.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_close = pd.DataFrame(sorted_close)
 sorted_close_dict = {}
 for index, row in df_sorted_close.iterrows():
     sorted_close_dict[row[0]] = index+1
 print("Closeness Centrality Done")
 
-sorted_bt = sorted(nx.betweenness_centrality(G2).items(), key=operator.itemgetter(1), reverse=True)
+bt = nx.betweenness_centrality(G2)
+save_obj(bt, 'g_bt')
+sorted_bt = sorted(bt.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_bt = pd.DataFrame(sorted_bt)
 print("Betweenness Centrality Done")
 sorted_bt_dict = {}
 for index, row in df_sorted_bt.iterrows():
     sorted_bt_dict[row[0]] = index+1
 
-sorted_degree = sorted(nx.degree_centrality(G2).items(), key=operator.itemgetter(1), reverse=True)
+degree = nx.degree_centrality(G2)
+save_obj(degree, 'g_degree')
+sorted_degree = sorted(degree.items(), key=operator.itemgetter(1), reverse=True)
 df_sorted_degree = pd.DataFrame(sorted_degree)
 sorted_degree_dict = {}
 for index, row in df_sorted_degree.iterrows():
@@ -298,10 +473,12 @@ guest_list = list(top_guest_podcast.keys())
 
 
 
+
 all_people = pd.DataFrame(columns=['name', 'person_id', 'host_podcast', 'host_podcasts', 
                                   'guest_podcast', 'guest_podcasts', 
                                   'pr_rank', 'hub_rank', 'auth_rank',
-                                  'degree_rank', 'bt_rank', 'close_rank'])
+                                  'degree_rank', 'bt_rank', 'close_rank',
+                                  'top_category'])
 all_people['name'] = list(G2.nodes())
 
 for index, row in all_people.iterrows():
@@ -312,6 +489,7 @@ for index, row in all_people.iterrows():
     row['degree_rank'] = sorted_degree_dict[row['name']]
     row['close_rank'] = sorted_close_dict[row['name']]
     row['bt_rank'] = sorted_bt_dict[row['name']]
+    row['top_category'] = top_cat_dict[row['name']]
 
     # for index1, value1 in df_sorted_hubs[0].iteritems():
     #     if(value1==row['name']):

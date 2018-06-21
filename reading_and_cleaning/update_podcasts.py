@@ -16,8 +16,10 @@ podcast_info['description'] = ''
 df = pd.DataFrame()
 for index, row in podcast_info.iterrows():
     print(row['cleaner'], row['feedURL'])
-    # if(row['cleaner']=='clean_kill_tony'):
+    # if(row['cleaner']!='clean_joe_rogan'):
     #     continue
+    if(row['cleaner']=='clean_kill_tony'):
+        continue
     if(row['cleaner']=='clean_rap_radar'):
         continue
     # if(row['cleaner']==r'(clean_chris_kresser|clean_new_books_econ)'):
@@ -37,7 +39,8 @@ for index, row in podcast_info.iterrows():
     df1['podcast'] = row['Podcast Name']
     df1['podcast_id']=index-1
     
-    df = pd.concat([df, df1])
+    df = pd.concat([df, df1], ignore_index=True)
+
 
 df['guests'] = [g.rstrip() for g in df['guests']]
 df['guests'] = [g.lstrip() for g in df['guests']]
@@ -45,10 +48,28 @@ df['guests'] = [g.lstrip() for g in df['guests']]
 df['guests'] = [g.rstrip(' ') for g in df['guests']]
 df['guests'] = [g.lstrip(' ') for g in df['guests']]
 
+# df = pd.read_csv('cleaned_podcasts.csv', sep='\t', index_col=0)
+
+remove_nickname(df)
+
+guest_split_last('Dr. ', df)
+guest_split_last('Dr ', df)
+
+replace('Drew', 'Dr. Drew', df)
+replace('Oz', 'Dr. Oz', df)
+
+
+# df.to_csv('cleaned_podcasts.csv', sep='\t')
+
+
 df0 = pd.read_csv('cleaned_podcasts.csv', sep='\t', index_col=0)
 
 df_combine = pd.concat([df, df0], ignore_index=True)
+
+
+
 df_combine.drop_duplicates(subset=['podcast', 'guests', 'duration', 'title'],inplace=True)
+df_combine.reset_index(inplace=True, drop=True)
 
 df_combine.to_csv('cleaned_podcasts.csv', sep='\t')
 

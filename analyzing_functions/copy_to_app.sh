@@ -16,3 +16,4 @@ cp sorted_pr_dict.pkl ../../podcast_connections/six_degrees/
 cp six_degrees.edgelist ../../podcast_connections/six_degrees/
 cp podcast_id.pkl ../../podcast_connections/six_degrees/
 cp correct_spellings.csv ../../podcast_connections/six_degrees/
+cp host_list.csv ../../podcast_connections/rankings/

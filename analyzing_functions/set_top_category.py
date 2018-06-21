@@ -25,15 +25,20 @@ for index1, row1 in podcast_info.iterrows():
 
 host_list = set(host_list)
 
+guests = set(guest_durations['guests'])
+
 
 top_category = {}
 for node in G2.nodes():
+    # if(node not in guests):
+    #     continue
     if node in host_list:
         #print(node)
         df = split_hosts[split_hosts['hosts']==node]
         host_durations = df.groupby(['podcast'])['duration'].sum()
         host_durations = host_durations.reset_index()
         host_durations = host_durations.sort_values(by='duration', ascending=False)
+        host_durations = host_durations.reset_index()
         #print(host_durations['podcast'])
         top_podcast = host_durations['podcast'][0]
         for index, row in podcast_info.iterrows():
@@ -46,6 +51,7 @@ for node in G2.nodes():
         guest_durations = df.groupby(['podcast'])['duration'].sum()
         guest_durations = guest_durations.reset_index()
         guest_durations = guest_durations.sort_values(by='duration', ascending=False)
+        guest_durations = guest_durations.reset_index()
         top_podcast = guest_durations['podcast'][0]
         for index, row in podcast_info.iterrows():
             if(row['Podcast Name']==top_podcast):

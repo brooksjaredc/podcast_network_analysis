@@ -5,7 +5,7 @@ podcast_info = DataFrame(columns=['Podcast Name', 'Hosts', 'feedURL', 'imageURL'
 
 podcast_info.loc[1] = ['The Joe Rogan Experience', ['Joe Rogan'], 'http://joeroganexp.joerogan.libsynpro.com/rss', 
                        'http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg',
-                       ['Comedy', 'Society and Culture', 'Technology'], 'comedian,joe,monkey,redban,rogan,talking,ufc',
+                       ['Comedy', 'Society & Culture', 'Technology'], 'comedian,joe,monkey,redban,rogan,talking,ufc',
                        'clean_joe_rogan']
 
 podcast_info.loc[2] = ['The Duncan Trussell Family Hour', ['Duncan Trussell'], 'http://feeds.feedburner.com/DuncanTrussell',
@@ -48,7 +48,7 @@ podcast_info.loc[9] = ['Waking Up with Sam Harris', ['Sam Harris'], 'http://waki
                       ['Science & Medicine', 'Society & Culture', 'Religion & Spirituality'], 'currentevents,ethics,neuroscience,philosophy,politics,religion,samharris,science',
                       'clean_sam_harris']
 
-podcast_info.loc[10] = ['Kill Tony', ['Tony Hinchcliffe', 'Brian Redban'], 'http://www.deathsquad.tv/feed/',
+podcast_info.loc[10] = ['Kill Tony', ['Tony Hinchcliffe', 'Brian Redban'], 'http://feeds.feedburner.com/KillTony',
                        'http://is1.mzstatic.com/image/thumb/Music62/v4/a2/28/46/a22846be-aa37-a34f-b0b1-82f2eda98fff/source/1200x630bb.jpg',
                        ['Comedy', 'Technology', 'TV & Film'], '',
                        'clean_kill_tony']
@@ -462,7 +462,7 @@ podcast_info.loc[91] = ["RuPaul: What's The Tee with Michelle Visage", ['RuPaul'
                         ['Comedy', 'Health', 'Self-Help', 'Society & Culture'], 'beauty,dragrace,fashion,fashionpopculture,michelle,michellevisage,nails,rupaul,rupaulsdragrace,visage',
                         'clean_rupaul']
 
-podcast_info.loc[92] = ['Shane And Friends', ['Shane Dawson'], 'http://feeds.feedburner.com/ShaneAndFriends',
+podcast_info.loc[92] = ['Shane And Friends', ['Shane Dawson', 'Jessie Buttafuoco'], 'http://feeds.feedburner.com/ShaneAndFriends',
                         'http://i1.sndcdn.com/avatars-000278104111-80h0da-original.jpg',
                         ['Comedy'], 'shane,dawson,shane,dawson,lauren,schnipper,podcast,youtube,s,deezy,shananay,paris,hilton,aunt,hilda,comedy,epic',
                         'clean_shane_dawson']
@@ -823,7 +823,20 @@ podcast_info.loc[162] = ['With Special Guest Lauren Lapkus', ['Lauren Lapkus'], 
                         ['Comedy'], '',
                         'clean_lauren_lapkus']
 
+podcast_info.loc[163] = ['Slate Money', ['Felix Salmon'], 'http://feeds.feedburner.com/SlateMoney',
+                        'http://static.megaphone.fm/podcasts/3244f352-8289-11e5-b42a-730ed12c5ae6/image/uploads_2F1516105165439-3mqt15g4y3d-2c496fccbc1a29b938303b2bda12467a_2F01_Slate_Redux_Podcast_Cover_Slate-Money.jpg',
+                        ['Business', 'Business News'], '',
+                        'clean_slate_money']
 
+podcast_info.loc[164] = ["Richard Herring's Leicester Square Theatre Podcast", ['Richard Herring'], 'http://feeds.feedburner.com/RichardHerringLSTPodcast',
+                        'https://www.comedy.co.uk/images/library/comedies/1400x1400/rhlstp.jpg',
+                        ['Comedy'], 'Richard,Herring,Leicester,Square,Theatre,Podcast,Comedy,Chat,Interview,Tim,Minchin',
+                        'clean_richard_herring']
+
+podcast_info.loc[165] = ['TALK NERDY', ['Cara Santa Maria'], 'https://www.carasantamaria.com/podcast/?format=rss',
+                        'http://static1.squarespace.com/static/517c6938e4b065cfbf60e0f0/t/53167d4ee4b0e91cea12b59b/1393982800328/1500w/Talk+Nerdy+v3+square+RGB.jpg',
+                        ['Science & Medicine'], '',
+                        'clean_carasantamaria']
 
 
 

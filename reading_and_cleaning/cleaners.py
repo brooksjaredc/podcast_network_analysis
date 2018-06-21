@@ -29,8 +29,10 @@ def clean_joe_rogan(joe_rogan):
     replace('Lewis, form Unbox Therapy', 'Lewis from Unbox Therapy', joe_rogan)
 
     replace('Chris & Mark Bell', 'Chris Bell & Mark Bell', joe_rogan)
+    replace('Mark & Chris Bell', 'Mark Bell & Chris Bell', joe_rogan)
     replace('Alex & Allyson Grey', 'Alex Grey & Allyson Grey', joe_rogan)
-    replace('Vince & Emily Horn', 'Vince Horn & Emily Horn', joe_rogan)
+    replace('Vince & Emily Horn, from Buddhist Geeks', 'Vince Horn & Emily Horn', joe_rogan)
+    replace('Liam & Dylan Resnekov', 'Liam Resnekov & Dylan Resnekov', joe_rogan)
     
     joe_rogan = joe_rogan[pd.notnull(joe_rogan['guests'])]
     joe_rogan = splitDataFrameList(joe_rogan, 'guests', ', ')
@@ -65,14 +67,22 @@ def clean_joe_rogan(joe_rogan):
     replace('Wheeler Walker Jr', 'Wheeler Walker Jr.', joe_rogan)
     replace('Donald "Cowboy" Cerrone', 'Donald Cerrone', joe_rogan)
     replace('Neil Degrasse Tyson', 'Neil deGrasse Tyson', joe_rogan)
+    replace('Christina Sommers', 'Christina Hoff Sommers', joe_rogan)
+    replace('Jd Kelley', 'JD Kelley', joe_rogan)
+    replace("Yvette D'Entremont", "Yvette d'Entremont", joe_rogan)
+    replace('Aubrey De Grey', 'Aubrey de Grey', joe_rogan)
     
 
     guest_split_last('Cmdr. ', joe_rogan)
+    guest_split_last('Dr. ', joe_rogan)
+
+    replace('Drew', 'Dr. Drew', joe_rogan)
 
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('From ')]
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('Live ')]
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('Ph.D')]
     joe_rogan = joe_rogan[~joe_rogan['guests'].str.startswith('Phd')]
+    joe_rogan = joe_rogan[~joe_rogan['guests'].str.contains('Producers')]
 
     date_parser(joe_rogan)
 
@@ -299,13 +309,21 @@ def clean_duncan_trussel(duncan_trussel):
     ## Split Guests
     replace('Allyson and Alex Grey', 'Allyson Grey and Alex Grey', duncan_trussel)
     replace('Alex And Allyson Grey', 'Allyson Grey and Alex Grey', duncan_trussel)
+    replace('Gloria and Daniele Bolelli', 'Gloria Bolelli and Daniele Bolelli', duncan_trussel)
+    replace('Survios', 'Nathan Burba and James Illif', duncan_trussel)
+    replace('Live', np.nan, duncan_trussel)
+    replace('The Many', 'Tait Fletcher', duncan_trussel)
     
     duncan_trussel = duncan_trussel[pd.notnull(duncan_trussel['guests'])]
     duncan_trussel = splitDataFrameList(duncan_trussel, 'guests', ', ')
     duncan_trussel = splitDataFrameList(duncan_trussel, 'guests', ' & ')
     duncan_trussel = splitDataFrameList(duncan_trussel, 'guests', ' And ')
+    duncan_trussel = splitDataFrameList(duncan_trussel, 'guests', ' and ')
     
     ## Fix Names
+    guest_split_last('Guru ', duncan_trussel)
+
+    guest_split(' Buys', duncan_trussel)
 
     
     duncan_trussel['guests'] = [g.lstrip() for g in duncan_trussel['guests']]
@@ -321,6 +339,9 @@ def clean_duncan_trussel(duncan_trussel):
     replace('Allyson and Alex Grey', 'Allyson Grey and Alex Grey', duncan_trussel)
     
     #sum(duncan_trussel['guests'].str.contains('Christopher Ryan')==True)
+
+    duncan_trussel = duncan_trussel[duncan_trussel.guests.str.contains("Hai ") == False]
+
     
     duncan_trussel_output = duncan_trussel
     
@@ -408,6 +429,8 @@ def clean_bert_kreischer(bert_kreischer):
     replace('Danish & O', 'Danish & O’Neill', bert_kreischer)
     replace('Ari Shaffir ', 'Ari Shaffir', bert_kreischer)
     replace("Todd & Tyler", 'Mike Tyler and Todd Brandt', bert_kreischer)
+    replace('Super Troopers', 'Steve Lemme and Kevin Heffernan', bert_kreischer)
+    replace('Keith', 'Keith Malley and Chemda Khalili', bert_kreischer)
 
     bert_kreischer = bert_kreischer[bert_kreischer.guests.str.contains('Daddy ') == False]
     bert_kreischer = bert_kreischer[bert_kreischer.guests.str.contains('Best Of ') == False]
@@ -430,6 +453,7 @@ def clean_bert_kreischer(bert_kreischer):
     bert_kreischer = splitDataFrameList(bert_kreischer, 'guests', ' and ')
     
     replace('Wheeler Walker Jr', 'Wheeler Walker Jr.', bert_kreischer)
+    replace('Roy Wood Jr', 'Roy Wood Jr.', bert_kreischer)
     replace('Joey Coco Diaz', 'Joey Diaz', bert_kreischer)
     replace('Sam "Primetime" Roberts', 'Sam Roberts', bert_kreischer)
     replace('Me', np.nan, bert_kreischer)
@@ -903,7 +927,7 @@ def clean_sam_harris(sam_harris):
     
     sam_harris['episode'] = sam_harris.title.str.extract(r'\#\s?([\d]+)',expand=True)
 
-    sam_harris['guests'] = sam_harris.subtitle.str.extract('A Conversation with ([\w\s\.]+)',expand=True)
+    sam_harris['guests'] = sam_harris.subtitle.str.extract('A Conversation with ([\w\s\.\-]+)',expand=True)
     
     sam_harris = sam_harris.drop('subtitle', 1)
     
@@ -920,11 +944,10 @@ def clean_kill_tony(kill_tony):
 
     kill_tony = xml_to_df_subt(kill_tony)
     
-    kill_tony = kill_tony[kill_tony.title.str.contains('KILL TONY') == True]
+    # kill_tony = kill_tony[kill_tony.title.str.contains('KILL TONY') == True]
 
-    ## Set Episode numbers
     
-    kill_tony['episode'] = kill_tony.title.str.extract(r'KILL TONY \#([\d]+)',expand=True)
+    # kill_tony['episode'] = kill_tony.title.str.extract(r'KILL TONY \#([\d]+)',expand=True)
 
     date_parser(kill_tony)
     
@@ -958,7 +981,7 @@ def clean_dave_rubin(dave_rubin):
 
     ## Set Episode numbers
     
-    dave_rubin['episode'] = 202 - dave_rubin.index
+    dave_rubin['episode'] = len(dave_rubin) - dave_rubin.index
 
     date_parser(dave_rubin)
     
@@ -969,6 +992,7 @@ def clean_dave_rubin(dave_rubin):
     guest_split(' (', dave_rubin)
     guest_split(' join', dave_rubin)
     guest_split(' is', dave_rubin)
+    guest_split(' have', dave_rubin)
     
     
     for index, row in dave_rubin.iterrows():
@@ -1199,6 +1223,7 @@ def clean_joey_diaz(joey_diaz):
     joey_diaz = joey_diaz[joey_diaz.guests.str.contains('Church') == False]
     joey_diaz = joey_diaz[joey_diaz.guests.str.contains('Calls') == False]
     joey_diaz = joey_diaz[joey_diaz.guests.str.contains('Peter Segal') == False]
+    joey_diaz = joey_diaz[joey_diaz.guests.str.contains('Listener') == False]
 
     replace('Lee Syatt 4', 'Lee Syatt', joey_diaz)
     replace('"Big" John McCarthy', 'Big John McCarthy', joey_diaz)
@@ -1229,7 +1254,7 @@ def clean_your_moms_house(your_moms_house):
 
     date_parser(your_moms_house)
     
-    your_moms_house['guests'] = your_moms_house.title.str.extract(r'(?:[\d]+-)?([\w\s]+)-',expand=True)
+    your_moms_house['guests'] = your_moms_house.title.str.extract(r'(?:[\d]+-)?([\w\s.,\&]+)-',expand=True)
     your_moms_house['guests'] = your_moms_house.guests.str.extract(r'([\D]+)',expand=True)
     
     guest_split('Live', your_moms_house)
@@ -1509,6 +1534,7 @@ def clean_dax_shepard(dax_shepard):
     dax_shepard['guests'] = dax_shepard['title']
     
     guest_split_last('with ', dax_shepard)
+    guest_split_last(': ', dax_shepard)
     
     return dax_shepard
 
@@ -1584,7 +1610,7 @@ def clean_sam_tripoli(sam_tripoli):
     replace('Chaos', 'Veronica Chaos', sam_tripoli)
     replace('Identical Twins', 'Cory & Chad', sam_tripoli)
     replace('Duncan', 'Duncan Trussell', sam_tripoli)
-    replace('Roy Wood Jr', 'Roy Wood Jr.', sam_tripoli)
+    
     replace('Danica', 'Danica Dillon', sam_tripoli)
     
     sam_tripoli = sam_tripoli[sam_tripoli.guests.str.contains(r' Show') == False]
@@ -1665,6 +1691,8 @@ def clean_sam_tripoli(sam_tripoli):
     sam_tripoli['guests'] = [g.rstrip('.') for g in sam_tripoli['guests']]
     sam_tripoli['guests'] = [g.rstrip('!') for g in sam_tripoli['guests']]
     sam_tripoli['guests'] = [g.rstrip() for g in sam_tripoli['guests']]
+
+    replace('Roy Wood Jr', 'Roy Wood Jr.', sam_tripoli)
     
     return sam_tripoli
 
@@ -1762,6 +1790,7 @@ def clean_alison_rosen(alison_rosen):
     alison_rosen = splitDataFrameList(alison_rosen, 'guests', ' / ')
     
     replace('Christina P', 'Christina Pazsitzky', alison_rosen)
+    replace('Christina Pazsitsky', 'Christina Pazsitzky', alison_rosen)
     replace('Jason', 'Jason Sklar', alison_rosen)
     replace('Gary', 'Gary Smith', alison_rosen)
     replace('Chris', 'Chris Laxamana', alison_rosen)
@@ -3120,11 +3149,13 @@ def clean_ringer_nba(ringer_nba):
     guest_split_last("champion ", ringer_nba)
     guest_split_last("ESPNer ", ringer_nba)
     guest_split_last("TV’s ", ringer_nba)
+    guest_split_last("TV's ", ringer_nba)
     guest_split_last("manager ", ringer_nba)
     guest_split_last("frontman ", ringer_nba)
     guest_split_last("Nuggets' ", ringer_nba)
     guest_split_last("analyst ", ringer_nba)
     guest_split_last("guard ", ringer_nba)
+    guest_split_last("columnist ", ringer_nba)
     
     ringer_nba['guests2'] = ringer_nba.title.str.extract(r'(?:With )([\w\s\.\,\'\`\’\&\"\-\:]+)',expand=True)
     
@@ -3389,6 +3420,7 @@ def clean_rapaport(rapaport):
     rapaport = rapaport[rapaport.guests.str.contains(r'\@B') == False]
     
     guest_split(': ', rapaport)
+    guest_split(' aka ', rapaport)
     
     rapaport['guests'] = [g.rstrip() for g in rapaport['guests']]
     
@@ -4591,7 +4623,7 @@ def clean_zach_leary(zach_leary):
     replace('Donald (DJ) Salmon, Jr.', 'Donald Salmon Jr.', zach_leary)
     replace('Alex and Allyson Grey', 'Alex Grey and Allyson Grey', zach_leary)
     replace('Alex and Allyson Grey and Duncan Trussell', 'Alex Grey and Allyson Grey and Duncan Trussell', zach_leary)
-    replace('Jason Louv (with Ram Dass too', 'Jason Louv and Ram Dass')
+    replace('Jason Louv (with Ram Dass too', 'Jason Louv and Ram Dass', zach_leary)
 
     zach_leary = zach_leary[zach_leary.guests.str.contains(r' in ') == False]
     zach_leary = zach_leary[zach_leary.guests.str.contains(r'the legend ') == False]
@@ -5173,7 +5205,7 @@ def clean_full_charge(full_charge):
 
     replace('Craig', np.nan, full_charge)
     replace('Wendell', np.nan, full_charge)
-    replace('Josh O&#8217;Brien', "Josh O’Brien")
+    replace('Josh O&#8217;Brien', "Josh O’Brien", full_charge)
 
     guest_split(' The Party', full_charge)
     guest_split(' Part ', full_charge)
@@ -5609,19 +5641,40 @@ def clean_doug_stanhope(doug_stanhope):
     
     guest_split(r' (@', doug_stanhope)
     guest_split(r' ( @', doug_stanhope)
+    guest_split(r' (', doug_stanhope)
     guest_split(r'. ', doug_stanhope)
     guest_split(r' from', doug_stanhope)
     
     guest_split_last('& ', doug_stanhope)
     guest_split_last('author ', doug_stanhope)
     guest_split_last('comedian ', doug_stanhope)
+    guest_split_last('by ', doug_stanhope)
+    guest_split_last('Director ', doug_stanhope)
     
     replace('Jobi', 'Jobi Whitlock', doug_stanhope)
     replace('Ggreg Chaille', 'Greg Chaille', doug_stanhope)
+    replace('Chaille', 'Greg Chaille', doug_stanhope)
+    replace('Rev', 'Rev. Derrick', doug_stanhope)
+    replace('Wende', 'Wende Curtis', doug_stanhope)
+    replace('Mishka', 'Mishka Shubaly', doug_stanhope)
+    replace('Tracey', 'Ms. Tracey', doug_stanhope)
+    replace('Amanda', 'Baked Amanda', doug_stanhope)
+    replace('Mrs', 'Mrs. Gump', doug_stanhope)
+    replace('Betty', 'Nurse Betty', doug_stanhope)
+    replace('John NOrris', 'John Norris', doug_stanhope)
+    replace('more', np.nan, doug_stanhope)
+    replace('Johnathan', 'Johnathon', doug_stanhope)
     
+    doug_stanhope = doug_stanhope[pd.notnull(doug_stanhope['guests'])]
     doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Edited ') == False]
     doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r' the ') == False]
     doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r' Cut ') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Baskets') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Detour') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Vodkasoda') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Australia') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Europe') == False]
+    doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'UK') == False]
 
     doug_stanhope = doug_stanhope[doug_stanhope.guests.str.contains(r'Mom') == False]
 
@@ -5661,6 +5714,9 @@ def clean_cam_rhea(cam_rhea):
     cam_rhea['guests'] = cam_rhea.title.str.extract(r'([\w\s\.\,\'\`\’\&\"\-]+)',expand=True)
     
     guest_split(' and host', cam_rhea)
+
+    replace('Megan Gailey, Eric Dadourian, James Davis, Stone and Stone, Janine Brito', 'Megan Gailey, Eric Dadourian, James Davis, Adam Stone, Todd Stone, Janine Brito', cam_rhea)
+    replace('Paul F. Tompkins as "Cake Boss," Rory Scovel, Myq Kaplan, Beth Stelling, Greg Barris, Rhea Butcher', 'Paul F. Tompkins, Rory Scovel, Myq Kaplan, Beth Stelling, Greg Barris, Rhea Butcher', cam_rhea)
     
     cam_rhea = cam_rhea[pd.notnull(cam_rhea['guests'])]
     cam_rhea = splitDataFrameList(cam_rhea, 'guests', ', and ')
@@ -5671,9 +5727,13 @@ def clean_cam_rhea(cam_rhea):
     cam_rhea = splitDataFrameList(cam_rhea, 'guests', ' And ')
     cam_rhea = splitDataFrameList(cam_rhea, 'guests', ' and ')
 
-    replace('Paul F. Tompkins as "Cake Boss," Rory Scovel', 'Paul F. Tompkins, Rory Scovel', cam_rhea)
+    guest_split_last(' with ', cam_rhea)
+
     replace('The Sklar Brothers', 'Jason Sklar, Randy Sklar', cam_rhea)
     replace('The Walsh Brothers', 'Dave Walsh, Chris Walsh', cam_rhea)
+    replace('The Puterbaugh Sisters', 'Tiffany Puterbaugh, Danielle Puterbaugh', cam_rhea)
+    replace('The Lucas Brothers', 'Kenny Lucas and Keith Lucas', cam_rhea)
+    replace('Matt D', 'Matt Donaher', cam_rhea)
     cam_rhea = splitDataFrameList(cam_rhea, 'guests', ', ')
 
     cam_rhea['guests'] = [g.rstrip() for g in cam_rhea['guests']]
@@ -5722,6 +5782,9 @@ def clean_andy_cohen(andy_cohen):
 
     guest_split(' (', andy_cohen)
     guest_split(' - ', andy_cohen)
+
+    replace('XSCAPE', 'LaTocha Scott, Tamika Scott, Tameka Harris, and Kandi Burruss', andy_cohen)
+    replace('Ashley Darby & Retta', 'Ashley Darby & Retta', andy_cohen)
     
     andy_cohen = andy_cohen[pd.notnull(andy_cohen['guests'])]
     andy_cohen = splitDataFrameList(andy_cohen, 'guests', ', and ')
@@ -5731,11 +5794,16 @@ def clean_andy_cohen(andy_cohen):
     andy_cohen = splitDataFrameList(andy_cohen, 'guests', ' & ')
     andy_cohen = splitDataFrameList(andy_cohen, 'guests', ' And ')
     andy_cohen = splitDataFrameList(andy_cohen, 'guests', ' and ')
+
+    replace('Oprah', 'Oprah Winfrey', andy_cohen)
     
     andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r'the N') == False]
     andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r'Special') == False]
     andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r' Live') == False]
     andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r' Cast') == False]
+    andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r'Birthday') == False]
+    andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r'Reunion') == False]
+    andy_cohen = andy_cohen[andy_cohen.guests.str.contains(r'Hiatus') == False]
     
     andy_cohen['guests'] = [g.rstrip() for g in andy_cohen['guests']]
     
@@ -5751,6 +5819,7 @@ def clean_rap_radar(rap_radar):
     rap_radar['guests'] = rap_radar.title.str.extract(r'E[Pp] \d+: ([\w\s\.\,\'\`\’\&\"\-\$]+)',expand=True)
     
     replace('The Breakfast Club', 'DJ Envy, Angela Yee, Charlamagne Tha God', rap_radar)
+    replace('No Guests', np.nan, rap_radar)
     
     rap_radar = rap_radar[pd.notnull(rap_radar['guests'])]
     rap_radar = splitDataFrameList(rap_radar, 'guests', ', and ')
@@ -5777,6 +5846,10 @@ def clean_vlad_couch(vlad_couch):
     guest_split(' of ', vlad_couch)
     guest_split(' Talks ', vlad_couch)
     guest_split("writer' ", vlad_couch)
+    guest_split(' [', vlad_couch)
+    guest_split(' Live', vlad_couch)
+
+    replace("Drake's 'Ghost", 'Quentin Miller', vlad_couch)
     
     vlad_couch = vlad_couch[vlad_couch.guests.str.contains(r' Details ') == False]
     
@@ -5805,8 +5878,10 @@ def clean_allegedly(allegedly):
     allegedly['guests'] = allegedly['title']  #.title.str.extract(r'([^(]+)',expand=True)
 
     guest_split_last('"', allegedly)
+    guest_split_last(' - ', allegedly)
     
     allegedly = allegedly[allegedly.guests.str.contains(r'Best Of ') == False]
+    allegedly = allegedly[allegedly.guests.str.contains(r'Best of ') == False]
     
     allegedly = allegedly[pd.notnull(allegedly['guests'])]
     allegedly = splitDataFrameList(allegedly, 'guests', ', and ')
@@ -5834,16 +5909,32 @@ def clean_this_life(this_life):
     guest_split(' VS. PTSD', this_life)
     guest_split(' PTSD', this_life)
     guest_split(' Talks', this_life)
+    guest_split(' Is ', this_life)
     
     guest_split_last(' - ', this_life)
     guest_split_last('With ', this_life)
     guest_split_last('Soberoctobert ', this_life)
     guest_split_last('Interventionist ', this_life)
+    guest_split_last('#YOULIVE ', this_life)
+    guest_split_last('OG ', this_life)
+    guest_split_last('Surgeon ', this_life)
+    guest_split_last('Recovers ', this_life)
+    guest_split_last("Mom's ", this_life)
+
+    replace('Dave Navarro,  Shelly & Bob', 'Dave Navarro, Shelly Sprague and Bob Forrest', this_life)
+    replace('Deanna And Steven Adler', 'Deanna Adler and Steven Adler', this_life)
+    replace('Patricia and Rob Schneider', 'Patricia Schneider and Rob Schneider', this_life)
+    replace('Battlefield Addiction', 'Art Dahlen, Amy Brooks and Angie Keaty', this_life)
+    replace("Chris Cornel's Death ", 'Mike Catherwood', this_life)
+    replace('Eric Roberts, Eliza & Keaton Simons', 'Eric Roberts, Eliza Roberts & Keaton Simons', this_life)
+    replace('Craig  and Justin Shoemaker', 'Craig Shoemaker and Justin Shoemaker', this_life)
+    replace('Candy And Mike Finnigan', 'Candy Finnigan And Mike Finnigan', this_life)
     
     this_life = this_life[this_life.guests.str.contains(r'This ') == False]
     this_life = this_life[this_life.guests.str.contains(r'Facing ') == False]
     this_life = this_life[this_life.guests.str.contains(r'At The ') == False]
     this_life = this_life[this_life.guests.str.contains(r' Guys') == False]
+    this_life = this_life[this_life.guests.str.contains(r'Las Vegas') == False]
     
     this_life = this_life[pd.notnull(this_life['guests'])]
     this_life = splitDataFrameList(this_life, 'guests', ', and ')
@@ -5878,8 +5969,12 @@ def clean_friends_like_these(friends_like_these):
     
     guest_split('"', friends_like_these)
     guest_split('“', friends_like_these)
+    guest_split(' on ', friends_like_these)
+    guest_split(' Says ', friends_like_these)
     
     friends_like_these.replace('', np.nan, inplace=True)
+
+    replace('What about Bill?', 'Rebecca Traister', friends_like_these)
     
     friends_like_these = friends_like_these[friends_like_these.guests.str.contains(r'Episode') == False]
     friends_like_these = friends_like_these[friends_like_these.guests.str.contains(r'EPISODE') == False]
@@ -5896,6 +5991,8 @@ def clean_friends_like_these(friends_like_these):
     friends_like_these = splitDataFrameList(friends_like_these, 'guests', ' And ')
     friends_like_these = splitDataFrameList(friends_like_these, 'guests', ' and ')
 
+
+    friends_like_these['guests'] = [g.rstrip('”') for g in friends_like_these['guests']]
     friends_like_these['guests'] = [g.rstrip() for g in friends_like_these['guests']]
     
     return friends_like_these
@@ -5912,6 +6009,14 @@ def clean_axe_files(axe_files):
     axe_files = axe_files[pd.notnull(axe_files['guests'])]
 
     replace('SE Cupp', 'S.E. Cupp', axe_files)
+
+    guest_split_last('Rep. ', axe_files)
+    guest_split_last('Gov. ', axe_files)
+    guest_split_last('Sen. ', axe_files)
+    guest_split_last('Sec. ', axe_files)
+    guest_split_last('Mayor ', axe_files)
+    guest_split_last('Fr. ', axe_files)
+    guest_split_last('Capt. ', axe_files)
 
     axe_files['guests'] = [g.rstrip() for g in axe_files['guests']]
     
@@ -5939,7 +6044,11 @@ def clean_politically_reactive(politically_reactive):
     guest_split_last("YouTube's ", politically_reactive)
     guest_split_last("CNN’s ", politically_reactive)
     guest_split_last('Comedian ', politically_reactive)
+    guest_split_last('Dr. ', politically_reactive)
+
     
+    replace('Rich and Julie Roll', 'Rich Roll and Julie Roll', politically_reactive)
+
     for index, row in politically_reactive.iterrows():
         if(pd.notnull(row['guests'])):
             politically_reactive.at[index, 'guests'] = row['guests'].title()
@@ -5976,6 +6085,15 @@ def clean_james_altucher(james_altucher):
     guest_split(': ', james_altucher)
     guest_split(' - ', james_altucher)
     guest_split(' [', james_altucher)
+    guest_split(' of ', james_altucher)
+
+    guest_split_last("Crew's ", james_altucher)
+    guest_split_last("with ", james_altucher)
+    guest_split_last("Founder ", james_altucher)
+
+    replace('Astro & Danielle Teller', 'Astro Teller & Danielle Teller', james_altucher)
+    replace('Rich and Julie Roll', 'Rich Roll and Julie Roll', james_altucher)
+
     
     james_altucher = james_altucher[james_altucher.guests.str.contains(r'Anxiety') == False]
     
@@ -5988,6 +6106,16 @@ def clean_james_altucher(james_altucher):
     james_altucher = splitDataFrameList(james_altucher, 'guests', ' And ')
     james_altucher = splitDataFrameList(james_altucher, 'guests', ' and ')
 
+    replace('Jordan B. Peterson', 'Jordan Peterson', james_altucher)
+    guest_split_last('Col. ', james_altucher)
+    guest_split_last('Dr. ', james_altucher)
+    replace('Astronaut', np.nan, james_altucher)
+    replace('Braintree', np.nan, james_altucher)
+
+    replace('Oz', 'Dr. Oz', james_altucher)
+    replace('Kareem Abdul Jabbar', 'Kareem Abdul-Jabbar', james_altucher)
+
+    james_altucher = james_altucher[pd.notnull(james_altucher['guests'])]
     james_altucher['guests'] = [g.rstrip() for g in james_altucher['guests']]
     
     return james_altucher
@@ -5999,7 +6127,44 @@ def clean_bulletproof_radio(bulletproof_radio):
         
     date_parser(bulletproof_radio)
     
-    bulletproof_radio['guests'] = bulletproof_radio.title.str.extract(r'(?: [Ww]ith | - )([^(]+)',expand=True)
+    bulletproof_radio['guests1'] = bulletproof_radio.title.str.extract(r'(?: [Ww]ith | - |: )([^(]+)',expand=True)
+    bulletproof_radio['guests2'] = bulletproof_radio.title.str.extract(r'([\w\s\.\,\'\`\’\&\"\-\$]+)(?:: | - )',expand=True)
+
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests1'])):
+            if(' & ' in row['guests1']):
+                bulletproof_radio.at[index, 'guests1'] = ''
+
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests2'])):
+            if(' & ' in row['guests2']):
+                bulletproof_radio.at[index, 'guests2'] = ''
+                
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests1'])):
+            if(' on ' in row['guests1']):
+                bulletproof_radio.at[index, 'guests1'] = ''
+
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests1'])):
+            if(' Without ' in row['guests1']):
+                bulletproof_radio.at[index, 'guests1'] = ''
+                
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests1'])):
+            if(' the ' in row['guests1']):
+                bulletproof_radio.at[index, 'guests1'] = ''
+
+    for index, row in bulletproof_radio.iterrows():
+        if(pd.notnull(row['guests1'])):
+            if('Why ' in row['guests1']):
+                bulletproof_radio.at[index, 'guests1'] = ''
+                
+    bulletproof_radio.replace(np.nan, '', regex=True, inplace=True)
+    bulletproof_radio['guests'] = bulletproof_radio['guests1'] + bulletproof_radio['guests2']  
+    bulletproof_radio = bulletproof_radio.drop('guests1', 1)
+    bulletproof_radio = bulletproof_radio.drop('guests2', 1)
+    bulletproof_radio.replace('', np.nan, regex=True, inplace=True)
     
     guest_split('#', bulletproof_radio)
     guest_split(', Ph.D', bulletproof_radio)
@@ -6007,20 +6172,61 @@ def clean_bulletproof_radio(bulletproof_radio):
     guest_split_last('," ', bulletproof_radio)
     guest_split_last('! ', bulletproof_radio)
     
+    guest_split(' - Part', bulletproof_radio)
+    guest_split(' Part', bulletproof_radio)
+    guest_split(' from ', bulletproof_radio)
     guest_split_last(' - ', bulletproof_radio)
     guest_split_last('with ', bulletproof_radio)
+    guest_split_last('w/ ', bulletproof_radio)
+    guest_split_last('With ', bulletproof_radio)
     
     guest_split(' -', bulletproof_radio)
     guest_split_last(' – ', bulletproof_radio)
+    guest_split_last("uBiome's ", bulletproof_radio)
+    guest_split_last("Alderspring's ", bulletproof_radio)
+    guest_split_last("Neurosurgeon ", bulletproof_radio)
+    
+    guest_split('9', bulletproof_radio)
+    guest_split('8', bulletproof_radio)
+    guest_split('7', bulletproof_radio)
+    guest_split('6', bulletproof_radio)
+    guest_split('5', bulletproof_radio)
+    guest_split('4', bulletproof_radio)
+    guest_split('3', bulletproof_radio)
+    guest_split('2', bulletproof_radio)
+    guest_split('1', bulletproof_radio)
     
     replace('Jayson & Mira Calton', 'Jayson Calton & Mira Calton', bulletproof_radio)
     replace('Mira & Jayson Calton', 'Jayson Calton & Mira Calton', bulletproof_radio)
+    replace('Mira and Jayson Calton', 'Jayson Calton & Mira Calton', bulletproof_radio)
     replace('The Bare Minimum From NY Times Best-Selling Author  James Altucher ', 'James Altucher', bulletproof_radio)
+    replace("It's Not Liquid, It's Water: ", 'Gerald Pollack', bulletproof_radio)
+    replace('Dr. Tami', 'Dr. Tami Meraglia', bulletproof_radio)
+    replace('Biohacking Wine: Sulfates, Sugar & Dosing  ', 'Todd White', bulletproof_radio)
+    replace('Your Glass Is Always Full Through Irlen Lenses: ', 'Irlen Lenses', bulletproof_radio)
+    replace(' Fertility & Food, Flavonoids & Inflammation: ', 'Barry Sears', bulletproof_radio)
+    replace('Dr. Mark', 'Dr. Mark Atkinson', bulletproof_radio)
+    replace('the Health Ranger', np.nan, bulletproof_radio)
+    replace('Alternative Medicine: ', 'Dr. Martin Polanco, Dr. Dan Engle and Deanne Adamson', bulletproof_radio)
+    replace('Meat Is The New Ketchup: ', 'Mark Hyman', bulletproof_radio)
+    replace('Neurofeedback, Decluttering & Alpha State: ', 'Tony Wrighton', bulletproof_radio)
+    replace('Neurogenesis Diet & Combating Cognitive Decline: ', 'Brant Cortright',  bulletproof_radio)
+    replace('Entrepreneurship & Alitura Naturals: ', 'Andy Hnilo', bulletproof_radio)
+    replace('Shamanism & Energy Fields: ', 'Alberto Villoldo', bulletproof_radio)
+    replace('Financial Intelligence & Learning from Failure ', 'Daymond John', bulletproof_radio)
+    replace('Bigger, Stronger, Faster', 'Mark Bell, Chris Bell', bulletproof_radio)
+    replace('Bulletproof Radio', 'Dr. Terry Wahls', bulletproof_radio)
+    replace('Meanwhile, Back at the Ranch', 'Dan Kittredge', bulletproof_radio)
+    replace('Food', 'Jonathan Bailor', bulletproof_radio)
+    replace('Entrepreneurship & Alitura Naturals', 'Andy Hnilo', bulletproof_radio)
+    replace('Dr. Bronner’s Magic', 'Dr. Bronner', bulletproof_radio)
     
     bulletproof_radio.replace('', np.nan, regex=True, inplace=True)
     bulletproof_radio.replace('', np.nan, regex=True, inplace=True)
     
     bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r' Oil') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Podcast') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Marijuana') == False]
     
     bulletproof_radio = bulletproof_radio[pd.notnull(bulletproof_radio['guests'])]
     bulletproof_radio = splitDataFrameList(bulletproof_radio, 'guests', ', and ')
@@ -6030,6 +6236,32 @@ def clean_bulletproof_radio(bulletproof_radio):
     bulletproof_radio = splitDataFrameList(bulletproof_radio, 'guests', ' & ')
     bulletproof_radio = splitDataFrameList(bulletproof_radio, 'guests', ' And ')
     bulletproof_radio = splitDataFrameList(bulletproof_radio, 'guests', ' and ')
+    
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'The ') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Coffee') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Q&A') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Report') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'the Health') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Live ') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r' on ') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r' the ') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'A Second ') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Superman') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Light') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'HRV') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Gratitude') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Health') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Recovery') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Bulletproof') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'founder') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Self') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Beef') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Performance') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Mobility') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'How To') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Hormone') == False]
+    bulletproof_radio = bulletproof_radio[bulletproof_radio.guests.str.contains(r'Plants') == False]
+    
 
     bulletproof_radio['guests'] = [g.rstrip() for g in bulletproof_radio['guests']]
     bulletproof_radio['guests'] = [g.rstrip('.') for g in bulletproof_radio['guests']]
@@ -6038,6 +6270,7 @@ def clean_bulletproof_radio(bulletproof_radio):
     bulletproof_radio = bulletproof_radio[pd.notnull(bulletproof_radio['guests'])]
     
     return bulletproof_radio
+
 
 
 def clean_chris_kresser(chris_kresser):
@@ -6078,6 +6311,8 @@ def clean_ufc_unfiltered(ufc_unfiltered):
     guest_split(' Sounds', ufc_unfiltered)
     guest_split(' Joins', ufc_unfiltered)
     guest_split(' Is ', ufc_unfiltered)
+    guest_split(' is ', ufc_unfiltered)
+    guest_split(' from ', ufc_unfiltered)
     guest_split(' on ', ufc_unfiltered)
     guest_split(' Fights', ufc_unfiltered)
     guest_split(' Predicts', ufc_unfiltered)
@@ -6089,11 +6324,16 @@ def clean_ufc_unfiltered(ufc_unfiltered):
     guest_split(' Feels', ufc_unfiltered)
     guest_split(' In-', ufc_unfiltered)
     guest_split(' Loves', ufc_unfiltered)
+    guest_split(' Join', ufc_unfiltered)
     
     guest_split_last('with ', ufc_unfiltered)
     guest_split_last('The Great ', ufc_unfiltered)
+    guest_split_last("Blink 182's ", ufc_unfiltered)
+    guest_split_last("Show's ", ufc_unfiltered)
     
     replace('Roy Jones, Jr.', 'Roy Jones Jr.', ufc_unfiltered)
+    replace('Picks', np.nan, ufc_unfiltered)
+    replace('Dale Earnhardt Jr. and Lando Vannata', 'Dale Earnhardt, Jr. and Lando Vannata', ufc_unfiltered)
     
     ufc_unfiltered = ufc_unfiltered[pd.notnull(ufc_unfiltered['guests'])]
     ufc_unfiltered = splitDataFrameList(ufc_unfiltered, 'guests', ', and ')
@@ -6107,6 +6347,10 @@ def clean_ufc_unfiltered(ufc_unfiltered):
     ufc_unfiltered['guests'] = [g.rstrip() for g in ufc_unfiltered['guests']]
     
     ufc_unfiltered = ufc_unfiltered[ufc_unfiltered.guests.str.contains(r'UFC') == False]
+    ufc_unfiltered = ufc_unfiltered[ufc_unfiltered.guests.str.contains(r'Recap') == False]
+    ufc_unfiltered = ufc_unfiltered[ufc_unfiltered.guests.str.contains(r'Predictions') == False]
+    ufc_unfiltered = ufc_unfiltered[ufc_unfiltered.guests.str.contains(r'Preview') == False]
+    ufc_unfiltered = ufc_unfiltered[ufc_unfiltered.guests.str.contains(r'Wants to') == False]
     
     return ufc_unfiltered
 
@@ -6120,6 +6364,15 @@ def clean_dan_harris(dan_harris):
     dan_harris['guests'] = dan_harris.title.str.extract(r'\#\d+: ([^(]+)',expand=True)
     
     guest_split(', ', dan_harris)
+    guest_split(': ', dan_harris)
+    guest_split(' at ', dan_harris)
+    guest_split_last("Weezer's ", dan_harris)
+    guest_split_last("Maj. Gen. ", dan_harris)
+    guest_split_last("Lt. Col. ", dan_harris)
+    guest_split_last("Google's ", dan_harris)
+    guest_split_last("Profs. ", dan_harris)
+    guest_split_last("Rep. ", dan_harris)
+    guest_split_last("Chef ", dan_harris)
     
     dan_harris = dan_harris[dan_harris.guests.str.contains(r'Your ') == False]
     
@@ -6132,6 +6385,14 @@ def clean_dan_harris(dan_harris):
     dan_harris = splitDataFrameList(dan_harris, 'guests', ' & ')
     dan_harris = splitDataFrameList(dan_harris, 'guests', ' And ')
     dan_harris = splitDataFrameList(dan_harris, 'guests', ' and ')
+
+    replace('Koshin', 'Koshin Paley Ellison', dan_harris)
+    replace('Chodo', 'Robert Chodo Campbell', dan_harris)
+    replace('The Minimalists', 'Joshua Fields Millburn and Ryan Nicodemus', dan_harris)
+
+    dan_harris = dan_harris[dan_harris.guests.str.contains(r'Holiday') == False]
+    dan_harris = dan_harris[dan_harris.guests.str.contains(r'Road Trip') == False]
+    dan_harris = dan_harris[dan_harris.guests.str.contains(r'Special') == False]
 
     dan_harris['guests'] = [g.rstrip() for g in dan_harris['guests']]
     
@@ -6153,6 +6414,7 @@ def clean_supersoul(supersoul):
     
     replace('India.Arie', 'India Arie', supersoul)
     replace('RuPaul Charles', 'RuPaul', supersoul)
+    replace('David and Francine Wheeler', 'David Wheeler and Francine Wheeler', supersoul)
     
     supersoul = supersoul[supersoul.guests.str.contains(r'Your ') == False]
     supersoul = supersoul[supersoul.guests.str.contains(r' the ') == False]
@@ -6187,6 +6449,7 @@ def clean_conv_tyler(conv_tyler):
     guest_split(' has ', conv_tyler)
     guest_split(' Wants ', conv_tyler)
     guest_split(' Live ', conv_tyler)
+
     
     conv_tyler = conv_tyler[pd.notnull(conv_tyler['guests'])]
     conv_tyler = splitDataFrameList(conv_tyler, 'guests', ', and ')
@@ -6213,6 +6476,8 @@ def clean_macro_musings(macro_musings):
     guest_split(' Wants ', macro_musings)
     guest_split(' Live ', macro_musings)
     guest_split(' Defends ', macro_musings)
+
+    replace('The Macroeconomics of Star Wars and Star Trek', 'Zachary Feinstein', macro_musings)
     
     macro_musings = macro_musings[pd.notnull(macro_musings['guests'])]
     macro_musings = splitDataFrameList(macro_musings, 'guests', ', and ')
@@ -6247,6 +6512,8 @@ def clean_who_makes_cents(who_makes_cents):
     who_makes_cents = splitDataFrameList(who_makes_cents, 'guests', ' & ')
     who_makes_cents = splitDataFrameList(who_makes_cents, 'guests', ' And ')
     who_makes_cents = splitDataFrameList(who_makes_cents, 'guests', ' and ')
+
+    who_makes_cents = who_makes_cents[who_makes_cents.guests.str.contains(r'Live Show') == False]
     
     return who_makes_cents
 
@@ -6260,6 +6527,7 @@ def clean_new_books_econ(new_books_econ):
     new_books_econ['guests'] = new_books_econ.title.str.extract(r'([\w\s\.\'\`\’\-\/]+), ',expand=True)
 
     guest_split(' et.', new_books_econ)
+    guest_split(' et al', new_books_econ)
     
     new_books_econ = new_books_econ[pd.notnull(new_books_econ['guests'])]
     new_books_econ = splitDataFrameList(new_books_econ, 'guests', ', and ')
@@ -6267,6 +6535,8 @@ def clean_new_books_econ(new_books_econ):
     new_books_econ = splitDataFrameList(new_books_econ, 'guests', ' & ')
     new_books_econ = splitDataFrameList(new_books_econ, 'guests', ' And ')
     new_books_econ = splitDataFrameList(new_books_econ, 'guests', ' and ')
+
+    new_books_econ = new_books_econ[new_books_econ.guests.str.contains(r'eds.') == False]
     
     return new_books_econ
 
@@ -6285,6 +6555,8 @@ def clean_new_books_science(new_books_science):
     new_books_science = splitDataFrameList(new_books_science, 'guests', ' & ')
     new_books_science = splitDataFrameList(new_books_science, 'guests', ' And ')
     new_books_science = splitDataFrameList(new_books_science, 'guests', ' and ')
+
+    replace('Brill', 'Hala Auji', new_books_science)
     
     return new_books_science
 
@@ -6339,6 +6611,8 @@ def clean_new_books_american(new_books_american):
     new_books_american = splitDataFrameList(new_books_american, 'guests', ' & ')
     new_books_american = splitDataFrameList(new_books_american, 'guests', ' And ')
     new_books_american = splitDataFrameList(new_books_american, 'guests', ' and ')
+
+    guest_split(' et al', new_books_american)
     
     return new_books_american
 
@@ -6370,6 +6644,8 @@ def clean_homophilia(homophilia):
     date_parser(homophilia)
     
     homophilia['guests'] = homophilia.title.str.extract(r'\d+. ([\w\s\.\,\'\`\’\-\/]+)',expand=True)
+
+    replace('Tiq and Kim Milan', 'Tiq Milan and Kim Milan', homophilia)
         
     homophilia = homophilia[pd.notnull(homophilia['guests'])]
     homophilia = splitDataFrameList(homophilia, 'guests', ', and ')
@@ -6429,6 +6705,7 @@ def clean_off_book(off_book):
     off_book['guests'] = off_book.title.str.extract(r'\(w\/ ([\w\s\.\,\'\`\’\-\/]+)',expand=True)
     
     replace('Hello From The Magic Tavern', 'Adal Rifai, Arnie Niekamp and Matt Young', off_book)
+    replace('The Doughboys', 'Mike Mitchell & Nick Wiger', off_book)
     
     off_book = off_book[pd.notnull(off_book['guests'])]
     off_book = splitDataFrameList(off_book, 'guests', ', and ')
@@ -6448,6 +6725,8 @@ def clean_get_up_on_this(get_up_on_this):
     date_parser(get_up_on_this)
     
     get_up_on_this['guests'] = get_up_on_this.title.str.extract(r'w\/ ([\w\s\.\,\'\`\’\-\/]+)',expand=True)
+
+    replace('Charge It To The Game ', 'Fat Tony and Kyle Mabson', get_up_on_this)
     
     get_up_on_this = get_up_on_this[pd.notnull(get_up_on_this['guests'])]
     get_up_on_this = splitDataFrameList(get_up_on_this, 'guests', ', and ')
@@ -6579,6 +6858,87 @@ def clean_lauren_lapkus(lauren_lapkus):
     
     return lauren_lapkus
 
+
+def clean_slate_money(slate_money):
+
+    slate_money = xml_to_df_desc(slate_money)
+        
+    date_parser(slate_money)
+    
+    slate_money['guests'] = slate_money.description.str.extract(r'(?:with |featuring )([\w\s\,\'\`\’\&\"\-]+).',expand=True)
+    slate_money = slate_money.drop('description', 1)
+
+    
+    slate_money = slate_money[pd.notnull(slate_money['guests'])]
+    slate_money = splitDataFrameList(slate_money, 'guests', ', and ')
+    slate_money = splitDataFrameList(slate_money, 'guests', ', & ')
+    slate_money = splitDataFrameList(slate_money, 'guests', ', ')
+    slate_money = splitDataFrameList(slate_money, 'guests', ',')
+    slate_money = splitDataFrameList(slate_money, 'guests', ' & ')
+    slate_money = splitDataFrameList(slate_money, 'guests', ' And ')
+    slate_money = splitDataFrameList(slate_money, 'guests', ' and ')
+    
+    guest_split(' of', slate_money)
+    guest_split_last("Slate's own ", slate_money)
+    guest_split_last("Slate's ", slate_money)
+
+    slate_money['guests'] = [g.rstrip() for g in slate_money['guests']]
+    
+    return slate_money
+
+
+def clean_richard_herring(richard_herring):
+
+    richard_herring = xml_to_df(richard_herring)
+        
+    date_parser(richard_herring)
+    
+    richard_herring['guests'] = richard_herring.title.str.extract(r'RHLSTP \d+ - ([\w\s\,\'\`\’\&\"\-]+)',expand=True)
+
+    replace('Trev and Simon', 'Trevor Neal and Simon Hickson', richard_herring)
+    
+    richard_herring = richard_herring[pd.notnull(richard_herring['guests'])]
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ', and ')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ', & ')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ', ')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ',')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ' & ')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ' And ')
+    richard_herring = splitDataFrameList(richard_herring, 'guests', ' and ')
+
+    richard_herring = richard_herring[richard_herring.guests.str.contains(r'My ') == False]
+    richard_herring = richard_herring[richard_herring.guests.str.contains(r'BLESSED') == False]
+    
+    richard_herring['guests'] = [g.rstrip() for g in richard_herring['guests']]
+    
+    return richard_herring
+
+
+def clean_carasantamaria(carasantamaria):
+
+    carasantamaria = xml_to_df(carasantamaria)
+        
+    date_parser(carasantamaria)
+    
+    carasantamaria['guests'] = carasantamaria.title.str.extract(r' - ([\w\s\,\'\`\’\&\"\-]+)',expand=True)
+    
+    carasantamaria = carasantamaria[pd.notnull(carasantamaria['guests'])]
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ', and ')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ', & ')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ', ')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ',')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ' & ')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ' And ')
+    carasantamaria = splitDataFrameList(carasantamaria, 'guests', ' and ')
+    
+    carasantamaria = carasantamaria[carasantamaria.guests.str.contains(r'AMA') == False]
+    
+    guest_split(' 2', carasantamaria)
+    guest_split(' 3', carasantamaria)
+
+    carasantamaria['guests'] = [g.rstrip() for g in carasantamaria['guests']]
+    
+    return carasantamaria
 
 
 
